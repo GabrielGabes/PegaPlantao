@@ -1,0 +1,407 @@
+[27/11/2023 15:22:32] Natan Soares Silveira: 27/11 Osasco - Natan - saída 15:20 (deslocado Analia - pos plantao)
+[27/11/2023 15:29:54] Karen Yumi Miyashiro: 27/11 Anália - Yumi saída 15:26 (pós plantão HAF)
+[27/11/2023 15:43:33] Paula Angélica Pinha Neves: 27/11 VILLA Paula Neves entrada 9:00
+[27/11/2023 15:43:43] Paula Angélica Pinha Neves: 27/11 VILLA Paula Neves saída 13:30
+[27/11/2023 15:48:03] Carlos Eduardo Corrêa Grilo: 27/11 Anália - Cadu saída 15:40
+[27/11/2023 15:59:09] Luccas Varela Godoy: 27/11 alpha Luccas saída 14:15
+[27/11/2023 16:10:51] Thaís Miranda Ramos: 27/11 JABAQUARA - Miranda saída às 16:10
+[27/11/2023 16:16:00] Ana Jung Docko: 27/11 Analia Ana saída 16:15
+[27/11/2023 16:21:45] Everton Sidney da Conceição Carvalho: 27/11 - ITAIM - Everton saída 16:15
+[27/11/2023 16:26:04] Thales Luvisotto Neder: 27/11 Osasco - Thales saída 16:25
+[27/11/2023 16:39:22] Leandro Kendi Kanada: 27/11 Anália Leandro kanada saida 16:35
+[27/11/2023 16:43:54] Daniel  Masuzaki Wong: 27/11 Jabaquara - Wong saída 16:40
+[27/11/2023 16:45:12] Filipe Lugon Moulin Lima: 27/11 JABAQUARA - Filipe Lugon saida 16:40
+[27/11/2023 16:47:35] Cláudio Mueller Kakuda: 27/11 Maternidade - Kakuda saida 16:45
+[27/11/2023 16:50:23] Vanessa Paciullo Marossi: 27/11 Anália - Vanessa saída 16:50
+[27/11/2023 17:10:40] Marcos Rogério Pereira Machado Filho: 27/11 Alpha Marcos saída 17:10
+[27/11/2023 17:17:34] Filipe Maeda Hashi Abdalla Martins: 27/11 Jabaquara Maeda saída 17:05
+[27/11/2023 17:25:16] Gabriella Gadelha Sarmento: 27/11 Villa - Gabriella saída 17:25 ( deslocamento VNS )
+[27/11/2023 17:33:29] Avelino José da Silva Freitas Júnior: 27/11 itaim - Avelino entrada 06:00
+[27/11/2023 17:54:39] Leandro Oliveira Martins Cortês: 27/11 JABAQUARA - Cortes entrada 06:00
+[27/11/2023 17:54:57] Leandro Oliveira Martins Cortês: 27/11 JABAQUARA - Côrtes saída 16:00
+[27/11/2023 18:00:46] Kawan Ramis Rodrigues: 27/11 ANÁLIA - Kawan entrada 05:20 ( EXTRA)
+[27/11/2023 18:01:24] Kawan Ramis Rodrigues: 27/11 ANÁLIA - Kawan saída 09:45 ( EXTRA)
+[27/11/2023 18:41:19] Sidney Orlando de Souza: 27/11-Osasco-Sidney- saida: 15:00hs
+[27/11/2023 19:08:59] Thais Chaves Pinheiro: 27/11 Itaim - Thaís saída 19:05
+[27/11/2023 19:22:27] Darlan Junior Schneider: 27/11 Morumbi - Darlan saída 19:22 (pos plantao HMS)
+[27/11/2023 19:35:23] Alexsander Takashi Hamada: 27/11 Analia - Alex saída 19:35
+[27/11/2023 19:41:02] Ivã Barbosa Soares: 27/11 Osasco - Ivã Saída 19:40
+[27/11/2023 19:41:34] Alexandre Amaral Lucas: 27/11 - villa - alexandre Amaral saída 19:40
+[27/11/2023 19:50:34] Ana Gabriela Gewehr Vale Salmen: 27/11 Osasco - Vale saída 19:35
+[27/11/2023 20:02:16] Milton Olaio Neto: 27/11-Itaim Olaio saída 16:45
+[27/11/2023 20:05:59] Eduardo Dala Rosa Soares: 27/11 VNS - Soares saída 19:40
+[27/11/2023 20:14:20] Márcio Ighor Azevedo Silva de Mendonça Melânia: 27/11 ANALIA - Ighor saída 20:00
+[27/11/2023 20:15:09] Gabriela Soares Piassi: 27/11 Osasco - Piassi saída 20:10
+[27/11/2023 20:17:23] Ricardo Barbosa Viana Filho: 27/11 Anália - Barbosa
+Saída 20:15
+[27/11/2023 20:22:44] Marcelo Maia da Silveira: 27/11 Villa  - Maia saída 20:20
+[27/11/2023 20:23:25] Pedro Henrique Diniz Botelho: 27/11 Osasco - Diniz saída 20:20 (deslocado Itaim)
+[27/11/2023 20:43:58] José Marcos Vieira da Silva: 27/11 - Itaim José Marcos entrada 6:00
+[27/11/2023 20:49:39] Mirela Farias Figueiroa: 27/11 Santa Isabel - Mirela saída 20:45
+[27/11/2023 20:50:29] Maíra Leite Basile: 27/11 Morumbi - Maíra entrada 5:20 (deslocada VNS)
+[27/11/2023 20:50:43] Maíra Leite Basile: 27/11 Morumbi  - Maíra saída 20:50 (deslocada VNS)
+[27/11/2023 20:56:53] José Marcos Vieira da Silva: 27/11 - Itaim José Marcos saída 20:40
+[27/11/2023 21:00:26] Marcela Leite Rosignoli: 27/11 Analia Marcela Leite saída 21:00
+[27/11/2023 21:04:02] Daniel Rodrigues de Oliveira: 27/11 Itaim Daniel saída 20:15
+[27/11/2023 21:04:19] Juliana Hussein Grilo: 27/11 VILLA - J. Hussein saida 20:55
+[27/11/2023 21:04:30] Henri Roger Watanabe Oliveira: 27/11 Itaim - Henri entrada: 06:00
+[27/11/2023 21:04:51] Henri Roger Watanabe Oliveira: 27/11 Itaim - Henri saida: 20:25
+[27/11/2023 21:07:58] Guilherme de Almeida Costa: 27/11 osasco costa saida 21:07
+[27/11/2023 21:11:42] Wangles Pignaton de Paula: 27/11 VILLA - Wangles saída 20:15
+[27/11/2023 21:16:08] Renata Togeiro Bastos Godoy de Faria: 27/11 MORUMBI - Renata Togeiro saída 21:15
+[27/11/2023 21:26:38] Felipe Coelho de Souza: 27/11 Itaim - Coelho saída 21:15
+[27/11/2023 21:51:35] Marcela Aparecida Correa Martins: 27/11 Osasco - Martins saída 21:08
+[27/11/2023 21:52:04] Estanrley Barcelos Pinto: 27/11 ANÁLIA-Estanrley saida: 21:45
+[27/11/2023 21:52:18] Anna Beatriz Aranha Trevisan: 27/11 MORUMBI - Anna Beatriz entrada 05:10
+[27/11/2023 21:52:40] Anna Beatriz Aranha Trevisan: 27/11 MORUMBI - Anna Beatriz saída 21:45
+[27/11/2023 21:56:41] Rogério Sidney Thon: 27/11 Morumbi Rogério saída 20:15h
+[27/11/2023 22:14:41] Luciano Angelo Richetti: 27/11 Itaim Luciano Saída 22:10
+[27/11/2023 22:41:59] Eduardo Arbache Bezerra: 27/11 Itaim - Bezerra saida as 20:00
+[27/11/2023 22:52:42] Matheus de Alencar Arraes: 27/11 MORUMBI Arraes saida 22:50
+[27/11/2023 22:54:41] Nara Yamane dos Santos: 27/11 morumbi nara saida 22:50
+[27/11/2023 23:01:03] Marcelo Felipe de Souza Buto: 27/11 Morumbi - Buto saída 22:40
+[27/11/2023 23:10:37] Bruce Ye Man Chow: 27/11 Morumbi - Bruce saida 22:40
+[27/11/2023 23:11:58] Bruna Daibert Danesin: 27/11 Santa Isabel - Bruna saída 20:40
+[27/11/2023 23:39:52] Mariana Gasparelli de Souza: 27/11 Morumbi - Mariana Gasparelli saída 20:55
+[27/11/2023 23:52:02] Fábio Antônio de Souza Oliveira: 27/11 Itaim Fabio entrada 6hs
+Itaim Fabio saída 23:50
+[28/11/2023 01:50:37] Thiago Francisco Martins: 27/11 ITAIM Thiago Martins saida 01:40
+[28/11/2023 01:52:06] Icaro Moura de Sousa: 27/11 Itaim - Ícaro saida as 01:45 (Distância pela Mônica / Para efeito de escala)
+[28/11/2023 01:56:45] Fernanda Teles Ribeiro: 27/11 Itaim Fernanda saída 01:40
+[28/11/2023 04:54:34] Antonio Alvaro Dias Lima da Cunha Neto: 27/11 CENTRAL - Álvaro saída   15:50
+[28/11/2023 05:11:12] Rômulo Spolidorio: 28/11 Jabaquara Rômulo entrada 05:00
+[28/11/2023 05:23:20] Bruce Ye Man Chow: 28/11 Jabaquara - Bruce entrada 05:15
+[28/11/2023 05:23:29] Renata Togeiro Bastos Godoy de Faria: 28/11 MORUMBI - Renata Togeiro entrada 5:00
+[28/11/2023 05:33:02] Ana Gabriela Gewehr Vale Salmen: 28/11 Osasco - Vale entrada 5:30
+[28/11/2023 05:37:44] Gabriela Soares Piassi: 28/11 Osasco - Piassi entrada 5:35
+[28/11/2023 05:46:09] Camila Chiarantano Harrison: 28/11 Villa Camila Entrada 5:40
+[28/11/2023 05:47:19] Diogo Henrique Pereira Mattos: 28/11 SANTA - Diogo entrada 5:45
+[28/11/2023 05:48:57] Pedro Henrique Milhomens da Mota: 28/11 Morumbi Mota entrada 5:30 (deslocado Maternidade)
+[28/11/2023 05:50:36] Andréia Loureiro Mori: 28/11 Jabaquara Andréia entrada 06:00
+[28/11/2023 05:55:54] Pedro Augusto Tavares Dall Aglio: 28/11 Central - Tavares - entrada :5:35
+[28/11/2023 05:59:48] Ricardo Kawaura: 28/11 Osasco kawaura entrada 06:00
+[28/11/2023 06:00:13] Daniellen Lins Lourenço: 28/11 JABAQUARA - Daniellen entrada 06:00
+[28/11/2023 06:01:28] Fábio Antônio de Souza Oliveira: 28/11 Itaim Fabio entrada 6hs
+[28/11/2023 06:01:29] Izabella Gontijo Cunha: 28/11 ITAIM - Izabella entrada 06:00
+[28/11/2023 06:04:17] Fabiana Barbosa Bastos: 28/11 Morumbi - Fabiana entrada 05:45
+[28/11/2023 06:06:27] Isabela Mattarelli Souza Carli: 28/11 - Itaim - Mattarelli entrada 5:25
+[28/11/2023 06:06:28] André da Costa Aguiar Ventura: 28/11 MORUMBI Ventura entrada 5:50
+[28/11/2023 06:06:56] João Evaristo De Castro Barreto: 28/11 Osasco João entrada 05:50
+[28/11/2023 06:06:57] Fernando Ribeiro Sá: 28/11 Santa - Ribeiro entrada 06:00
+[28/11/2023 06:09:04] Emerson Domingos da Costa: 28/11 Jabaquara Emerson - entrada 04:15
+[28/11/2023 06:11:17] Pedro Henrique Diniz Botelho: 28/11 Osasco - Diniz entrada 5:35
+[28/11/2023 06:27:25] Fernanda Teles Ribeiro: 28/11 - Itaim - Fernanda entrada 06:00
+[28/11/2023 06:27:35] Gabriella Gadelha Sarmento: 28/11 VNS - Gabriella entrada 06:30
+[28/11/2023 06:28:00] Amanda Kiyoko Souza Kossaka: 28/11 MORUMBI - Amanda entrada 05:30
+[28/11/2023 06:36:07] André Augusto Bellini: 27/11 OSASCO - Bellini saída 19:50
+[28/11/2023 06:39:56] Vitor Oliveira André: 28/11 VNS Vitor entrada 06:30
+[28/11/2023 06:39:59] Antonio Alvaro Dias Lima da Cunha Neto: 28/11 CENTRAL - Álvaro entrada 05:20
+[28/11/2023 06:40:54] Thales Luvisotto Neder: 28/11 Osasco - Thales entrada 07:00 (EXTRA)
+[28/11/2023 06:41:23] Ricardo Barbosa Viana Filho: 28/11 Villa - Barbosa 
+Entrada 06:00
+[28/11/2023 07:02:01] Mariana Gasparelli de Souza: 28/11 Morumbi - Mariana Gasparelli entrada 04:45 ( EXTRA )
+[28/11/2023 07:05:59] Alexandre Amaral Lucas: 28/11 Morumbi - alexandre Amaral entrada 05:35
+[28/11/2023 07:06:29] Natalia Maia Queiroz: 28/11 Santa Isabel Queiroz entrada 05:20
+[28/11/2023 07:09:56] Marina Pontes Moura Nascimento e Silva: 27/11 Osasco moura saída 22:35
+[28/11/2023 07:13:04] Vitor Luiz Assunção Martins: 28/11 Analia - Assunção entrada 06:00
+[28/11/2023 07:20:52] Denio Lopes de Almeida: 28/11 Osasco - Dênio entrada 07:00 (EXTRA)
+[28/11/2023 07:22:43] Ludmylla Gomes Neves: 28/11 ITAIM - Ludmylla  entrada 05:30 ( EXTRA)
+[28/11/2023 07:27:25] Brian Sossai Pacheco: 28/11 VILLA - Brian entrada 04:20
+[28/11/2023 07:33:04] Nara Yamane dos Santos: 28/11 morumbi - nara entrada 6:00
+[28/11/2023 07:33:57] Bruno Stornioli Taguchi Lemos: 28/11 Morumbi Bruno Lemos entrada 06:00
+[28/11/2023 08:01:16] Izabela Cardoso Garcia: 27/11 Villa - Garcia saida 23:50
+[28/11/2023 08:06:11] Gabriel de Aguiar Santana: 28/11 Anália - Gabriel entrada 06:00
+[28/11/2023 08:27:48] Filipe Lugon Moulin Lima: 28/11 JABAQUARA - Filipe Lugon entrada 06:00
+[28/11/2023 08:56:21] Erick Oliveira Lima Gomes: 28/11 Anália - Erick entrada 07:00 ( EXTRA )
+[28/11/2023 09:47:18] Luciano Angelo Richetti: 28/11 Osasco Luciano Entrada 5:40
+[28/11/2023 10:33:25] Hedicleber Pestana Severino: 28/11 Villa Hedicleber entrada 06:00
+[28/11/2023 11:02:55] Denio Lopes de Almeida: 28/11 Osasco - Dênio saída 11:00 (EXTRA)
+[28/11/2023 11:15:09] Thales Luvisotto Neder: 28/11 Osasco - Thales saída 11:15 (EXTRA)
+[28/11/2023 11:40:09] Fábio Antônio de Souza Oliveira: 28/11 Itaim Fabio saída 11:39 ( saude)
+[28/11/2023 11:58:15] Carlos Eduardo Corrêa Grilo: 28/11 Anália - Cadu entrada 06:00
+[28/11/2023 12:17:38] Mariana Gasparelli de Souza: 28/11 Morumbi- Mariana Gasparelli saída 11:40 ( EXTRA)
+[28/11/2023 12:59:38] Gustavo Marques da Silva: 28/11 Morumbi - Marques saída 12:30 (EXTRA)
+[28/11/2023 14:01:56] Paloma Kiyomi Taguchi: 28/11 JABAQUARA - Paloma entrada 6:20
+[28/11/2023 14:02:19] Paloma Kiyomi Taguchi: 28/11 JABAQUARA - Paloma saída 13:40
+[28/11/2023 14:06:28] Matheus Viana Lemo: 28/11 jabaquara viana saida 14:06 (pos plantao)
+[28/11/2023 14:18:47] Erick Oliveira Lima Gomes: 28/11 Anália - Erick saída 14:15 ( EXTRA ) ‎<Mensagem editada>
+[28/11/2023 14:19:30] Juliana Akemi Funabashi: 28/11 ANÁLIA - Akemi saída 14:15 (EXTRA)
+[28/11/2023 14:25:57] Ricardo Kawaura: 28/11 Osasco kawaura saída 14:25
+[28/11/2023 14:38:57] Maiely Marcolin: 28/11 VNS - Maiely saída 14:38
+[28/11/2023 14:39:19] Vitor Oliveira André: 28/11 VNS Vitor saída 14:39
+[28/11/2023 14:39:58] Vitor Maciel de Sousa Pinto: 28/11 Anália Maciel saída 14:35
+[28/11/2023 14:44:26] Rodrigo Miyashiro Nunes dos Santos: 28/11 MORUMBI - Miyashiro saida 14:40
+[28/11/2023 14:45:40] Emerson Domingos da Costa: 28/11 Jabaquara Emerson - saída 14:40
+[28/11/2023 14:53:42] Fernando Akira Koga: 28/11 Itaim - Koga saída 14:53
+[28/11/2023 14:55:04] Ludmylla Gomes Neves: 28/11 Itaim - Ludmylla  saída 14:52( EXTRA)
+[28/11/2023 15:10:25] Brian Sossai Pacheco: 28/11 VILLA - Brian saída 15:10
+[28/11/2023 15:30:22] Icaro Moura de Sousa: 28/11 Itaim - Ícaro saída 15:30
+[28/11/2023 15:34:06] Anna Beatriz Aranha Trevisan: 28/11 VNS - Anna Beatriz saída 15:20
+[28/11/2023 15:47:51] Turibio Rodrigues Freire Neto: 28/11 Alpha Turibio
+Entrada: 05:50
+[28/11/2023 16:03:09] Antonio Alvaro Dias Lima da Cunha Neto: 28/11 CENTRAL - Álvaro saída 16:00
+[28/11/2023 16:06:41] Rômulo Spolidorio: 28/11 Jabaquara Rômulo saída 16:06
+[28/11/2023 16:10:19] João Evaristo De Castro Barreto: 28/11 Osasco João saída 16:10
+[28/11/2023 16:14:58] Pedro Augusto Tavares Dall Aglio: 28/11 central - Tavares - saída 16:10
+[28/11/2023 16:19:25] Fernanda Teles Ribeiro: 28/11 - Itaim - Fernanda saída 15:20
+[28/11/2023 16:33:35] Arthur Rodrigues Torrélio: 28/11 Anália - Torrelio saída 16:20
+[28/11/2023 16:34:55] Ana Gabriela Gewehr Vale Salmen: 28/11 Osasco - Vale saída 16:25
+[28/11/2023 16:38:35] Natalia Maia Queiroz: 28/11 Santa Isabel Queiroz saída 16:10
+[28/11/2023 16:43:01] Bruce Ye Man Chow: 28/11 Jabaquara - Bruce saida 16:40
+[28/11/2023 16:54:43] Fabiana Barbosa Bastos: 28/11 Morumbi - Fabiana saída 16:45
+[28/11/2023 16:58:17] José Marcos Vieira da Silva: 27/11 - Itaim José Marcos entrada 6:00
+[28/11/2023 16:59:10] José Marcos Vieira da Silva: 27/11 - Itaim José Marcos saída 16:45
+[28/11/2023 17:08:08] Daniellen Lins Lourenço: 28/11 - Daniellen saída 17:08
+[28/11/2023 17:18:04] Filipe Lugon Moulin Lima: 28/11 JABAQUARA - Filipe Lugon saida 17:10
+[28/11/2023 17:19:08] Camila Chiarantano Harrison: 28/11 Villa Camila Saida 16:20
+[28/11/2023 17:19:20] Gabriela Soares Piassi: 28/11 OSASCO - Piassi saída 16:30
+[28/11/2023 17:27:54] Gabriel de Aguiar Santana: 28/11 Anália - Gabriel saída 17:20
+[28/11/2023 17:35:44] Elaine Imaeda de Moura: 28/11 Analia Elaine saída 17:15
+[28/11/2023 17:40:57] Rafael Tadeu Marques: 28/11 Alpha Rafael Tadeu saída 17:40
+[28/11/2023 17:43:03] Pedro Henrique Milhomens da Mota: 28/11 Morumbi Mota saída 16:45 (deslocado Maternidade)
+[28/11/2023 17:44:43] Carlos Eduardo Corrêa Grilo: 28/11 Anália - Cadu saída 17:20
+[28/11/2023 18:05:42] Vitor Luiz Assunção Martins: 28/11 Analia - Assunção saída 17:00
+[28/11/2023 18:16:25] Nara Yamane dos Santos: 28/11 morumbi - nara saida 18:10h
+[28/11/2023 19:23:46] Lais Ribeiro Teixeira: 28/11 Jabaquara Lais saída 19:20
+[28/11/2023 19:28:19] Vivian Cristine dos Anjos e Silva: 28/11 Villa Vivian saida 19:25
+[28/11/2023 19:30:41] Renata Togeiro Bastos Godoy de Faria: 28/11 MORUMBI - Renata Togeiro saída 19:26
+[28/11/2023 19:30:46] Maria Cecília Domingues da Silva Soares: 28/11 VILLA - M. Cecília saída 19:30
+[28/11/2023 19:31:01] André Augusto Bellini: 28/11 OSASCO - Bellini saída 19:30
+[28/11/2023 19:32:58] Rodrigo Achui Haga: 28/11 OSASCO - haga saída 19:30
+[28/11/2023 19:39:22] Diogo Henrique Pereira Mattos: 28/11 SANTA - Diogo saída 19:10
+[28/11/2023 19:48:37] Alexandre Amaral Lucas: 28/11 Morumbi - alexandre Amaral saída 17:10
+[28/11/2023 19:56:40] Fernando Ribeiro Sá: 28/11 Santa - Ribeiro saída 19:50
+[28/11/2023 20:00:23] Nathalia Fanucci Oliveira Di Jorge: 28/11 ANALIA Nathália saída 19:40
+[28/11/2023 20:23:12] André da Costa Aguiar Ventura: 28/11 MORUMBI Ventura saida 20:20
+[28/11/2023 20:30:25] Caio Tulio Duarte: 28/11 VILLA - Caio saída 19:40
+[28/11/2023 20:33:47] Juliana Santos Saboia: 28/11 Itaim Saboia saída 20:32
+[28/11/2023 20:35:01] Marcelo Felipe de Souza Buto: 28/11 Itaim - Buto saída 20:10
+[28/11/2023 20:35:31] Renata Pinheiro Modolo: 28/11 Itaim - R. Modolo saída 20:35
+[28/11/2023 20:37:37] Marcela Leite Rosignoli: 28/11 Jabaquara Marcela Leite saída 20:37
+[28/11/2023 20:40:25] Gretel Oliveira Nicolau: 28/11 Villa - Gretel saida 20:38
+[28/11/2023 20:40:27] Eduardo Dala Rosa Soares: 28/11 Itaim - Soares saída 20:15
+[28/11/2023 21:16:05] Thaís Miranda Ramos: 28/11 JABAQUARA - Miranda saída às 21:15
+[28/11/2023 21:16:19] Eduardo Arbache Bezerra: 28/11 Santa - Bezerra saida as 21:15
+[28/11/2023 21:23:42] Leticia Fernandes Borges: 28/11 Anália Letícia saída 21:20
+[28/11/2023 21:25:02] Norival Scandelai Junior: 28/11 Morumbi - Norival 
+Saída 20:35
+[28/11/2023 21:39:53] Sheila Itiroco Monte: 28/11 ITAIM Sheila saída 20:50
+[28/11/2023 21:40:31] Yuri Anderson Pacheco de Lima: 28/11 Itaim - Yuri saída 21:40
+[28/11/2023 21:40:49] Jessica Lidia de Souza: 28/11 ITAIM Jessica saída 20:45
+[28/11/2023 21:49:53] Sidney Orlando de Souza: 28/11-Osasco- Sidney-saida: 21:45
+[28/11/2023 21:53:28] Mirela Farias Figueiroa: 28/11 Osasco - Mirela saída 21:50
+[28/11/2023 22:09:20] Manuela Affonso Ferreira Sanged: 28/11 Osasco - Manuela saída 22:00
+[28/11/2023 22:14:01] Marcos Rogério Pereira Machado Filho: 28/11 Santa Marcos saída 22:10
+[28/11/2023 22:15:41] Luccas Varela Godoy: 28/11 Alpha Luccas saída 19:10
+[28/11/2023 22:19:34] Juliana Hussein Grilo: 28/11 VILLA - J. Hussein saida 22:15
+[28/11/2023 22:23:09] Rogério Sidney Thon: 28/11 Itaim Rogério saída 20:45h
+[28/11/2023 22:37:46] Diogo Candeo Rodrigues Cordeiro: 28/11 Anália - Candeo saída às 22:10
+[28/11/2023 23:22:51] Livia Valverde Fajardo: 28/11 OSASCO- Valverde saída 21:50
+[28/11/2023 23:25:54] Kawan Ramis Rodrigues: 28/11 OSASCO - Kawan saída 21:50
+[28/11/2023 23:39:15] Milton Olaio Neto: 28/11-Itaim Olaio entrada 6:00
+[29/11/2023 04:25:15] Guilherme Silveira Lopes: 29/11 Jabaquara - Silveira entrada 04:24
+[29/11/2023 05:02:51] Andréia Loureiro Mori: 29/11 Jabaquara Andréia entrada 05:00
+[29/11/2023 05:18:46] Vitor Oliveira André: 29/11 Itaim Vitor entrada 05:18
+[29/11/2023 05:21:03] Elaine Imaeda de Moura: 29/11 Analia Elaine entrada 05:20
+[29/11/2023 05:23:08] Gabriel Gondim Fonseca: 29/11 Santa - Gondim entrada 05:20
+[29/11/2023 05:23:14] Maiely Marcolin: 29/11 Itaim - Maiely entrada 05:20
+[29/11/2023 05:26:03] Larissa Mayumi Ono: 29/11 Osasco
+Larissa - entrada 05:25
+[29/11/2023 05:34:59] Gustavo Marques da Silva: 29/11 Villa - Marques entrada 05:30 (deslocado Itaim)
+[29/11/2023 05:50:41] Fernando Ribeiro Sá: 29/11 Anália Ribeiro entrada 05:50
+[29/11/2023 05:55:14] Ricardo Kawaura: 29/11 Osasco kawaura entrada 06:00
+[29/11/2023 05:56:04] Filipe Lugon Moulin Lima: 29/11 JABAQUARA - Filipe Lugon entrada 06:00
+[29/11/2023 05:56:36] Rafael Tadeu Marques: 29/11 VNS Rafael Tadeu entrada 5:20
+[29/11/2023 05:56:47] Alessandre Luiz Braga Junior: 29/11  Analia - Alessandre entrada 05:45
+[29/11/2023 05:57:18] Isabela Mattarelli Souza Carli: 29/11 - Jabaquara - Mattarelli entrada 05:35
+[29/11/2023 05:57:50] Isabela Mattarelli Souza Carli: ‎Mensagem apagada
+[29/11/2023 05:58:06] Isabela Mattarelli Souza Carli: 28/11 -Itaim - Mattarelli saída 18:40 (deslocada HAF)
+[29/11/2023 05:58:26] Norival Scandelai Junior: 29/11 Alpha - Norival 
+Entrada 5:40
+[29/11/2023 05:59:04] Gabriella Gadelha Sarmento: 29/11 Itaim - Gabriella entrada 06:00
+[29/11/2023 06:00:12] Maria Cecília Domingues da Silva Soares: 29/11 VILLA - M. Cecília entrada 06:00
+[29/11/2023 06:00:47] Caio Tulio Duarte: 29/11 VILLA - Caio entrada 05:20
+[29/11/2023 06:02:03] Fabiana Barbosa Bastos: 29/11 VNS - Fabiana entrada 04:30
+[29/11/2023 06:04:30] Marcela Leite Rosignoli: 29/11 Villa Marcela Leite entrada 06:00
+[29/11/2023 06:08:38] Rodrigo Achui Haga: 29/11 VILLA - haga entrada 06:00
+[29/11/2023 06:12:51] Ana Gabriela Gewehr Vale Salmen: 29/11 Jabaquara - Vale entrada 6:00
+[29/11/2023 06:13:06] Hedicleber Pestana Severino: 29/11 Osasco Hedicleber entrada 06:15
+[29/11/2023 06:22:05] Thais Bosi Nonato: 29/11 ALPHA - Bosi entrada 06:00
+[29/11/2023 06:25:36] Gabriel Elias Gewehr Salmen Raffoul: 29/11 Jabaquara Salmen entrada 05:30
+[29/11/2023 06:27:09] Matheus Viana Lemo: 29/11 jabaquara viana entrada 06:00
+[29/11/2023 06:42:06] Sheila Itiroco Monte: 29/11 VNS Sheila entrada 06:20
+[29/11/2023 06:45:13] Manoel de Souza Neto: 29/11 Santa Isabel Manoel entrada 06:00
+[29/11/2023 06:46:24] Renata Togeiro Bastos Godoy de Faria: 29/11 MORUMBI - Renata Togeiro entrada 6:30
+[29/11/2023 06:46:42] Gabriel de Aguiar Santana: ‎Mensagem apagada
+[29/11/2023 06:47:02] Gabriel de Aguiar Santana: 29/11 Itaim - Gabriel entrada 06:15
+[29/11/2023 09:34:59] Mariana Gasparelli de Souza: 29/11 Morumbi - Mariana Gasparelli entrada 05:20
+[29/11/2023 09:57:47] Stefany Hellen Sousa Martins: 28/11 Morumbi stefany saida 20:50
+[29/11/2023 10:10:22] Icaro Moura de Sousa: 29/11 VNS Ícaro entrada 06:00
+[29/11/2023 10:12:29] Natan Soares Silveira: 29/11 Anália - Natan - entrada 10:15 (atraso)
+[29/11/2023 10:36:35] Fernando Akira Koga: 29/11 Morumbi - Koga saída 10:36
+[29/11/2023 10:56:11] Karen Manoela Rosa: ‎Mensagem apagada
+[29/11/2023 11:14:36] Henri Roger Watanabe Oliveira: 29/11 Itaim - Henri saida as 11:05 (a pedido)
+[29/11/2023 11:47:38] Daniel  Masuzaki Wong: 29/11 Osasco - Wong entrada 06:00
+[29/11/2023 12:21:58] Marina Borges Curralo: 29/11 Maternidade Marina entrada 5:30
+[29/11/2023 13:04:25] Antonio Alvaro Dias Lima da Cunha Neto: 29/11 CENTRAL - Álvaro entrada 06:00
+[29/11/2023 13:04:57] Antonio Alvaro Dias Lima da Cunha Neto: 29/11 CENTRAL - Álvaro saída 13:00
+[29/11/2023 13:05:09] André da Costa Aguiar Ventura: 29/11 MORUMBI Ventura entrada 6:00
+[29/11/2023 13:21:24] Paloma Kiyomi Taguchi: 29/11 JABAQUARA - Paloma saída 13:15
+[29/11/2023 13:41:35] Alessandre Luiz Braga Junior: 29/11 Analia - Alessandre saida 13:35
+[29/11/2023 14:18:42] Cláudio Mueller Kakuda: 29/11 Itaim - Kakuda saida 13:30h
+[29/11/2023 14:21:33] Mariana Gasparelli de Souza: 29/11 Morumbi - Mariana Gasparelli saída 13:55
+[29/11/2023 14:29:05] Karen Cavichini Rosseto: 29/11 Osasco - Cavichini saída 14:15 (pós plantão)
+[29/11/2023 14:31:54] Rômulo Spolidorio: 29/11 Jabaquara Rômulo saída 13:10
+[29/11/2023 14:40:13] Gustavo Marques da Silva: 29/11 Villa - Marques saída 14:20 (deslocado Itaim)
+[29/11/2023 14:45:01] Fabiana Barbosa Bastos: 29/11 VnS - Fabiana saída 14:43
+[29/11/2023 14:55:20] Rodrigo Martins Pereira: 29/11 JABAQUARA - pereira entrada 07:00 (deslocado Itaim)
+[29/11/2023 15:27:13] Rodrigo Martins Pereira: 29/11 JABAQUARA - pereira saída 15:20 (deslocado Itaim)
+[29/11/2023 15:28:57] Guilherme Silveira Lopes: 29/11 Jabaquara - Silveira saída 15:25
+[29/11/2023 15:29:26] Rogério Sidney Thon: 29/11 Itaim Rogério saída 15:20h
+[29/11/2023 15:32:22] Karen Manoela Rosa: 29/11 Osasco KRosa entrada 05:50
+[29/11/2023 15:44:06] Matheus Cardozo Janiques: 29/11 Osasco Cardozo entrada 05:50
+[29/11/2023 15:44:50] Vivianna Bovério Galzerani: 29/11 VNS Vivianna saída 15:40
+[29/11/2023 15:45:17] Norival Scandelai Junior: 29/11 Alpha - Norival
+Saída 15:45
+[29/11/2023 15:46:57] Sheila Itiroco Monte: 29/11 VNS Sheila saída 15:40
+[29/11/2023 15:51:14] Andréia Loureiro Mori: 29/11 Jabaquara Andréia saída 15:25
+[29/11/2023 15:57:49] Isabela Mattarelli Souza Carli: 29/11 - Jabaquara - Mattarelli saída 15:35
+[29/11/2023 16:06:03] Mariana Dardengo Borges: 29/11 MORUMBI - M. Dardengo entrada 05:00
+[29/11/2023 16:06:17] Mariana Dardengo Borges: 29/11 MORUMBI - M. Dardengo saída 15:50
+[29/11/2023 16:12:48] Icaro Moura de Sousa: 29/11 VNS Ícaro saída 16:12
+[29/11/2023 16:56:54] Gabriel Elias Gewehr Salmen Raffoul: 29/11 Jabaquara Salmen saída 16:50
+[29/11/2023 16:57:43] Ana Gabriela Gewehr Vale Salmen: 29/11 Jabaquara - Vale saída 16:45
+[29/11/2023 16:58:34] Matheus Viana Lemo: 29/11 Jabaquara viana saida 16:55
+[29/11/2023 17:01:42] Luiz Augusto Xavier Brandão: 29/11 Osasco Luiz Augusto saída 17:00
+[29/11/2023 17:10:37] Francisco Antonio Alves Bonatto: 29/11 VILLA - Francisco saída 16:30
+[29/11/2023 17:48:50] Bruce Ye Man Chow: 29/11 Morumbi - Bruce entrada 06:00
+[29/11/2023 18:24:44] André da Costa Aguiar Ventura: 29/11 MORUMBI Ventura saida 16:45
+[29/11/2023 18:30:10] Juliano Moisés Tobal: 29/11 Jabaquara Juliano Tobal saída 17:10
+[29/11/2023 18:33:12] Filipe Lugon Moulin Lima: 29/11 JABAQUARA - Filipe Lugon saida 16:30
+[29/11/2023 18:40:14] José Carlos Tuna Scarpa: 29/11 Anália José Carlos Entrada 09:00
+[29/11/2023 18:40:39] José Carlos Tuna Scarpa: 29/11 Anália José Carlos Saída 18:40
+[29/11/2023 19:14:19] Maiely Marcolin: 29/11 Itaim - Maiely saida 19:10
+[29/11/2023 19:15:17] Neliane Guedes Pretti: 29/11 Anália Neliane saida 19:15
+[29/11/2023 19:16:15] Marcelo Felipe de Souza Buto: 29/11 Jabaquara - Buto saída 19:15
+[29/11/2023 19:20:03] Marcela Leite Rosignoli: 29/11 Villa Marcela Leite saída 19:15
+[29/11/2023 19:20:49] Larissa Mayumi Ono: 29/11 Osasco
+Larissa - saída 19:20
+[29/11/2023 19:26:39] Marina Borges Curralo: 29/11 Maternidade Marina saída 17h45
+[29/11/2023 19:30:44] Amanda Kiyoko Souza Kossaka: 29/11 MORUMBI - Amanda saída 19:10
+[29/11/2023 19:45:02] Thiago Barreto Marques da Silva: 29/11  cirurgia externa Naldo entrada 07:40
+[29/11/2023 19:48:58] Maria Cecília Domingues da Silva Soares: 29/11 VILLA - M. Cecília saída 19:48
+[29/11/2023 19:56:21] Hedicleber Pestana Severino: 29/11 Osasco Hedicleber saída 19:50
+[29/11/2023 19:57:22] Luccas Varela Godoy: 29/11 alpha Luccas saída 19:50
+[29/11/2023 19:57:36] Carlos Eduardo Corrêa Grilo: 29/11 Anália - Cadu saída 19:50
+[29/11/2023 20:00:51] Izabella Gontijo Cunha: 29/11 ITAIM - Izabella saída 19:40
+[29/11/2023 20:02:16] Karen Manoela Rosa: 29/11 Osasco KRosa saída 19:35
+[29/11/2023 20:24:16] Patrick Alexander Sauer Schues: 29/11 Anália - Patrick saída 20:20
+[29/11/2023 20:27:23] Victor Augusto de Souza Moraes: 29/11 Anália - Victor Augusto saída 20:25
+[29/11/2023 20:27:56] Pedro Augusto Tavares Dall Aglio: 29/11 - Anália - Tavares - saída 20:20
+[29/11/2023 20:29:09] Paula Lopes Agapito de Freitas: 29/11 - Anália - Paula A - saída - 20:25
+[29/11/2023 20:37:41] Rafael Tadeu Marques: 29/11 VNS Rafael Tadeu saída 20:10
+[29/11/2023 20:39:11] Diogo Candeo Rodrigues Cordeiro: 28/11 Anália - Candeo saída às 17:10
+[29/11/2023 20:48:11] Orlando Domingues de Araújo Pontes: ‎Mensagem apagada
+[29/11/2023 20:50:07] Thais Bosi Nonato: 28/11 ALPHA - Bosi saída 19:00 (deslocada Jabaquara)
+[29/11/2023 20:50:36] Yuri Anderson Pacheco de Lima: 28/11 - Itaim - Yuri saída 20:50
+[29/11/2023 21:01:19] Leandro Eduardo França: 29/11 ANÁLIA - França saída 21:00
+[29/11/2023 21:04:20] Vanessa Paciullo Marossi: 29/11 Villa - Vanessa saída 21:00
+[29/11/2023 21:05:29] Orlando Domingues de Araújo Pontes: 29/11 Villa Orlando saída 20:45
+[29/11/2023 21:08:15] Vivian Cristine dos Anjos e Silva: 29/11 Anália Vivian saida 20:30
+[29/11/2023 21:08:59] Pedro Paulo Silva Farah: 29/11 Morumbi - Pedro entrada 06:00h
+[29/11/2023 21:09:17] Pedro Paulo Silva Farah: 29/11 Morumbi - Pedro saída 16:30h
+[29/11/2023 21:09:18] Avelino José da Silva Freitas Júnior: 29/11 villa - Avelino saída 20:30
+[29/11/2023 21:14:15] Marcela Aparecida Correa Martins: 29/11 Anália - Martins entrada 06:10
+[29/11/2023 21:17:07] Nathalia Fanucci Oliveira Di Jorge: 29/11 MORUMBI Nathália saída 21:10
+[29/11/2023 21:19:20] Alexandre Amaral Lucas: 29/11 Osasco - alexandre Amaral entrada 05:40
+[29/11/2023 21:19:32] Alexandre Amaral Lucas: 29/11 Osasco - alexandre Amaral saída 19:30
+[29/11/2023 21:30:24] Milton Olaio Neto: 29/11-Itaim Olaio entrada 6:00
+[29/11/2023 21:30:37] Milton Olaio Neto: 29/11-Itaim Olaio saída 21:15
+[29/11/2023 21:36:06] Sergio Zamith: 29/11 Itaim-ZAMITH
+saída 21:35.
+[29/11/2023 21:44:15] Juliana Akemi Funabashi: 29/11 VILLA - Akemi saída 21:40
+[29/11/2023 21:47:50] Alexandre Bernardino: 29/11 - Villa - Alexandre - saída 21:40
+[29/11/2023 21:52:15] Gabriel de Aguiar Santana: 29/11 Itaim - Gabriel saída 21:50
+[29/11/2023 21:53:14] Turibio Rodrigues Freire Neto: 29/11 Morumbi Turibio 
+Entrada: 06:20
+[29/11/2023 21:53:15] Izabela Cardoso Garcia: 29/11 Santa - Garcia saida 20:10
+[29/11/2023 21:53:35] Turibio Rodrigues Freire Neto: 29/11 Morumbi Turibio
+Saída: 20:40
+[29/11/2023 21:56:19] Vitor Maciel de Sousa Pinto: 29/11 Anália Maciel saída 21:55
+[29/11/2023 22:02:34] Erick Oliveira Lima Gomes: 29/11 Anália - Erick saída 21:55
+[29/11/2023 22:05:44] Flavio Hideki Oshika: 29/11 ITAIM - Flávio saída 21:50
+[29/11/2023 22:05:59] Caio Tulio Duarte: 29/11 VILLA  - Caio saída 22:00
+[29/11/2023 22:07:22] Carlos Augusto Trevisan: 29/11 ITAIM - Carlos saída 21:50
+[29/11/2023 22:08:55] Ricardo Barbosa Viana Filho: 29/11 Villa - Barbosa 
+Saída 20:40
+[29/11/2023 22:28:49] José Marcos Vieira da Silva: 29/11 - Itaim José Marcos saída 22:10
+[29/11/2023 22:40:23] Gabriela Soares Piassi: 29/11 OSASCO - Piassi saída 22:30
+[29/11/2023 22:43:02] Daniel  Masuzaki Wong: 29/11 Osasco - Wong saída 22:40
+[29/11/2023 22:59:48] André Augusto Bellini: 29/11 OSASCO - Bellini saída 22:50
+[29/11/2023 23:00:51] Ivã Barbosa Soares: 29/11 Osasco Ivã Saída 23:00
+[29/11/2023 23:53:16] Juliana Hussein Grilo: 29/11 VILLA - J. Hussein saida 22:20
+[30/11/2023 00:12:02] Alexsander Takashi Hamada: 29/11  - Analia - Alex saída 23:45
+[30/11/2023 04:20:24] Gabriella Gadelha Sarmento: 30/11 Morumbi - Gabriella entrada 04:20 (extra )
+[30/11/2023 04:34:13] Gretel Oliveira Nicolau: 30/11 Analia- Gretel entrada 04:20
+[30/11/2023 04:48:02] Diogo Henrique Pereira Mattos: 30/11 ANÁLIA - Diogo entrada 04:50
+[30/11/2023 04:56:59] Ricardo Giraldelli Carvalho Lima: 30/11 JABAQUARA - Giraldelli entrada 04:45 (deslocado HAF)
+[30/11/2023 05:00:55] Rafael Tadeu Marques: 30/11 Itaim Rafael Tadeu entrada 04:20
+[30/11/2023 05:08:07] Cláudio Mueller Kakuda: 30/11 Maternidade - Kakuda entrada 04:15
+[30/11/2023 05:13:51] Renata Togeiro Bastos Godoy de Faria: 30/11 MORUMBI - Renata Togeiro entrada 5:00
+[30/11/2023 05:21:10] Gabriela Santos Menezes: 30/11 Osasco - G.Menezes entrada 05:20 (deslocada Morumbi)
+[30/11/2023 05:22:28] Rodrigo Achui Haga: 30/11 VILLA - haga entrada 05:15
+[30/11/2023 05:23:19] Marcelo Felipe de Souza Buto: 30/11 Itaim - Buto entrada 5:20
+[30/11/2023 05:25:35] Thassio Cunha de Santana: 30/11 Villa Thassio entrada 05:15
+[30/11/2023 05:25:41] Márcio Ighor Azevedo Silva de Mendonça Melânia: 30/11 VILLA - Ighor entrada 05:25
+[30/11/2023 05:25:47] Paula Lopes Agapito de Freitas: 30/11 - Anália - Paula A - entrada - 05:30
+[30/11/2023 05:36:45] Yuri Anderson Pacheco de Lima: ‎Mensagem apagada
+[30/11/2023 05:46:52] Andréia Loureiro Mori: 30/11 Jabaquara Andréia entrada 06:00
+[30/11/2023 05:47:47] Flavio Hideki Oshika: 30/11 ANÁLIA - Flávio entrada 05:20
+[30/11/2023 05:49:28] Patrick Alexander Sauer Schues: 30/11 Villa - Patrick entrada 05:40
+[30/11/2023 05:50:50] Victor Augusto de Souza Moraes: 30/11 ANÁLIA - Victor Augusto entrada 5:50
+[30/11/2023 05:51:33] Thiago Silva Pinto: 30/11 Osasco - T. Silva - entrada 05:40 (deslocado Santa Isabel )
+[30/11/2023 05:54:10] Carlos Augusto Trevisan: 30/11 SANTA - Carlos entrada 05:35
+[30/11/2023 06:00:16] Pedro Paulo Silva Farah: 30/11 Morumbi - Pedro entrada 05:30h
+[30/11/2023 06:00:50] Francisco José Lucena Bezerra: 30/11 ANALIA - Lucena - entrada 06:00
+[30/11/2023 06:01:04] Juliana Akemi Funabashi: 30/11 ANÁLIA - Akemi entrada 06:00
+[30/11/2023 06:01:15] Filipe Maeda Hashi Abdalla Martins: 30/11 SANTA - Maeda entrada às 05:40
+[30/11/2023 06:05:05] Manoel de Souza Neto: 30/11 Santa Isabel Manoel entrada 06:00
+[30/11/2023 06:06:56] Nathalia Fanucci Oliveira Di Jorge: 30/11 OSASCO Nathália entrada 06:00 (deslocada Morumbi)
+[30/11/2023 06:11:24] Denio Lopes de Almeida: ‎Mensagem apagada
+[30/11/2023 06:12:10] Estanrley Barcelos Pinto: 30/11 ANÁLIA-Estanrley entrada: 06:05
+[30/11/2023 06:13:00] Neliane Guedes Pretti: 30/11 Jabaquara Neliane entrada 06:15
+[30/11/2023 06:17:08] Gabriela Rodrigues Machado Borja: 30/11 Jabaquara - Borja entrada 06:00
+[30/11/2023 06:21:19] Gabriel de Aguiar Santana: 30/11 Itaim - Gabriel entrada 06:00
+[30/11/2023 06:32:24] Arthur Oliveira Facchini: 30/11 Central Facchini entrada 06:00
+[30/11/2023 06:35:38] Norival Scandelai Junior: 30/11 Itaim - Norival 
+Entrada 5:15 EXTRA
+[30/11/2023 06:37:05] Daniel Rodrigues de Oliveira: 30/11 Itaim Daniel entrada 5:50h
+[30/11/2023 06:37:28] Izabela Cardoso Garcia: 30/11 Osasco - Garcia entrada 06:20
+[30/11/2023 06:49:27] Marcos Rogério Pereira Machado Filho: 30/11 Alpha Marcos entrada 5:30
+[30/11/2023 07:15:55] Mariana Dardengo Borges: 30/11 MORUMBI - M. Dardengo entrada 06:00
+[30/11/2023 07:21:01] Larissa Mayumi Ono: 30/11 Itaim
+Larissa - entrada 06:00
+[30/11/2023 07:32:24] Juliana Hussein Grilo: 30/11 VILLA - J. Hussein entrada 6:00
+[30/11/2023 07:35:32] Vitor Maciel de Sousa Pinto: 30/11 Anália - Maciel entrada 6:00
+[30/11/2023 07:48:35] Maurício Faria Tetti: 30/11 Analia Maurício entrada 7:00 (extra)
+[30/11/2023 07:54:50] Leandro Kendi Kanada: 30/11 Villa Leandro kanada entrada 05:20
+[30/11/2023 08:03:04] Thiago Barreto Marques da Silva: 29/11 cirurgia externa Naldo saída 20:10
+[30/11/2023 08:06:44] Thiago Barreto Marques da Silva: 20/11 cirurgia externa Naldo entrada 07:00
+20/11 cirurgia externa Naldo saída 14:30
+[30/11/2023 08:06:44] Pedro Henrique Milhomens da Mota: ‎Mensagem apagada
+[30/11/2023 08:07:02] Pedro Henrique Milhomens da Mota: 30/11 VNS Mota saída 7:55 (pós-plantão)
+[30/11/2023 08:26:55] Luciano Angelo Richetti: 30/11 Itaim Luciano entrada 7:00 (EXTRA)
+[30/11/2023 08:32:45] Ludmylla Gomes Neves: 30/11 ANÁLIA-Ludmylla  entrada: 05:30
+[30/11/2023 08:35:13] Bruno Stornioli Taguchi Lemos: 30/11 Morumbi Bruno Lemos entrada 06:00
+[30/11/2023 08:37:38] Gustavo Marques da Silva: 30/11 Morumbi - Marques entrada 06:00 (EXTRA)
+[30/11/2023 09:07:43] Ricardo Ivo de Lima: 30/11 - Morumbi - Ricardo Ivo
+Entrada - 06:00h
+[30/11/2023 09:23:30] André Luis Xavier Franco: 30/11 Jabaquara - Xavier entrada 06:00
+[30/11/2023 11:38:05] Yuri Anderson Pacheco de Lima: 30/11 Jabaquara - Yuri entrada 05:20 (deslocado VNS)
+[30/11/2023 12:20:53] Patrick Alexander Sauer Schues: 30/11 Villa - Patrick saída 12:20
+[30/11/2023 12:39:45] Ronald Figueiredo Gomes: 30/11 ANÁLIA - Ronald entrada 07:00 (EXTRA)
+[30/11/2023 12:39:55] Ronald Figueiredo Gomes: 30/11 ANÁLIA - Ronald saída 12:20 (EXTRA)
+[30/11/2023 12:47:49] Alexsander Takashi Hamada: 30/11 Analia - Alex entrada 6:00
+[30/11/2023 12:50:35] Maurício Faria Tetti: 30/11 Analia Maurício saída 11:00 (extra)
+[30/11/2023 12:50:48] Maurício Faria Tetti: 30/11 Analia Maurício entrada 11:00
+[30/11/2023 13:38:35] Pedro Henrique Diniz Botelho: 30/11 Osasco - Diniz saída 13:20 (pós plantão)

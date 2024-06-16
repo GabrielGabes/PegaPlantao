@@ -1,0 +1,261 @@
+[29/05/2024 15:05:22] Thales Luvisotto Neder: 29/05 Jabaquara - Thales saída 15:05
+[29/05/2024 15:48:25] Juliano Moisés Tobal: 29/05 Jabaquara Juliano Tobal saída 15:05
+[29/05/2024 15:52:53] Thiago Barreto Marques da Silva: 29/05 Jabaquara Naldo saída 14:00
+[29/05/2024 16:00:28] Amanda Kiyoko Souza Kossaka: 29/05 MORUMBI - Amanda saída 16:00
+[29/05/2024 16:11:50] Helena Araujo Damasceno: 29/05 Jabaquara Helena Saída 16:10
+[29/05/2024 16:15:17] Marcos Vinícius Costa Carvalho: 29/05 Anália - marcos Vinicius saída 16:15
+[29/05/2024 17:02:13] Manoel de Souza Neto: 29/05 VNS Manoel saída 17:00
+[29/05/2024 17:06:28] José Carlos Tuna Scarpa: 29/05 Jabaquara José Carlos Saída 17:06
+[29/05/2024 17:06:28] Carlos Eduardo Corrêa Grilo: 29/05 Anália - Cadu saída 16:30
+[29/05/2024 17:09:09] Marcos Bastos dos Santos: 29/05 Villa - Bastos - saída 17:08
+[29/05/2024 17:15:30] Orlando Domingues de Araújo Pontes: 29/05 Villa Orlando saída 17:15h
+[29/05/2024 17:17:33] Daniel  Masuzaki Wong: 29/05 Osasco - Wong saída 17:15
+[29/05/2024 17:21:13] Rafael Souza Fava Nersessian: 29/05 Jabaquara Rafael Fava saída 17:10
+[29/05/2024 17:32:06] Mônica Robles Gonçalves: 29/05 Itaim Mônica saída 09:05
+[29/05/2024 18:22:25] Bruno Stornioli Taguchi Lemos: 29/05 Morumbi Bruno Lemos entrada 05:45
+[29/05/2024 18:37:37] Matheus de Alencar Arraes: 29/05 ITAIM Arraes entrada 05:20
+[29/05/2024 18:48:28] Maiely Marcolin: 29/05 Itaim - Maiely saída 18:45 (deslocada VNS)
+[29/05/2024 19:09:30] Matheus de Alencar Arraes: 29/05 ITAIM Arraes saida 19:07
+[29/05/2024 19:09:51] Pedro Victor Massaroto e Silva : 29/05 Osasco Massaroto saída 19:10
+[29/05/2024 19:21:15] Leandro Eduardo França: 29/05 JABAQUARA - França saída 19:10
+[29/05/2024 19:21:34] Marcella Pellicciotti de Souza: 29/05 morumbi pellicciotti saída 13:00
+[29/05/2024 19:24:00] Juliana Hussein: 29/05 VILLA - J. Hussein saida 19:05
+[29/05/2024 19:25:16] Arthur Oliveira Facchini: 29/05 Jabaquara Facchini saída 19:20
+[29/05/2024 19:30:34] Leonardo de Paula Souza: 29/05 Osasco Leonardo saída 19:30
+[29/05/2024 19:32:16] Ricardo Kawaura: 29/05 Osasco kawaura saída 19:20
+[29/05/2024 19:34:26] Vitor Luiz Assunção Martins: 29/05 Jabaquara - Assunção saída 19:10
+[29/05/2024 19:36:18] Thiago Silva Pinto: 29/05 Villa - T. Silva - Saída 19:35
+[29/05/2024 19:45:39] Carlos Augusto Trevisan: 29/05 ITAIM - Carlos saída 19:35
+[29/05/2024 19:49:08] Ana Clara Mourão Barreto: 29/05 VNS Clara saída 19:40
+[29/05/2024 19:50:25] Thais Chaves Pinheiro: 29/05 Itaim - Thaís saída 19:50
+[29/05/2024 19:51:11] Luccas Varela Godoy: 29/05 Alpha Luccas saída 14:10
+[29/05/2024 19:52:39] Luiz Augusto Xavier Brandão: 29/05 Osasco Luiz Augusto saída 19:40
+[29/05/2024 19:53:57] André da Costa Aguiar Ventura: 29/05 MORUMBI Ventura saida 19:50
+[29/05/2024 19:57:22] Camila Chiarantano Harrison: 29/05 Villa Camila Entrada 9:00
+[29/05/2024 19:57:33] Camila Chiarantano Harrison: 29/05 Villa Camila Saida 19:20
+[29/05/2024 20:00:34] Thassio Cunha de Santana: 29/05 Jabaquara Thassio saída 20:00
+[29/05/2024 20:01:08] Lucas Silva Martins: 29/05 Anália - silva - saída 20:00
+[29/05/2024 20:04:40] Nathalia Soares Rodrigues Gomes : 29/05 Anália - Nat Rodrigues saída 20:00
+[29/05/2024 20:28:02] Mariana Dardengo Borges: 29/05 MORUMBI - M. Dardengo saída 19:25
+[29/05/2024 20:29:27] Guilherme Petry Martins Pereira: 29/06 Analia - Petry saída 20:25 ‎<Mensagem editada>
+[29/05/2024 20:34:01] Marcelo Felipe de Souza Buto: 29/05 Jabaquara - Buto saída 20:25
+[29/05/2024 20:44:38] Leandro Machado Deorce: 29/05 Itaim - Deorce saída 20:00
+[29/05/2024 20:58:30] Hedicleber Pestana Severino: 29/05 Morumbi Hedicleber saída 20:30
+[29/05/2024 21:01:44] Rafael Tadeu Marques: 29/05 VNS Rafael Tadeu saída 20:25
+[29/05/2024 21:11:28] Flavio Maia Castilho: 29/05 Osasco - Castilho saida 21:10
+[29/05/2024 21:20:56] Carlos Eduardo Gondim Oliveira: 29/05 Itaim - Oliveira saída 21:00
+[29/05/2024 21:26:29] Daniellen Lins Lourenço: 29/05 MORUMBI - Daniellen saída 21:20
+[29/05/2024 21:31:46] Pedro Henrique Lucas de Moraes: 29/05 Analia - Moraes saida 21:15
+[29/05/2024 21:49:37] Rodrigo Andrade Carmello: 29/05 Morumbi - Carmello saída 21:40
+[29/05/2024 21:51:08] Larissa Mayumi Ono: 29/05 Osasco Larissa - saída 21:50
+[29/05/2024 21:51:49] Vivian Cristine dos Anjos e Silva: 29/05 Analia Vivian saida 21:50
+[29/05/2024 21:52:08] Darlan Junior Schneider: 29/05 Osasco - Darlan saida 21:40
+[29/05/2024 22:11:13] Rodrigo Gomes Minas Novas: 29/05 Osasco - Gomes saída 22:05
+[29/05/2024 22:26:58] Denio Lopes de Almeida: 29/05 Morumbi - Dênio saída 21:50
+[29/05/2024 22:37:21] Alexandre Bernardino: 29/05 - Villa - Alexandre - saída 22:00
+[30/05/2024 04:30:24] Daniellen Lins Lourenço: 30/05 JABAQUARA - Daniellen entrada 04:30
+[30/05/2024 05:21:41] Renata Togeiro Bastos Godoy de Faria: 30/05 MORUMBI - Renata Togeiro entrada 5:00
+[30/05/2024 05:27:00] Rafael Tadeu Marques: 30/05 Itaim Rafael Tadeu entrada 05:20
+[30/05/2024 05:32:42] Thiago de Oliveira Heringer: 30/05 Morumbi - Heringer entrada 05:20
+[30/05/2024 05:39:45] Diogo Henrique Pereira Mattos: 30/05 SANTA - Diogo entrada 05:35
+[30/05/2024 05:45:37] Vitor Luiz Assunção Martins: 30/05 Osasco - Assunção entrada 05:40
+[30/05/2024 05:45:41] Thales Luvisotto Neder: 30/05 Jabaquara - Thales entrada 06:00
+[30/05/2024 06:01:53] Pedro Augusto Tavares Dall Aglio: 30/05 - Anália - Tavares - entrada 6:00
+[30/05/2024 06:02:53] Gabriela Santos Menezes: 30/05 Morumbi - G.Menezes entrada 06:00
+[30/05/2024 06:02:55] Fernando Akira Koga: 30/05 VNS - Koga entrada 06:00
+[30/05/2024 06:07:48] Alessandre Luiz Braga Junior: 29/05 Analia - Alessandre saida 20:50
+[30/05/2024 06:14:28] Juliano Moisés Tobal: 30/05 Jabaquara Juliano Tobal entrada 06:10
+[30/05/2024 06:14:32] Estanrley Barcelos Pinto: 30/05 VILLA-Estanrley entrada: 06:00
+[30/05/2024 06:18:59] Maria Teresa Souza Gomes: 30/05 Anália - M Teresa entrada 06:00
+[30/05/2024 06:26:00] Natalia  Yume Hissayasu Menezes: 30/05 Villa - Nat Yume dispensada
+[30/05/2024 06:26:21] Ricardo Barbosa Viana Filho: 30/05 Itaim - Barbosa Entrada 06:00
+[30/05/2024 06:30:36] Rodrigo Gomes Minas Novas: 30/05 Osasco - Gomes entrada 05:50
+[30/05/2024 06:32:17] Manoel de Souza Neto: 30/05 VNS Manoel entrada 06:30
+[30/05/2024 06:32:51] Patrick Alexander Sauer Schues: 30/04 Morumbi - Patrick entrada 06:00
+[30/05/2024 06:33:17] Larissa Mayumi Ono: 30/05 Osasco Larissa - entrada 06:00
+[30/05/2024 06:35:50] Nathalia Fanucci Oliveira Di Jorge: 30/05 MORUMBI Nathália entrada 05:00
+[30/05/2024 06:48:52] Pedro Paulo Silva Farah: 30/05 Morumbi - Pedro entrada 5:30h
+[30/05/2024 08:04:21] Pedro Victor Massaroto e Silva : 30/05 Villa Massaroto saída 7:50
+[30/05/2024 08:08:20] Nathalia Fanucci Oliveira Di Jorge: 30/05 MORUMBI Nathália saída 07:50
+[30/05/2024 08:09:04] Ricardo Kawaura: 30/05 Osasco kawaura dispensado
+[30/05/2024 08:36:11] Leandro Oliveira Martins Cortês: 30/05 SANTA - Côrtes entrada 06:00
+[30/05/2024 08:47:40] Thais Bosi Nonato: 30/05 Jabaquara - Bosi entrada 06:00
+[30/05/2024 09:00:04] Bruno Stornioli Taguchi Lemos: 30/05 Morumbi Bruno Lemos entrada 04:45
+[30/05/2024 09:01:12] Bruno Stornioli Taguchi Lemos: 30/05 Morumbi Bruno Lemos saída 08:40
+[30/05/2024 09:06:11] Paula Lopes Agapito de Freitas: 30/05 - Central - Paula A - dispensada
+[30/05/2024 09:16:28] Gabriela Meireles Linhares de Araujo: 30/05 Osasco G.Linhares entrada 09:05h
+[30/05/2024 09:32:12] Bruno Ferraz de Campos Barone: 30/05 VNS Barone dispensado
+[30/05/2024 09:34:02] Silvia Aline dos Santos Andrade: 30/05 Central - Silvia dispensada
+[30/05/2024 09:53:57] Fabiana Soares Gama: 30/05 Villa Fabiana Gama dispensa saúde
+[30/05/2024 09:57:05] Renato dos Santos Borega: 30/05 Villa - Renato saída 9:50
+[30/05/2024 10:23:19] Leticia Fernandes Borges: 30/05 Itaim Letícia saída 10:20
+[30/05/2024 10:42:34] Thassio Cunha de Santana: 30/05 Villa Thassio saída 10:30
+[30/05/2024 10:44:12] Eduardo Arbache Bezerra: 30/05 Santa - Bezerra saida as 10:44
+[30/05/2024 10:45:59] Raiza Luna Peixoto: 30/05 Itaim Raiza entrada 11:00
+[30/05/2024 10:58:26] Ana Jung Docko: 30/05 Analia Ana saída 10:55
+[30/05/2024 11:13:23] Pedro Belintani de Maio: 30/05 - Jabaquara Belintani saída 11:10h
+[30/05/2024 11:21:26] Thiago Barreto Marques da Silva: 30/05 Jabaquara Naldo dispensado
+[30/05/2024 11:26:32] Guilherme Silveira Lopes: 30/05 Jabaquara - Silveira dispensado
+[30/05/2024 11:43:37] Carlos Eduardo Corrêa Grilo: 30/05 Anália - Cadu saída 11:40
+[30/05/2024 11:46:59] Pedro Augusto Tavares Dall Aglio: 30/05 Anália - Tavares - saída 11:30
+[30/05/2024 11:51:57] Gustavo Alvarenga Bicalho: 30/05 Analia Gustavo entrada 6:00
+[30/05/2024 11:52:18] Gustavo Alvarenga Bicalho: 30/05 Analia Gustavo saida 11:45
+[30/05/2024 12:08:47] Rafael Queiroz Araujo: 30/05 Anália - entrada 06:30
+[30/05/2024 12:08:47] Rafael Queiroz Araujo: 30/05 Anália - saída 11:45
+[30/05/2024 12:15:02] Daniellen Lins Lourenço: 30/05 JABAQUARA - Daniellen saída 12:15
+[30/05/2024 12:30:00] Caio Tulio Duarte: 30/05 VILLA - Caio dispensado
+[30/05/2024 12:34:36] Ivã Barbosa Soares: 30/05 Alpha Ivã dispensado
+[30/05/2024 12:35:10] Maria Teresa Souza Gomes: 30/05 Anália  M Teresa - saída 11:55
+[30/05/2024 12:40:02] Gustavo Marques da Silva: 30/05 Analia - Marques saída 11:45
+[30/05/2024 12:46:00] Paula Angélica Pinha Neves: 30/05 ANÁLIA Paula Neves entrada 9:00
+[30/05/2024 12:46:14] Paula Angélica Pinha Neves: 30/05 ANÁLIA Paula Neves saída 11:00
+[30/05/2024 12:57:45] Diogo Henrique Pereira Mattos: 30/05 SANTA - Diogo saída 12:55
+[30/05/2024 12:58:07] Victor Augusto de Souza Moraes: 30/05 Anália - Augusto saída 11:45
+[30/05/2024 13:02:06] Leandro Oliveira Martins Cortês: 30/05 SANTA - Côrtes saída 12:55
+[30/05/2024 13:04:42] Thais Bosi Nonato: 30/05 Jabaquara - Bosi saída 13:00
+[30/05/2024 13:04:54] Juliano Moisés Tobal: 30/05 Jabaquara Juliano Tobal saída 13:00
+[30/05/2024 13:13:09] Felipe de Oliveira Nunes: 30/05 Anália - Nunes dispensado (EDA)
+[30/05/2024 13:15:31] Rafhael Silva Leal: 30/05 Jabaquara - Leal saída 13:15
+[30/05/2024 13:15:51] Marcos Bastos dos Santos: 30/05 Villa - Bastos - saída 13:15
+[30/05/2024 13:18:28] Matheus Viana Lemo: 30/05 Jabaquara viana saida 13:00
+[30/05/2024 13:20:06] Thiago de Oliveira Heringer: 30/05 Morumbi - Heringer saída 13:20
+[30/05/2024 13:20:20] Rodrigo Achui Haga: 30/05 VILLA - haga saida 13:15
+[30/05/2024 13:32:22] Fabiana Barbosa Bastos: 30/05 Jabaquara - Fabiana dispensada
+[30/05/2024 13:33:32] Yuri Anderson Pacheco de Lima: 30/05 VNS - Yuri entrada 12:00 (a pedido da coordenação)
+[30/05/2024 13:43:07] Natalia Maia Queiroz: 30/05 Alpha Queiroz saída 13:10
+[30/05/2024 13:47:34] Ricardo Barbosa Viana Filho: 30/05 Itaim - Barbosa Saída 12:45
+[30/05/2024 13:52:57] Alessandre Luiz Braga Junior: 30/05 Analia - Alessandre saida 13:40
+[30/05/2024 14:16:59] Pedro Paulo Silva Farah: 30/05 Morumbi - Pedro saída 10:40h
+[30/05/2024 14:22:37] Rafael Tadeu Marques: 30/05 Itaim Rafael Tadeu saída 14:10
+[30/05/2024 14:31:29] Yuri Anderson Pacheco de Lima: 30/05 VNS - Yuri saída 14:30
+[30/05/2024 14:35:27] Ricardo Ivo de Lima: 30/05 - Itaim - Ricardo Ivo Saída - 14:30h (Deslocado Morumbi - cirurgia a pedido)
+[30/05/2024 14:38:35] Erick Oliveira Lima Gomes: 30/05 Santa - Erick dispensado
+[30/05/2024 14:44:57] Juliana Hussein: 30/05 VILLA - J. Hussein saida 14:40
+[30/05/2024 14:58:22] Estanrley Barcelos Pinto: 30/05 VILLA-Estanrley saída:  14:50
+[30/05/2024 15:20:36] Thales Luvisotto Neder: 30/05 Jabaquara - Thales saída 15:15
+[30/05/2024 15:24:59] Manoel de Souza Neto: 30/05 VNS Manoel saída 15:20 ‎<Mensagem editada>
+[30/05/2024 15:26:40] Thayse Fachin Cormanique Kayser: 30/05 ITAIM - Thayse saída 15:26
+[30/05/2024 15:29:00] Icaro Moura de Sousa: 30/05 VNS - Ícaro saída 15:20
+[30/05/2024 15:32:12] Guilherme Petry Martins Pereira: 30/05 Santa - Petry saída 15:10
+[30/05/2024 15:46:28] Márcio Ighor Azevedo Silva de Mendonça Melânia: 30/05 VILLA - Ighor saída 15:45
+[30/05/2024 15:48:26] Rodrigo Miyashiro Nunes dos Santos: 30/05 MORUMBI - Miyashiro saida 15:45
+[30/05/2024 15:48:48] Gabriela Santos Menezes: 30/05 Morumbi - G.Menezes saída 15:45
+[30/05/2024 15:49:57] Patrick Alexander Sauer Schues: 30/05 Morumbi - Patrick saída 15:45
+[30/05/2024 15:50:07] Mariana Dardengo Borges: 30/05 MORUMBI - M. Dardengo saída 15:45
+[30/05/2024 15:50:16] Vitor Luiz Assunção Martins: 30/05 Osasco - Assunção saída 15:45
+[30/05/2024 15:57:58] Marcelo de Oliveira Peres: 30/05 Osasco - Marcelo saída 15:50 ( deslocado ) ‎<Mensagem editada>
+[30/05/2024 16:06:56] Leandro Eduardo França: 30/05 JABAQUARA - França dispensado
+[30/05/2024 16:20:37] Marcos Rogério Pereira Machado Filho: 30/05 Alpha Marcos saída 15:45
+[30/05/2024 16:41:14] Fábio Yuji Suguita: 30/05 jabaquara yuji saída 16:40
+[30/05/2024 16:44:46] Sabrina de Souza Ramos: 30/05 jabaquara Sabrina saída 16:40
+[30/05/2024 16:48:34] Rodrigo Gomes Minas Novas: 30/05 Osasco - Gomes saída 16:45
+[30/05/2024 16:50:01] José Marcos Vieira da Silva: 30/05 - Jabaquara José Marcos saída 14:40
+[30/05/2024 16:50:47] Flavio Maia Castilho: 30/05 Analia - Castilho saida 16:45
+[30/05/2024 16:50:53] Hedicleber Pestana Severino: 30/05 Morumbi Hedicleber saída 16:25
+[30/05/2024 17:17:51] Ludmylla Gomes Neves: 30/05 Morumbi - Ludmylla entrada  09:00
+[30/05/2024 17:17:59] Ludmylla Gomes Neves: 30/05 Morumbi - Ludmylla saída 15:45
+[30/05/2024 17:32:34] André Luis Xavier Franco: 30/05 VNS - Xavier (dispensado)
+[30/05/2024 18:11:34] Renata Togeiro Bastos Godoy de Faria: 30/05 MORUMBI - Renata Togeiro saída 13:10
+[30/05/2024 18:22:09] Livia Valverde Fajardo: 30/05 Anália - Valverde saída 14:40
+[30/05/2024 18:22:11] Kawan Ramis Rodrigues: 30/05 ANÁLIA - Kawan saída 15:20
+[30/05/2024 18:43:32] Yoko Hayashi: 30/05 Itaim Yoko entrada 6:00
+[30/05/2024 18:43:44] Yoko Hayashi: 30/05 Itaim Yoko saída 13:45
+[30/05/2024 19:01:30] Ricardo Giraldelli Carvalho Lima: 30/05 VILLA - Giraldelli dispensado
+[30/05/2024 19:12:36] Emerson Domingos da Costa: 26/05 Jabaquara Emerson saída 19:50
+[30/05/2024 19:49:28] Raiza Luna Peixoto: 30/05 Itaim Raiza saída 19:45
+[30/05/2024 20:07:57] Luciano Angelo Richetti: 30/05 Itaim Luciano Saída 19:35
+[30/05/2024 20:16:32] Ana Clara Mourão Barreto: 30/05 Analia Clara saida 20:15
+[30/05/2024 20:20:41] Gabriela Soares Piassi: 30/05 Osasco - Piassi saída 20:20
+[30/05/2024 20:29:57] Lívia Schenkel Thurler Trairi: 30/05 VILLA - Livia saída 10:10
+[30/05/2024 20:54:55] Maurício Faria Tetti: 30/05 ANALIA Maurício saída 20:45
+[30/05/2024 21:46:44] Bruce Ye Man Chow: 30/05 Jabaquara - Bruce dispensado
+[30/05/2024 21:47:32] Emerson Domingos da Costa: 30/05 Osasco Emerson saída 21:40
+[31/05/2024 05:17:43] Rodrigo Miyashiro Nunes dos Santos: 31/05 MORUMBI - Miyashiro entrada 05:15
+[31/05/2024 05:18:56] Paula Lopes Agapito de Freitas: 31/05 - Paula A - Anália - entrada - 05:20
+[31/05/2024 05:20:28] Erick Oliveira Lima Gomes: 31/05 Jabaquara - Erick entrada 05:20
+[31/05/2024 05:21:51] Gabriella Gadelha Sarmento: 31/05 VNS - Gabriella entrada 05:20
+[31/05/2024 05:30:07] Diogo Henrique Pereira Mattos: 31/05 SANTA - Diogo entrada 05:30
+[31/05/2024 05:34:52] Gabriela de Faria Bizarria: 31/05 Anália - Bizarria entrada 05:20
+[31/05/2024 05:51:24] Fabiana Barbosa Bastos: 31/05 VNS - Fabiana entrada 05:40
+[31/05/2024 06:00:17] Ricardo Kawaura: 31/05 Osasco kawaura entrada 06:00
+[31/05/2024 06:00:20] Everton Sidney da Conceição Carvalho: 31/05 - MORUMBI - Everton entrada 06:00
+[31/05/2024 06:02:44] Daniel  Masuzaki Wong: 31/05 Osasco - Wong entrada 06:00
+[31/05/2024 06:09:46] Thiago de Oliveira Heringer: 31/05 Anália - Heringer entrada 05:40
+[31/05/2024 06:14:29] Daniellen Lins Lourenço: 31/05 OSASCO - Daniellen entrada 05:40 (deslocada Jabaquara)
+[31/05/2024 06:21:58] Victor Augusto de Souza Moraes: 31/05 Itaim - Augusto entrada 06:00
+[31/05/2024 06:22:51] Vivianna Bovério Galzerani: 31/05 Jabaquara Vivianna entrada 06:00
+[31/05/2024 06:25:17] Caroline Firmino Lemes da Silva: 31/05 Morumbi Lemes entrada 06:00
+[31/05/2024 06:25:45] Ana Clara Mourão Barreto: 31/05 Santa - Clara entrada 6:00
+[31/05/2024 07:02:35] Luiz Guilherme Thomaz Zacharias: 31/05 ITAIM - Guilherme saída 7:00 (pós plantão deslocamento SLO)
+[31/05/2024 07:02:54] Ricardo Barbosa Viana Filho: 31/05 Analia - Barbosa Entrada 05:45
+[31/05/2024 07:26:01] Maxvilano Lima de Macedo: 30/05 Osasco Maxvilano dispensado
+[31/05/2024 07:27:25] Marcos Bastos dos Santos: 31/05 Villa - Bastos - dispensado
+[31/05/2024 07:31:44] Thiago Barreto Marques da Silva: 31/05 Jabaquara - Naldo entrada 06:00
+[31/05/2024 07:35:21] Raphael Moura Britto: 31/05 Itaim - Britto dispensado
+[31/05/2024 07:42:23] Rodrigo Andrade Carmello: 31/05 Morumbi - Carmello saída 07:40 (Pós plantão deslocado Itaim)
+[31/05/2024 07:48:01] Karoline Becker Paraboni: 31/05- Morumbi - Karoline dispensada
+[31/05/2024 07:49:07] Thales Luvisotto Neder: 31/05 Villa - Thales entrada 06:00
+[31/05/2024 07:49:52] Fabiana Soares Gama: 31/05 Anália Fabiana Gama dispensa
+[31/05/2024 07:56:29] Karen Cavichini Rosseto: 31/05 Analia - Cavichini dispensada
+[31/05/2024 08:03:35] Livia Valverde Fajardo: 31/05 Anália - Valverde entrada 05:30
+[31/05/2024 08:12:04] Rodrigo Martins Pereira: 31/05 MORUMBI - pereira dispensado
+[31/05/2024 08:13:23] Fernando Ribeiro Sá: 31/05 VNS Ribeiro dispensado
+[31/05/2024 08:16:15] Karen Yumi Miyashiro: 31/05 Anália - Yumi entrada 06:00
+[31/05/2024 08:36:06] Paola Rodrigues Oshiro: 31/05 Villa -Paola dispensada
+[31/05/2024 08:40:27] Renato dos Santos Borega: 31/05 Villa - Renato dispensado
+[31/05/2024 08:44:35] Maíra Leite Basile: 31/05 Central - Maíra dispensada
+[31/05/2024 09:06:54] Carlos Eduardo Corrêa Grilo: 30/05 Anália - Cadu entrada 05:20
+[31/05/2024 09:10:25] Rodrigo Miyashiro Nunes dos Santos: 31/05 MORUMBI - Miyashiro saida 09:10
+[31/05/2024 09:28:44] Gabriela Meireles Linhares de Araujo: 31/05 Osasco G.Linhares saída 09:20h
+[31/05/2024 09:50:52] Isabela Mattarelli Souza Carli: 31/05 - Morumbi - Mattarelli saída 09:47
+[31/05/2024 09:57:44] Flavio Hideki Oshika: 31/05 MORUMBI - Flávio dispensado
+[31/05/2024 10:03:48] Fábio Yuji Suguita: 31/05 jabaquara yuji dispensado
+[31/05/2024 10:06:53] Daniellen Lins Lourenço: 31/05 OSASCO - Daniellen saída 10:06 (deslocada Jabaquara)
+[31/05/2024 10:07:33] Pedro Belintani de Maio: Deslocado Analia (pos Jabaquara)
+[31/05/2024 10:09:44] Arthur Rodrigues Torrélio: 31/05 Osasco - Torrelio entrada 07:00 (deslocado Itaim)
+[31/05/2024 10:32:29] Thales Luvisotto Neder: 31/05 Villa - Thales saída 10:30
+[31/05/2024 10:33:35] Fabiana Barbosa Bastos: 31/05 VNS - Fabiana saída 10:30
+[31/05/2024 10:36:05] Norival Scandelai Junior: 31/05 Itaim - Norival entrada 6:00
+[31/05/2024 10:45:33] Marina Borges Curralo: 31/5 Maternidade Marina dispensada
+[31/05/2024 10:53:07] Ana Jung Docko: 31/05 Analia Ana saída 10:45
+[31/05/2024 10:55:24] Matheus de Alencar Arraes: 31/05 JABAQUARA Arraes saida 10:50 (pos plantao/deslocado Villa)
+[31/05/2024 11:16:39] Brian Sossai Pacheco: 31/05 ITAIM - Brian dispensado
+[31/05/2024 11:31:38] Francisco Antonio Alves Bonatto: 31/05 VILLA - Francisco dispensado
+[31/05/2024 11:38:58] Ricardo Barbosa Viana Filho: 31/05 Analia - Barbosa Saída 11:35
+[31/05/2024 11:59:20] Patrick Alexander Sauer Schues: 31/05 Morumbi - Patrick entrada 12:00
+[31/05/2024 12:17:21] Erick Oliveira Lima Gomes: 31/05 Jabaquara - Erick saída 11:30
+[31/05/2024 12:20:59] André da Costa Aguiar Ventura: 31/05 ANALIA Ventura saida 12:10 (deslocado JABAQUARA)
+[31/05/2024 12:34:08] Gabriela Santos Menezes: 31/05 Morumbi - G.Menezes saída 12:34
+[31/05/2024 12:37:49] Bruno Stornioli Taguchi Lemos: 31/05 Morumbi Bruno Lemos saida 11:10
+[31/05/2024 12:47:55] Thiago de Oliveira Heringer: 31/05 Anália - Heringer saída 12:45
+[31/05/2024 12:56:33] Luiz Augusto Xavier Brandão: 31/05 Santa Luiz Augusto dispensado
+[31/05/2024 13:10:44] Caroline Firmino Lemes da Silva: 31/05 Morumbi Lemes saída 12:00
+[31/05/2024 13:12:32] Pedro Augusto Tavares Dall Aglio: 31/05 Anália -Tavares - saída 13:00
+[31/05/2024 13:18:52] Gabriela de Faria Bizarria: 31/05 Anália - Bizarria saída 13:15
+[31/05/2024 13:23:00] Karen Yumi Miyashiro: 31/05 Anália - Yumi saída 13:20
+[31/05/2024 13:23:53] Thiago Barreto Marques da Silva: 31/05 Jabaquara  - Naldo saída 13:20
+[31/05/2024 13:30:56] Manoel de Souza Neto: 31/05 VNS Manoel saída 13:25
+[31/05/2024 13:39:09] Victor Augusto de Souza Moraes: 31/05 Itaim - Augusto saída 13:00
+[31/05/2024 13:45:49] Larissa Mayumi Ono: 31/05 Itaim Larissa - saída 13:40
+[31/05/2024 13:50:34] Beatriz Antipou dos Santos: 31/05- Villa- Antipou- entrada 13:00
+[31/05/2024 13:55:51] Pedro Henrique Milhomens da Mota: 31/05 VNS Mota saída 13:20
+[31/05/2024 14:19:58] Everton Sidney da Conceição Carvalho: 31/05 - MORUMBI - Everton saída 14:15
+[31/05/2024 14:25:50] Patrick Alexander Sauer Schues: 31/05 Morumbi - Patrick saída 14:15
+[31/05/2024 14:29:41] Vitor Luiz Assunção Martins: 31/05 Osasco Assunção saída 14:20
+[31/05/2024 14:34:20] Nathalia Soares Rodrigues Gomes : 31/05 Osasco - Nat Rodrigues saída 14:25 (deslocada Itaim)
+[31/05/2024 15:08:05] Juliano Moisés Tobal: 31/05 Villa Juliano Tobal saída 15:00
+[31/05/2024 15:09:31] Thais Bosi Nonato: 31/05 Morumbi - Bosi saída 15:00
+[31/05/2024 15:14:53] Denio Lopes de Almeida: 31/05 Villa - Dênio entrada 07:00
+[31/05/2024 15:14:55] Denio Lopes de Almeida: 31/05 Villa - Dênio saída 15:10
+[31/05/2024 15:19:04] Norival Scandelai Junior: 31/05 Itaim - Norival saída 15:15
+[31/05/2024 15:24:43] João Evaristo De Castro Barreto: 31/05 Osasco João entrada 06:00
+[31/05/2024 15:25:01] João Evaristo De Castro Barreto: 31/05 Osasco João saída 14:00
+[31/05/2024 15:25:11] Maurício Faria Tetti: 31/05 Central Maurício saída 15:10
+[31/05/2024 15:37:50] Arthur Rodrigues Torrélio: 31/05 Osasco - Torrelio saída 15:30 (deslocado Itaim)
+[31/05/2024 15:48:58] Felipe de Oliveira Nunes: 31/05 Villa - Nunes entrada 6:00
+[31/05/2024 15:49:17] Felipe de Oliveira Nunes: 31/05 Villa - Nunes saída 14:43
+[31/05/2024 16:05:07] Leonardo de Paula Souza: 31/05 Jabaquara-  Leonardo entrada 05:40
+[31/05/2024 16:05:38] Leonardo de Paula Souza: 31/05 Jabaquara- Leonardo saída 14:50
+[31/05/2024 16:07:58] Natalia  Yume Hissayasu Menezes: 31/05 Osasco - Nat Yume saída 16:00
+[31/05/2024 16:12:41] Arthur Oliveira Facchini: 31/05 Jabaquara Facchini dispensado
+[31/05/2024 16:24:51] Marcelo Maia da Silveira: 31/05 Villa - Maia saída 16:20

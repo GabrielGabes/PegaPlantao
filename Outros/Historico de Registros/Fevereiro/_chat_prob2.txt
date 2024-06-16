@@ -1,0 +1,71 @@
+[01/02/2024 16:01:31] Caio Tulio Duarte: 01/02 ANÁLIA - Caio saída 15:35 (EXTRA) (Assumo distância no lugar da Bruna)
+[01/02/2024 16:02:16] Bruna Daibert Danesin: 01/02 Anália - Bruna saída 15:35 (Caio assume distância)
+[01/02/2024 13:13:26] Juliana Santos Saboia: 01/02 aviccena - saboia entrada 6h
+[01/02/2024 16:36:45] Ludmylla Gomes Neves: 01/02 Anália - Ludmylla saída 16: 30
+[01/02/2024 23:01:43] Leandro Eduardo França: 01/02 OSASCO - França saída 23h
+[01/02/2024 07:55:01] Renata Togeiro Bastos Godoy de Faria: 01/02 MORUMBI - Renata Togeiro entrada 5:00
+[01/02/2024 05:55:41] Vitor Oliveira André: 01/02 Itaim Vitor entrada 05:20 (EXTRA)
+[02/02/2024 09:06:54] Anna Beatriz Lima Do Valle Astur: ‎Você removeu Anna Beatriz Lima Do Valle Astur
+[02/02/2024 19:54:50] Fernanda Teles Ribeiro: 02/02 - Fernanda saída 19:50
+[02/02/2024 07:43:41] Juliana Akemi Funabashi: 02/02 ANÁLIA - Akemi dispensada (saúde)
+[02/02/2024 10:43:12] Francisco Antonio Alves Bonatto: 02/02 VILLA - Francisco dispensado (saúde)
+[02/02/2024 23:02:12] Maxvilano Lima de Macedo: 02/02 Morumbi Maxvilano saída 23h
+[02/02/2024 23:48:49] Amanda Kiyoko Souza Kossaka: 02/02 MORUMBI - Amanda saída 23:40
+[02/02/2024 05:58:31] Caio Tulio Duarte: 02/02 ANÁLIA - Caio entrada 05:20
+[02/02/2024 05:16:41] Maria Carolina Célia Silveira: 02/02 MATERNIDADE - M. Carolina entrada 05:15
+[03/02/2024 16:09:54] Leandro Machado Deorce: ‎Leandro Machado Deorce deseja entrar no grupo
+[03/02/2024 16:35:15] Leandro Machado Deorce: ‎Leandro Machado Deorce entrou neste grupo através da comunidade
+[03/02/2024 17:00:33] Daniel Rodrigues de Oliveira: Itaim Daniel saída 16:55
+[03/02/2024 15:04:04] Thiago Barreto Marques da Silva: 02/02 cirurgia externa naldo entrada 07:35
+[03/02/2024 15:22:12] Thiago Barreto Marques da Silva: 02/02 cirurgia externa Naldo saída 16:45
+[03/02/2024 10:59:20] Juliana Akemi Funabashi: 03/02 VNS - Akemi dispensada (saúde)
+[03/02/2024 11:20:30] Vitor Oliveira André: 03/02 Jabaquara Vitor saída 11:20 (motivo de saúde)
+[03/02/2024 12:27:21] Francisco Antonio Alves Bonatto: 03/02 ANÁLIA - Francisco dispensado (saúde)
+[03/02/2024 13:59:11] Flávio Rosa Figueiredo Souza: 03/02 Anália - Figueiredo entrada 06h
+[04/02/2024 15:28:07] Francisco José Lucena Bezerra: 04/02 ANÁLIA - Lucena - entrada 07:00 (D1) 04/02 ANÁLIA - Lucena - saída 15:25 (D1)
+[04/02/2024 06:16:24] Thassio Cunha de Santana: 04/02 Morumbi Thassio entrada 5:30 (D1)
+[04/02/2024 06:32:05] Pedro Henrique Diniz Botelho: 04/02 Jabaquara - Diniz entrada 5:40 (D1)
+[04/02/2024 08:55:40] Thiago Barreto Marques da Silva: 04/02 Morumbi  - Naldo entrada 05:40 (D2)
+[04/02/2024 10:09:19] Marcela Aparecida Correa Martins: 04/02 Morumbi - Martins entrada 7:50 (D3 EXTRA)
+[04/02/2024 10:31:59] Matheus Acquesta Gaubeur: 04/02 Itaim - Matheus saída 10:30 (D3)
+[04/02/2024 10:35:50] Nathalia Fanucci Oliveira Di Jorge: 04/02 OSASCO Nathália entrada 08:00 (D2)
+[04/02/2024 11:11:26] Marcela Aparecida Correa Martins: 04/02 Morumbi - Martins saída 11:05 (D3 EXTRA)
+[04/02/2024 11:17:30] Débora Philippi Bressane: 04/02 Central Débora Bressane saída 10:55 (D3   deslocada Villa)
+[04/02/2024 11:27:54] Luciano Angelo Richetti: 04/02 Maternidade Luciano entrada 08:20 (D3 Itaim EXTRA)
+[04/02/2024 11:46:15] Caio Tulio Duarte: 04/02 ANÁLIA - Caio D3 entrada 07:00 (EXTRA) ‎<Mensagem editada>
+[04/02/2024 11:46:33] Caio Tulio Duarte: 04/02 ANÁLIA - Caio D3 saída 11:45 (EXTRA) ‎<Mensagem editada>
+[04/02/2024 11:47:12] Luciano Angelo Richetti: 04/02 Maternidade Luciano saída 11:45 (D3 Itaim EXTRA)
+[04/02/2024 12:58:09] Vivian Cristine dos Anjos e Silva: 04/02 Anália Vivian entrada 07:00 (D3 bom)
+[04/02/2024 12:58:32] Vivian Cristine dos Anjos e Silva: 04/02 Anália Vivian saida 12:55 (D3 bom)
+[04/02/2024 13:15:27] Arthur Oliveira Facchini: 04/02 Jabaquara Facchini saída 13:15 (D2)
+[04/02/2024 13:38:06] Bruno Stornioli Taguchi Lemos: 04/02 Analia Bruno Lemos entrada 07:00 (D3)
+[04/02/2024 13:38:34] Bruno Stornioli Taguchi Lemos: 04/02 Analia Bruno Lemos saida 13:38 (D3)
+[04/02/2024 13:40:07] Lais Ribeiro Teixeira: 04/02 Villa Lais entrada 07:00 (D2)
+[04/02/2024 13:40:24] Lais Ribeiro Teixeira: 04/02 Villa Lais saída 13:40 (D2)
+[04/02/2024 13:42:16] Silvia Aline dos Santos Andrade: 04/02 Morumbi Silvia saída 12:40 (D2 bom)
+[04/02/2024 13:42:24] Rômulo Spolidorio: 04/02 Villa Rômulo saída 13:40 (D1)
+[04/02/2024 14:50:19] Ana Jung Docko: 04/02 Itaim Ana entrada 07:00 (D2)
+[04/02/2024 14:50:46] Ana Jung Docko: 04/02 Itaim Ana saída 14:50 (D2)
+[04/02/2024 15:55:16] Nathalia Fanucci Oliveira Di Jorge: 04/02 OSASCO Nathália saída 15:45 (D2)
+[04/02/2024 16:15:42] Thiago Barreto Marques da Silva: 04/02 Morumbi - Naldo saída 15:00 (D2 RUIM)
+[04/02/2024 16:49:10] Diogo Henrique Pereira Mattos: 04/02 JABAQUARA - Diogo saída 16:25 (D1B)
+[04/02/2024 17:59:22] Bianca Priscila Buniotti: 04/02 Anália - Bianca saída 13:40 (D2)
+[04/02/2024 22:52:35] Thassio Cunha de Santana: 04/02 Morumbi Thassio saída 22:50 (D1)
+[04/02/2024 11:17:37] Renata Torres Bueno: 04/02 Morumbi - Renata Bueno entrada 07:00 saída 11:10
+[05/02/2024 05:24:43] Guilherme de Almeida Costa: 05/02 osaaco costa entrada 05:00
+[05/02/2024 09:03:49] Thiago Barreto Marques da Silva: 05/02 cirurgia externa Naldo entrada 07:35
+[05/02/2024 11:33:11] Alexsander Takashi Hamada: 05/02 Anestesia externo : Alex  entrada 6:15 ( a pedido)
+[05/02/2024 11:33:34] Alexsander Takashi Hamada: 05/02 Anestesia externo: Alex saída 10:50
+[05/02/2024 06:06:13] Icaro Moura de Sousa: 04/02 HMS - Ícaro entrada 07:00 (D1 VNS EXTRA)
+[05/02/2024 06:06:25] Icaro Moura de Sousa: 04/02 Itaim - Ícaro saída 16:00 (D1 VNS EXTRA)
+[05/02/2024 11:38:38] Francisco Antonio Alves Bonatto: 05/02 VILLA - Francisco dispensado (saúde)
+[05/02/2024 05:52:12] Anna Beatriz Aranha Trevisan: 05/02 MORUMBI - Anna Beatriz entrada 05:40
+[05/02/2024 06:48:17] Filipe Maeda Hashi Abdalla Martins: 05/02 OSASCO - Maeda entrada às  05:45 ‎<Mensagem editada>
+[05/02/2024 20:04:19] Manoel de Souza Neto: 05/02 VNS Manoel saída 20:00
+[05/02/2024 05:50:43] Rômulo Spolidorio: 05/02 Jabaquara Rômulo entrada 05:50
+[06/02/2024 00:12:43] Rodrigo Andrade Carmello: 05/02 Morumbi - Carmello saída 00:10
+[06/02/2024 05:16:14] Maiely Marcolin: 05/02 VNS - Maiely entrada 05:15
+[06/02/2024 22:36:12] Paula Angélica Pinha Neves: 06/02 ANÁLIA Paula Neves saída 21:15
+[07/02/2024 11:23:07] Thiago Barreto Marques da Silva: 05/02 cirurgia externa Naldo saída 15:00
+[07/02/2024 11:24:27] Thiago Barreto Marques da Silva: 07/02 cirurgia externa Naldo entrada 07:35
+[07/02/2024 00:21:10] Brian Sossai Pacheco: 07/02 ITAIM - Brian saída 00:10

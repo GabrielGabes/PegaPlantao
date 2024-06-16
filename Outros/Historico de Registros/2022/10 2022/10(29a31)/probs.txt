@@ -1,0 +1,51 @@
+[28/10/2022 06:31:49] ‪+55 31 99243‑4531‬: 28/10 Villa - Ludmylla entrada 06:00
+[28/10/2022 21:09:42] ‪+55 31 99243‑4531‬: 28/10 VILLA Ludmylla saida 21:00
+[27/10/2022 19:34:04] ‪+55 31 99243‑4531‬: 27/10 ANALIA  Ludmylla- Saída 19:26
+
+[30/10/2022 06:53:13] Renata Pinheiro Modolo: 29/10 Itaim R. Modolo 
+7:00 - 13:00 - rotina
+13:00 - 7:00 - extra
+[30/10/2022 07:19:19] Gustavo Marques Da silva: 29/10 Osasco- Marques
+07:00 - 13:00 - rotina
+13:00 - 07:00 - Extra
+
+GRETEL OLIVEIRA NICOLAU ==========
+31/10 - Santa Catarina- Gretel entrada 6:00 (DESLOCADO)
+
+KAIE FERNANDES ==========
+31/10 Osasco Kaie entrada 5:20 (deslocado Itaim)
+
+PEDRO AUGUSTO TAVARES DALL AGLIO ==========
+31/10 Villa - Tavares - entrada 6:00
+
+THIAGO FRANCISCO MARTINS ==========
+30/10 VNS Thiago Martins saida as 01:45 (distancia, para efeito de escala de saida)
+
+EMERSON DOMINGOS DA COSTA
+26 - unidade diferentes: ['ANALIA' 'VNS'] analia (deslocado)
+
+FÁBIO ANTÔNIO DE SOUZA OLIVEIRA ==================================================
+28 - unidade diferentes: ['ITAIM' 'VNS']
+04 - erro entre os horarios: [ 07:00 ... 01:00 ]
+05 - unidade diferentes: ['ITAIM' 'VNS']
+19 - unidade diferentes: ['ITAIM' 'VNS']
+26 - unidade diferentes: ['ITAIM' 'VNS']
+
+
+CARLOS EDUARDO GONDIM OLIVEIRA ==================================================
+29 - unidade diferentes: ['MATERNIDADE' 'VNS']
+
+EMERSON DOMINGOS DA COSTA ==================================================
+13 - erro entre os horarios: [ 19:00 ... 07:00 ]
+26 - erro entre os horarios: [ 07:00 ... 21:00 ]
+26 - unidade diferentes: ['ANALIA' 'VNS']
+
+JÉSSICA LÍDIA DE SOUZA ==================================================
+10 - erro entre os horarios: [ 19:30 ... 10:30 ]
+10 - unidade diferentes: ['ITAIM' 'VILLA']
+
+KAREN YUMI MIYASHIRO ==================================================
+27 - unidade diferentes: ['JABAQUARA' 'OSASCO']
+
+MARIANA DARDENGO BORGES ==================================================
+06 - unidade diferentes: ['ANALIA' 'MORUMBI']

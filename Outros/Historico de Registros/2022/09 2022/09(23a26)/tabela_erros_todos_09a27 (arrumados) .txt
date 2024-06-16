@@ -1,0 +1,681 @@
+ALEXSANDER TAKASHI HAMADA ==========
+10/09  Osasco  Alexsander   entrada as 6:00 ( deslocado do Morumbi)
+15/09 Osasco - Alexsander saída 15:40 ( deslocado do itaim no dia anterior)
+#melhor dar uma olhada com detalhe -> tem muita coberturas ele
+
+ALVARO LAZARO RAO REGONATO ==========
+09/09 Osasco Ráo saída 17:50 ( deslocado itaim )
+
+AMANDA KIYOKO SOUZA KOSSAKA ==========
+23/09 VILLA  -  Amanda saída 15:40 (deslocamento Morumbi)
+23/09 VILLA - Amanda entrada 04:20 (deslocamento Morumbi)
+
+
+ANDRE DA COSTA AGUIAR VENTURA ==========
+10/09 OSASCO Ventura saida 13:10 ( deslocado VNS )
+
+
+BEATRIZ ANTIPOU DOS SANTOS ==========
+10/09 JABAQUARA- Antipou- saída 11:20 (deslocamento MATERNIDADE)
+17/09 Morumbi Antipou entrada 05:30 (Deslocada Jabaquara)
+19/09 Itaim Antipou saída 13:40 (pós plantão mate)
+21/09 -Anália - Antipou saída 17:10 (deslocada Itaim)
+
+
+BRUNO STORNIOLI TAGUCHI LEMOS ==========
+17/09 Analia saida 14:15 (deslocado Aviccena)
+
+
+CARLOS AUGUSTO TREVISAN ==========
+14/09 ANALIA - Carlos saída 19:35 (deslocamento ITAIM)
+21/09 ALPHA - Carlos entrada 5:50 (deslocamento ITAIM)
+21/09 ALPHA - Carlos saída 15:45 (deslocamento ITAIM)
+
+
+CARLOS EDUARDO CORREA GRILO ==========
+15/09 Anália - Kaiê entrada 05:45 (Desolcado Itaim)
+
+
+CARLOS EDUARDO GONDIM OLIVEIRA ==========
+19/09 VNS - Oliveira saída 14:10 (pós plantão ITAIM)
+24/09 MORUMBI  -  Oliveira saída 10:45 (pós plantão)
+26/09 VNS  -  Oliveira saída 14:20 (pós plantão maternidade)
+
+
+DANIEL MASUZAKI WONG ==========
+19/09 Osasco - Wong saída 19:40 (deslocado do Itaim)
+23/09 Aviccena  -  Wong saída 16:10 # no dias estaca com cobertura
+
+
+DANIEL RODRIGUES DE OLIVEIRA ==========
+10/09 Itaim Daniel entrada 7:00
+10/09 Itaim Daniel saída 11:10
+#há dois registros de D1 no dia, atualizei o horario de saida mas não exclui os D1
+
+
+DANIELLEN LINS LOURENCO ==========
+12/09 JABAQUARA - Daniellen entrada 15:00 e saída 17:00 (aula residentes)
+14/09 AVICCENA - Daniellen entrada 06:00 (deslocamento Morumbi)
+
+
+DIOGO HENRIQUE PEREIRA MATTOS ==========
+18/09 ANÁLIA - Diogo entrada 07:00 (D2)
+18/09 ANÁLIA - Diogo saída 14:20 (D2)  #ja esta registrado das 7 as 19, e não consigo atualizar
+
+
+EMERSON DOMINGOS DA COSTA ==========
+09/09 Itaim - Emerson Plantão # não digitou direito, não há oque registrar
+14/09 Morumbi - Emerson - 7- distância Saída 22:00
+23/09 Itaim  -  Emerson Plantão
+
+
+ESTANRLEY BARCELOS PINTO ==========
+22/09 ANÁLIA-Estanrley saida: 16:10 #há uma cobertura nesse mesmo horario, não apaguei por precaução 
+
+
+EVERTON SIDNEY DA CONCEICAO CARVALHO ==========
+09/09 VILLA - Everton saída 18:35 (deslocado Alpha)
+13/09 - OSASCO - Everton saída 17:00
+15/09 ANÁLIA Everton saída 15:45 (pós-plantão)
+19/09 Anália Everton saída 20:25 (deslocado do Morumbi no dia anterior)
+20/09 Osasco Everton saída 17:10
+
+
+FABIANA BARBOSA BASTOS ==========
+13/09 JABAQUARA - Fabiana saída 14:20
+14/09 VNS - Fabiana saída 13:25 (saúde)
+15/09 VNS - Fabiana saída 8:45 - saúde.
+18/09 Morumbi - Fabiana entrada 8:20 (D2R)
+18/09 Morumbi - Fabiana saida 14:50 (D2R)
+20/09 Morumbi - Fabiana entrada 05:15 (deslocada Jabaquara)
+20/09 Morumbi - Fabiana saída 17:20 (deslocada Jabaquara)
+22/09 Jabaquara - Fabiana saída 13:15 (deslocada VNS)
+24/09 Morumbi  -  Fabiana saída 9:40 (extra)
+
+
+FABIANA SOARES GAMA ==========
+12/09 Anália Fabiana Gama saída as 14:50
+14/09 Anália Fabiana Gama saída as 19:10 ( 06:00 manhã )
+15/09 Villa Fabiana Gama saída as 16:20
+19/09 Anália Fabiana Gama saída 23:35
+
+
+FABIO ANTONIO DE SOUZA OLIVEIRA ==========
+12/09 Itaim Fabio SAIDA 15:35 ( MOTIVO DE SAUDE )
+13/09 Itaim Fabio saída 2035hs
+14/09 VNS Fábio saída 12hs( Extra)
+15/09 Itaim Fabio saída 1525 (Extra)
+16/09 Kaie Itaim Saída 13:10( Extra)
+26/09 Itaim Fabio entrada 6hs
+
+
+FABIO YUJI SUGUITA ==========
+15/09 villa yuji saída 17:20
+
+
+FELIPE COELHO DE SOUZA ==========
+22/09 Osasco - Coelho saída 16:55
+
+
+FERNANDA TELES RIBEIRO ==========
+09/09 - Jabaquara - Fernanda entrada 07:00 ( D3 Morumbi ) 09/09 - Jabaquara - Fernanda saída 12:20 ( D3 Morumbi )
+12/09 Analia - Fernanda saída 16:55
+16/09 Itaim - Fernanda saída 16:15 ( deslocada Analia )
+19/09 Itaim - Fernanda saída 14:20 ( pós plantão - deslocada Analia )
+
+
+FERNANDO AKIRA KOGA ==========
+13/09 Itaim - Koga - saída 10:37
+
+
+FERNANDO RIBEIRO SA ==========
+17/09 VNS Ribeiro saída 13:00 (pós-plantão)
+
+
+FILIPE LUGON MOULIN LIMA ==========
+10/09 ANÁLIA - Filipe Lugon entrada 05:40 (deslocado do VNS)
+10/09 ANÁLIA - Filipe Lugon saída 15:40 (deslocado do VNS)
+19/09 VNS - Filipe Lugon saida 14:15
+20/09 VNS - Filipe Lugon saida 15:40
+21/09 ITAIM - Filipe Lugon saida 10:30
+
+
+FILIPE MAEDA HASHI ABDALLA MARTINS ==========
+(Deslocado Itaim)
+10/09 Jabaquara Maeda saída 11:05
+12/09 Osasco Maeda saída 15:55
+24/09 Itaim Maeda saída 11:40
+
+
+FLAVIO HIDEKI OSHIKA ==========
+21/09 JABAQUARA - Flavio saida 16:00
+22/09 ANALIA - Flavio saida 17:10
+25/09 MATERNIDADE  -  Flavio saida 01:20
+
+
+FRANCISCO JOSE LUCENA BEZERRA ==========
+17/09 MORUMBI,  Lucena saída 11:45
+20/09 ANALIA - Lucena saída 12:55
+
+
+GABRIEL DE AGUIAR SANTANA ==========
+10/09 ANÁLIA - Gabriel saída 14:10 (deslocado Itaim)
+
+
+GABRIELA SOARES PIASSI ==========
+16/09 VILLA - Piassi saida 20:00 (deslocada Jabaquara)
+24/09 VNS  -  Piassi saida 10:25 (deslocada itaim)
+
+
+GABRIELLA GADELHA SARMENTO ==========
+14/09 Itaim - Gabriella entrada 14:00
+
+
+GRETEL OLIVEIRA NICOLAU ==========
+12/09 Villa- Gretel saída 01:40 ( distância) - ( p efeito de saida)
+17/09 Villa- Gretel saida 18:00 ( deslocada Itaim)
+
+
+GUILHERME DE ALMEIDA COSTA ==========
+09/09 VILLA - costa saida 19:42 (pós plantão - deslocado itaim)
+13/09 OSASCO Costa saída 15:00 (pos plantao)
+19/09 osasco costa saida 21:06 (deslocado itaim dia anterior)
+21/09 analia costa saida 14:45 (pos plantao)
+24/09 Jabaquara costa saida 12:07 (pos plantao)
+26/09 itaim costa saida 14:12 (pos plantao)
+
+
+GUSTAVO MARQUES DA SILVA ==========
+12/09 Itaim - Marques saída 12:40 (pós plantão maternidade)
+15/09 VNS - Marques saída 20:40 (deslocado do Anália)
+
+
+HEDICLEBER PESTANA SEVERINO ==========
+10/09 alpha Hedicleber saída 11:45
+
+
+HENRI ROGER WATANABE OLIVEIRA ==========
+17/09 ITAIM - Henri entrada as 06:00
+
+
+IZABELLA GONTIJO CUNHA ==========
+10/09 ANALIA - Izabella entrada 06:00 (deslocada ITAIM)
+10/09 ANALIA - Izabella saída 15:45 (deslocada ITAIM)
+21/09 ITAIM - Izabella saída 10:10
+23/09 ITAIM  -  Izabella saída 19:10 (pós plantão Maternidade deslocada Anália Franco)
+24/09 ITAIM  -  Izabella saída 09:40
+
+
+JESSICA LIDIA DE SOUZA ==========
+13/09 ANÁLIA-Jessica  entrada: 06:00 (deslocada do Jabaquara/Osasco)
+13/09 ANÁLIA-Jessica saída 19:18 (deslocada do Jabaquara/Osasco)
+15/09 Osasco Jessica  saída 15:15 (deslocada Jabaquara no dia anterior)
+17/09 Itaim - Jessica saída 12:30
+20/09 Osasco  - Jessica  saida 15:50
+23/09 Villa  -  jessica saída 16:15
+
+
+JOAO THEODORO DE MEDEIROS NETO ==========
+13/09 Jabaquara - João saída 13:40
+15/09 Analia - João saída 23:40
+20/09 Jabaquara - João saída 13:00 (Tadeu assume rotina)
+
+
+JOSE CARLOS TUNA SCARPA ==========
+23/09 Jabaquara José Carlos Saída 15:30
+
+
+JOSE MARCOS VIEIRA DA SILVA ==========
+22/9 - Itaim José Marcos saída 12:50
+
+
+JULIANA AKEMI FUNABASHI ==========
+23/09 AVICCENA  -  Akemi saída 16:25
+
+
+JULIANO MOISES TOBAL ==========
+13/09 Alpha Juliano Tobal 19:00 ( assumo plantão noturno)
+
+
+KAIE FERNANDES ==========
+10/09 Analia - kaie saída 14h20 (deslocado Itaim)
+13/09 Osasco - Kaie saída 16:45 (deslocado Itaim)
+13/09 Osasco - kaie entrada 5h45 (deslocado Itaim)
+20/09 Alpha - kaie saída 17:50 (deslocado Itaim)
+
+
+KAREN PEIXOTO RICCI ==========
+(Deslocada Alphamed)
+16/09 Osasco Karen saída 16:15
+23/09 VNS Karen entrada 7:00 (extra)
+
+
+KAREN YUMI MIYASHIRO ==========
+16/09 VILLA- Yumi entrada 05:30 (deslocada Jabaquara)
+17/09 VILLA- Yumi entrada 07:00 (Distância EXTRA)
+20/09 Jabaquara - Yumi saída 19:10 (deslocada Morumbi)
+24/09 Anália  -  Yumi entrada 5:40 (deslocada Itaim)
+
+
+LARISSA MAYUMI ONO ==========
+15/09 Itaim Larissa - saída 16:45
+17/09 Itaim Larissa - saída 12:30
+
+
+LETICIA FERNANDES BORGES ==========
+12/09 Jabaquara Letícia saída 19:15
+15/09 OSASCO - Leticia saída 15:50
+17/09 Jabaquara-Leticia saída 11:38
+22/09 Jabaquara Letícia saída 13:10
+
+
+LIVIA SCHENKEL THURLER TRAIRI ==========
+15/09 OSASCO - Livia saída 16:45
+20/09 OSASCO - Livia saída 15:55
+22/09 OSASCO - Livia saída 14:55
+
+
+LUCIANO ANGELO RICHETTI ==========
+16/09 Osasco Luciano Saída  16:40
+20/09 Osasco Luciano Saída 17:10
+21/09 Morumbi Luciano saída 10:15 (motivo de saúde)
+
+
+LUIZ AUGUSTO XAVIER BRANDAO ==========
+14/09 Osasco Luiz Augusto saída 17:50
+18/09 Morumbi Luiz Augusto entrada 08:50 (D2B)
+18/09 morumbi Luiz Augusto  saída 14:00 (D2B)
+21/09 Osasco Luiz Augusto saída as 16:55 hs
+
+
+LUIZ GUILHERME THOMAZ ZACHARIAS ==========
+10/09 MORUMBI - Guilherme saída 14:00 (deslocamento Itaim)
+16/09 ITAIM - Kaie entrada 5:00 (EXTRA)
+20/09 VILLA - Guilherme entrada 6:00 (deslocamento Itaim)
+20/09 VILLA - Guilherme saída 18:10 (deslocamento Itaim)
+21/09 ITAIM - Guilherme saída 13:40
+
+
+MAIELY MARCOLIN ==========
+15/09 Morumbi - Maiely saída 16:35 (pós plantão MT)
+19/09 Itaim - Maiely saída 15:28 (pós plantão)
+
+
+MAIRA LEITE BASILE ==========
+12/09 Morumbi - Maíra saída 14h20 (pós plantão deslocada analia)
+15/09 itaim Maíra saída 16:20 (pós plantão deslocada Morumbi)
+22/08 Osasco Maíra saída 13h50 (deslocada itaim)
+
+
+MANOEL DE SOUZA NETO ==========
+09/09 Anália Manoel  Saida 16:50  EXTRA
+12/09 Saída 13:35
+16/09 VNS Manoel entrada 07:00 Saída 13:15 (EXTRA )
+Saída 19:40
+
+
+MARCELO DOS ANJOS REIS ==========
+14/09 osasco Marcelo saida 16:25 (deslocado Itaim)
+16/09 Morumbi Marcelo saida 16:05
+20/09 Morumbi Marcelo saida 17:05
+22/09 Itaim Marcelo saida 13:10
+23/09 Morumbi Marcelo saida 15:40
+
+
+MARCELO FELIPE DE SOUZA BUTO ==========
+24/09 Analia  -  Buto entrada 6:00 (deslocado Morumbi)
+24/09 Analia  -  Buto saída 16:00 (deslocado Morumbi)
+
+
+MARCELO MAIA DA SILVEIRA ==========
+17/09 VILLA - Maia saída 01:35 (distância)
+26/09 VILLA   -  Maia Entrada 05:30
+
+
+MARCIO IGHOR AZEVEDO SILVA DE MENDONCA MELANIA ==========
+15/09 Villa - Ighor saída 17:00
+Deslocado Itaim dia anterior
+
+
+MARCOS ROGERIO PEREIRA MACHADO FILHO ==========
+21/09 Alpha - Marcos saída 16:50h
+23/09 Villa  -  Marcos saída 16:00
+25/09 Villa  -  Marcos entrada 8:30
+
+
+MARIA CAROLINA CELIA SILVEIRA ==========
+13/09 VNS - M. Carolina (dispensada por motivo de saúde)
+20/09 VNS - M. Carolina saída 16:40
+23/09 AVICCENA  -  M. Carolina entrada 04:50
+
+
+MARIANA DARDENGO BORGES ==========
+17/09 ITAIM - M. Dardengo saída 12:50
+20/09 Jabaquara - M. Dardengo saída 00:10
+
+
+MARIANA GASPARELLI DE SOUZA ==========
+12/09 Morumbi - Mariana Gasparelli entrada 06h
+12/09 Morumbi - Mariana Gasparelli saída 16:20
+14/09 Osasco Mariana Gasparelli saída 17:10 ( deslocada Morumbi)
+18/09 Morumbi Mariana Gasparelli entrada 06h
+19/09 Morumbi Mariana Gasparelli entrada 06:00
+21/09 Villa Mariana Gasparelli saída 17:20
+25/09 Morumbi  -  Mariana Gasparelli entrada 06:20h
+
+
+MARIANA OLIVEIRA DE TOLEDO ==========
+15/09 OSASCO- toledo saída 15:40
+19/09 - Jabaquara- toledo saída 15:30
+22/09 jabaquara toledo saída 16:35
+
+
+MARINA BORGES CURRALO ==========
+20/9 Maternidade Marina saída 17:20
+21/9 Maternidade Marina saída 16:20
+
+
+MATHEUS ACQUESTA GAUBEUR ==========
+24/09 Villa  -  Matheus saída 13:00 (deslocado Morumbi)
+
+
+MATHEUS DE ALENCAR ARRAES ==========
+10/09 ALPHA Arraes entrada 06:00
+13/09 ITAIM Arraes entrada 08h
+15/09 JABAQUARA Arraes entrada 05:20 / saida 12:15 (EXTRA)
+23/09 JABAQUARA Arraes saida 14:40
+
+
+MATHEUS VIANA LEMO ==========
+18/09 jabaquara Viana (D3R EXTRA)
+20/09 Jabaquara Viana saída 12:30 (EXTRA)
+23/09 Jabaquara Viana saída 15:30
+
+
+MILTON OLAIO NETO ==========
+13/9-Itaim Olaio saída 17h45
+
+
+MIRELA FARIAS FIGUEIROA ==========
+12/09 - Morumbi - Mirela saída 14:25
+23/09  -  Jabaquara  -  Mirela saída 16:00
+
+
+NATAN SOARES SILVEIRA ==========
+13/09 Osasco - Natan Saída 00:00 (distância)
+22/09 Osasco Natan Saída 14:20
+
+
+NATHALIA FANUCCI OLIVEIRA DI JORGE ==========
+10/09 OSASCO Nathália saída 11:10
+13/09 VNS Nathália saída 17:45 (deslocada ANALIA)
+17/09 OSASCO Nathália saída 12:30 (deslocada ANÁLIA)
+
+
+NELIANE GUEDES PRETTI ==========
+10/09 Jabaquara Neliane saída 10:30 (pós plantão)
+15/09 Jabaquara Neliane saída 16:40
+
+
+NORIVAL SCANDELAI JUNIOR ==========
+10/09 Jabaquara - Norival Entrada 6:00 ( deslocado Morumbi )
+10/09 Jabaquara - Norival saída 11:05 ( deslocado Morumbi )
+21/09 Itaim - Norival Saída 12:20
+22/09 Morumbi - Norival saída 12:35  EXTRA
+26/09 ITAIM  -  Norival Entrada 4:20 Deslocado Morumbi
+26/09 Itaim  -  Norival Saída 14:15 Deslocado Morumbi
+
+
+PALOMA KIYOMI TAGUCHI ==========
+19/09 ANÁLIA- Paloma saida 23:35
+
+
+PATRICK ALEXANDER SUER SCHUES ==========
+10/09 Jabaquara - Patrick saída 11:40
+12/09 Analia - Patrick saída 18:20 (deslocado do Villa no dia anterior)
+14/09 Osasco - Patrick saída 19:35 (deslocado Jabaquara)
+16/09 Jabaquara - Patrick saída 17:52 (deslocado do Morumbi)
+21/09 Osasco - Patrick saída 19:50 (deslocado do Jabaquara no dia anterior)
+
+
+PAULA ANGELICA PINHA NEVES ==========
+22/09 ANÁLIA - Paula Neves saída 15:50
+
+
+PAULA LOPES AGAPITO DE FREITAS ==========
+12/09 - Paula A - saída 21:10 - Aviccena ( deslocada Anália)
+
+
+PEDRO AUGUSTO TAVARES DALL AGLIO ==========
+19/09 Anália - Tavares - saída 15:25
+26/09 Anália  -  Tavares  -  saída 14:45 ( pós plantão )
+
+
+PEDRO HENRIQUE MILHOMENS DA MOTA ==========
+22/09 Itaim Mota saída 20h
+24/09 Jabaquara Mota entrada 5h30 (deslocado VNS)
+24/09 Jabaquara Mota saída 12h50 (deslocado VNS)
+
+
+PEDRO TIAGO BONFITTO ==========
+10/09 Itaim Bonfitto saída 11:40
+15/09 analia - Kaie saida 16:05 (deslocamento itaim)
+19/09 OSASCO Bonfitto entrada 06:00
+23/09 ANÁLIA  -  Bonfitto saída 16:20 (pós plantão  -  deslocado ITAIM)
+
+
+RAFAEL TADEU MARQUES ==========
+13/09 Jabaquara Rafael tadeu saída 13:40h ( EXTRA) assumo rotina João até 19:00h
+16/09 Anália Rafael tadeu saída 18:10 ( deslocado VNS)
+20/09 Jabaquara Rafael tadeu saída: 13:00 (EXTRA) assumo rotina Joåo até 19:00
+21/09Jabaquara Rafael tadeu saída: 15:20
+
+
+RENATA PINHEIRO MODOLO ==========
+10/09 Anália R. Modolo entrada 6:00 (deslocamento Itaim)
+19/09 Jabaquara R. Modolo saída 15h45
+
+
+RENATA TOGEIRO BASTOS GODOY DE FARIA ==========
+12/09 MORUMBI - Renata Togeiro saída 16:20
+14/09 MORUMBI - Renata Togeiro entrada 5:30
+
+
+RENATA TORRES BUENO ==========
+13/09 Analia - Renata Bueno saída 14:15
+
+
+RENATO DOS SANTOS BOREGA ==========
+12/09 Villa - Renato saída 17:40
+19/09 Villa Renato- saída 17:30
+
+
+RICARDO BARBOSA VIANA FILHO ==========
+1609 Aviccena Barbosa saída 19:40
+18/09 Anália Barbosa entrada 07:00 (D3R)
+18/09 Anália Barbosa saída 13:15 (D3R)
+23/09 Aviccena Barbosa saída 14:10
+
+
+RICARDO GIRALDELLI CARVALHO LIMA ==========
+15/09 OSASCO - Giraldelli saída 16:15
+19/09 AVICCENA - Giraldelli saída 14:00 (pós plantão, deslocado VL)
+22/09 JABAQUARA - Giraldelli saída 16:50
+24/09 ANALIA  -  Giraldelli saída 13:50 (pós plantão, deslocado Osasco)
+
+
+RICARDO IVO DE LIMA ==========
+23/09  -  EXTRA  -  Morumbi  -  Ricardo Ivo Saída  -  12:15h
+
+
+RICARDO KAWAURA ==========
+10/09 Osasco Kawaura (deslocado Morumbi)saída 14:20
+10/09 Osasco-kawaura (deslocado Morumbi)-entrada 06:00
+14/09 Osasco kawaura dispensado por motivo de saúde
+17/09 Osasco kawaura (dispensado por motivo de saúde)
+
+
+RODRIGO ACHUI HAGA ==========
+14/09 ANALIA - haga saida 19:25 (deslocado villa)
+15/09 VILLA - haga saida 15:40
+17/09 OSASCO - haga saida 12:25
+
+
+RODRIGO ANDRADE CARMELLO ==========
+26/09 VNS  -  Carmello saída 14:40 (pós plantão)
+
+
+RODRIGO ANTONIO REY GONZALEZ ==========
+15/09 OSASCO - Rey saida 14:30
+16/09 VILLA - Rey entrada 06:00
+24/09 ITAIM  -  Rey saida 10:50
+
+
+RODRIGO DE CARVALHO SILVA ==========
+13/09 Itaim - Carvalho - Saída 15h40
+19/09 Jabaquara - Carvalho - Saída 15h40
+21/09 Itaim - Carvalho - Saída 09h50
+22/09 Itaim - Carvalho - Saída 21h
+24/09 Itaim  -  Carvalho  -  Entrada 06h
+
+
+RODRIGO GIOVANELLI CONSTANTINO ==========
+17/09 São Caetano- Giovanelli entrada 07:00
+24/09 Villa Giovanelli entrada 06:00 (deslocado VNS)
+24/09 Villa Giovanelli saída 13:35 (deslocado VNS)
+
+
+RODRIGO MIYASHIRO NUNES DOS SANTOS ==========
+10/09 JABAQUARA - Miyashiro entrada 05:40 (deslocamento MORUMBI)
+10/09 JABAQUARA - Miyashiro saida 11:10 (deslocamento MORUMBI)
+13/09 MORUMBI - Miyashiro entrada 17:10 (assumo rotina Daniellen)
+
+
+ROGERIO SIDNEY THON ==========
+13/09 Itaim Rogério saída 16:20h
+
+
+RONALD FIGUEIREDO GOMES ==========
+17/09 JABAQUARA - Ronald saída 11:15 (EXTRA)
+20/09 ANÁLIA - Ronald saída 17:10
+21/09 JABAQUARA - Ronald saída 10:10 (EXTRA)
+22/09 ANÁLIA - Ronald saída 16:25
+24/09 MORUMBI  -  Ronald saída 11:00 (pós plantão  -  Deslocado do Jabaquara)
+26/09 JABAQUARA  -  Ronald saída 14:40 (pós plantão)
+
+
+SABRINA DE SOUZA RAMOS ==========
+15/09 Jabaquara Sabrina 19:35
+16/09 Jabaquara Sabrina saída 22:40
+19/09 Jabaquara Sabrina saída 13:00 (deslocada do Villa Lobos)
+22/09 Jabaquara Sabrina saída 17:10
+
+
+SHEILA ITIROCO MONTE ==========
+22/09 ITAIM Sheila saída 13:00
+
+
+SIDNEY ORLANDO DE SOUZA ==========
+14/09-Itaim -Sidney-entrada as 06:00 (e saida as 19:00)
+20/09- Itaim-Sidney-entrada as 06:05 e saida as 21:10
+21/09-Itaim - Sidney- saida: 15:50
+22/09-Itaim-Sidney-entrada- 05:30 e saida 20:05
+
+
+SILVIA ALINE DOS SANTOS ANDRADE ==========
+12/09 - Jabaquara - Silvia entrada 05:40
+19/09 - Jabaquara - Silvia saída 15:30
+21/09 - Jabaquara - Silvia saída 16:25
+
+
+STEFANY HELLEN SOUSA MARTINS ==========
+17/09 Jabaquara stefany saida 17:45
+23/09 Jabaquara stefany saida as 16:10
+
+
+THAIS CHAVES PINHEIRO ==========
+10/09 Itaim - T. Pinheiro saída as 09:25 (pós-plantão)
+12/09 Itaim - Pinheiro entrada as 19:00 (Assumo plantão noturno da Stefany)
+12/09 VNS - Pinheiro saída as 12:20 (EXTRA)
+13/09 VNS - Pinheiro saída as 16:55 (Pós-plantão/ deslocada Villa Lobos )
+15/09 Itaim - Pinheiro saída as 09:40 (EXTRA)
+19/09 Itaim - Pinheiro entrada as 19:00 (Assumo plantão no lugar da Stefany)
+
+
+THAIS MIRANDA RAMOS ==========
+17/09 ANÁLIA - Miranda entrada às 06 (deslocada Jabaquara)
+17/09 ANÁLIA - Miranda saída às 14h50 (deslocada Jabaquara dia anterior)
+22/09 OSASCO - Miranda saída às 16h40
+24/09 MORUMBI  -  Miranda saída às 16h
+
+
+THALES LUVISOTTO NEDER ==========
+13/09 Jabaquara - Thales saída 16:15
+20/09 Jabaquara - Thales saída 15:30
+22/09 Itaim - Thales saída 14:20
+23/09 Jabaquara  -  Thales saída 00:35
+
+
+THIAGO FRANCISCO MARTINS ==========
+12/09 ANALIA Thiago Martins saida 14:50
+24/09 ANALIA Thiago Martins saida 15:40 (deslocamento ITAIM)
+24/09 MATERNIDADE Thiago Martins entrada 19:00 (EXTRA)
+
+
+THIAGO SILVA PINTO ==========
+19/09 Anália  - T. Silva saída 15:05 ( pós plantão - deslocado OSASCO )
+
+
+TURIBIO RODRIGUES FREIRE NETO ==========
+19/09 Morumbi Turíbio Distância Entrada 06:10
+19/09 Morumbi Turíbio Saída 19:20
+
+
+VITOR MACIEL DE SOUSA PINTO ==========
+09/09 Morumbi - Maciel saída 19:10
+15/09 VILLA - Maciel saída 15:10
+20/09 ANÁLIA - Maciel saída 13:35 (pós plantão)
+23/09 Morumbi  -  Maciel saída 16:05
+
+
+VITOR OLIVEIRA ANDRE ==========
+10/09 Itaim Vitor saída 10:10
+24/09 Morumbi Vitor saída 11:55
+
+
+VIVIAN CRISTINE DOS ANJOS E SILVA ==========
+18/09 ANÁLIA Vivian entrada 08:30
+18/09 ANÁLIA Vívian saída 12:45
+
+
+VIVIANNA BOVERIO GALZERANI ==========
+13/08 Villa - Vivianna saída 19:10 (deslocada do Morumbi)
+13/09 Villa - Vivianna entrada 06:00 (deslocada do Morumbi)
+14/09 Morumbi - Vivianna saída 17:10
+17/09 Anália - Vivianna saída 14:40 (deslocada Osasco)
+24/09 Jabaquara  -  Vivianna saída 13:40 (deslocada do Morumbi)
+
+
+WANGLES PIGNATON DE PAULA ==========
+12/09 MORUMBI - Wangles: saída 14:40
+21/09 MORUMBI - Wangles saída 15:40 (pós-plantão)
+26/09 MORUMBI  -  Wangles saída 14:15
+
+
+YOKO HAYASHI ==========
+17/09 Alpha - Yoko saída 17:15 (deslocada Osasco)
+19/09 Jabaquara Yoko saída 16:40
+22/09 Osasco Yoko entrada 7:45 (atraso)
+
+
+YURI LUCAS DE SOUZA ==========
+13/09 Osasco - Souza saída 14:10 (deslocado Analia)
+16/09 Jabaquara - Souza saída 16:40 (deslocado Anália)
+17/09 Villa - Souza saída 12:40 (extra)
+22/08 Anália - Souza saída 13:15 (deslocado Osasco)
+
+
+
+
+[23/09/2022 11:43:02] Carlos Eduardo Corrêa Grilo: 23/09 Anália - Cadu saída às 11:40 (EXTRA)
+[23/09/2022 20:20:13] Carlos Eduardo Corrêa Grilo: 23/09 Anália - Cadu entrada às 13:00

@@ -1,0 +1,48 @@
+[29/01/2023 23:09:38] Bruno Ferraz de Campos Barone: 29/01 VNS Barone saida 22:30
+[30/01/2023 04:42:27] Carlos Augusto Trevisan: 30/01 ITAIM Carlos entrada 4:30
+[30/01/2023 05:10:43] Marcelo Felipe de Souza Buto: 30/01 Jabaquara - Buto entrada 4:50 (deslocado Morumbi)
+[30/01/2023 05:52:19] Rafael Tadeu Marques: 30/01 Jabaquara Rafael tadeu entrada 05:20
+[30/01/2023 05:53:59] Fabiana Soares Gama: 30/01 Anália Fabiana Gama entrada as 05:45
+[30/01/2023 05:55:26] Mariana Dardengo Borges: 30/01 SANTA ISABEL - M. Dardengo entrada 05:10
+[30/01/2023 06:00:59] Vitor Oliveira André: 30/01 Jabaquara Vitor entrada 06:00
+[30/01/2023 06:01:24] Rodrigo Andrade Carmello: 30/01 Jabaquara - Carmello entrada 04:50 (deslocado Morumbi)
+[30/01/2023 06:02:06] Eduardo Arbache Bezerra: 30/01 Itaim - Bezerra entrada as 05:30
+[30/01/2023 06:02:15] Ronald Figueiredo Gomes: 30/01 OSASCO - Ronald entrada 05:40
+[30/01/2023 06:03:13] Ricardo Giraldelli Carvalho Lima: 30/01 OSASCO - Giraldelli entrada 06:00 (deslocado AF)
+[30/01/2023 06:03:52] Thiago Barreto Marques Da Silva: 30/01 Villa - Naldo - entrada 5:30 (EXTRA)
+[30/01/2023 06:04:50] Mirela Farias Figueiroa: 30/01 Santa Isabel - Mirela entrada 06:00
+[30/01/2023 06:05:06] Norival Scandelai Junior: 30/01 Morumbi - Norival entrada 5:20
+[30/01/2023 06:05:12] Renata Togeiro Bastos Godoy de Faria: 30/01 MORUMBI - Renata Togeiro entrada 6:00
+[30/01/2023 06:09:15] Bruce Ye Man Chow: 30/01 Morumbi - bruce entrada 06:00
+[30/01/2023 06:28:57] Juliano Moisés Tobal: 30/01 Jabaquara Juliano Tobal entrada 05:20
+[30/01/2023 06:37:42] Marcos Rogério Pereira Machado Filho: 30/01 Aviccena - Marcos entrada 6:00
+[30/01/2023 06:42:29] Rogério Sidney Thon: 30/01 Morumbi Rogério entrada 4:30h
+[30/01/2023 06:53:35] Leandro Oliveira Martins Côrtes: 30/01 OSASCO - Côrtes entrada 06:00 (deslocado Itaim)
+[30/01/2023 06:54:46] Anna Beatriz Aranha Trevisan: 30/01 MORUMBI - Anna Beatriz entrada 05:30
+[30/01/2023 07:02:17] Emerson Domingos Da Costa: 29/01 JABAQUARA Emerson - D3B EXTRA saída 11:00
+[30/01/2023 07:07:57] Emerson Domingos Da Costa: 29/01 JABAQUARA Emerson - entrada 07:00
+[30/01/2023 07:24:24] Camila Chiarantano Harrison: 30/01 Jabaquara Camila Entrada 05:20
+[30/01/2023 07:44:55] Renata Pinheiro Modolo: 30/01 Jabaquara R. Modolo entrada 6:00
+[30/01/2023 07:45:41] Diego da Cunha Tomaz: 30/01 Santa Diego entrada 6:00
+[30/01/2023 07:47:58] Matheus Viana Lemo: 30/01 Jabaquara Viana entrada 06:45 (extra)
+[30/01/2023 08:34:25] Gabriella Gadelha Sarmento: 30/01 Itaim - Gabriella entrada 06:00
+[30/01/2023 08:40:13] Kaiê Fernandes: 30/01 Itaim Kaie entrada 6:00
+[30/01/2023 09:05:21] Turibio Rodrigues Freire Neto: 30/01 Morumbi Turíbio Distância Entrada 06:20
+[30/01/2023 09:14:19] Maiely Marcolin: 30/01 Itaim - Maiely saida 09:10 (Extra)
+[30/01/2023 09:19:19] Hedicleber Pestana Severino: 30/01 Villa Hedicleber entrada 05:40(extra)
+[30/01/2023 09:48:17] Luiz Guilherme Thomaz Zacharias: 30/01 ITAIM - Guilherme entrada 7:00 (EXTRA)
+[30/01/2023 09:48:30] Luiz Guilherme Thomaz Zacharias: 30/01 ITAIM - Guilherme saída 9:45 (EXTRA)
+[30/01/2023 11:44:57] Natan Soares Silveira: 30/01 Itaim - Natan - saída 11:30 (deslocado Anália/ pós plantão)
+[30/01/2023 12:39:00] Gustavo Marques Da silva: 30/01 Itaim - Marques saída 12:00 (pós plantão Maternidade)
+[30/01/2023 12:40:02] Thais Chaves Pinheiro: 30/01 Itaim - Thaís saída 12:40 (pós-plantão/ deslocada Osasco)
+[30/01/2023 12:54:59] Álvaro Lázaro Ráo Regonato: 30/01 Villa lobos Ráo saída 12:54 ( extra )
+[30/01/2023 13:12:28] Matheus Viana Lemo: 30/01 Jabaquara Viana saída 12:45 (extra)
+[30/01/2023 13:14:09] Alexsander Takashi Hamada: 30/01  Jabaquara   Alexsander saída  13:10 ( pos Plantao da Maternidade)
+[30/01/2023 13:24:18] Daniel Masuzaki Wong: 30/01 Jabaquara - Wong saída 13:10 (pós plantão)
+[30/01/2023 13:42:31] Rodrigo Antonio Rey Gonzalez: 30/01 SANTA ISABEL - Rey saida 12:50 (pós-plantão)
+[30/01/2023 13:42:52] Carlos Augusto Trevisan: 30/01 ITAIM - Carlos saída 13:30
+[30/01/2023 13:49:40] Marcelo Felipe de Souza Buto: 30/01 Jabaquara - Buto saída 13:45 (deslocado Morumbi)
+[30/01/2023 14:17:53] Eduardo Arbache Bezerra: 30/01 Itaim - Bezerra saida as 14:17
+[30/01/2023 14:40:24] Carlos Eduardo Corrêa Grilo: 30/01 Anália Entrada 07:00 (EXTRA)
+[30/01/2023 14:40:24] Carlos Eduardo Corrêa Grilo: 30/01 Anália Saída 14:40 (EXTRA)
+[30/01/2023 14:44:33] Everton Sidney da Conceição Carvalho: 30/01 Osasco Everton saída 14:10 (EXTRA)

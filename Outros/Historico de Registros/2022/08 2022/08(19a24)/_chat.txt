@@ -1,0 +1,375 @@
+[19/08/2022 15:10:03] Patrick Alexander Suer Schues: 19/08 Aviccena - Patrick saída 15:10
+[19/08/2022 15:15:11] Carlos Eduardo Corrêa Grilo: 19/08 - Anália Cadu saída às 15:10h (EXTRA)
+[19/08/2022 15:16:31] Manoel de Souza Neto: 19/08 Anália Manoel Saída 15:15 (EXTRA)
+[19/08/2022 15:22:16] Gabriel Gondim Fonseca: 19/08 Morumbi Gondim entrada 13:00 (rendo Koga)
+[19/08/2022 15:22:26] Maiely Marcolin: 19/08 Alpha - Maiely saída 15:10
+[19/08/2022 15:22:34] Gabriel Gondim Fonseca: 19/08 Morumbi Gondim saída 15:20
+[19/08/2022 15:23:41] Kaiê Fernandes: 19/08 itaim Kaie entrada 7:00 (EXTRA)
+[19/08/2022 15:24:02] Kaiê Fernandes: 19/08 itaim Kaie saída 15:20 (EXTRA)
+[19/08/2022 15:32:14] Paula Angélica Pinha Neves: 19/08 ANÁLIA - Paula Neves saida 15:30 ( EXTRA)
+[19/08/2022 15:49:33] Marcos Rogério Pereira Machado Filho: 19/08 Villa - Marcos saída 15:45 (EXTRA)
+[19/08/2022 16:01:19] Bruno Ferraz de Campos Barone: 19/08 VNS Barone saída 15:45
+[19/08/2022 16:03:35] Bruna Daibert Danesin: 19/08 Anália Bruna saída 16:00
+[19/08/2022 16:11:59] Alexandre Bernardino: 19/08 - Analia - Alexandre - entrada 05:45
+[19/08/2022 16:12:15] Alexandre Bernardino: 19/08 - Analia - Alexandre - saida 16:05
+[19/08/2022 16:13:30] Mirela Farias Figueiroa: 19/08 - Jabaquara - Mirela saída 16:10
+[19/08/2022 16:21:19] Milton Olaio Neto: 19/8-Itaim Olaio entrada 6:00 e saída 16:00
+[19/08/2022 16:38:04] Beatriz Antipou dos Santos: 19/08-Analia- Antipou- Saída 16:35
+[19/08/2022 16:40:30] Leandro Kendi Kanada: 19/08 Anália Leandro kanada saida 16:35
+[19/08/2022 16:46:51] Francisco Antonio Alves Bonatto: 19/08 VILLA - Francisco saída 16:45
+[19/08/2022 16:57:50] Estanrley Barcelos Pinto: 19/08 ANÁLIA-Estanrley Saida: 16h:30
+[19/08/2022 17:00:09] Luiz Augusto Xavier Brandão: 19/08 Osasco Luiz Augusto saída 17:00 hs
+[19/08/2022 17:00:33] Rafael Tadeu Marques: 19/08 Itaim Rafael tadeu Saída: 17:00h ( deslocado VNS)
+[19/08/2022 17:03:16] Mariana Dardengo Borges: 19/08 Morumbi - M. Dardengo saída 16:40
+[19/08/2022 17:12:17] Maria Cecília Domingues da Silva Soares: 19/08 VILLA - M. Cecília saída 17:12
+[19/08/2022 17:21:19] Matheus Acquesta Gaubeur: 19/08 Anália Matheus saída 17:10
+[19/08/2022 17:24:41] Mariana Oliveira De Toledo: 19/08 MORUMBI- toledo saída 17:10
+[19/08/2022 17:30:17] Paloma Kiyomi Taguchi: 19/08 ANÁLIA- Paloma saída 17:10
+[19/08/2022 17:35:39] Carlos Augusto Trevisan: 19/08 MORUMBI - Carlos saída 8:00 EXTRA)
+[19/08/2022 18:00:52] Bruno Stornioli Taguchi Lemos: 19/08 Jabaquara - Bruno Lemos saida 17:45
+[19/08/2022 18:04:05] Luciano Angelo Richetti: 19/08 ITAIM Luciano saída 17:05
+[19/08/2022 18:11:03] Renato dos Santos Borega: 19/08 Villa - Renato entrada 6:00 saída 17:00
+[19/08/2022 19:03:35] Ana Jung Docko: 19/08 ANALIA Ana saída 17:20
+[19/08/2022 19:06:57] Yoko Hayashi: 19/08 Osasco Yoko entrada 6:00
+[19/08/2022 19:08:49] Ricardo Giraldelli Carvalho Lima: 19/08 OSASCO - Giraldelli saída 19:00 (Candeo assume plantão)
+[19/08/2022 19:17:52] Daniel Masuzaki Wong: 19/08 Jabaquara - Wong saída 19:15h
+[19/08/2022 19:24:49] Caroline Firmino Lemes da Silva: 19/08 Osasco Lemes saída 19:24
+[19/08/2022 19:54:15] Eduardo Arbache Bezerra: 19/08 Analia - Bezerra saida as 19:30
+[19/08/2022 20:10:03] Vitor Maciel de Sousa Pinto: 19/08 Morumbi  - Maciel saída 20:10
+[19/08/2022 20:10:36] Karen Yumi Miyashiro: 19/08 Itaim - Yumi saída 20:00h
+[19/08/2022 20:14:52] Flavio Hideki Oshika: 19/08 morumbi - Flavio entrada 06:00
+[19/08/2022 20:15:02] Flavio Hideki Oshika: 19/08 morumbi - Flavio saida 20:10
+[19/08/2022 20:22:46] Ricardo Barbosa Viana Filho: 19/08 Aviccena - Barbosa saída 20:10
+[19/08/2022 20:23:30] Thales Luvisotto Neder: 19/08 Jabaquara - Thales saída 20:20
+[19/08/2022 20:26:01] Maria Carolina Célia Silveira: 19/08 ITAIM - M. Carolina saída 20:10
+[19/08/2022 20:42:54] Elaine Imaeda de Moura: 19/08 Osasco Elaine saída 20:40
+[19/08/2022 20:42:59] Larissa Mayumi Ono: 19/08 Itaim Larissa - saída 20:40
+[19/08/2022 20:48:43] Mônica Robles Gonçalves: 19/08 Itaim Mônica saída 20:40
+[19/08/2022 20:56:54] Pedro Henrique Milhomens da Mota: 19/08 Itaim Mota entrada 6h20 saída 20h40
+[19/08/2022 21:06:48] Anna Beatriz Aranha Trevisan: 19/08 MORUMBI - Anna Beatriz entrada 06:00
+[19/08/2022 21:07:09] Anna Beatriz Aranha Trevisan: 19/08 MORUMBI - Anna Beatriz saída 21:05
+[19/08/2022 21:08:19] Rodrigo Miyashiro Nunes dos Santos: 19/08 MORUMBI - Miyashiro saida 21:05
+[19/08/2022 21:17:55] Eduardo Dala Rosa Soares: 19/08 Itaim- Soares saída 21:15
+[19/08/2022 21:21:56] Natan Soares Silveira: 19/08 Itaim - Natan - saída 21:10
+[19/08/2022 21:41:38] Karen Peixoto Ricci: 19/08 VNS Karen entrada 4:45 (deslocamento Alpha - cirurgia a pedido)
+[19/08/2022 21:41:52] Karen Peixoto Ricci: 19/08 VNS Karen saída 17:15
+[19/08/2022 21:43:00] Cláudio Mueller Kakuda: 19/08 Itaim - Kakuda saida 19:40 (deslocado Maternidade)
+[19/08/2022 22:06:36] Matheus de Alencar Arraes: 19/08 JABAQUARA Arraes saida 22:05
+[19/08/2022 22:08:55] Luccas Varela Godoy: 19/8 Osasco Luccas saída 22:00
+[19/08/2022 22:17:05] José Carlos Tuna Scarpa: 19/08 Jabaquara José Carlos Saída 22:12
+[19/08/2022 22:21:48] Aline Franchini Goulart Lima: 19/08 Villa Aline saída 22:00
+[20/08/2022 02:51:44] Filipe Maeda Hashi Abdalla Martins: 19/08 Osasco Maeda saída 2:50 (distância)
+[20/08/2022 05:16:12] Luciano Angelo Richetti: 20/08 ITAIM Luciano entrada 4h40
+[20/08/2022 05:18:23] Karen Peixoto Ricci: 20/08 VNS Karen entrada 4:40 (deslocamento Maternidade - distância)
+[20/08/2022 05:23:38] Thales Luvisotto Neder: 20/08 Morumbi - Thales entrada 5:15
+[20/08/2022 05:31:17] Paula Lopes Agapito de Freitas: 20/08 - Anália - Paula A - entrada 05:30 (deslocado Jabaquara)
+[20/08/2022 05:37:36] Vivian Cristine dos Anjos e Silva: 20/08 VILLA Vivian entrada 05:35
+[20/08/2022 05:47:15] Paola Rodrigues Oshiro: 20/08 VILLA Paola entrada 05:45h
+[20/08/2022 05:54:23] Bianca Priscila Buniotti: 20/08 Itaim - Bianca entrada 05:45
+[20/08/2022 05:58:05] Izabella Gontijo Cunha: 20/08 JABAQUARA - Izabella entrada 06:00
+[20/08/2022 06:00:10] Larissa Mayumi Ono: 20/08 Itaim Larissa - entrada 06:00
+[20/08/2022 06:01:27] João Theodoro de Medeiros Neto: 20/08 Anália - João entrada 06:00
+[20/08/2022 06:19:17] Pedro Tiago Bonfitto: 20/08 VILLA Bonfitto entrada 05:10
+[20/08/2022 06:34:40] Mariana Dardengo Borges: 20/08 Itaim - M. Dardengo entrada 06:00
+[20/08/2022 07:02:56] Ronald Figueiredo Gomes: 20/08 MORUMBI - Ronald entrada 6:00
+[20/08/2022 07:03:27] Pedro Henrique Milhomens da Mota: 20/08 Anália Mota entrada 6h00 (deslocado Alphamed)
+[20/08/2022 08:58:50] Yoko Hayashi: 20/08 Osasco Yoko entrada 6:00
+[20/08/2022 10:21:39] Neliane Guedes Pretti: 20/08 Jabaquara Neliane saída 10:20 (pós plantão)
+[20/08/2022 10:21:42] Vitor Oliveira André: 20/08 Jabaquara Vitor saída 10:20 (EXTRA)
+[20/08/2022 10:21:50] Felipe Coelho De Souza: 20/08 - Itaim - Felipe Coelho Saída 10:20 (EXTRA)
+[20/08/2022 10:21:52] Fábio Antônio de Souza Oliveira: 20/08 Itaim Fábio saída 10:20
+[20/08/2022 10:33:32] Diogo Candeo Rodrigues Cordeiro: 20/08 Osasco - Candeo saída às 10:30 (EXTRA)
+[20/08/2022 11:07:43] Thales Luvisotto Neder: 20/08 Morumbi - Thales saída 11:00
+[20/08/2022 11:09:15] Daniellen Lins Lourenço: 20/08 MORUMBI- Daniellen saída 11:00
+[20/08/2022 11:11:27] Nathalia Fanucci Oliveira Di Jorge: 20/08 OSASCO Nathália saída 10:35
+[20/08/2022 11:23:00] Ronald Figueiredo Gomes: 20/08 MORUMBI - Ronald saída 11:20
+[20/08/2022 11:31:58] Eduardo Arbache Bezerra: 20/08 Morumbi - Bezerra entrada as 05:30
+[20/08/2022 11:48:29] Diogo Henrique Pereira Mattos: 20/08 ITAIM - Diogo saída 11:46
+[20/08/2022 11:50:47] André da Costa Aguiar Ventura: 20/08 MORUMBI Ventura entrada 5:45
+[20/08/2022 12:11:36] Beatriz Antipou dos Santos: 20/08- Anália Antipou saída 12:10 (deslocado Jabaquara)
+[20/08/2022 12:20:28] André da Costa Aguiar Ventura: 20/08 MORUMBI Ventura saida 12:10
+[20/08/2022 12:23:08] Pedro Henrique Milhomens da Mota: 20/08 Anália Mota saída 12h22 (deslocado Alphamed)
+[20/08/2022 12:23:25] Francisco José Lucena Bezerra: 20/08 ANÁLIA - Lucena saída 12:10
+[20/08/2022 12:36:23] Thiago Silva Pinto: 20/08 Villa - Thiago Silva saída às 12:20 (EXTRA)
+[20/08/2022 12:52:30] Vivianna Bovério Galzerani: 20/08 Osasco Vivianna saída 12:40
+[20/08/2022 12:52:48] Larissa Mayumi Ono: 20/08 Itaim Larissa - saída 12:15
+[20/08/2022 13:06:03] Patrick Alexander Suer Schues: 20/08 Morumbi - Patrick entrada 06:20
+[20/08/2022 13:06:18] Patrick Alexander Suer Schues: 20/08 Morumbi - Patrick saída 13:05
+[20/08/2022 13:13:11] Débora Philippi Bressane: 20/08 Itaim Débora Bressane saída 12h45
+[20/08/2022 13:13:30] Luccas Varela Godoy: 20/8 Osasco Luccas saída 13:10
+[20/08/2022 13:13:43] Gabriela Soares Piassi: 20/08 ANALIA - Piassi saida 12:45 (deslocado VNS)
+[20/08/2022 13:30:08] Leticia Fernandes Borges: 20/08 Morumbi - Leticia saída 13:20
+[20/08/2022 13:34:49] Bruno Stornioli Taguchi Lemos: 20/08 Jabaquara - Bruno Lemos entrada 06:00 (deslocado Aviccena)
+[20/08/2022 13:42:54] Ricardo Giraldelli Carvalho Lima: 20/08 VILLA - Giraldelli saída 13:30 (extra)
+[20/08/2022 13:49:52] Vanessa Paciullo Marossi: 20/08 ANÁLIA - Vanessa saída 13:50
+[20/08/2022 13:49:54] Paula Lopes Agapito de Freitas: 20/08 - Anália - Paula A - saída - 13:40hs ( deslocado Jabaquara)
+[20/08/2022 13:53:48] Orlando Domingues de Araújo Pontes: 20/08 ANÁLIA - Orlando saída 13:53
+[20/08/2022 13:53:59] João Theodoro de Medeiros Neto: 20/08 Anália João saída 13:40
+[20/08/2022 13:58:01] Izabella Gontijo Cunha: 20/08 JABAQUARA - Izabella saída 13:40
+[20/08/2022 14:04:26] Estanrley Barcelos Pinto: 20/08 OSASCO-Estanrley saída: 14:00 (passo plantão para Everton)
+[20/08/2022 14:11:54] Bianca Priscila Buniotti: 20/08 Itaim - Bianca saída 13:40
+[20/08/2022 14:25:51] Sergio Zamith: 20/08 Itaim-ZAMITH saída 14:25hs.
+[20/08/2022 14:30:57] Marcelo dos Anjos Reis: 20/08 Morumbi Marcelo saida 14:20
+[20/08/2022 14:31:22] Marcelo Felipe de Souza Buto: 20/08 Morumbi - Buto saída 14:20
+[20/08/2022 14:40:36] Rafael Tadeu Marques: 20/08 VNS Rafael tadeu Saída: 14:40h ( EXTRA)
+[20/08/2022 14:45:47] Bruna Daibert Danesin: 20/08 Anália Bruna saída 14:35
+[20/08/2022 14:46:18] Everton Sidney da Conceição Carvalho: 20/08 Osasco Everton entrada 14:00 (substitundo Estanrley)
+[20/08/2022 14:50:12] Livia Schenkel Thurler Trairi: 20/08 VILLA - Livia saída 13:45
+[20/08/2022 14:56:24] Pedro Tiago Bonfitto: 20/08 VILLA Bonfitto saída 14:50
+[20/08/2022 15:01:08] Renata Torres Bueno: 20/08 Analia - Renata Bueno saída 14:45
+[20/08/2022 15:02:16] Fernando Ribeiro Sá: 20/08 VNS Ribeiro saída 15:00
+[20/08/2022 15:04:13] Vivian Cristine dos Anjos e Silva: 20/08 VILLA Vivian saída 15:00
+[20/08/2022 15:09:44] Renato dos Santos Borega: 20/08 Villa - Renato entrada 4:45 saída 14:40
+[20/08/2022 15:24:04] Maria Cecília Domingues da Silva Soares: 20/08 ANÁLIA - M. Cecília saída 15:18
+[20/08/2022 15:43:33] Andre Mortari Plá Gil: 20/8 itaim André saída 15:15h
+[20/08/2022 16:17:52] Paola Rodrigues Oshiro: 20/08 VILLA Paola saída 16:15
+[20/08/2022 16:25:17] Francisco Antonio Alves Bonatto: 20/08 ANÁLIA - Francisco saída 16:25
+[20/08/2022 16:26:53] Sheila Itiroco Monte: 20/08 ITAIM Sheila saída 16:26
+[20/08/2022 16:32:10] Alberto de Azevedo Alves Moreira: 20/08 Osasco - Alberto saída 16:20
+[20/08/2022 16:44:07] Rodrigo Antonio Rey Gonzalez: 20/08 JABAQUARA - Rey saida 16:40
+[15/08/2022 19:21:12] Camila Chiarantano Harrison: 15/08 Villa Camila Saida 19:20
+[16/08/2022 05:38:46] Camila Chiarantano Harrison: 16/08 Villa Camila Entrada 5:30
+[16/08/2022 19:47:04] Camila Chiarantano Harrison: 16/08 Villa Camila Saida 19:40
+[18/08/2022 22:02:30] Camila Chiarantano Harrison: 18/08 Villa Camila Saída 20:20
+[19/08/2022 20:11:29] Camila Chiarantano Harrison: 19/08 Villa Camila Saida 20:10
+[20/08/2022 05:53:06] Camila Chiarantano Harrison: 20/08 Villa Camila Entrada 6h
+[20/08/2022 16:12:07] Camila Chiarantano Harrison: 20/08 Villa Camila Saida 16:10
+[22/08/2022 07:22:06] Camila Chiarantano Harrison: 22/08 Villa Camila Entrada 6:00
+[22/08/2022 17:26:07] Camila Chiarantano Harrison: 22/08 Villa Camila Saida 17:10
+[23/08/2022 20:21:31] Camila Chiarantano Harrison: 23/08 Villa Camila Saida 20:20
+[20/08/2022 16:47:45] Ana Jung Docko: 20/08 OSASCO Ana saída 16:10
+[20/08/2022 16:50:48] Saullo Queiroz Silveira: 20/08 Aviccena saullo saída 16:30 (deslocado VNS)
+[20/08/2022 16:57:36] Paloma Kiyomi Taguchi: 20/08 ANÁLIA- Paloma saída 16:45
+[20/08/2022 17:03:28] Cláudio Mueller Kakuda: 20/08 Maternidade - Kakuda saida 16:40
+[20/08/2022 17:11:53] Matheus Viana Lemo: 20/08 Jabaquara Viana saída 17:10
+[20/08/2022 18:21:24] Ricardo Barbosa Viana Filho: 20/08 Jabaquara Barbosa saída 18:15
+[20/08/2022 18:36:06] Avelino José da Silva Freitas Junior: 20/08 Villa - Avelino saída 17:50
+[20/08/2022 18:54:07] Gretel Oliveira Nicolau: 20/08 Itaim- Gretel saida 18:30
+[22/08/2022 05:33:01] Elaine Imaeda de Moura: 22/08 Anália Elaine entrada 5:30
+[22/08/2022 05:35:29] Renata Togeiro Bastos Godoy de Faria: 22/08 MORUMBI - Renata Togeiro entrada 5:00
+[22/08/2022 05:45:39] Norival Scandelai Junior: 22/8 Morumbi - Norival  Entrada 5:30
+[22/08/2022 05:46:52] Gustavo Marques Da silva: 22/08 Itaim - Marques entrada 05:30
+[22/08/2022 05:48:36] Vivian Cristine dos Anjos e Silva: 22/08 VILLA Vivian entrada 05:45
+[22/08/2022 05:49:10] Vitor Oliveira André: 22/08 Jabaquara Vitor entrada 06:00
+[22/08/2022 05:49:15] Gabriel de Aguiar Santana: 22/08 ITAIM - Gabriel entrada 05:30
+[22/08/2022 05:56:16] Eduardo Dala Rosa Soares: 22/08 Itaim - Soares entrada 05:15
+[22/08/2022 06:01:51] Gabriella Gadelha Sarmento: 22/08 Itaim - Gabriella entrada 6:00
+[22/08/2022 06:11:31] Wangles Pignaton de Paula: 22/08 MORUMBI - Wangles: entrada 6 h 00 min
+[22/08/2022 06:28:44] Rogério Sidney Thon: 22/08 Morumbi Rogério entrada 5:20h
+[22/08/2022 06:32:16] Rodrigo Andrade Carmello: 22/08 Morumbi - Carmello entrada 06:00
+[22/08/2022 06:34:13] Marcelo Felipe de Souza Buto: 22/08 Jabaquara - Buto entrada 5:30
+[22/08/2022 06:37:20] Henri Roger Watanabe Oliveira: 22/08 Morumbi - Henri entrada as 06:00
+[22/08/2022 06:39:54] Carlos Eduardo Gondim Oliveira: 22/08 OSASCO - oliveira entrada 06:30
+[22/08/2022 06:49:34] Filipe Lugon Moulin Lima: 22/08 VNS - Filipe Lugon entrada 06:30
+[22/08/2022 07:05:26] Paula Angélica Pinha Neves: 22/08 VILLA - Paula Neves entrada 6:00
+[22/08/2022 07:25:45] Juliano Moisés Tobal: 22/08 Villa Juliano Tobal entrada 05h30
+[22/08/2022 07:31:40] Yuri Lucas De Souza: 22/08 Itaim - Souza entrada 06:00
+[22/08/2022 07:34:51] Ricardo Barbosa Viana Filho: 22/08 Anália - Barbosa entrada 06:00
+[22/08/2022 09:04:02] Turibio Rodrigues Freire Neto: 22/08 Morumbi Turíbio Entrada 06:20
+[22/08/2022 11:11:04] Bruce Ye Man Chow: 22/08 Morumbi -  bruce entrada 06:00
+[22/08/2022 11:11:16] Bruce Ye Man Chow: 22/08 Morumbi - bruce saida 07:00 (saúde)
+[22/08/2022 11:48:39] Matheus Viana Lemo: 22/08 Jabaquara Viana saída 11:40 (EXTRA)
+[22/08/2022 11:57:09] Marcelo dos Anjos Reis: 22/08 VNS Marcelo saida 11:45 (EXTRA)
+[22/08/2022 13:10:23] Rodrigo Miyashiro Nunes dos Santos: 22/08 JABAQUARA - Miyashiro saida 13:05 (EXTRA)
+[22/08/2022 13:29:36] Débora Philippi Bressane: 22/08 Villa Débora Bressane saída 13h15 (EXTRA)
+[22/08/2022 13:40:11] Beatriz Antipou dos Santos: 22/08- Itaim- Antipou- saída 13:40 (pós plantão)
+[22/08/2022 13:50:23] Rodrigo Antonio Rey Gonzalez: 22/08 OSASCO - Rey saida 13:40 (pós-plantão)(deslocado  AVICCENA)
+[22/08/2022 14:07:30] Henri Roger Watanabe Oliveira: 22/08 Morumbi - Henri saida as 13:40
+[22/08/2022 14:52:45] Sidney Orlando de Souza: 22/08-Itaim-Sidney-dntrada as 07:00 e saida: 14:25
+[22/08/2022 15:07:36] Thiago Silva Pinto: 22/08 OSASCO - Thiago Silva - saida 15:05 (pós-plantão)(deslocado  Alpha)
+[22/08/2022 15:11:10] Roberto Votto Melkan: 22/08 Morumbi Roberto saída 15:10
+[22/08/2022 15:26:46] Maurício Faria Tetti: 22/08 Analia Maurício saída 13:40 ( extra)
+[22/08/2022 15:43:20] Avelino José da Silva Freitas Junior: 22/08 Anália - Avelino saída 15:25
+[22/08/2022 15:45:20] Bianca Priscila Buniotti: 22/08 Osasco - Bianca saída 15:40 (pós-plantão)
+[22/08/2022 15:45:42] Kaiê Fernandes: 22/08 Alpha - Kaie saída 15h45
+[22/08/2022 15:48:30] Thiago Francisco Martins: 22/08 ANALIA Thiago Martins saida 15:45
+[22/08/2022 16:17:34] Antonio Álvaro Dias Lima da Cunha Neto: 22/08 AVICCENA - Álvaro saída 16:15
+[22/08/2022 16:20:03] Elaine Imaeda de Moura: 22/08 Anália Elaine saída 16:15
+[22/08/2022 16:23:23] Pedro Tiago Bonfitto: 22/08 VILLA Bonfitto saída 16:05 (EXTRA)
+[22/08/2022 16:29:31] Luccas Varela Godoy: 22/8 Osasco Luccas saída 16:30
+[22/08/2022 16:31:29] Norival Scandelai Junior: Saída 16:15
+[22/08/2022 16:37:23] Rogério Sidney Thon: 22/08  Morumbi Rogério saída 16:00
+[22/08/2022 16:46:41] Carlos Eduardo Corrêa Grilo: 22/08 - Anália Cadu saída às 16:40h
+[22/08/2022 16:47:09] Guilherme de Almeida Costa: 22/08 - AVICCENA COSTA SAIDA 16:47
+[22/08/2022 16:52:39] Eduardo Dala Rosa Soares: 22/07 VNS - Soares saída 16:45 ( deslocado Itaim)
+[22/08/2022 16:53:28] Gustavo Marques Da silva: 22/08 Itaim - Marques saída 16:45
+[22/08/2022 16:53:47] André Luis Xavier Franco: 22/08 Jabaquara Xavier Entrada 15:30 
+[22/08/2022 16:53:47] André Luis Xavier Franco: 22/08 Jabaquara Xavier Saída 16:45 (Aula dos residentes)
+[22/08/2022 16:56:38] Vivian Cristine dos Anjos e Silva: 22/08 VILLA Vivian saída 16:40
+[22/08/2022 17:17:49] Juliano Moisés Tobal: 22/08 Villa Juliano Tobal saída 16:40
+[22/08/2022 17:26:56] Yoko Hayashi: 22/08 Jabaquara Yoko entrada 5:35
+[22/08/2022 17:27:10] Yoko Hayashi: 22/08 Jabaquara saída 17:20
+[22/08/2022 17:45:37] Paula Angélica Pinha Neves: 22/08 VILLA Paula Neves saída 17:30
+[22/08/2022 17:58:22] Ronald Figueiredo Gomes: 22/08 JABAQUARA - Ronald saída 16:10 (pós plantão - deslocado de OSASCO)
+[22/08/2022 17:59:50] Daniel Rodrigues de Oliveira: 22/08 Itaim Daniel entrada 7:00
+[22/08/2022 18:00:12] Daniel Rodrigues de Oliveira: 22/08 Itaim Daniel saída 17:50
+[22/08/2022 18:05:06] Thais Miranda Ramos: 22/08 ANÁLIA - Miranda entrada às 6:00 saída às 17:50
+[22/08/2022 18:21:44] Carlos Augusto Trevisan: 22/08 ITAIM - Carlos entrada 5:30
+[22/08/2022 18:26:58] Pedro Augusto Tavares Dall Aglio: 22/08 Anália - Tavares - saída 18:26 ( deslocado Villa dia anterior )
+[22/08/2022 19:00:40] Thais Chaves Pinheiro: 22/08 Osasco - Thaís entrada 19:00 (Assumo plantão no lugar da Mirela)
+[22/08/2022 19:16:06] Everton Sidney da Conceição Carvalho: 22/08 Anália Everton saída 19:15
+[22/08/2022 19:17:07] Luciano Angelo Richetti: 22/08 ITAIM Luciano saída 19:15
+[22/08/2022 19:17:42] Ricardo Giraldelli Carvalho Lima: 22/08 ANALIA - Giraldelli saída 19:17
+[22/08/2022 19:21:02] Daniel Masuzaki Wong: 22/08 Jabaquara - Wong saída 19:20h
+[22/08/2022 19:21:08] Fernanda Teles Ribeiro: 22/08 Analia - Fernanda saída 19:20
+[22/08/2022 19:38:20] Matheus de Alencar Arraes: 22/08 HAOC - Arraes entrada 07h / saida 19:38
+[22/08/2022 19:47:01] Renato dos Santos Borega: 22/08 Villa - Renato saída 19:20
+[22/08/2022 19:47:44] Paula Lopes Agapito de Freitas: 22/08 - Paula A - Anália - saída - 19:45hs
+[22/08/2022 19:48:51] José Carlos Tuna Scarpa: 22/08 Anália José Carlos Saída 19:48
+[22/08/2022 19:50:40] Gabriel Gondim Fonseca: 22/08 - VNS - GONDIM - saída - 19:45hs
+[22/08/2022 19:53:25] Matheus Acquesta Gaubeur: 22/08 Anália Matheus saída 19:50
+[22/08/2022 19:57:29] Yuri Lucas De Souza: 22/08 Villa - Souza saída 16:45 (deslocado Itaim)
+[22/08/2022 19:58:22] José Marcos Vieira da Silva: 22/8 - Itaim José Marcos saída 19:15h
+[22/08/2022 20:06:06] Gretel Oliveira Nicolau: 22/08- Jabaquara- Gretel saida 19:30
+[22/08/2022 20:06:32] Anna Beatriz Aranha Trevisan: 22/08 MORUMBI - Anna Beatriz saída 19:40
+[22/08/2022 20:08:01] Luciana Venturini: 22/08- OSASCO- Luciana saída 20:05
+[22/08/2022 20:09:16] Renata Pinheiro Modolo: 22/08 Jabaquara R. Modolo saída 19:30
+[22/08/2022 20:09:41] Natan Soares Silveira: 22/08 Osasco - Natan saída 20:00 (deslocado do Itaim no dia anterior)
+[22/08/2022 20:14:35] Fábio Antônio de Souza Oliveira: 22/08 Itaim Fábio saída 20:10
+[22/08/2022 20:14:47] Felipe de Oliveira Nunes: 22/08 Osasco - Nunes saída 19:05 (deslocado do Jabaquara no dia anterior)
+[22/08/2022 20:22:58] Maira Leite Basile: 22/08 osasco Maíra saída 20:20
+[22/08/2022 21:10:41] Ricardo Kawaura: 22/08 Osasco kawaura saída 21:10
+[22/08/2022 22:23:27] Saullo Queiroz Silveira: 22/08 VNS Saullo entrada 06:00
+[23/08/2022 04:51:41] Filipe Lugon Moulin Lima: 23/08 VNS - Filipe Lugon entrada 04:50
+[23/08/2022 04:54:13] Gabriella Gadelha Sarmento: 23/08 Itaim - Gabriella entrada 05:00
+[23/08/2022 04:56:34] Luccas Varela Godoy: 23/8 Osasco Luccas entrada 4:50
+[23/08/2022 05:03:39] Roberto Votto Melkan: 23/8 Itaim Roberto entrada 4:20
+[23/08/2022 05:19:01] Gabriel Gondim Fonseca: 23/08 Villa Gondim entrada 05:20
+[23/08/2022 05:20:09] Izabella Gontijo Cunha: 23/08 Morumbi - Izabella entrada 05:20
+[23/08/2022 05:31:06] Karen Yumi Miyashiro: 23/08 Osasco - Yumi entrada 5:30 (deslocado Jabaquara)
+[23/08/2022 05:31:55] Fábio Antônio de Souza Oliveira: 23/08 Itaim Fábio entrada 5:20hs
+[23/08/2022 05:55:22] Amanda Kiyoko Souza Kossaka: 23/08 MORUMBI - Amanda entrada 05:20
+[23/08/2022 05:57:58] Débora Alves Aude: 23/08 Itaim Debora entrada 06:00
+[23/08/2022 05:58:52] Vivianna Bovério Galzerani: 23/08 Morumbi Vivianna entrada 06:00
+[23/08/2022 05:59:24] Vitor Oliveira André: 23/08 Jabaquara Vitor entrada 06:00
+[23/08/2022 06:03:21] Saullo Queiroz Silveira: 23/08 Jabaquara Saullo entrada 05:30
+[23/08/2022 06:03:52] Everton Sidney da Conceição Carvalho: 23/08 Osasco Everton entrada 06:00
+[23/08/2022 06:09:00] Renata Togeiro Bastos Godoy de Faria: 23/08 MORUMBI - Renata Togeiro entrada 6:00
+[23/08/2022 06:09:20] Ana Jung Docko: 23/08 VILLA Ana entrada 05:50
+[23/08/2022 06:10:05] Vivian Cristine dos Anjos e Silva: 23/08 VILLA Vivian entrada 06:10
+[23/08/2022 06:18:03] Sheila Itiroco Monte: 23/08 ANÁLIA Sheila entrada 06:00
+[23/08/2022 06:20:21] Nathalia Fanucci Oliveira Di Jorge: 23/08 ANALIA Nathália entrada 05:30
+[23/08/2022 06:21:11] Eduardo Dala Rosa Soares: 23/08 Itaim - Soares entrada 06:00
+[23/08/2022 06:30:57] Norival Scandelai Junior: 23/8 Morumbi - Norival Entrada 6:00
+[23/08/2022 06:32:44] Ivã Barbosa Soares: 23/08 Villa Ivã entrada 06:00
+[23/08/2022 06:46:38] Renata Torres Bueno: 23/08 Analia - Renata Bueno entrada 6:00
+[23/08/2022 06:47:54] Rodrigo Achui Haga: 23/08 OSASCO - haga entrada 05:40
+[23/08/2022 07:01:00] Felipe de Oliveira Nunes: 23/08 Jabaquara- Nunes entrada 6:10
+[23/08/2022 07:06:33] Alexsander Takashi Hamada: 23/08  Analia - Alexsander entrada as 6:00
+[23/08/2022 07:08:58] Gabriel de Aguiar Santana: 23/08 ANÁLIA - Gabriel entrada 06:00
+[23/08/2022 07:38:41] Antonio Álvaro Dias Lima da Cunha Neto: 23/08 AVICCENA - Álvaro entrada 6:20
+[23/08/2022 07:53:35] Rogério Sidney Thon: 23/08 Itaim Rogério entrada 6:00
+[23/08/2022 07:56:40] Matheus de Alencar Arraes: 23/08 ITAIM Arraes entrada 08h
+[23/08/2022 08:01:51] Maria Carolina Célia Silveira: 23/08 VNS M. Carolina - entrada 6:00
+[23/08/2022 08:05:13] Alexandre Bernardino: 23/08 - Villa - Alexandre - saida 08:05 (EXTRA)
+[23/08/2022 08:34:17] Karen Peixoto Ricci: 23/08 Morumbi Karen entrada 7:00 (Extra)
+[23/08/2022 08:36:28] Mariana Dardengo Borges: 23/08 Jabaquara - M. Dardengo entrada 06:00
+[23/08/2022 10:54:06] Luciano Angelo Richetti: 23/08 Osasco Luciano dispensa motivo de saúde
+[23/08/2022 11:14:45] Bruce Ye Man Chow: 23/08 Jabaquara - bruce dispensa (saúde)
+[23/08/2022 12:48:40] Matheus Acquesta Gaubeur: 23/06 Anália - Matheus saída saída 12:45 (EXTRA)
+[23/08/2022 13:30:36] Carlos Eduardo Gondim Oliveira: 23/08 ITAIM - oliveira saída 13:30 (EXTRA)
+[23/08/2022 14:06:25] Erick Oliveira Lima Gomes: 23/08 Jabaquara - Erick saída 14:00 (EXTRA)
+[23/08/2022 14:15:12] Maurício Faria Tetti: 23/08 Villa - Maurício saída 14:10 (extra)
+[23/08/2022 14:16:11] Fernando Akira Koga: 23/08 Itaim - Koga saída 14:15
+[23/08/2022 14:49:45] Karen Peixoto Ricci: 23/08 Morumbi Karen saída 14:45 (extra)
+[23/08/2022 14:55:58] Eduardo Dala Rosa Soares: 23/08 Itaim- Soares saída 14:55
+[23/08/2022 15:16:12] Amanda Kiyoko Souza Kossaka: 23/08 MORUMBI - Amanda saída 15:00 (deslocamento Itaim)
+[23/08/2022 15:33:10] Diogo Candeo Rodrigues Cordeiro: 23/08 Osasco - Candeo saída às 15:30
+[23/08/2022 15:47:57] Nathalia Fanucci Oliveira Di Jorge: 23/08 ANALIA Nathália saída 15:45
+[23/08/2022 15:50:12] Renata Torres Bueno: 23/08 Anália - Renata Bueno saída 15:45
+[23/08/2022 15:54:05] Gabriel de Aguiar Santana: 23/08 ANÁLIA - Gabriel saída 15:50
+[23/08/2022 16:00:43] Elaine Imaeda de Moura: 23/08 Anália Elaine saída 16:00
+[23/08/2022 16:03:22] Thais Chaves Pinheiro: 23/08 Osasco - Thaís saída as 16:00 (pós-plantão)
+[23/08/2022 16:07:31] Pedro Tiago Bonfitto: 23/08 VILLA Bonfitto saída 15:55 (EXTRA)
+[23/08/2022 16:12:36] Vanessa Paciullo Marossi: 23/08 ANÁLIA - Vanessa saída 16:10
+[23/08/2022 16:26:01] Izabella Gontijo Cunha: 23/08 Morumbi - Izabella saída 16:20 (deslocado Itaim)
+[23/08/2022 16:36:21] Alexsander Takashi Hamada: 23/08   Analia - Alexsander   saída as 15:45
+[23/08/2022 16:41:14] Rafael Tadeu Marques: 23/08 VNS Rafael tadeu Saída: 16:40h (EXTRA)
+[23/08/2022 16:42:06] Avelino José da Silva Freitas Junior: 23/08 villa Avelino entrada 05:50
+[23/08/2022 16:42:07] Avelino José da Silva Freitas Junior: 23/08 villa Avelino saída 16:40
+[23/08/2022 16:48:43] Sheila Itiroco Monte: 23/08 ANÁLIA Sheila saída 15:45
+[23/08/2022 17:08:07] Gabriel Gondim Fonseca: 23/08 Villa Gondim saída 17:05
+[23/08/2022 17:40:03] Matheus Viana Lemo: 23/08 Jabaquara Viana saída 17:40(EXTRA)
+[23/08/2022 18:30:02] Ronald Figueiredo Gomes: 23/08 JABAQUARA - Ronald saída 18:25 (deslocando Anália)
+[23/08/2022 18:42:23] Juliano Moisés Tobal: 23/08 Alpha Juliano Tobal entrada 06:20 Saída 17:30
+[23/08/2022 19:17:01] Fernando Ribeiro Sá: 23/08 Anália Ribeiro saída 19:15
+[23/08/2022 19:17:40] Paola Rodrigues Oshiro: 23/08- Anália Paola saída 19:15
+[23/08/2022 19:20:07] Anna Beatriz Aranha Trevisan: 23/08 MORUMBI - Anna Beatriz saída 19:20
+[23/08/2022 19:21:50] Kaiê Fernandes: 23/08 Jabaquara - kaie saída 18:30 (deslocado Itaim)
+[23/08/2022 19:22:44] Marcio Ighor Azevedo Silva De Mendonça Melania: 23/08 Anália - Ighor saída 19:15
+[23/08/2022 19:22:57] Daniel Rodrigues de Oliveira: 23/08 Itaim Daniel entrada 13:00
+[23/08/2022 19:23:16] Ricardo Ivo de Lima: 23/08 - Morumbi - Ricardo Ivo Saída - 19:20h
+[23/08/2022 19:23:16] Daniel Rodrigues de Oliveira: 23/08 Itaim Daniel saída 18:40
+[23/08/2022 19:25:06] Vitor Oliveira André: 23/08 Jabaquara Vitor saída 19:24
+[23/08/2022 19:35:39] Rogério Sidney Thon: 23/08 Itaim Rogério saída 19:15h
+[23/08/2022 19:40:10] Maria Cecília Domingues da Silva Soares: 23/08 VILLA - M. Cecília saída 19:40
+[23/08/2022 19:41:10] Antonio Álvaro Dias Lima da Cunha Neto: 23/08 AVICCENA - Álvaro saída 19:40
+[23/08/2022 19:45:02] Luana Maris Rodrigues De Souza: 23/08 Villa - Luana entrada 7:00
+[23/08/2022 19:45:16] Luana Maris Rodrigues De Souza: 23/08 Villa - Luana saída 18:00
+[23/08/2022 19:45:58] Maria Carolina Célia Silveira: 23/08 VNS - M. Carolina saída 19:30
+[23/08/2022 20:08:40] Ana Jung Docko: 23/08 VILLA Ana saída 15:55
+[23/08/2022 20:12:55] Patrick Alexander Suer Schues: 23/08 Osasco - Patrick saída 20:10 (deslocado Maternidade no dia anterior)
+[23/08/2022 20:13:05] Everton Sidney da Conceição Carvalho: 23/08 Osasco Everton saída 20:10 (deslocado Jabaquara)
+[23/08/2022 20:17:53] Juliana Hussein Grilo: 23/08 VILLA - J. Hussein saída 19:10
+[23/08/2022 20:21:12] Vivianna Bovério Galzerani: 23/08 Morumbi Vivianna saida 20:20
+[23/08/2022 20:40:45] Rodrigo de Carvalho Silva: 23/08 Itaim - Carvalho - Saída 20h40
+[23/08/2022 20:41:41] Turibio Rodrigues Freire Neto: 23/08 VNS TURÍBIO Deslocado Morumbi Saída: 20:40
+[23/08/2022 20:53:22] Felipe de Oliveira Nunes: 23/08 Jabaquara - Nunes saída 20:45
+[23/08/2022 20:56:21] Mariana Dardengo Borges: 23/08 Jabaquara - M. Dardengo saída 20:40
+[23/08/2022 21:04:12] Norival Scandelai Junior: Saída 20:50
+[23/08/2022 21:07:21] Milton Olaio Neto: 23/8-Itaim Olaio entrada 7h e saída 21:07
+[23/08/2022 21:13:50] Aline Franchini Goulart Lima: 23/08 ANÁLIA Aline saída 21:10
+[23/08/2022 21:20:36] José Marcos Vieira da Silva: 23/8 - Itaim José Marcos saída 21:20h
+[23/08/2022 21:30:55] Sidney Orlando de Souza: 23/08-Itaim-Sidney- saida: 21:30
+[23/08/2022 21:33:42] Jessica Lidia de Souza: 23/08 Jabaquara - Jessica saída 21:30
+[23/08/2022 21:34:27] Luciana Venturini: 23/08 - Osasco - Luciana saída 21:30
+[23/08/2022 21:59:39] Saullo Queiroz Silveira: 22/08 Jabaquara Saullo saída 19:30
+[23/08/2022 22:01:02] Daniellen Lins Lourenço: 23/08 MORUMBI - Daniellen saída 22:00
+[23/08/2022 22:19:57] Wangles Pignaton de Paula: 23/09 MORUMBI - Wangles: saída 22 h 15 min
+[23/08/2022 22:28:02] Livia Schenkel Thurler Trairi: 23/08 OSASCO - Livia saída 22:10
+[23/08/2022 22:43:59] Bruno Stornioli Taguchi Lemos: 23/08 Jabaquara - Bruno Lemos Saida 22:40
+[23/08/2022 22:44:55] Yuri Anderson Pacheco de Lima: 23/08 Morumbi - Yuri saída 22:40
+[23/08/2022 22:48:47] André da Costa Aguiar Ventura: 23/08 MORUMBI Ventura saida 22:40
+[23/08/2022 22:52:20] Bianca Priscila Buniotti: 23/08 Osasco - Bianca saída 21h55
+[23/08/2022 22:55:04] Thais Miranda Ramos: 23/08 OSASCO - Miranda saída às 22:55 (distância)
+[23/08/2022 22:57:51] Diego da Cunha Tomaz: 23/08 Jabaquara - Diego saída 22:50
+[23/08/2022 23:03:12] Bruno Ferraz de Campos Barone: 23/08 VNS Barone saída 20:10
+[23/08/2022 23:54:33] Karen Yumi Miyashiro: 23/08 Alpha - Yumi saída 15:09 (Deslocada Osasco)
+[24/08/2022 03:09:54] Bruna Daibert Danesin: 23/08 Jabaquara Bruna saída 03:05
+[24/08/2022 03:49:44] Filipe Maeda Hashi Abdalla Martins: 23/08 Jabaquara Maeda saída 3:20
+[24/08/2022 04:38:07] Alberto de Azevedo Alves Moreira: 23/08 Jabaquara - Alberto saída 4:00 (distância)
+[24/08/2022 05:05:04] Rodrigo Achui Haga: 24/08 VILLA - haga entrada 05:00
+[24/08/2022 05:13:31] Bruno Ferraz de Campos Barone: 24/08 VNS Barone entrada 04:30
+[24/08/2022 05:13:59] Renata Togeiro Bastos Godoy de Faria: 24/08 MORUMBI - Renata Togeiro entrada 5:00
+[24/08/2022 05:29:40] Fernando Akira Koga: 24/08 Morumbi - Koga entrada 05:20
+[24/08/2022 05:33:09] Fernando Ribeiro Sá: 24/08 Anália Ribeiro entrada 05:20 (deslocamento VNS)
+[24/08/2022 05:42:04] Gabriella Gadelha Sarmento: 24/08 Itaim - Gabriella entrada 05:40
+[24/08/2022 05:43:44] Mariana Gasparelli de Souza: 24/08 Morumbi - Mariana Gasparelli entrada 04:50h
+[24/08/2022 05:46:35] Filipe Maeda Hashi Abdalla Martins: 24/08 osasco maeda entrada 5:45
+[24/08/2022 05:46:46] Sergio Zamith: 24/08 Itaim Zamith entrada 05:40h
+[24/08/2022 05:51:55] Vitor Oliveira André: 24/08 Itaim Vitor entrada 06:00
+[24/08/2022 05:53:48] Matheus Acquesta Gaubeur: 24/08 Villa - Matheus entrada 06:00
+[24/08/2022 05:59:56] Roberto Votto Melkan: 24/08 Osasco Roberto entrada 6:00
+[24/08/2022 06:00:43] Izabella Gontijo Cunha: 24/08 ITAIM - Izabella entrada 06:00
+[24/08/2022 06:02:09] Álvaro Lázaro Ráo Regonato: 24/08 Jabaquara Ráo entrada 06:00
+[24/08/2022 06:02:19] Erick Oliveira Lima Gomes: 24/08 Osasco - Erick entrada 6:00
+[24/08/2022 06:02:48] Hedicleber Pestana Severino: 24/08 Villa Hedicleber entrada 06:00
+[24/08/2022 06:06:25] Gabriel de Aguiar Santana: 24/08 ITAIM - Gabriel entrada 06:00
+[24/08/2022 06:08:58] Bruce Ye Man Chow: 24/08 Morumbi - bruce entrada 05:30
+[24/08/2022 06:10:34] Wangles Pignaton de Paula: 24/08 MORUMBI - Wangles: entrad 6 h 00 min
+[24/08/2022 06:17:39] Daniellen Lins Lourenço: 24/08 MORUMBI - Daniellen entrada 06:00
+[24/08/2022 06:41:41] Diogo Candeo Rodrigues Cordeiro: 24/08 Anália - Candeo entrada às 06:05
+[24/08/2022 06:49:03] Nathalia Fanucci Oliveira Di Jorge: 24/08 ANALIA Nathália entrada 06:00
+[24/08/2022 06:59:08] Vivianna Bovério Galzerani: 24/08 Morumbi Vivianna entrada 05:20
+[24/08/2022 07:15:33] Eduardo Arbache Bezerra: 23/08 Osasco - Bezerra saida as 21:45
+[24/08/2022 07:37:09] Marcos Rogério Pereira Machado Filho: 24/08 Alpha - Marcos entrada 6:00
+[24/08/2022 07:42:08] Rogério Sidney Thon: 24/08 Morumbi Rogério entrada 5:20h
+[24/08/2022 08:03:11] Ivã Barbosa Soares: 24/08 Osasco Ivã Entrada 06:00
+[24/08/2022 08:07:13] Maria Carolina Célia Silveira: 24/08 Jabaquara - M. Carolina entrada 7:40 (atraso - no lugar de Ventura)
+[24/08/2022 08:26:39] Livia Schenkel Thurler Trairi: 24/08 OSASCO - Livia entrada 5:40
+[24/08/2022 08:37:18] Carlos Eduardo Corrêa Grilo: 23/08 - Anália Cadu saída às 13:45h
+[24/08/2022 08:39:45] Beatriz Antipou dos Santos: 24/08- Osasco- Antipou- entrada 07:00 (deslocado Itaim)
+[24/08/2022 09:08:42] Fernanda Teles Ribeiro: 24/08 - Itaim- Fernanda saída 09:00 ( EXTRA )
+[24/08/2022 09:13:15] Matheus Viana Lemo: 24/08 Jabaquara Viana entrada 06:15
+[24/08/2022 09:36:28] Antonio Álvaro Dias Lima da Cunha Neto: 24/08 AVICCENA - Álvaro entrada 6:30
+[24/08/2022 09:46:02] Amanda Kiyoko Souza Kossaka: 24/08 MORUMBI - Amanda entrada 06:00

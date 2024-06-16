@@ -1,0 +1,49 @@
+[03/01/2023 14:18:03] Marcela Aparecida Correa Martins: 03/01 Itaim  - Marcela Martins - saída 13:50
+[03/01/2023 16:25:58] Guilherme Silveira Lopes: 03/01 Analia -Guilherme Silveira saída 16:20.
+[04/01/2023 16:06:57] Marina Pontes Moura Nascimento E Silva: 04/01 Anália - Marina Pontes saída 16:10
+[04/01/2023 16:12:19] Guilherme Silveira Lopes: 04/01 Anália- Guilherme Silveira saída 16:05
+[04/01/2023 19:20:21] Leandro Eduardo França: 04/01 Itaim - Leandro F saída  19:00h
+[04/01/2023 19:26:54] Marcela Aparecida Correa Martins: 04/01 Itaim - Marcela Martins saída 19:10
+[05/01/2023 05:57:56] Marcela Aparecida Correa Martins: 05/01 Itaim - Marcela entrada 06:00 (extra)
+[05/01/2023 12:35:19] Marcela Aparecida Correa Martins: 05/01 Itaim - Marcela Martins  12:22 (extra)
+
+[01/01/2023 11:45:44] Felipe de Oliveira Nunes: 01/01 - Morumbi - Nunes entrada 9:00 (D2R)
+[01/01/2023 12:41:59] Felipe de Oliveira Nunes: 01/01 - Morumbi - Nunes saída 12:30 (D2R)
+[01/01/2023 14:10:34] Rafael Tadeu Marques: 01/01 Osasco D1 Rafael tadeu entrada 09:30
+[01/01/2023 14:10:34] Rafael Tadeu Marques: 01/01 Osasco D1 Rafael tadeu Saída 14:10
+
+[08/01/2023 05:31:44] Anna Beatriz Aranha Trevisan: 08/01 ITAIM - Anna Beatriz entrada 05:30 (D2)
+[08/01/2023 05:50:26] Álvaro Lázaro Ráo Regonato: 08/01 Analia Ráo entrada 05:50 D1
+[08/01/2023 05:57:19] Vivianna Bovério Galzerani: 08/01 Villa Vivianna entrada 05:50 (d1)
+[08/01/2023 06:15:27] Eduardo Dala Rosa Soares: 08/01 Itaim - Soares entrada 05:30 (D1 )
+[08/01/2023 12:37:49] Renata Pinheiro Modolo: 08/01 Jabaquara R. Modolo entrada 7:00 (d3)
+[08/01/2023 12:38:04] Renata Pinheiro Modolo: 08/01 Jabaquara R. Modolo saída 12:35 (d3)
+[08/01/2023 12:45:38] Rodrigo Andrade Carmello: 08/01 Morumbi - Carmello saída 12:40 (D3)
+[08/01/2023 13:37:35] Kaiê Fernandes: 08/01 Jabaquara Kaie saída 11:10 (d3)
+[08/01/2023 18:14:25] Manoel de Souza Neto: 08/01 Morumbi Manoel saída 18:10 (D2)
+[08/01/2023 22:32:17] Pedro Paulo Silva Farah: 08/01 analia Pedro saida 11:00h D3
+
+
+[15/01/2023 06:57:09] Matheus de Alencar Arraes: 15/01 JABAQUARA Arraes entrada 7h (D1 EXTRA)
+[15/01/2023 11:22:46] Carlos Eduardo Gondim Oliveira: 15/01 MORUMBI - Oliveira saída 11:20 (D3 EXTRA)
+[15/01/2023 12:19:25] Gabriel Gondim Fonseca: 15/01 JABAQUARA Gondim saida 12:15h (D3)
+[15/01/2023 12:53:59] Rodrigo Giovanelli Constantino: 15/01 Analia Giovanelli saida 12:50 (D3B)
+[15/01/2023 15:53:06] Ricardo Barbosa Viana Filho: 15/01 Anália - Barbosa entrada 07:30 (D3 R)
+[15/01/2023 15:56:56] Ricardo Barbosa Viana Filho: 15/01 Anália - Barbosa Saída 15:50 (D3R)
+[15/01/2023 16:52:08] Jessica Lidia de Souza: 15/01 Villa - Jessica  entrada 07:00 D3 EXTRA
+[15/01/2023 16:52:29] Jessica Lidia de Souza: 15/01 Villa - Jessica  saida 16:50 D3 EXTRA
+[15/01/2023 17:30:16] Guilherme Silveira Lopes: 15/01 Anália Silveira entrada 07:00 (D2)
+[15/01/2023 17:31:37] Guilherme Silveira Lopes: 15/01 Anália Silveira saída 17:15 (D2)
+[15/01/2023 18:09:12] Maria Cecília Domingues da Silva Soares: 15/01 VILLA - M. Cecília entrada 7:00 (D2)
+[15/01/2023 18:10:22] Maria Cecília Domingues da Silva Soares: 15/01 VILLA - M. Cecilia saída 18:10 (D2)
+[15/01/2023 19:35:35] Alexandre Bernardino: 15/01 - Morumbi- Alexandre- saída 19:35 (d2)
+[15/01/2023 19:38:10] José Carlos Tuna Scarpa: 15/01 Aviccena José Carlos Saída 19:37 (D1)
+
+[14/01/2023 00:27:25] Filipe Maeda Hashi Abdalla Martins: 13/01 Osasco Maeda saída 00:27 (distância com saída após 00:00)
+
+[20/01/2023 01:23:14] Mariana Gasparelli de Souza: 20/01 Morumbi Mariana Gasparelli saída 01:05 ( Distância)
+[20/01/2023 01:40:04] André da Costa Aguiar Ventura: 19/01 MORUMBI Ventura saida 1:40 (Distância)
+[20/01/2023 01:46:04] Henri Roger Watanabe Oliveira: 19/01 Itaim - Henri Saida 00:30 (distancia)
+[20/01/2023 01:46:17] Mariana Gasparelli de Souza: 19/01 Morumbi Mariana Gasparelli saída 01:05 ( Distância)
+
+[19/01/2023 21:29:24] Turibio Rodrigues Freire Neto: 19/01 VNS Turíbio EXTRA 07:00-19:00 Cir a pedido das 19:00 - 20:10

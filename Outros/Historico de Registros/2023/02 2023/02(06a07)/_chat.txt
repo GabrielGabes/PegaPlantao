@@ -1,0 +1,84 @@
+[06/02/2023 10:26:26] Gabriela Soares Piassi: 06/02 VILLA - Piassi saida 10:25 (pos plantao)
+[06/02/2023 10:35:35] Bruce Ye Man Chow: 06/02 Morumbi - bruce saida 8:45
+[06/02/2023 10:55:38] Everton Sidney da Conceição Carvalho: 06/02 - Itaim - Everton entrada 06:00
+[06/02/2023 10:58:33] Daniel Masuzaki Wong: 06/02 Jabaquara - Wong saída 10:50 (pós plantão)
+[06/02/2023 11:09:47] Gabriel de Aguiar Santana: 06/02 Jabaquara - Gabriel saída 11:09 (deslocado Itaim)
+[06/02/2023 11:13:49] Natan Soares Silveira: 06/02 Itaim - Natan - saída 11:10 (deslocado Anália/ pós plantão)
+[06/02/2023 11:29:13] Thiago Barreto Marques Da Silva: 06/02 - Santa Isabel - Naldo - entrada 05:45 (deslocado Anália)
+[06/02/2023 12:15:38] Gustavo Marques Da silva: 06/02 Itaim - Marques saída 11:25 (pós plantão Maternidade)
+[06/02/2023 13:10:09] Marcelo Felipe de Souza Buto: 06/02 Morumbi - Buto saída 12:45
+[06/02/2023 13:19:08] Helena Araujo Damasceno: 06/02 Analia - Helena - Saída 13:00 (pós plantão, deslocada HSI)
+[06/02/2023 13:43:12] Juliano Moisés Tobal: 06/02 Jabaquara Juliano Tobal saída 13:30
+[06/02/2023 13:56:50] Luccas Varela Godoy: 6/2 Osasco Luccas saída 13:50
+[06/02/2023 14:57:58] Filipe Lugon Moulin Lima: 06/02 JABAQUARA - Filipe Lugon saída 14:45
+[06/02/2023 15:23:00] Rafael Tadeu Marques: 06/02 Jabaquara Rafael tadeu saída 14:45
+[06/02/2023 15:24:06] Ricardo Giraldelli Carvalho Lima: 06/02 VILLA - Giraldelli saída 15:20 (deslocado AF)
+[06/02/2023 16:11:48] Guilherme de Almeida Costa: 06/02 osasco costa saida 16:10
+[06/02/2023 16:31:30] Ana Jung Docko: 06/02 Analia Ana saída 16:30
+[06/02/2023 16:40:19] Carlos Eduardo Corrêa Grilo: 06/02 Anália - Cadu saída 16:40
+[06/02/2023 16:49:18] Rodrigo Antonio Rey Gonzalez: 06/02 SANTA ISABEL - Rey saida 16:35 (pós-plantão)
+[06/02/2023 16:55:52] Fabiana Soares Gama: 06/02 Anália Fabiana Gama saída as 16:50
+[06/02/2023 17:09:03] Fernanda Teles Ribeiro: 06/02 Osasco - Fernanda saída 16:35 ( deslocada Itaim )
+[06/02/2023 17:09:33] Gabriel Elias Gewehr Salmen Raffoul: 06/02 Osasco - Salmen - Saída 17:10
+[06/02/2023 17:35:09] Thiago Francisco Martins: 06/02 ANALIA Thiago Martins saida as 16:40
+[06/02/2023 18:15:02] Carlos Augusto Trevisan: 06/02 OSASCO - Carlos saída 16:40 (Deslocamento ITAIM)
+[06/02/2023 19:18:35] Gabriel Gondim Fonseca: 06/02 Vns - Gondim saída 19:10
+[06/02/2023 19:21:26] Rodrigo Andrade Carmello: 06/02 Morumbi - Carmello saída 19:10
+[06/02/2023 19:31:05] Victor Sapountzakis Ribeiro: 06/02 Osasco - Sapountzakis saída 18:38
+[06/02/2023 19:40:21] Francisco Antonio Alves Bonatto: 06/02 ANÁLIA - Francisco saída 19:10
+[06/02/2023 19:44:27] Fábio Antônio de Souza Oliveira: 06/02 Itaim Fabio saída 19:35
+[06/02/2023 19:48:50] Diego da Cunha Tomaz: 06/02 Santa Diego saida 19:45
+[06/02/2023 19:53:12] Mirela Farias Figueiroa: 06/02 Santa Mirela saída 19:45
+[06/02/2023 20:00:02] Maria Cecília Domingues da Silva Soares: 06/02 VILLA - M. Cecília saída 20:00
+[06/02/2023 20:03:29] José Carlos Tuna Scarpa: 06/02 Anália José Carlos Saída 20:00
+[06/02/2023 20:10:45] Erick Oliveira Lima Gomes: 06/02 Jabaquara - Erick saída 20:00
+[06/02/2023 20:19:56] Anna Beatriz Aranha Trevisan: 06/02 MORUMBI - Anna Beatriz saída 20:10
+[06/02/2023 20:21:28] Thiago Silva Pinto: 06/02 Jabaquara - T. Silva saída 19:35
+[06/02/2023 20:27:48] Marcela Leite Rosignoli: 06/02 Jabaquara Marcela Leite saída 19:40
+[06/02/2023 20:28:28] Renato dos Santos Borega: 06/02 Villa - Renato entrada 6:00
+[06/02/2023 20:28:45] Renato dos Santos Borega: 06/02 Villa - Renato saída 19:50
+[06/02/2023 20:33:12] Thassio Cunha De Santa: 06/02 OSASCO - Thassio saída 20:10
+[06/02/2023 20:39:39] Yuri Lucas De Souza: 06/02 Villa - Souza saída 20:15
+[06/02/2023 20:40:22] Luciano Angelo Richetti: 06/02 ITAIM Luciano saída 20:40
+[06/02/2023 20:42:27] Matheus de Alencar Arraes: 06/02 JABAQUARA Arraes saida 20:40
+[06/02/2023 20:43:16] Marcio Ighor Azevedo Silva De Mendonça Melania: 06/02 Analia - Ighor saída 20:40
+[06/02/2023 20:50:40] Thiago Barreto Marques Da Silva: 06/02 - Santa Isabel - Naldo saída 20:10(Deslocado Anália)
+[06/02/2023 20:57:12] Rodrigo Giovanelli Constantino: 06/02 Analia Giovanelli saida 20:55
+[06/02/2023 21:04:35] Patrick Alexander Suer Schues: 06/02 Osasco - Patrick saída 19:50
+[06/02/2023 21:20:54] Mariana Gasparelli de Souza: 06/02 Morumbi - Mariana Gasparelli saída 19:15
+[06/02/2023 21:34:03] Camila Chiarantano Harrison: 06/02 Villa Camila Saida 21:30
+[06/02/2023 21:48:05] Emerson Domingos Da Costa: 06/02 JABAQUARA Emerson - saída 21:40
+[06/02/2023 21:58:00] Renata Togeiro Bastos Godoy de Faria: 06/02 MORUMBI - Renata Togeiro saída 19:40
+[06/02/2023 22:09:17] Cláudio Mueller Kakuda: 06/02 Maternidade - Kakuda saida 15:45h
+[06/02/2023 22:19:14] Marcelo Maia da Silveira: 06/02 VILLA  - Maia saída 22:00
+[06/02/2023 22:24:54] Henri Roger Watanabe Oliveira: 06/02 Morumbi - Henri saida as 22:10
+[06/02/2023 23:27:27] Rogério Sidney Thon: 06/02 Morumbi Rogério saída 23:10h
+[06/02/2023 23:37:26] Karen Yumi Miyashiro: 06/02 VILLA - Yumi saída 23:37
+[07/02/2023 04:57:36] Alexsander Takashi Hamada: 06/2 Analia Alexsander saída as 21:15
+[07/02/2023 05:05:41] Gabriella Gadelha Sarmento: 07/02 VNS - Gabriella entrada 4:20
+[07/02/2023 05:07:03] Renata Togeiro Bastos Godoy de Faria: 07/02 MORUMBI - Renata Togeiro entrada 5:00
+[07/02/2023 05:08:30] Daniellen Lins Lourenço: 07/02 JABAQUARA - Daniellen entrada 04:45
+[07/02/2023 05:15:13] Maiely Marcolin: 07/02 VNS - Maiely entrada 05:15
+[07/02/2023 05:22:07] Alexsander Takashi Hamada: 07/2 Analia Alexsander entrada 5:20( deslocado do Villa no dia anterior)
+[07/02/2023 05:29:12] Maria Cecília Domingues da Silva Soares: 07/02 VILLA - M. Cecília entrada 05:30
+[07/02/2023 05:35:14] Ronald Figueiredo Gomes: 06/02 OSASCO - Ronald saída 19:45
+[07/02/2023 05:35:31] Ronald Figueiredo Gomes: 07/02 VILLA - Ronald entrada 05:35 (EXTRA)
+[07/02/2023 05:41:22] Eduardo Dala Rosa Soares: 07/02 Itaim - Soares entrada 05:30
+[07/02/2023 05:41:32] Leandro Eduardo França: 07/02 OSASCO - França entrada 05:40
+[07/02/2023 05:49:13] Dênio Lopes De Almeida: 07/02 MORUMBI - Dênio entrada 05:30
+[07/02/2023 05:53:12] Aline Franchini Goulart Lima: 07/02 ANÁLIA Aline entrada 06:00
+[07/02/2023 05:55:51] Diogo Henrique Pereira Mattos: 07/02 VILLA - Diogo entrada 06:00 (deslocado ANÁLIA)
+[07/02/2023 05:56:57] Kaiê Fernandes: 07/02 Itaim Kaie entrada 5h50
+[07/02/2023 06:02:47] Fabiana Soares Gama: 07/02 Anália Fabiana Gama entrada as 06:00
+[07/02/2023 06:04:07] Gabriel Gondim Fonseca: 07/02 Jabaquara - Gondim entrada 06:00
+[07/02/2023 06:11:06] Rodrigo Achui Haga: 07/02 OSASCO - haga entrada 05:30
+[07/02/2023 06:20:15] André da Costa Aguiar Ventura: 07/02 MORUMBI Ventura entrada 5:30
+[07/02/2023 06:29:19] Norival Scandelai Junior: 07/02 Morumbi - Norival Entrada 6:00
+[07/02/2023 06:31:56] Luiz Guilherme Thomaz Zacharias: 07/02 JABAQUARA - Guilherme entrada 6:20 (EXTRA)
+[07/02/2023 06:33:50] Antonio Álvaro Dias Lima da Cunha Neto: 07/02 AVICCENA - Álvaro entrada 06:30
+[07/02/2023 06:43:09] Gabriela Rodrigues Machado Borja: 07/02 Osasco - Borja 05:40
+[07/02/2023 06:43:45] Rogério Sidney Thon: 07/02 Itaim Rogério entrada 6:00h
+[07/02/2023 08:06:54] Erick Oliveira Lima Gomes: 07/02 Villa - Erick entrada 07:00 ( EXTRA )
+[07/02/2023 08:18:02] Guilherme de Almeida Costa: 07/02 Villa costa entrada 06:30
+[07/02/2023 08:31:18] Kawan Ramis Rodrigues: 07/02 Osasco Kawan entrada 06:00
+[07/02/2023 08:46:35] Carlos Eduardo Gondim Oliveira: 07/02 VNS - Oliveira saída 08:45

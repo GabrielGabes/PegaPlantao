@@ -1,0 +1,601 @@
+[14/10/2022 14:10:33] Luiz Guilherme Thomaz Zacharias: 14/10 ITAIM - Guilherme saída 14:10 (EXTRA)
+[14/10/2022 14:12:27] Roberto Votto Melkan: 14/10 Itaim Roberto saída 14:10
+[14/10/2022 14:12:31] Maurício Faria Tetti: 14/10 Analia Maurício saída 14:10 (extra)
+[14/10/2022 14:21:35] Manoel de Souza Neto: 14/10 Itaim Manoel saída 14:20
+[14/10/2022 14:22:53] Renata Togeiro Bastos Godoy de Faria: 14/10 VNS - Renata Togeiro saída 13:00 (EXTRA)
+[14/10/2022 14:28:13] Matheus Viana Lemo: 14/10 Jabaquara Viana saída 14:25
+[14/10/2022 14:52:44] Mariana Dardengo Borges: 14/10 Morumbi - M. Dardengo saída 14:00
+[14/10/2022 14:57:28] Milton Olaio Neto: 14/10-Itaim Olaio entrada 6:00
+[14/10/2022 14:57:42] Milton Olaio Neto: 14/10-Itaim Olaio saída 13:40
+[14/10/2022 15:22:05] José Carlos Tuna Scarpa: 14/10 Jabaquara José Carlos Saída 15:22
+[14/10/2022 16:05:06] Everton Sidney da Conceição Carvalho: 14/10 Villa Everton saída 15:55
+[14/10/2022 16:24:44] Rodrigo Andrade Carmello: 14/10 Morumbi - Carmello saída 16:20
+[14/10/2022 16:30:34] Marcelo Felipe de Souza Buto: 14/10 Villa - Buto saída 16:15 (deslocado Itaim)
+[14/10/2022 16:34:26] Silvia Aline dos Santos Andrade: 14/10 - villa - Silvia saída 16:15 (deslocada itaim)
+[14/10/2022 16:40:31] Matheus de Alencar Arraes: 14/10 JABAQUARA Arraes saida 16:40
+[14/10/2022 16:44:42] Turibio Rodrigues Freire Neto: 14/10 Osasco Turíbio Extra Entrada 07:00
+[14/10/2022 16:44:42] Turibio Rodrigues Freire Neto: 14/10 Osasco Turíbio Extra Saída 16:15
+[14/10/2022 16:55:59] Ricardo Giraldelli Carvalho Lima: 14/10 ANALIA - Giraldelli saída 16:55
+[14/10/2022 16:59:52] Karen Peixoto Ricci: 14/10 Sino Karen saída 16:35 (deslocada alphamed)
+[14/10/2022 17:05:26] Luciano Angelo Richetti: 14/10 Sino Luciano saída 16:50 (extra)
+[14/10/2022 17:10:32] Luiz Augusto Xavier Brandão: 14/10 Osasco Luiz Augusto saída 16:20 hs
+[14/10/2022 17:25:09] Bruno Ferraz de Campos Barone: 14/10 VNS - Barone saída 17:15
+[14/10/2022 17:36:15] Alexandre Bernardino: 14/10 - Analia - Alexandre - entrada 05:20
+[14/10/2022 18:50:37] Gabriel Gondim Fonseca: 14/10 Aviccena Gondim saída 18:30 (deslocado MT)
+[14/10/2022 19:12:06] Fernando Akira Koga: 14/10 VNS - Koga saída 19:10
+[14/10/2022 19:15:35] Rodrigo Miyashiro Nunes dos Santos: 14/10 ITAIM - Miyashiro saida 19:15
+[14/10/2022 19:18:07] Ricardo Kawaura: 14/10 Osasco kawaura saída 19:15
+[14/10/2022 19:23:23] Ivã Barbosa Soares: 14/10  Osasco Ivã Saída 19:10
+[14/10/2022 19:26:35] Matheus Acquesta Gaubeur: 14/10 Anália- Matheus saída 19:20
+[14/10/2022 19:31:01] Ana Jung Docko: 14/10 ANÁLIA Ana saída 19:30
+[14/10/2022 19:37:39] Juliana Akemi Funabashi: 14/10 ANÁLIA - Akemi saída 19:37
+[14/10/2022 19:43:18] Avelino José da Silva Freitas Junior: 14/10 villa Avelino entrada 06:00
+[14/10/2022 19:43:28] Avelino José da Silva Freitas Junior: 14/10 villa Avelino saída 19:25
+[14/10/2022 19:45:05] Natan Soares Silveira: 14/10 Villa - Natan - Saída 19:45
+[14/10/2022 19:47:20] Vitor Maciel de Sousa Pinto: 14/10 Morumbi - Maciel - Saída 19:45
+[14/10/2022 19:49:35] Daniel Masuzaki Wong: 14/10 Morumbi - Wong saída 19:50
+[14/10/2022 19:56:50] Anna Beatriz Aranha Trevisan: 14/10 MORUMBI - Anna Beatriz saída 19:50
+[14/10/2022 20:05:10] Pedro Tiago Bonfitto: 14/10 ANÁLIA Bonfitto saída 20:00
+[14/10/2022 20:16:48] Maira Leite Basile: 14/10 Morumbi - Maíra saída 20:16
+[14/10/2022 20:28:48] Larissa Mayumi Ono: 14/10 Itaim Larissa - saída 20:15
+[14/10/2022 20:29:25] Bruna Daibert Danesin: 14/10 Analia Bruna saída 20:20
+[14/10/2022 20:32:51] Marcos Rogério Pereira Machado Filho: 14/10 Villa - Marcos saída 20:30
+[14/10/2022 20:40:50] Aline Franchini Goulart Lima: 14/10 Villa Aline saída 20:40
+[14/10/2022 20:43:04] Bianca Priscila Buniotti: 14/10 Aviccena - Bianca saída 20:10
+[14/10/2022 20:43:18] Elaine Imaeda de Moura: 14/10 Osasco Elaine saída 19:10
+[14/10/2022 20:49:37] Pedro Henrique Milhomens da Mota: 14/10 Itaim Mota saída 20h49
+[14/10/2022 20:57:08] Débora Alves Aude: 14/10 Itaim Débora saída 20:20
+[14/10/2022 21:03:41] Leticia Fernandes Borges: 14/10 Villa Letícia saída 21:00
+[14/10/2022 21:11:44] Vanessa Paciullo Marossi: 14/10 ANÁLIA Vanessa saída 21:15
+[14/10/2022 21:15:53] Mônica Robles Gonçalves: 14/10 Itaim Monica saida 20:55
+[14/10/2022 21:21:37] Estanrley Barcelos Pinto: 14/10 ANÁLIA-Estanrley Saida: 21:15
+[14/10/2022 21:33:31] Arthur Oliveira Facchini: 14/10 Itaim Facchini saída 21:10
+[14/10/2022 21:41:28] Orlando Domingues de Araújo Pontes: 14/10 ANÁLIA Orlando saída 21:40
+[14/10/2022 21:55:51] Andre Mortari Plá Gil: 14/10 Itaim André saída 21:10h
+[15/10/2022 05:19:03] Gabriel Gondim Fonseca: ‎Mensagem apagada
+[15/10/2022 05:27:01] André da Costa Aguiar Ventura: 15/10 MORUMBI Ventura entrada 5:20
+[15/10/2022 05:40:30] Orlando Domingues de Araújo Pontes: 15/10 Analia Orlando entrada 05:30
+[15/10/2022 05:42:19] Patrick Alexander Suer Schues: 15/10 Morumbi - Patrick entrada 05:40
+[15/10/2022 05:45:44] Ricardo Giraldelli Carvalho Lima: 15/10 VILLA - Giraldelli entrada 05:45 (extra)
+[15/10/2022 05:47:33] Roberto Votto Melkan: 15/10 Morumbi Roberto entrada 5:20
+[15/10/2022 05:49:45] Gretel Oliveira Nicolau: 15/10 Jabaquara Gretel entrada 5:45
+[15/10/2022 05:49:50] Francisco Antonio Alves Bonatto: 15/10 ANÁLIA - Francisco entrada 05:40
+[15/10/2022 05:57:47] Larissa Mayumi Ono: 15/10 Itaim Larissa - entrada 05:30
+[15/10/2022 05:58:23] Andre Mortari Plá Gil: 15/10 Itaim André entrada 6:00h
+[15/10/2022 05:59:32] Ivã Barbosa Soares: 15/10 Osasco Ivã  entrada 06:00
+[15/10/2022 06:00:43] Álvaro Lázaro Ráo Regonato: 15/10 Morumbi Ráo entrada 06:00
+[15/10/2022 06:01:55] Yuri Anderson Pacheco de Lima: 15/10 Morumbi - Yuri entrada 05:45
+[15/10/2022 06:03:22] Sergio Zamith: 15/10 Jabaquara -Zamith entrada 06:00 hs
+[15/10/2022 06:07:58] Matheus Acquesta Gaubeur: 15/10 Aviccena - Matheus entrada 06:00
+[15/10/2022 06:15:45] Luciano Angelo Richetti: 15/10 ITAIM Luciano entrada 6:00
+[15/10/2022 06:19:59] Sheila Itiroco Monte: 15/10 JABAQUARA Sheila entrada 06:00
+[15/10/2022 06:22:17] Leandro Kendi Kanada: 15/10 Villa Leandro kanada entrada 06:00
+[15/10/2022 06:47:48] Pedro Tiago Bonfitto: 15/10 VILLA Bonfitto entrada 06:00
+[15/10/2022 06:49:35] Maria Cecília Domingues da Silva Soares: 15/10 VILLA - M. Cecília entrada 7:00 (EXTRA)
+[15/10/2022 06:53:38] Thales Luvisotto Neder: 15/10 Jabaquara - Thales entrada 07:00 (EXTRA)
+[15/10/2022 08:18:26] Ana Jung Docko: 15/10 OSASCO Ana entrada 06:00
+[15/10/2022 08:28:24] Henri Roger Watanabe Oliveira: 15/10 Itaim - Henri entrada as 06:00
+[15/10/2022 08:30:03] Felipe Coelho De Souza: 15/10 Morumbi - F. Coelho entrada 6:00 (EXTRA)
+[15/10/2022 08:39:03] Fábio Antônio de Souza Oliveira: ‎Mensagem apagada
+[15/10/2022 08:39:24] Fábio Antônio de Souza Oliveira: 15/10 Itaim Fabio saída 08:39 ( pós plantao)
+[15/10/2022 08:59:10] Rafael Tadeu Marques: ‎Mensagem apagada
+[15/10/2022 08:59:41] Daniel Rodrigues de Oliveira: 15/10 Itaim Daniel entrada 7:00
+[15/10/2022 09:12:42] Saullo Queiroz Silveira: ‎Mensagem apagada
+[15/10/2022 09:16:37] Gabriel Gondim Fonseca: 15/10 VNS Gondim entrada 05:00 (Extra)
+[15/10/2022 09:18:29] Saullo Queiroz Silveira: 15/10 VNS Saullo entrada 05:00
+[15/10/2022 09:42:42] Thales Luvisotto Neder: 15/10 Jabaquara - Thales saída 09:35 (EXTRA)
+[15/10/2022 09:55:22] Beatriz Antipou dos Santos: 15/10 Itaim- Antipou- saída 09:55 (pós plantão - deslocada Jabaquara)
+[15/10/2022 10:13:49] Ricardo Giraldelli Carvalho Lima: 15/10 VILLA - Giraldelli saída 10:10 (extra)
+[15/10/2022 10:48:14] Francisco José Lucena Bezerra: 15/10 JABAQUARA - Lucena saída 10:45 (pós plantão MT)
+[15/10/2022 10:57:22] Sergio Zamith: 15/10Jabaquara  Zamith saída 10:55 hs
+[15/10/2022 11:04:30] Sheila Itiroco Monte: 15/10 JABAQUARA Sheila saída 11:04
+[15/10/2022 11:09:20] Neliane Guedes Pretti: ‎Mensagem apagada
+[15/10/2022 11:10:03] Neliane Guedes Pretti: 15/10 Jabaquara Neliane saída 10:45 (pós plantão)
+[15/10/2022 11:17:11] Gabriel Gondim Fonseca: ‎Mensagem apagada
+[15/10/2022 11:17:28] Gabriel Gondim Fonseca: 15/10 VNS Gondim saída 11:15 (Extra)
+[15/10/2022 11:49:28] Felipe Coelho De Souza: 15/10 Morumbi - F. Coelho saída 10:15 (EXTRA)
+[15/10/2022 13:09:02] Daniel Rodrigues de Oliveira: 15/10 Itaim Daniel saída 13:00
+[15/10/2022 13:09:28] André da Costa Aguiar Ventura: 15/10 MORUMBI Ventura saida 13:00
+[15/10/2022 13:10:33] Eduardo Arbache Bezerra: 15/10 Analia - Bezerra saida as 13:10 (EXTRA)
+[15/10/2022 13:17:08] Carlos Eduardo Gondim Oliveira: 15/10 MORUMBI - Oliveira saída 13:15 (Pós plantão)
+[15/10/2022 13:23:17] Paola Rodrigues Oshiro: 15/10 ANÁLIA-Paola saída as 13:20(EXTRA)
+[15/10/2022 13:23:19] Diogo Henrique Pereira Mattos: 15/10 ANÁLIA - Diogo entrada 07:00 (EXTRA)
+[15/10/2022 13:23:36] Diogo Henrique Pereira Mattos: 15/10 ANÁLIA - Diogo saída 13:20 (EXTRA)
+[15/10/2022 13:25:50] Daniellen Lins Lourenço: 15/10 MORUMBI - Daniellen saída 13:25
+[15/10/2022 13:26:50] Patrick Alexander Suer Schues: 15/10 Morumbi - Patrick saída 13:20
+[15/10/2022 13:49:11] Roberto Votto Melkan: 15/10 Morumbi Roberto saída 13:40
+[15/10/2022 13:51:38] Larissa Mayumi Ono: 15/10 Itaim Larissa - saída 13:40
+[15/10/2022 14:07:22] Jessica Lidia de Souza: 15/10 ANÁLIA - Jessica saída 14:05 (pos plantão/deslocada Morumbi)
+[15/10/2022 14:10:59] Hedicleber Pestana Severino: 15/10 Osasco Hedicleber saída 14:10
+[15/10/2022 14:20:18] Francisco Antonio Alves Bonatto: 15/10 ANÁLIA - Francisco saída 14:15
+[15/10/2022 14:24:16] Livia Schenkel Thurler Trairi: 15/10 AVICCENA - Livia saída 14:20
+[15/10/2022 14:25:26] Orlando Domingues de Araújo Pontes: 15/10 Anália Orlando saída 14:10
+[15/10/2022 14:31:12] Matheus Acquesta Gaubeur: 15/10 Aviccena - Matheus saída 14:30 (deslocado Villa)
+[15/10/2022 14:31:28] Rodrigo Achui Haga: 15/10 OSASCO - haga saida 13:30
+[15/10/2022 14:39:02] José Carlos Tuna Scarpa: 15/10 Jabaquara José Carlos Saída 14:38
+[15/10/2022 14:39:07] Bianca Priscila Buniotti: 15/10 Itaim - Bianca entrada 06:00
+[15/10/2022 14:39:39] Bianca Priscila Buniotti: 15/10 Itaim - Bianca saída 13:00
+[15/10/2022 14:41:05] Andre Mortari Plá Gil: 15/10 itaim André saída 14:20h
+[15/10/2022 14:41:26] Eduardo Dala Rosa Soares: 15/10 VNS - Soares entrada 06:30 ( EXTRA )
+[15/10/2022 14:41:49] Eduardo Dala Rosa Soares: 15/10 VNS - Soares saída 14:40 ( EXTRA )
+[15/10/2022 14:45:35] Karen Yumi Miyashiro: 15/10 Osasco - Yumi saída 13:30 (deslocada Itaim)
+[15/10/2022 14:48:11] Álvaro Lázaro Ráo Regonato: 15/10 Morumbi Ráo saída 14:45
+[15/10/2022 14:55:44] Gretel Oliveira Nicolau: 15/10 Jabaquara Gretel saida 14:25
+[15/10/2022 15:06:30] Renata Pinheiro Modolo: 15/10 Osasco R. Modolo saída 14h50
+[15/10/2022 15:09:07] Thiago Francisco Martins: 15/10 ANALIA Thiago Martins saida 14:10
+[15/10/2022 15:12:32] Maria Cecília Domingues da Silva Soares: 15/10 VILLA - M. Cecília saída 15:12 (EXTRA)
+[15/10/2022 15:13:18] Luciano Angelo Richetti: 15/10 ITAIM Luciano Saída 15:10
+[15/10/2022 15:17:49] Yuri Anderson Pacheco de Lima: 15/10 Morumbi - Yuri saída 14:50
+[15/10/2022 15:22:22] Renata Torres Bueno: 15/10 Anália - Renata Bueno entrada 6:00 saída 14:50
+[15/10/2022 15:26:41] Fabiana Barbosa Bastos: 15/10 Jabaquara - Fabiana saída 15:10
+[15/10/2022 15:35:44] Gustavo Marques Da silva: 15/10 Morumbi - Marques saída 15:10
+[15/10/2022 15:37:02] Ana Jung Docko: 15/10 OSASCO Ana saída 15:10
+[15/10/2022 15:38:24] Ronald Figueiredo Gomes: 15/10 VILLA - Ronald saída 15:20 (desloc jaba/ pós plantão)
+[15/10/2022 15:45:13] Alexandre Bernardino: 15/10 - Villa - Alexandre - saida 15:45
+[15/10/2022 15:46:15] Juliana Hussein Grilo: 15/10 ANÁLIA - J. Hussein entrada 6:00
+[15/10/2022 15:49:27] Ivã Barbosa Soares: 15/10 Osasco Ivã Saída 15:45
+[15/10/2022 15:54:15] Carlos Augusto Trevisan: 15/10 JABAQUARA - Carlos saída 15:40
+[15/10/2022 16:07:27] Leandro Kendi Kanada: 15/10 Villa Leandro kanada saida 16:00
+[15/10/2022 16:07:45] Renata Togeiro Bastos Godoy de Faria: ‎Mensagem apagada
+[15/10/2022 16:18:33] Pedro Tiago Bonfitto: 15/10 VILLA Bonfitto saída 15:55
+[15/10/2022 16:19:43] Juliana Hussein Grilo: 15/10 ANÁLIA - J. Hussein saída 16:10
+[15/10/2022 16:54:35] Débora Alves Aude: 15/10 Morumbi Débora saída 16:50
+[15/10/2022 16:57:26] Maurício Faria Tetti: 15/10 Villa Maurício saída 16:50
+[15/10/2022 17:38:53] Carlos Eduardo Corrêa Grilo: ‎Mensagem apagada
+[15/10/2022 17:51:36] Fernando Ribeiro Sá: 15/10 VNS Ribeiro saída 17:45 (pós-plantão)
+[15/10/2022 17:51:58] Avelino José da Silva Freitas Junior: 15/10 Villa Avelino saída 16:50
+[15/10/2022 17:55:31] Bruna Daibert Danesin: 15/10 Analia Bruna saída 17:45
+[15/10/2022 18:01:42] Carlos Eduardo Corrêa Grilo: 15/10 Villa Lobos - Cadu saída às 17:20
+[15/10/2022 18:09:37] Fabio Yuji Suguita: 15/10 villa yuji saída 18:00
+[15/10/2022 18:20:25] Henri Roger Watanabe Oliveira: 15/10 Itaim - Henri saida as 14:20
+[15/10/2022 18:20:37] Ricardo Kawaura: 15/10 Osasco kawaura saída 18:20
+[15/10/2022 18:29:18] Rodrigo Andrade Carmello: 15/10 Villa - Carmello assumo plantão 18:00
+[15/10/2022 18:34:46] Cláudio Mueller Kakuda: 15/10 Maternidade - Kakuda saida 18:20
+[15/10/2022 18:42:02] Manoel de Souza Neto: 15/10 Anália Manoel  Saída 18:40
+[15/10/2022 18:45:32] Aline Franchini Goulart Lima: 15/10 Anália Aline saída 18:45
+[15/10/2022 19:41:48] Bruno Stornioli Taguchi Lemos: 15/10 VNS Bruno Lemos saída 19:40 (deslocado Jabaquara)
+[15/10/2022 20:33:30] Saullo Queiroz Silveira: 15/10 VNS Saullo saída 20:20
+[16/10/2022 08:44:01] Mariana Gasparelli de Souza: 16/10 Morumbi - Mariana Gasparelli entrada 07 - saída 08:30( EXTRA)
+[16/10/2022 11:39:32] Yoko Hayashi: 15/10 Osasco Yoko saída 16:45
+[16/10/2022 11:53:26] Guilherme de Almeida Costa: 16/10 Villa - Costa  D3 saida 11:10h (EXTRA)
+[17/10/2022 05:46:58] Vitor Oliveira André: 17/10 Jabaquara Vitor entrada 06:00
+[17/10/2022 05:49:12] Matheus Acquesta Gaubeur: 17/10 Anália - Matheus entrada 05:45
+[17/10/2022 06:01:38] Fábio Antônio de Souza Oliveira: 17/10 Itaim Fabio entrada 6hs
+[17/10/2022 06:04:35] Luiz Guilherme Thomaz Zacharias: 17/10 JABAQUARA - Guilherme entrada 5:15 (EXTRA)
+[17/10/2022 06:05:24] Felipe Coelho De Souza: 11/10 Anália - Coelho entrada 6:00
+[17/10/2022 06:09:54] André da Costa Aguiar Ventura: ‎Mensagem apagada
+[17/10/2022 06:16:22] Renata Togeiro Bastos Godoy de Faria: 17/10 MORUMBI - Renata Togeiro entrada 5:00
+[17/10/2022 06:32:21] André da Costa Aguiar Ventura: 11/10 VNS Ventura entrada 6:10(EXTRA)
+[17/10/2022 06:33:20] André da Costa Aguiar Ventura: ‎Mensagem apagada
+[17/10/2022 06:35:18] Renata Torres Bueno: 17/10 Villa - Renata Bueno entrada 6:00
+[17/10/2022 06:38:42] Gabriel Gondim Fonseca: 11/10 VNS Gondim entrada 6:30
+[17/10/2022 06:53:48] Anna Beatriz Aranha Trevisan: 11/10 MORUMBI - Anna Beatriz entrada 05:20
+[17/10/2022 06:53:57] Eduardo Dala Rosa Soares: 17/10 Itaim - Soares entrada as 06:00
+[17/10/2022 06:54:50] Gabriel de Aguiar Santana: 17/10 ITAIM - Gabriel entrada 6:00
+[17/10/2022 06:59:19] Luciano Angelo Richetti: 17/10 ITAIM Luciano entrada 6:00
+[17/10/2022 07:02:22] Everton Sidney da Conceição Carvalho: ‎Mensagem apagada
+[17/10/2022 07:15:27] Yuri Lucas De Souza: 17/10 Villa - Souza entrada 06:00
+[17/10/2022 08:03:15] Erick Oliveira Lima Gomes: ‎Mensagem apagada
+[17/10/2022 08:10:13] Bruce Ye Man Chow: 17/10 Morumbi - Bruce entrada 06:00
+[17/10/2022 08:31:04] Daniel Rodrigues de Oliveira: ‎Mensagem apagada
+[17/10/2022 08:31:38] Daniel Rodrigues de Oliveira: 17/10 Itaim Daniel entrada 7:00
+[17/10/2022 09:32:37] Henri Roger Watanabe Oliveira: 17/10 Morumbi - Henri Entrada: 06:00
+[17/10/2022 09:51:22] Luiz Guilherme Thomaz Zacharias: 17/10 JABAQUARA - Guilherme saída 9:45 (EXTRA)
+[17/10/2022 10:31:55] Gabriel de Aguiar Santana: 17/10 ITAIM - Gabriel saída 10:30 (Sheila assume rotina)
+[17/10/2022 10:32:28] Sheila Itiroco Monte: 17/10 ITAIM Sheila entrada 10:30 (assumo rotina de Gabriel)
+[17/10/2022 10:41:34] Rogério Sidney Thon: 17/10 Itaim Rogério saída 9:00h (extra)
+[17/10/2022 11:01:08] Caroline Firmino Lemes da Silva: 17/10 Osasco Lemes saída 11:00 (EXTRA)
+[17/10/2022 11:36:08] Beatriz Antipou dos Santos: 17/10 Itaim- Antipou- saída 11:35 (pós plantão )
+[17/10/2022 12:11:09] Daniel Masuzaki Wong: 17/10 Jabaquara - Wong - saída 12:10
+[17/10/2022 12:29:24] Alberto de Azevedo Alves Moreira: 17/10 Osasco - Alberto entrada 06:00
+[17/10/2022 12:59:51] Francisco José Lucena Bezerra: 17/10 ANÁLIA - Lucena saída 12:55 (pós-plantão)
+[17/10/2022 13:02:02] Thais Miranda Ramos: 17/10 ANÁLIA - Miranda saída às 12h55 (deslocada VL dia anterior; pós plantão)
+[17/10/2022 13:06:23] Luciano Angelo Richetti: 17/10 ITAIM Luciano saída 12:30
+[17/10/2022 13:08:59] André da Costa Aguiar Ventura: 17/10 VNS Ventura saida 13:00( EXTRA)
+[17/10/2022 14:24:19] Luccas Varela Godoy: 17/10 Osasco Luccas saída 14:10
+[17/10/2022 14:40:06] Rodrigo de Carvalho Silva: 17/10 Jabaquara - Carvalho - saída 14h40
+[17/10/2022 14:41:19] Maira Leite Basile: 17/10 Jabaquara - Maíra - saída 14h40
+[17/10/2022 15:22:32] Everton Sidney da Conceição Carvalho: 17/10 Aviccena Everton entrada 05:35h
+[17/10/2022 15:23:00] Everton Sidney da Conceição Carvalho: 17/10 Aviccena Everton saída 15:20
+[17/10/2022 15:41:14] Hedicleber Pestana Severino: 17/10 Morumbi Hedicleber saída 15:40(extra)
+[17/10/2022 15:49:33] Diego da Cunha Tomaz: 17/10 Jabaquara - Diego saída 13:00
+[17/10/2022 16:01:01] Sheila Itiroco Monte: 17/10 ITAIM Sheila saída 16:00
+[17/10/2022 16:10:17] Rodrigo Miyashiro Nunes dos Santos: 17/10 MORUMBI - Miyashiro saida 16:10 (EXTRA)
+[17/10/2022 16:18:16] Thiago Silva Pinto: 17/10 Jabaquara - T. Silva saída 16:10
+[17/10/2022 16:34:45] Marcos Rogério Pereira Machado Filho: 17/10 Osasco - Marcos entrada 6:00
+[17/10/2022 16:35:06] Marcos Rogério Pereira Machado Filho: 17/10 Osasco - Marcos saída 16:30
+[17/10/2022 16:50:28] Stefany Hellen Sousa Martins: 17/10 Jabaquara stefany saida 15:40
+[17/10/2022 17:10:08] Carlos Eduardo Corrêa Grilo: 17/10 Anália - Cadu saída 15:40
+[17/10/2022 17:14:11] Alberto de Azevedo Alves Moreira: 17/10 Osasco - Alberto saída 17:10
+[17/10/2022 17:30:26] Maria Cecília Domingues da Silva Soares: 17/10 VILLA - M. Cecília saída 17:30
+[17/10/2022 17:35:21] Carlos Augusto Trevisan: 17/10 ITAIM - Carlos saída 17:20
+[17/10/2022 17:42:59] Eduardo Arbache Bezerra: 17/10 Itaim - Bezerra saida as 17:20
+[17/10/2022 17:46:59] Felipe Coelho De Souza: 17/10 Anália - Coelho saída 17:45
+[17/10/2022 18:32:13] Matheus de Alencar Arraes: 17/10 JABAQUARA Arraes entrada 06h
+[17/10/2022 18:41:42] Daniel Rodrigues de Oliveira: 17/10 Itaim Daniel saída 18:30
+[17/10/2022 18:53:44] Emerson Domingos Da Costa: 17/10 Villa - Emerson Saída 17:30
+[17/10/2022 19:01:52] Erick Oliveira Lima Gomes: 17/10 Aviccena - Erick entrada 05:35
+[17/10/2022 19:11:49] Renata Torres Bueno: 17/10 Villa - Renata Bueno saída 17:00
+[17/10/2022 19:17:19] Marcelo Felipe de Souza Buto: 17/10 Morumbi - Buto saída 19:15
+[17/10/2022 19:22:41] Rodrigo Andrade Carmello: 17/10 Morumbi - Carmello saída 19:15
+[17/10/2022 19:25:54] Yuri Lucas De Souza: 17/10 Villa - Souza saída 17:00
+[17/10/2022 19:31:08] Maiely Marcolin: 17/10 Osasco - Maiely saída 19:20
+[17/10/2022 19:49:24] Alexsander Takashi Hamada: 17/10 Analia  Alexsander  entrada 8:00 
+[17/10/2022 19:49:24] Alexsander Takashi Hamada: 17/10 Analia  Alexsander Saída 19:50
+[17/10/2022 19:49:44] Gustavo Marques Da silva: 17/10 Itaim - Marques saída 19:40
+[17/10/2022 19:50:54] Felipe de Oliveira Nunes: 17/10 Osasco - Nunes saída 18:50 (deslocado do Analia no dia anterior)
+[17/10/2022 19:53:43] Eduardo Dala Rosa Soares: 17/10 Itaim- Soares saída 19:45
+[17/10/2022 20:01:42] Avelino José da Silva Freitas Junior: 17/10 Anália Avelino saída 19:50
+[17/10/2022 20:02:27] Rafael Tadeu Marques: 17/10 Jabaquara Rafael tadeu saída 19:55
+[17/10/2022 20:09:40] Mirela Farias Figueiroa: 17/10 Anália - Mirela saída 19:50
+[17/10/2022 20:12:17] Carlos Eduardo Gondim Oliveira: 17/10 VNS - Oliveira saída 20:11
+[17/10/2022 20:17:17] Gabriella Gadelha Sarmento: 17/10 Itaim - Gabriella saída 20:10
+[17/10/2022 20:39:41] Milton Olaio Neto: 17/10-Itaim Olaio saída 20:39
+[17/10/2022 20:45:36] Ricardo Giraldelli Carvalho Lima: 17/10 ANALIA - Giraldelli saída 19:55
+[17/10/2022 21:04:03] Vanessa Paciullo Marossi: 17/10 ANÁLIA Vanessa saída 21:05
+[17/10/2022 21:12:07] Renata Pinheiro Modolo: 17/10 Jabaquara R. Modolo saída 21:10
+[17/10/2022 21:17:32] Diogo Henrique Pereira Mattos: 17/10 ANÁLIA - Diogo saída 21:16
+[17/10/2022 21:41:51] Kaiê Fernandes: 17/10 Itaim - Kaie saída 21h40
+[17/10/2022 21:52:21] Marcelo Maia da Silveira: 17/10 VILLA - Maia saída 21:45
+[17/10/2022 22:07:44] Leticia Fernandes Borges: 17/10 Itaim Letícia saída 21h50
+[17/10/2022 22:08:28] Francisco Antonio Alves Bonatto: 17/10 ANÁLIA  - Francisco saída 22:05
+[17/10/2022 22:11:48] Juliana Akemi Funabashi: 17/10 VILLA - Akemi saída 22:10
+[17/10/2022 23:14:18] Mariana Gasparelli de Souza: 17/10 Morumbi - Mariana Gasparelli saída 21:20
+[17/10/2022 23:16:43] Fernanda Teles Ribeiro: 17/10 Analia - Fernanda saída 22:45
+[18/10/2022 04:39:54] Marcelo Felipe de Souza Buto: 18/10 VNS - Buto entrada 4:40
+[18/10/2022 04:45:16] Diego da Cunha Tomaz: 18/10 Jabaquara - Diego entrada 4:45
+[18/10/2022 04:47:59] Norival Scandelai Junior: 18/10 Morumbi - Norival Entrada 4:30
+[18/10/2022 05:45:08] Fabiana Barbosa Bastos: 18/10 Morumbi - Fabiana entrada 05:20
+[18/10/2022 05:47:15] Roberto Votto Melkan: 18/10 Osasco -Roberto entrada 5:20 ( deslocado morumbi)
+[18/10/2022 05:48:04] Camila Chiarantano Harrison: 18.10 Villa Camila Entrada 5:45
+[18/10/2022 05:49:27] Yuri Anderson Pacheco de Lima: 18/10 Morumbi - Yuri entrada 05:40
+[18/10/2022 05:51:25] Alexsander Takashi Hamada: 18/10 Villa Alexsander entrada 5:50
+[18/10/2022 05:52:20] Thales Luvisotto Neder: 18/10 Jabaquara - Thales entrada 06:00 (EXTRA)
+[18/10/2022 06:00:56] Fernando Ribeiro Sá: 18/10 Anália Ribeiro entrada 06:00
+[18/10/2022 06:01:30] Gabriella Gadelha Sarmento: 18/10 Itaim - Gabriella entrada 06:00
+[18/10/2022 06:01:51] Eduardo Arbache Bezerra: 18/10 Analia - Bezerra entrada as 06:00
+[18/10/2022 06:04:31] Daniellen Lins Lourenço: 18/10 MORUMBI- Daniellen entrada 06:00
+[18/10/2022 06:09:06] Gabriela Soares Piassi: 18/10 VILLA - Piassi entrada 5:30 (deslocada itaim)
+[18/10/2022 06:19:13] Luccas Varela Godoy: 18/10 Osasco Luccas entrada 6:00
+[18/10/2022 06:23:13] Vivianna Bovério Galzerani: 18/10 Morumbi Vivianna entrada 06:15
+[18/10/2022 06:25:52] Anna Beatriz Aranha Trevisan: 18/10 MORUMBI - Anna Beatriz entrada 06:00
+[18/10/2022 06:33:27] Juliana Hussein Grilo: 17/10 VILLA - J. Hussein saída 22:10
+[18/10/2022 06:35:57] Karen Peixoto Ricci: 18/10 VNS Karen entrada 6:30 (extra)
+[18/10/2022 07:11:16] Wangles Pignaton de Paula: 18/10 MORUMBI - Wangles entrada 4:50
+[18/10/2022 07:20:50] Renata Togeiro Bastos Godoy de Faria: 18/10 MORUMBI - Renata Togeiro entrada 5:30
+[18/10/2022 07:39:27] Vitor Oliveira André: 17/10 Jabaquara Vitor saída 01:40 (distância para efeito de escala)
+[18/10/2022 07:41:01] Maria Carolina Célia Silveira: 18/10 OSASCO - M. Carolina entrada 05:30 (deslocada VNS)
+[18/10/2022 07:42:59] Ricardo Ivo de Lima: 18/10 - Morumbi - Ricardo Ivo Entrada - 06:10h
+[18/10/2022 08:07:00] Yoko Hayashi: 17/10 Jabaquara Yoko saída 22:15
+[18/10/2022 08:37:09] Izabella Gontijo Cunha: 18/10 ITAIM - Izabella entrada 06:00
+[18/10/2022 08:50:46] Daniel Rodrigues de Oliveira: 18/10 Itaim Daniel entrada 7:00
+[18/10/2022 08:52:23] Maurício Faria Tetti: 18/10 Aviccena - Maurício entrada 6:30 (deslocado Anália)
+[18/10/2022 08:53:22] Thiago Francisco Martins: 18/10 ANALIA Thiago Martins entrada 06:10
+[18/10/2022 09:38:36] Fernando Akira Koga: 18/10 Itaim - Koga saída 09:38
+[18/10/2022 10:48:58] Pedro Paulo Silva Farah: 18/10 Morumbi - Pedro EXTRA , saída 10:10h
+[18/10/2022 11:12:43] Fabio Yuji Suguita: 18/10 jabaquara yuji saída 11:10
+[18/10/2022 11:15:21] Matheus Viana Lemo: 18/10 Jabaquara Viana saída 11:10 (EXTRA assumo plantão)
+[18/10/2022 11:15:46] Matheus Viana Lemo: 18/10 Jabaquara Viana entrada 07:00 (extra)
+[18/10/2022 11:17:27] Thales Luvisotto Neder: 18/10 Jabaquara - Thales saída 11:15 (EXTRA)
+[18/10/2022 11:38:37] Rodrigo Achui Haga: 18/10 OSASCO - haga entrada 06:00
+[18/10/2022 12:36:15] Mariana Gasparelli de Souza: 18/10 Morumbi - Mariana Gasparelli saída 12:00 ( EXTRA)
+[18/10/2022 12:41:29] Karen Peixoto Ricci: 18/10 VNS Karen saída 12:30 (extra)
+[18/10/2022 13:48:08] Arthur Oliveira Facchini: 18/10 Itaim Facchini saída 13:46 ( pós plantão)
+[18/10/2022 13:55:41] Thiago Francisco Martins: 18/10 ANALIA Thiago Martins saida 13:45
+[18/10/2022 14:15:23] Milton Olaio Neto: 18/10-Itaim Olaio entrada 5:30
+[18/10/2022 14:15:38] Milton Olaio Neto: 18/10-Itaim Olaio saída 14:10
+[18/10/2022 14:45:59] Izabella Gontijo Cunha: 18/10 ITAIM - Izabella saída 14:45
+[18/10/2022 14:50:54] Sidney Orlando de Souza: 18/10-Itaim-Sidney-entrada as 7:00 e saida as 14:50
+[18/10/2022 15:15:39] Vitor Oliveira André: 18/10 VNS Vitor saída 15:15
+[18/10/2022 15:20:56] Pedro Tiago Bonfitto: 18/10 VILLA Bonfitto saída 15:20 (EXTRA)
+[18/10/2022 15:30:14] Débora Philippi Bressane: 18/10 Anália Débora Bressane entrada 05:40 saída 13:40
+[18/10/2022 15:31:42] Paola Rodrigues Oshiro: 18/10 ANÁLIA- Paola saída 15:30
+[18/10/2022 15:50:13] Guilherme de Almeida Costa: 18/10 OSASCO -  costa saida 15:40 (pos plantao) (deslocado villa dia anterior)
+[18/10/2022 15:56:40] Alberto de Azevedo Alves Moreira: 18/10 Jabaquara - Alberto entrada 6:00
+[18/10/2022 15:57:01] Alberto de Azevedo Alves Moreira: 18/10 Jabaquara - Alberto saída 15:50
+[18/10/2022 16:28:49] Turibio Rodrigues Freire Neto: 18/10 VNS TURÍBIO Deslocado Morumbi Entrada 06:15
+[18/10/2022 16:29:07] Turibio Rodrigues Freire Neto: Saída 16:20
+[18/10/2022 16:36:19] Maurício Faria Tetti: 18/10 Aviccena- Maurício saída 15:45
+[18/10/2022 16:45:50] Maria Carolina Célia Silveira: 18/10 OSASCO - M. Carolina saída 16:15 (deslocada VNS)
+[18/10/2022 16:47:34] Estanrley Barcelos Pinto: 18/10 ANÁLIA-Estanrley Saida: 15:50
+[18/10/2022 17:07:04] Filipe Maeda Hashi Abdalla Martins: 18/10 Jabaquara Maeda saída 16:45
+[18/10/2022 17:10:14] Karen Yumi Miyashiro: 18/10 Aviccena - Yumi saída 17:00
+[18/10/2022 17:11:50] Natan Soares Silveira: 18/10 Villa - Natan - saída 15:50 (pós-plantão)
+[18/10/2022 17:18:08] Aline Franchini Goulart Lima: 18/10 ANÁLIA Aline saída 17h15
+[18/10/2022 17:34:06] Eduardo Arbache Bezerra: 18/10 Analia - Bezerra saida as 17:20
+[18/10/2022 17:39:20] Daniel Rodrigues de Oliveira: 18/10 Itaim Daniel saída 17:30
+[18/10/2022 18:18:01] Kaiê Fernandes: 18/10 Itaim - Kaie entrada 6h00
+[18/10/2022 18:19:21] Fernando Ribeiro Sá: 18/10 Anália Ribeiro saída 17:20
+[18/10/2022 18:34:32] Emerson Domingos Da Costa: 18/10 Anália - Emerson Saída 18:20
+[18/10/2022 18:35:01] Thais Chaves Pinheiro: ‎Mensagem apagada
+[18/10/2022 18:35:40] Thais Chaves Pinheiro: 18/10 OSASCO - Thais entrada 06:15 (Deslocada Jabaquara no dia anterior)
+[18/10/2022 19:02:15] Anna Beatriz Aranha Trevisan: 18/10 MORUMBI - Anna Beatriz saída 18:50
+[18/10/2022 19:12:35] Gabriel Gondim Fonseca: 18/10 Jabaquara Gondim saída 19:10
+[18/10/2022 19:13:44] Eduardo Dala Rosa Soares: 18/10 Itaim - Soares saída 19:10
+[18/10/2022 19:25:40] Diego da Cunha Tomaz: 18/10 Jabaquara- Diego saída 12:30
+[18/10/2022 19:35:14] Norival Scandelai Junior: 18/10 Morumbi - Norival  Saída 19:15
+[18/10/2022 19:37:32] Débora Alves Aude: 18/10 Itaim Débora saída 19:30
+[18/10/2022 19:37:50] Filipe Lugon Moulin Lima: 18/10 JABAQUARA - Filipe Lugon saída 19:30
+[18/10/2022 19:39:49] Matheus de Alencar Arraes: 18/10 OSASCO Arraes saida 19:35 (deslocado ITAIM)
+[18/10/2022 19:43:14] Marcio Ighor Azevedo Silva De Mendonça Melania: 18/10 Villa - Ighor saída 19:40
+[18/10/2022 19:43:32] Marina Borges Curralo: 18/10 Maternidade Marina saída 19;45
+[18/10/2022 20:11:59] Livia Schenkel Thurler Trairi: 18/10 OSASCO - Livia saída 19:45
+[18/10/2022 20:12:55] José Carlos Tuna Scarpa: 18/10 Jabaquara José Carlos Saída 20:12
+[18/10/2022 20:31:12] Daniellen Lins Lourenço: 18/10 MORUMBI - Daniellen saída 20:20
+[18/10/2022 20:35:36] Sheila Itiroco Monte: 18:10 ITAIM Sheila saída 20:25
+[18/10/2022 20:50:27] Patrick Alexander Suer Schues: 18/10 Osasco - Patrick saída 20:45 (deslocado do Jabaquara no dia anterior)
+[18/10/2022 20:56:24] Wangles Pignaton de Paula: 18/10 MORUMBI - Wangles saída 20:15
+[18/10/2022 21:04:05] Rodrigo de Carvalho Silva: 18/10 Itaim - Carvalho - Saída 21h
+[18/10/2022 21:04:25] Caroline Firmino Lemes da Silva: 18/10 Jabaquara Lemes saída 19:50
+[18/10/2022 21:11:40] Gabriel de Aguiar Santana: 18/10 Anália - Gabriel saída 21:10
+[18/10/2022 21:42:21] Elaine Imaeda de Moura: 18/10 Anália Elaine saída 21:40
+[18/10/2022 21:43:51] Renata Torres Bueno: 18/10 Anália - Renata Bueno saída 20:40
+[18/10/2022 21:44:34] Fabiana Barbosa Bastos: 18/10 Morumbi - Fabiana saída 21:40
+[18/10/2022 21:48:07] Ana Jung Docko: 18/10 ANÁLIA Ana saída 21:45
+[18/10/2022 22:01:01] Mariana Dardengo Borges: 18/10 MORUMBI - M. Dardengo entrada 5:30
+[18/10/2022 22:01:25] Mariana Dardengo Borges: 18/10 MORUMBI - M. Dardengo saída 22:00
+[18/10/2022 22:11:34] Juliana Hussein Grilo: 18/10 VILLA - J. Hussein saída 22:10
+[18/10/2022 22:13:25] Francisco Antonio Alves Bonatto: 18/10 VILLA - Francisco saída 22:10
+[18/10/2022 22:19:52] Bruno Ferraz de Campos Barone: 18/10 VNS - Barone saída 22:15
+[18/10/2022 22:23:22] Ivã Barbosa Soares: 18/10 Osasco Ivã Saída 22:10
+[18/10/2022 22:34:48] Carlos Eduardo Gondim Oliveira: 18/10 VILLA - Oliveira saída 22:30
+[18/10/2022 22:41:21] Luciano Angelo Richetti: 18/10 Osasco Luciano Saída 22:40
+[18/10/2022 22:58:02] Yuri Anderson Pacheco de Lima: 18/10 Morumbi - Yuri saída 22:50
+[18/10/2022 23:00:21] Diogo Henrique Pereira Mattos: 18/10 ANÁLIA - Diogo saída 22:50
+[19/10/2022 04:21:22] Carlos Augusto Trevisan: 18/10 VILLA - Carlos saída 19/10 04:20 (distancia para efeito de escala de saída)
+[19/10/2022 04:37:36] Izabella Gontijo Cunha: 18/10 OSASCO - Izabella entrada 04:40 (deslocada ITAIM)
+[19/10/2022 05:18:50] Fernando Akira Koga: 19/10 Morumbi - Koga Entrada 05:20
+[19/10/2022 05:31:37] Renata Togeiro Bastos Godoy de Faria: 19/10 MORUMBI - Renata Togeiro entrada 5:00
+[19/10/2022 05:45:14] Alexsander Takashi Hamada: 19/10 Osasco Alexsander entrada as 5:45 (deslocado do Jabaquara no dia anterior)
+[19/10/2022 05:51:06] Caroline Firmino Lemes da Silva: ‎Mensagem apagada
+[19/10/2022 05:51:36] Caroline Firmino Lemes da Silva: 19/10 Osasco Lemes entrada 05:45
+[19/10/2022 05:53:16] Vitor Oliveira André: 19/10 Itaim Vitor entrada 06:00
+[19/10/2022 05:54:36] Gustavo Marques Da silva: 19/10 Analia - Marques entrada 05:50
+[19/10/2022 05:56:36] Thales Luvisotto Neder: 19/10 Jabaquara - Thales entrada 06:00 (EXTRA)
+[19/10/2022 05:58:19] Maiely Marcolin: 19/10 Osasco - Maiely entrada 06:00 (deslocada Itaim)
+[19/10/2022 05:58:31] Elaine Imaeda de Moura: 19/10 Anália Elaine entrada 6:00
+[19/10/2022 05:59:51] Gabriella Gadelha Sarmento: 19/10 Itaim - Gabriella entrada 06:00
+[19/10/2022 06:00:14] Wangles Pignaton de Paula: 19/10 MORUMBI - Wangles entrada 6:00
+[19/10/2022 06:00:18] Stefany Hellen Sousa Martins: 19/10 Analia stefany entrada 05:20
+[19/10/2022 06:01:17] Roberto Votto Melkan: 19/10 Osasco Roberto entrada 6:00
+[19/10/2022 06:02:16] Eduardo Dala Rosa Soares: 19/10 VNS - Soares entrada 05:20
+[19/10/2022 06:05:34] Maurício Faria Tetti: 19/10 Villa - Maurício entrada 6:00 ( deslocado do Anália)
+[19/10/2022 06:08:06] Thiago Francisco Martins: 19/10 ANALIA Thiago Martins entrada 06:00 (EXTRA)
+[19/10/2022 06:19:36] Hedicleber Pestana Severino: 19/10 Morumbi Hedicleber entrada 06:20
+[19/10/2022 06:25:18] Vivianna Bovério Galzerani: 19/10 Morumbi Vivianna entrada 05:50
+[19/10/2022 06:26:48] Patrick Alexander Suer Schues: 19/10 Jabaquara - Patrick entrada 06:10
+[19/10/2022 06:29:22] Saullo Queiroz Silveira: 18/10 Jabaquara Saullo saída 16:45
+[19/10/2022 06:31:02] Bruno Ferraz de Campos Barone: 19/10 VNS - Barone entrada 06:00
+[19/10/2022 06:44:13] Pedro Paulo Silva Farah: 19/10 Morumbi - Pedro entrada 6:00h
+[19/10/2022 06:44:35] Marcos Rogério Pereira Machado Filho: 19/10 Villa - Marcos entrada 6:00
+[19/10/2022 06:44:49] Yuri Anderson Pacheco de Lima: 19/10 Itaim - Yuri entrada 05:15
+[19/10/2022 06:45:13] Fernando Ribeiro Sá: 19/10 VNS Ribeiro entrada 06:05
+[19/10/2022 06:45:19] Ivã Barbosa Soares: 19/10 Osasco Ivã entrada 05:40
+[19/10/2022 07:09:23] Estanrley Barcelos Pinto: 19/10 ANÁLIA-Estanrley entrada: 06:00
+[19/10/2022 07:17:12] Bruce Ye Man Chow: 19/10 Morumbi - bruce entrada 05:45
+[19/10/2022 08:30:13] Mariana Gasparelli de Souza: 19/10 Morumbi - Mariana Gasparelli entrada 05:00
+[19/10/2022 09:24:01] Ronald Figueiredo Gomes: 19/10 AVICCENA- Ronald entrada 06:30
+[19/10/2022 09:24:40] Livia Schenkel Thurler Trairi: 19/10 AVICCENA - Livia entrada 5:40
+[19/10/2022 09:29:02] Marcelo dos Anjos Reis: 19/10 Itaim Marcelo saida 09:15 (extra)
+[19/10/2022 10:18:58] Matheus de Alencar Arraes: 19/10 JABAQUARA Arraes entrada 05:45 / saida 10:17 (EXTRA)
+[19/10/2022 10:21:18] Thales Luvisotto Neder: 19/10 Jabaquara - Thales saída 10:20 (EXTRA)
+[19/10/2022 11:37:52] Maira Leite Basile: 19/10 VNS - Maíra saída 11:35 (extra)
+[19/10/2022 11:51:15] Orlando Domingues de Araújo Pontes: 19/10 Anália Orlando saída 11:40 (EXTRA)
+[19/10/2022 11:55:44] Kaiê Fernandes: 19/10 Morumbi Kaie saída 11:50 (EXTRA)
+[19/10/2022 12:11:10] Fábio Antônio de Souza Oliveira: 19/10 VNS Fábio saída 12hs ( Extra)
+[19/10/2022 12:28:13] Thais Miranda Ramos: 18/10 OSASCO - Miranda saída às 19h15 (deslocada Itaim dia anterior)
+[19/10/2022 12:28:47] Thais Miranda Ramos: 19/10 JABAQUARA - Miranda entrada às 07h00 (EXTRA)
+[19/10/2022 12:29:02] Thais Miranda Ramos: 19/10 JABAQUARA - Miranda saída 12h20 (EXTRA)
+[19/10/2022 12:44:05] Fabio Yuji Suguita: 19/10 jabaquara yuji extra saída 12:40 (extra)
+[19/10/2022 12:48:45] Carlos Eduardo Gondim Oliveira: 19/10 MORUMBI - Oliveira saída 12:45 (EXTRA)
+[19/10/2022 13:19:59] Jessica Lidia de Souza: 19/10 Itaim Jessica saida 13:00 (pós plantão)
+[19/10/2022 13:50:02] Yuri Anderson Pacheco de Lima: 19/10 Itaim - Yuri saída 13:40
+[19/10/2022 14:03:15] Thiago Francisco Martins: 19/10 ANALIA Thiago Martins saída 14:00 (EXTRA)
+[19/10/2022 14:12:01] Andre Mortari Plá Gil: 19/10 Itaim  André entrada 5:15h
+[19/10/2022 14:12:19] Andre Mortari Plá Gil: 19/10 Itaim André saída 10:40h
+[19/10/2022 14:25:17] Rafael Tadeu Marques: 19/10 VNS Rafael tadeu saída 14:10 ( EXTRA)
+[19/10/2022 14:31:43] Fabiana Soares Gama: 19/10 Anália Fabiana Gama saída as 14:30
+[19/10/2022 14:48:55] Norival Scandelai Junior: 19/10 Itaim - Norival Saída 14:05
+[19/10/2022 14:50:50] Matheus Acquesta Gaubeur: 19/10 Aviccena - Matheus saída 14:50 (deslocado Villa)
+[19/10/2022 15:31:58] Matheus Viana Lemo: 19/10 Jabaquara Viana saída 15:30 (pós)
+[19/10/2022 15:35:44] Everton Sidney da Conceição Carvalho: 19/10 Anália Everton saída 15:35 (Pós-plantão)
+[19/10/2022 15:44:21] Leandro Kendi Kanada: 19/10 Villa Leandro kanada saida 15:40 (EXTRA)
+[19/10/2022 15:46:24] Eduardo Dala Rosa Soares: 19/10 VNS - Soares saída 15:45
+[19/10/2022 16:18:31] Patrick Alexander Suer Schues: 19/10 Jabaquara - Patrick saída 16:15
+[19/10/2022 16:31:40] Diego da Cunha Tomaz: 19/10 Jabaquara - Diego saída 16:30
+[19/10/2022 16:32:25] Álvaro Lázaro Ráo Regonato: 19/10 Jabaquara Ráo saída 16:20
+[19/10/2022 16:36:25] Bruno Ferraz de Campos Barone: 19/10 VNS - Barone saída 16:00
+[19/10/2022 16:57:27] Livia Schenkel Thurler Trairi: 19/10 AVICCENA - Livia saída 16:50
+[19/10/2022 17:17:37] Bruce Ye Man Chow: 19/10 Morumbi - bruce saida 17:10
+[19/10/2022 17:25:24] Vivianna Bovério Galzerani: 19/10 Morumbi Vivianna saída 17:20
+[19/10/2022 17:26:48] Luiz Augusto Xavier Brandão: 19/10 Osasco Luiz Augusto saída 17:25 hs
+[19/10/2022 17:39:55] Ronald Figueiredo Gomes: ‎Mensagem apagada
+[19/10/2022 17:40:15] Ronald Figueiredo Gomes: 19/10 VILLA- Ronald saida 17:40 (deslocado do Aviccena)
+[19/10/2022 17:54:43] Caroline Firmino Lemes da Silva: 19/10 Osasco Lemes saída 17:15
+[19/10/2022 17:57:15] Ivã Barbosa Soares: 19/10  Osasco Ivã Saída 16:30
+[19/10/2022 18:14:23] Izabella Gontijo Cunha: 19/10 OSASCO - Izabella saída 15:30 (deslocada ITAIM)
+[19/10/2022 18:15:45] Rafael Souza Fava Nersessian: 19/10 Jabaquara Rafael Fava entrada 6:30
+[19/10/2022 18:24:58] Carlos Augusto Trevisan: 19/10 ANALIA - Carlos saída 18:20 (Deslocamento Itaim pós plantão)
+[19/10/2022 18:30:43] ‪+55 11 99512‑7193‬: 19/10 - Osasco -Naldo - saída 18:25
+[19/10/2022 18:43:11] Mariana Dardengo Borges: 19/10 Jabaquara - M. Dardengo saída 16:40
+[19/10/2022 19:20:40] Pedro Paulo Silva Farah: 19/10 Morumbi - Pedro saída 16:50h
+[19/10/2022 19:22:59] Gretel Oliveira Nicolau: 19/10 Analia Gretel saida 19:20
+[19/10/2022 19:30:48] Rodrigo Andrade Carmello: 19/10 Jabaquara - Carmello saída 19:15
+[19/10/2022 19:48:41] Pedro Augusto Tavares Dall Aglio: 19/10 Anália - Tavares - saída : 19:25
+[19/10/2022 19:49:56] Carlos Eduardo Corrêa Grilo: 19/10 Anália - Cadu saída às 19:30
+[19/10/2022 19:51:37] Fabiana Barbosa Bastos: 19/10 VNS - Fabiana saída 19:45
+[19/10/2022 20:07:55] Débora Philippi Bressane: 19/10 Jabaquara Débora Bressane saída 19:50
+[19/10/2022 20:10:01] Stefany Hellen Sousa Martins: 19/10 Analia stefany saida 19:10
+[19/10/2022 20:10:23] Ricardo Kawaura: 19/10 Osasco Kawaura saída 20:10
+[19/10/2022 20:17:02] Amanda Kiyoko Souza Kossaka: 19/10 MORUMBI - Amanda saída 20:15
+[19/10/2022 20:17:02] Maurício Faria Tetti: 19/10 Villa Maurício saída 19:45
+[19/10/2022 20:17:34] Neliane Guedes Pretti: 19/10 Anália Neliane saída 20:10
+[19/10/2022 20:21:52] Rodrigo Achui Haga: 19/10 VILLA - haga saida 19:40
+[19/10/2022 20:22:08] André Luis Xavier Franco: 19/10 Villa Xavier saida 20:20
+[19/10/2022 20:50:10] Luiz Guilherme Thomaz Zacharias: 19/10 ITAIM - Guilherme saída 20:50
+[19/10/2022 20:51:11] Francisco Antonio Alves Bonatto: 19/10 VILLA - Francisco saída 20:50
+[19/10/2022 20:51:13] Maria Cecília Domingues da Silva Soares: 19/10 VILLA - M. Cecília saída 20:50
+[19/10/2022 20:51:18] Vanessa Paciullo Marossi: 19/10 VILLA Vanessa saída 20:50
+[19/10/2022 21:01:25] Filipe Lugon Moulin Lima: 19/10 JABAQUARA - Filipe Lugon saída 20:50
+[19/10/2022 21:04:34] Sidney Orlando de Souza: 19/10, Itaim- Sidney--saida 21:00
+[19/10/2022 21:04:56] Milton Olaio Neto: 19/10-Itaim Olaio saída 20:55
+[19/10/2022 21:08:32] Filipe Maeda Hashi Abdalla Martins: 19/10 Jabaquara Maeda saída 21:08
+[19/10/2022 21:09:29] Felipe de Oliveira Nunes: 19/10 Osasco- Nunes saída 20:40
+[19/10/2022 21:10:15] Daniel Masuzaki Wong: 19/10 Osasco - Wong saída 21:10
+[19/10/2022 21:12:17] Sergio Zamith: 19/10 Itaim Zamith saída 21:10 hs.
+[19/10/2022 21:14:29] Rodrigo de Carvalho Silva: 19/10 Itaim - Carvalho - saída 21h10
+[19/10/2022 21:25:11] Estanrley Barcelos Pinto: 19/10 ANÁLIA-Estanrley Saida: 19:10
+[19/10/2022 21:28:56] Débora Alves Aude: 19/10 Itaim Débora saída 21:25h
+[19/10/2022 21:29:32] Mônica Robles Gonçalves: 19/10 Analia Monica saida 20:45
+[19/10/2022 21:38:33] Gabriel de Aguiar Santana: 19/10 Itaim - Gabriel saída 21:38
+[19/10/2022 21:56:38] Ana Jung Docko: 19/10 ANÁLIA Ana saída 21:55
+[19/10/2022 21:57:51] Renata Togeiro Bastos Godoy de Faria: 19/10 MORUMBI - Renata Togeiro saída 21:55
+[19/10/2022 21:58:57] Sheila Itiroco Monte: 19/10 VILLA Sheila saída 21:10
+[19/10/2022 22:02:19] Mariana Gasparelli de Souza: 19/10 Morumbi - Mariana Gasparelli saída 16:10
+[19/10/2022 22:12:20] Felipe Coelho De Souza: 19/10 Anália - Coelho saída 22:10
+[19/10/2022 23:41:09] Maiely Marcolin: 19/10 Osasco - Maiely saida 23:37
+[20/10/2022 01:04:15] Larissa Mayumi Ono: 19/10 Osasco Larissa - saída 01:00 (distância)
+[20/10/2022 04:56:54] Arthur Oliveira Facchini: 20/10 Analia Facchini entrada 04:40
+[20/10/2022 05:13:04] Rafael Tadeu Marques: 20/10 Itaim Rafael tadeu entrada 04:20
+[20/10/2022 05:25:06] Hedicleber Pestana Severino: 20/10 Morumbi Hedicleber entrada 05:20(extra)
+[20/10/2022 05:31:46] Fabio Yuji Suguita: 20/10 villa yuji entrada 05:30
+[20/10/2022 05:59:47] Filipe Maeda Hashi Abdalla Martins: 20/10 Jabaquara Maeda entrada 6:00
+[20/10/2022 06:04:28] Rodrigo de Carvalho Silva: 20/10 Itaim - Carvalho - Entrada 06h
+[20/10/2022 06:04:41] Sabrina de Souza Ramos: 20/10 Jabaquara Sabrina entrada 06:00
+[20/10/2022 06:04:46] Fabiana Barbosa Bastos: 20/10 Jabaquara - Fabiana entrada 05:00 (deslocada VNS)
+[20/10/2022 06:08:51] Gabriella Gadelha Sarmento: 20/10 VNS - Gabriella entrada 06:00 ( extra)
+[20/10/2022 06:12:34] Marcio Ighor Azevedo Silva De Mendonça Melania: 20/10 Analia - Ighor entrada 06:00
+[20/10/2022 06:18:57] Livia Schenkel Thurler Trairi: 20/10 OSASCO - Livia entrada 6:00 (EXTRA)
+[20/10/2022 06:22:34] Juliana Akemi Funabashi: 20/10 ANÁLIA - Akemi entrada 06:10
+[20/10/2022 06:24:49] Sheila Itiroco Monte: 20/10 ITAIM Sheila entrada 6:00
+[20/10/2022 06:47:26] Alexsander Takashi Hamada: 20/10 Analia - Alexsander     entrada 5:45
+[20/10/2022 06:57:20] Ronald Figueiredo Gomes: 20/10 JABAQUARA- Ronald Entrada 05:20 (EXTRA)
+[20/10/2022 06:58:33] Emerson Domingos Da Costa: 19/10 Villa - Emerson Saída 20:15
+[20/10/2022 06:59:04] Karen Yumi Miyashiro: 20/10 Anália - Yumi entrada 06:00
+[20/10/2022 06:59:15] Jessica Lidia de Souza: 20/10 Anália - Jessica  entrada 06:00
+[20/10/2022 07:12:50] Andre Mortari Plá Gil: 20/10 itaim André entrada 6h
+[20/10/2022 07:13:06] Estanrley Barcelos Pinto: 20/10 AVICCENA-Estanrley entrada: 06:00
+[20/10/2022 07:29:08] Daniel Rodrigues de Oliveira: 20/10 Itaim Daniel (cirurgia a pedido) entrada 5:40
+[20/10/2022 07:30:45] Manoel de Souza Neto: 20/10 Osasco Manoel entrada 05:50 (Deslocado VNS )
+[20/10/2022 07:30:53] Rodrigo Andrade Carmello: 20/10 Itaim - Carmello entrada 05:50
+[20/10/2022 07:49:31] Kaiê Fernandes: 20/10 Itaim Kaie entrada 6:00
+[20/10/2022 07:50:50] Renata Togeiro Bastos Godoy de Faria: 20/10 MORUMBI - Renata Togeiro entrada 5:00
+[20/10/2022 07:52:50] Flavio Hideki Oshika: 20/10 ANÁLIA - Flavio entrada 05:20
+[20/10/2022 08:02:44] Juliana Hussein Grilo: 20/10 VILLA - J. Hussein entrada 6:00
+[20/10/2022 08:29:53] Beatriz Antipou dos Santos: 20/10- Morumbi-Antipou- entrada 06:00
+[20/10/2022 08:35:32] Bruce Ye Man Chow: 20/10 Morumbi - bruce entrada 06:00 (EXTRA)
+[20/10/2022 09:23:53] André Luis Xavier Franco: 20/10 Analia Xavier entrada 05:45
+[20/10/2022 12:15:09] Renata Torres Bueno: 20/10 Villa - Renata Bueno saída 12:15 (EXTRA)
+[20/10/2022 13:38:58] Luciano Angelo Richetti: 20/10 Morumbi Luciano saída 12:40 (EXTRA)
+[20/10/2022 13:41:10] Leticia Fernandes Borges: 20/10 Itaim Letícia saída 13:40 ( EXTRA)
+[20/10/2022 13:43:21] Fernanda Teles Ribeiro: 20/10 Itaim Fernanda saída 12:40 ( EXTRA )
+[20/10/2022 14:08:24] Thales Luvisotto Neder: 20/10 Analia - Thales saída 14:08 ( EXTRA)
+[20/10/2022 14:15:29] Livia Schenkel Thurler Trairi: 20/10 OSASCO - Livia saída 14:10 (EXTRA)
+[20/10/2022 15:18:21] Fábio Antônio de Souza Oliveira: 20/10 VNS Fábio saída 15:15 ( Extra)
+[20/10/2022 15:22:02] Marcelo dos Anjos Reis: 20/10 Jabaquara Marcelo saida 14:40 ( EXTRA)
+[20/10/2022 15:27:31] Ronald Figueiredo Gomes: 20/10 JABAQUARA- Ronald saida 15:15 (EXTRA)
+[20/10/2022 15:39:41] Rodrigo Andrade Carmello: 20/10 Itaim - Carmello saída 15:30
+[20/10/2022 15:40:11] Arthur Oliveira Facchini: 20/10 Analia Facchini saída 15:35 ( deslocado Aviccena dia anterior)
+[20/10/2022 15:42:27] André Luis Xavier Franco: 20/10 Analia Xavier saida 15:40 (deslocado do VNS)
+[20/10/2022 15:43:58] Roberto Votto Melkan: 20/10 Osasco Roberto Entrada 7:00 (EXTRA)
+[20/10/2022 15:43:58] Roberto Votto Melkan: 20/10 Osasco Roberto Saída : 15:40 (EXTRA)
+[20/10/2022 15:58:14] José Carlos Tuna Scarpa: 20/10 Jabaquara José Carlos Entrada 6:00
+[20/10/2022 16:11:08] Fabiana Barbosa Bastos: 20/10 Jabaquara - Fabiana saída 16:10 (deslocada VNS)
+[20/10/2022 16:11:26] Kaiê Fernandes: 20/10 jabaquara Kaie saída 16:10 (deslocado Itaim)
+[20/10/2022 16:11:39] Diego da Cunha Tomaz: 20/10 Jabaquara- Diego saída 16:00
+[20/10/2022 16:13:33] Matheus de Alencar Arraes: 20/10 MORUMBI Arraes entrada 04:45 / saida 16:10 (EXTRA)
+[20/10/2022 16:26:02] Estanrley Barcelos Pinto: 20/10 AVICCENA-Estanrley saida: 16:10
+[20/10/2022 16:45:38] Eduardo Dala Rosa Soares: 20/10 VNS - Soares entrada 07:00 ( EXTRA )
+[20/10/2022 16:46:16] Eduardo Dala Rosa Soares: 20/10 VNS - Soares saída 16:40 ( EXTRA )
+[20/10/2022 17:09:47] Natan Soares Silveira: 20/10 Osasco - Natan - saída 17:00 (pós plantão / deslocado Villa)
+[20/10/2022 17:11:05] Rodrigo Miyashiro Nunes dos Santos: 20/10 JABAQUARA - Miyashiro saida 17:10 (deslocamento MORUMBI)
+[20/10/2022 17:12:20] Gustavo Marques Da silva: 20/10 Villa - Marques entrada 07:00 (EXTRA)
+[20/10/2022 17:12:40] Gustavo Marques Da silva: 20/10 Villa - Marques saída 17:10 (EXTRA)
+[20/10/2022 17:21:23] Manoel de Souza Neto: 20/10 Osasco Manoel saída 17:10 (Deslocamento VNS )
+[20/10/2022 17:22:04] Flavio Hideki Oshika: 20/10 ANÁLIA - Flavio saida 17:20
+[20/10/2022 17:22:11] Bruce Ye Man Chow: 20/10 Morumbi - bruce saida 15:10  (EXTRA)
+[20/10/2022 18:01:32] Hedicleber Pestana Severino: 20/10 Morumbi Hedicleber saída 17:45(extra)
+[20/10/2022 18:24:22] Fernando Ribeiro Sá: 20/10 Anália Ribeiro saída 17:15
+[20/10/2022 18:54:46] Daniel Rodrigues de Oliveira: 20/10 Itaim Daniel saída 18:30
+[20/10/2022 19:08:30] Milton Olaio Neto: 20/10-Itaim Olaio saída 19:05
+[20/10/2022 19:09:09] Milton Olaio Neto: 20/10-Itaim Olaio entrada 5:20
+[20/10/2022 19:09:13] Renata Pinheiro Modolo: 20/10 Osasco R. Modolo assumo distância (deslocada itaim)
+[20/10/2022 19:10:08] Anna Beatriz Aranha Trevisan: 20/10 MORUMBI - Beatriz saída 19:00
+[20/10/2022 19:12:52] Rodrigo Achui Haga: 20/10 VILLA - haga saida 19:10
+[20/10/2022 19:28:39] Karen Peixoto Ricci: 20/10 Itaim Karen saída 19:20
+[20/10/2022 19:42:17] Gabriella Gadelha Sarmento: 20/10 VNS - Gabriella saída 19:40 ( extra)
+[20/10/2022 19:47:14] Luccas Varela Godoy: 20/10 Osasco Luccas saída 19:45
+[20/10/2022 20:03:33] Sidney Orlando de Souza: 20/10-Itaim-Sidney-entrada: 05:45 e saida 19:30
+[20/10/2022 20:04:13] Rodrigo de Carvalho Silva: 20/10 Itaim - Carvalho - Saída 20h
+[20/10/2022 20:04:41] Mariana Dardengo Borges: 20/10 MORUMBI - M. Dardengo saída 20:00
+[20/10/2022 20:11:50] Matheus Viana Lemo: 20/10 Jabaquara Viana saída 20:10
+[20/10/2022 20:29:44] Débora Alves Aude: 20/10 Itaim Débora entrada 05:45
+[20/10/2022 20:30:03] Débora Alves Aude: 20/10 VNS Débora saída 20:30 (deslocada Itaim)
+[20/10/2022 20:32:54] Mariana Dardengo Borges: 20/10 MORUMBI - M. Dardengo  entrada 06:00
+[20/10/2022 20:38:40] Paula Angélica Pinha Neves: 20/10 ANÁLIA Paula Neves saída 20:38
+[20/10/2022 20:40:59] Larissa Mayumi Ono: 20/10 Itaim Larissa - saída 20:40
+[20/10/2022 20:41:41] Ivã Barbosa Soares: 20/10 Osasco Ivã Saída 20:05
+[20/10/2022 20:50:32] Sheila Itiroco Monte: 20/10 ITAIM Sheila saída 20:50
+[20/10/2022 20:57:01] Carlos Eduardo Gondim Oliveira: 20/10 MORUMBI - Oliveira saída 20:55
+[20/10/2022 21:04:32] Ricardo Kawaura: 20/10 Osasco kawaura saída 21:00
+[20/10/2022 21:21:34] Yoko Hayashi: 20/10 Osasco Yoko saída 20:30
+[20/10/2022 21:26:40] Fabiana Soares Gama: 20/10 Villa Fabiana Gama saída as 20:30
+[20/10/2022 21:36:33] Pedro Paulo Silva Farah: 20/10 Morumbi - Pedro saída 21:00
+[20/10/2022 22:06:23] Diogo Henrique Pereira Mattos: 20/10 ANÁLIA - Diogo saída 22:04
+[20/10/2022 22:40:58] Pedro Tiago Bonfitto: 20/10 ANÁLIA - Bonfitto saída 22:10
+[20/10/2022 22:53:31] Neliane Guedes Pretti: 20/10 Jabaquara Neliane saída 22:50
+[20/10/2022 23:00:09] Silvia Aline dos Santos Andrade: 20/10 - Morumbi - Silvia saída 22:56
+[20/10/2022 23:02:31] Ricardo Ivo de Lima: 20/10 - Morumbi - Ricardo Ivo Saída - 23:00h
+[20/10/2022 23:24:39] Filipe Lugon Moulin Lima: 20/10 JABAQUARA - Filipe Lugon saída 22:30
+[20/10/2022 23:56:29] Sergio Zamith: 20/10 Jabaquara Zamith saída 23:55 hs.
+[21/10/2022 04:46:16] Gabriella Gadelha Sarmento: 21/10 VNS - Gabriella entrada 04:45
+[21/10/2022 04:53:11] Avelino José da Silva Freitas Junior: 21/10 villa Avelino entrada 04:50h
+[21/10/2022 05:07:31] Amanda Kiyoko Souza Kossaka: 21/10 MORUMBI - Amanda entrada 05:00
+[21/10/2022 05:15:02] Rodrigo Miyashiro Nunes dos Santos: 21/10 ITAIM - Miyashiro entrada 05:15
+[21/10/2022 05:22:11] Larissa Mayumi Ono: 21/10 Itaim Larissa - entrada 05:20
+[21/10/2022 05:23:53] Gabriel Gondim Fonseca: 21/10 Analia Gondim - entrada 05:20 (deslocado MT)
+[21/10/2022 05:24:02] Kaiê Fernandes: 21/10 Itaim Kaie entrada 5:20 (EXTRA)
+[21/10/2022 05:24:22] Vitor Oliveira André: 21/10 Jabaquara Vitor entrada 05:20
+[21/10/2022 05:36:39] Matheus Viana Lemo: 21/10 Jabaquara Viana entrada 05:30
+[21/10/2022 05:40:08] Beatriz Antipou dos Santos: 21/10 Itaim- Antipou- entrada 05:40
+[21/10/2022 05:41:06] Rodrigo Andrade Carmello: 21/10 Morumbi - Carmello entrada 4:45
+[21/10/2022 05:54:27] Aline Franchini Goulart Lima: 21/10 Villa Aline entrada 05:40
+[21/10/2022 05:54:40] Yuri Anderson Pacheco de Lima: 21/10 Morumbi - Yuri entrada 05:30
+[21/10/2022 06:01:16] Ricardo Kawaura: 21/10 Osasco kawaura entrada 06:00
+[21/10/2022 06:02:05] Elaine Imaeda de Moura: 21/10 Osasco Elaine entrada 6:00
+[21/10/2022 06:03:42] José Carlos Tuna Scarpa: 21/10 Jabaquara José Carlos Entrada 6:00
+[21/10/2022 06:03:51] Fabiana Barbosa Bastos: 21/10 Morumbi - Fabiana entrada 05:30 (EXTRA)
+[21/10/2022 06:04:07] Marcos Rogério Pereira Machado Filho: 21/10 Villa - Marcos entrada 6:00
+[21/10/2022 06:04:51] Fabio Yuji Suguita: 21/10 jabaquara yuji entrada 06:00
+[21/10/2022 06:05:20] Roberto Votto Melkan: 21/10 Itaim Roberto entrada 6:00
+[21/10/2022 06:05:53] Fernando Akira Koga: 21/10 VNS - Koga entrada 06:05
+[21/10/2022 06:06:39] Vitor Maciel de Sousa Pinto: 21/10 MORUMBI - Maciel entrada 06:00
+[21/10/2022 06:14:00] Thales Luvisotto Neder: 21/10 Jabaquara -  Thales entrada 06:00
+[21/10/2022 06:15:50] Flavio Hideki Oshika: 21/10 MORUMBI - Flavio entrada 06:00
+[21/10/2022 06:15:59] Bruno Ferraz de Campos Barone: 21/10 VNS - Barone entrada 06:00
+[21/10/2022 06:40:44] Maiely Marcolin: 21/10 Itaim - Maiely entrada 06:00
+[21/10/2022 06:41:24] Guilherme de Almeida Costa: 21/10 aviccena costa entrada 06:00
+[21/10/2022 06:52:56] Caroline Firmino Lemes da Silva: 21/10 Osasco Lemes entrada 05:40
+[21/10/2022 07:09:43] Natan Soares Silveira: 21/10 Villa - Natan - entrada 05:30
+[21/10/2022 07:26:25] Mônica Robles Gonçalves: 21/10 Itaim Mônica entrada 06:00
+[21/10/2022 07:36:10] Karen Peixoto Ricci: 21/10 Itaim Karen entrada 5:00
+[21/10/2022 08:00:56] Hedicleber Pestana Severino: 21/10 Osasco Hedicleber entrada 05:50(deslocamento alpha)
+[21/10/2022 12:07:29] Luiz Augusto Xavier Brandão: 21/10 Osasco Luiz Augusto entrada 7:00
+[21/10/2022 12:07:29] Luiz Augusto Xavier Brandão: 21/10 Osasco Luiz Augusto Saída 12:00 (Extra)
+[21/10/2022 12:13:29] Emerson Domingos Da Costa: 20/10 Jabaquara - Emerson - Plantão distância Saída 03:00
+[21/10/2022 12:40:28] Renata Pinheiro Modolo: 21/10 Itaim R. Modolo entrada 6:00 (EXTRA)
+[21/10/2022 12:41:14] Renata Pinheiro Modolo: 21/10 Itaim R. Modolo saída 12:40 (EXTRA)
+[21/10/2022 13:10:52] Manoel de Souza Neto: 21/10 Anália Manoel entrada 07:00 (EXTRA)
+[21/10/2022 13:11:12] Manoel de Souza Neto: 21/10 Anália Manoel saida 13:10 (EXTRA)
+[21/10/2022 13:15:00] Felipe Coelho De Souza: 21/10 Villa - Coelho saída 12:30 (EXTRA)
+[21/10/2022 13:15:45] Kaiê Fernandes: 21/10 Itaim Kaie saída 13h10 (EXTRA)
+[21/10/2022 13:23:29] Thiago Silva Pinto: 21/10 Villa - T. Silva - saída 12:30 (EXTRA)
+[21/10/2022 13:40:31] Fabiana Barbosa Bastos: 21/10 - Morumbi- Fabiana saída 13:00 (EXTRA)
+[21/10/2022 14:09:06] Gretel Oliveira Nicolau: 21/10- Itaim- Gretel entrada 7:00 ( EXTRA)
+[21/10/2022 14:09:32] Gretel Oliveira Nicolau: 21/10 - Itaim- Gretel saida 13:30 ( EXTRA)
+[21/10/2022 14:20:58] Diego da Cunha Tomaz: 21/10 - Jabaquara - Diego entra 7:00 (EXTRA)
+[21/10/2022 14:21:13] Diego da Cunha Tomaz: 21/10 - Jabaquara - Diego saída 14:00 (EXTRA)
+[21/10/2022 14:27:52] Roberto Votto Melkan: 21/10 Itaim Roberto saída 14:25
+[21/10/2022 14:34:54] Everton Sidney da Conceição Carvalho: 21/10 Anália Everton saída 14:30
+[21/10/2022 14:45:44] Alberto de Azevedo Alves Moreira: 21/10 Osasco - Alberto saída 14:45 (pós plantão)
+[21/10/2022 14:46:43] Bianca Priscila Buniotti: 21/10 Osasco - Bianca saída 14:40 (EXTRA)

@@ -1,0 +1,324 @@
+[13/03/2023 09:14:09] Ronald Figueiredo Gomes: 10/03 JABAQUARA - Ronald saída 19:45
+[13/03/2023 09:30:37] Yuri Lucas De Souza: 13/03 Villa - Souza entrada 09:15 (atraso)
+[13/03/2023 09:44:26] Thais Miranda Ramos: 13/03 ITAIM - Miranda saída às 09h40
+[13/03/2023 09:58:03] Turibio Rodrigues Freire Neto: 13/03 VNS - Turíbio (deslocado MRB) Entrada: 06:10
+[13/03/2023 10:41:50] Guilherme de Almeida Costa: 13/03 morumbi costa saida as 10:20 (pos plantao)
+[13/03/2023 10:43:45] Maira Leite Basile: 13/03 Morumbi Maíra saída 10:40 (pós plantão)
+[13/03/2023 12:16:36] Vanessa Paciullo Marossi: 13/03 ANÁLIA Vanessa saída 12:10 (pós plantão)
+[13/03/2023 13:16:17] Leandro Kendi Kanada: 13/03 Villa Leandro kanada( pos plantão) saida 13:00
+[13/03/2023 13:41:30] Jessica Lidia de Souza: 13/03 ANÁLIA Jessica  saída 13:40 (pós plantão)
+[13/03/2023 14:03:11] Ana Jung Docko: 13/03 Analia Ana saída 14:00
+[13/03/2023 14:23:50] Nara Yamane Dos Santos: 13/03 Santa Isabel -  Nara saída 14:30h ( pós plantão hsi)
+[13/03/2023 14:58:11] Avelino José da Silva Freitas Junior: 13/03 villa - Avelino saída 14:55 (deslocado do Itaim)
+[13/03/2023 15:24:58] Thiago Barreto Marques Da Silva: 13/03 Osasco - Naldo saída 14:55 (pós plantão deslocado Anália)
+[13/03/2023 15:38:59] Maurício Faria Tetti: 13/03 Analia Maurício saída 15:30
+[13/03/2023 15:46:55] Yoko Hayashi: 13/03 Jabaquara Yoko entrada 5:30
+[13/03/2023 15:47:03] Carlos Augusto Trevisan: 13/03 JABAQUARA - Carlos saída 14:00 (Deslocamento ITAIM)
+[13/03/2023 15:47:14] Yoko Hayashi: 13/03 Jabaquara Yoko saída 15:20
+[13/03/2023 15:54:09] Erick Oliveira Lima Gomes: 13/03 Jabaquara - Erick saída 15:45
+[13/03/2023 15:54:40] Gustavo Marques Da silva: 13/03 VNS - Marques saída 15:40 (pós Maternidade, deslocado Itaim)
+[13/03/2023 16:17:56] Luccas Varela Godoy: 13/3 Osasco Luccas saída 16:10
+[13/03/2023 16:21:54] Vivian Cristine dos Anjos e Silva: 13/03 ANÁLIA Vivian saida 16:20
+[13/03/2023 16:23:39] Francisco Antonio Alves Bonatto: 13/03 ANÁLIA - Francisco saída 16:20
+[13/03/2023 16:33:21] Gabriela Soares Piassi: 13/03 VILLA - Piassi saída 16:25
+[13/03/2023 16:35:21] Mirela Farias Figueiroa: 13/03 HSI Mirela saída 16:10
+[13/03/2023 16:35:47] Eduardo Dala Rosa Soares: 13/03 VNS - Soares saída 16:35
+[13/03/2023 16:39:31] Laura Silva Assunção Mapa: 13/03  ITAIM - Laura saída 15:45
+[13/03/2023 16:39:36] Daniel Rodrigues de Oliveira: 13/03 Itaim Daniel saída 16:25h
+[13/03/2023 16:46:29] Thiago Silva Pinto: 13/03 Jabaquara - T. Silva - entrada 06:00
+[13/03/2023 16:46:49] Thiago Silva Pinto: 13/03 Jabaquara - T. Silva - Saída 15:40
+[13/03/2023 17:01:25] Rodrigo Andrade Carmello: 13/03 Itaim - Carmello saída 16:50
+[13/03/2023 17:21:20] Filipe Lugon Moulin Lima: 13/03 JABAQUARA - Filipe Lugon saída 16:50
+[13/03/2023 17:26:14] Thassio Cunha De Santa: 13/03 JABAQUARA - Thassio saída 17:15
+[13/03/2023 17:34:30] Natan Soares Silveira: 13/03 - Aviccena - Natan - saída 16:15 (deslocado no dia do Anália)
+[13/03/2023 17:36:21] Renato Vieira Rodrigues De Oliveira: 13/03 JABAQUARA - Vieira saída 17:15
+[13/03/2023 17:37:30] Anna Beatriz Aranha Trevisan: 13/03 MORUMBI - Anna Beatriz entrada 06:00
+[13/03/2023 17:37:40] Anna Beatriz Aranha Trevisan: 13/03 MORUMBI - Anna Beatriz saída 17:20
+[13/03/2023 17:40:43] Carlos Eduardo Corrêa Grilo: 13/03 Anália - Cadu saída 15:40
+[13/03/2023 18:03:30] Paula Angélica Pinha Neves: 13/03 VILLA Paula Neves saída 17:00
+[13/03/2023 18:23:19] Leandro Oliveira Martins Côrtes: 13/03 AVICCENA - Côrtes saída 16:40 (pós-plantão)
+[13/03/2023 19:28:37] Beatriz Antipou dos Santos: 13/03 - Santa Isabel- Antipou- saída 19:25
+[13/03/2023 19:33:58] Marcos Rogério Pereira Machado Filho: 13/03 Osasco - Marcos saída 19:30 (deslocado do Aviccena)
+[13/03/2023 19:35:26] Bianca Priscila Buniotti: 13/03 Jabaquara - Bianca saída 19:20
+[13/03/2023 19:41:50] Thales Luvisotto Neder: 13/03 Jabaquara - Thales saída 19:40
+[13/03/2023 19:47:11] Maxvilano Lima De Macedo: 13/03 Osasco - Max saída 14:45 (pós plantão Osasco deslocado Jabaquara).
+[13/03/2023 20:01:04] Ricardo Giraldelli Carvalho Lima: 13/03 ANALIA - Giraldelli saída 20:00
+[13/03/2023 20:03:18] Felipe de Oliveira Nunes: 13/03 Anália- Nunes saída 19:50
+[13/03/2023 20:08:12] Kaiê Fernandes: 13/03 Itaim Kaie saída 13:50
+[13/03/2023 20:10:29] Fabiana Soares Gama: 13/03 Anália Fabiana Gama saída as 19:50
+[13/03/2023 20:12:44] Rodrigo Antonio Rey Gonzalez: 13/03 SANTA ISABEL - Rey saida 19:25
+[13/03/2023 20:15:41] Bruno Ferraz de Campos Barone: 13/03 VNS Barone saida 20:15
+[13/03/2023 20:16:32] Thais Chaves Pinheiro: 13/03 Itaim - Thaís saída 20:15
+[13/03/2023 20:17:57] Manuela Affonso Ferreira Sanged: 13/03 Villa - Manuela saída 20:05
+[13/03/2023 20:18:57] Renata Togeiro Bastos Godoy de Faria: 13/03 MORUMBI - Renata Togeiro saída 16:45
+[13/03/2023 20:23:56] Milton Olaio Neto: 13/3-Itaim Olaio saída 20:15
+[13/03/2023 20:36:12] Andreia Loureiro Mori: 13/03 Osasco Andréia saída 20:35
+[13/03/2023 20:39:34] Gabriel Elias Gewehr Salmen Raffoul: 13/03 Osasco - Salmen saída 20:40
+[13/03/2023 20:40:12] Ana Gabriela Gewehr Vale Salmen: 13/03 Osasco - Vale saída 20:35
+[13/03/2023 21:16:07] Alexandre Amaral Lucas: 13/03 Osasco - alexandre Amaral entrada - 06:00
+[13/03/2023 21:16:21] Alexandre Amaral Lucas: 13/03 Osasco - alexandre Amaral - saída - 20:45
+[13/03/2023 21:20:33] Bruce Ye Man Chow: 13/03 Morumbi - Bruce saida 19:30
+[13/03/2023 21:21:29] Wangles Pignaton de Paula: 13/03 MORUMBI - Wangles saída 21:10
+[13/03/2023 21:26:41] Helena Araujo Damasceno: 13/03 Itaim Helena Saída 21:05
+[13/03/2023 21:34:32] Renata Torres Bueno: 13/03 Villa - Renata Bueno entrada 11:00 saída 20:40
+[13/03/2023 21:42:57] Matheus Cardozo Janiques: 13/03 Osasco - Matheus Cardozo Janiques Saída 21:40
+[13/03/2023 21:53:46] Rogério Sidney Thon: 13/03 Morumbi Rogério saída 19:30h
+[13/03/2023 21:55:43] Vitor Luis Assunção Martins: 13/03 Osasco - Assunção saída 21:50
+[13/03/2023 21:57:50] Anna Beatriz Lima Do Valle Astur: 13/03- Analia - Astur saida 21:10
+[13/03/2023 22:01:48] Ludmylla Gomes Neves: 13/03 MORUMBI - Ludmylla saída 21:10
+[13/03/2023 22:21:05] Marcella Pellicciotti De Souza: 13/3 Osasco - Pellicciotti saída 22:20
+[13/03/2023 22:30:10] Marcela Leite Rosignoli: 13/03 Analia Marcela Leite saída 20:50
+[13/03/2023 22:51:28] Mariana Gasparelli de Souza: 13/03 Morumbi - Mariana Gasparelli saída 22:45
+[13/03/2023 22:59:05] Pedro Augusto Tavares Dall Aglio: 13/03 Osasco - Tavares - saída 22:58
+[13/03/2023 23:03:03] Renata Pinheiro Modolo: 13/03 Jabaquara R. Modolo saída 22h15
+[14/03/2023 02:39:35] Vitor Oliveira André: 13/03 Jabaquara Vitor saída 02:39 (distância - para efeito de escala)
+[14/03/2023 04:44:14] Renata Pinheiro Modolo: 13/03 Sino R. Modolo entrada 4:20
+[14/03/2023 04:55:24] Vivianna Bovério Galzerani: 14/03 Jabaquara Vivianna entrada 04:45 (deslocada Itaim)
+[14/03/2023 05:00:18] Gabriel de Aguiar Santana: 14/03 Anália - Gabriel entrada 05:00
+[14/03/2023 05:10:54] Renata Togeiro Bastos Godoy de Faria: 14/03 MORUMBI - Renata Togeiro entrada 5:00
+[14/03/2023 05:30:28] Ana Gabriela Gewehr Vale Salmen: 14/03 Osasco - Vale entrada 5:30
+[14/03/2023 05:30:55] Gabriel Elias Gewehr Salmen Raffoul: 14/03 Osasco - Salmen entrada 05:30
+[14/03/2023 05:47:13] Bruna Daibert Danesin: 14/03 Anália Bruna entrada 05:30
+[14/03/2023 05:50:51] Livia Schenkel Thurler Trairi: 14/03 OSASCO - Livia entrada 5:40
+[14/03/2023 05:53:07] Ricardo Kawaura: 14/03 Osasco kawaura entrada 6:00
+[14/03/2023 05:56:02] Izabella Gontijo Cunha: 14/03 ITAIM - Izabella entrada 06:00
+[14/03/2023 05:56:25] André da Costa Aguiar Ventura: 14/03 MORUMBI Ventura entrada 6:00
+[14/03/2023 05:59:45] Wangles Pignaton de Paula: 14/03 MORUMBI - Wangles entrada 5:20
+[14/03/2023 06:02:32] Eduardo Arbache Bezerra: 14/03 Analia - Bezerra entrada as 06:00
+[14/03/2023 06:03:23] Sheila Itiroco Monte: 14/03 ITAIM - Sheila entrada 06:00
+[14/03/2023 06:06:53] Elaine Imaeda de Moura: 14/03 Anália Elaine entrada 06:00
+[14/03/2023 06:09:47] Nara Yamane Dos Santos: 14/3 Osasco nara ( deslocada   Analia ) 6:00h
+[14/03/2023 06:20:01] Carlos Eduardo Corrêa Grilo: 14/03 Anália - Cadu entrada 06:00
+[14/03/2023 06:30:07] Pedro Augusto Tavares Dall Aglio: 14/03 - Aviccena - Tavares - entrada 6:30
+[14/03/2023 06:33:30] Bruce Ye Man Chow: 14/03 Jabaquara - bruce entrada 06:00
+[14/03/2023 06:44:36] Amanda Kiyoko Souza Kossaka: 14/03 MORUMBI - Amanda entrada 05:30
+[14/03/2023 06:49:27] Jessica Lidia de Souza: 14/03 Villa - Jessica entrada 05:30
+[14/03/2023 06:51:27] Luiz Guilherme Thomaz Zacharias: 14/03 MORUMBI - Guilherme entrada 5:20
+[14/03/2023 06:55:11] Livia Valverde Fajardo: 14/03 SANTA ISABEL - Valverde entrada 06:00
+[14/03/2023 08:15:56] Lucas Aderbal Gonçalves Machado: 14/03 Osasco - Machado - entrada  8:05
+[14/03/2023 08:30:52] Fabiana Barbosa Bastos: 14/03 Morumbi - Fabiana entrada 06:00
+[14/03/2023 09:24:31] Leticia Fernandes Borges: 13/03 Jabaquara-Letícia saída 20:40
+[14/03/2023 09:48:26] Maria Carolina Célia Silveira: 14/03 VNS - M. Carolina entrada 6:30
+[14/03/2023 09:52:02] Carlos Augusto Trevisan: 14/03 VILLA - Carlos entrada 10:00 (a pedido da coordenação)
+[14/03/2023 10:06:53] Fernando Akira Koga: 14/03 Itaim - Koga saída 10:06
+[14/03/2023 10:09:44] Michele De Oliveira Chagas: 14/03 Osasco - Michelle  entrada  07:00
+[14/03/2023 10:48:29] Vivianna Bovério Galzerani: 14/03 Jabaquara Vivianna saída 10:45 (deslocada Itaim)
+[14/03/2023 13:15:48] Daniellen Lins Lourenço: 14/03 JABAQUARA - Daniellen saída 13:10
+[14/03/2023 13:19:01] Darlan Junior Schneider: 14/03 ITAIM - DARLAN saida 13:15 (pos plantão)
+[14/03/2023 13:41:37] Thais Miranda Ramos: 14/03 JABAQUARA - Miranda entrada às 06h
+[14/03/2023 13:42:03] Thais Miranda Ramos: 14/03 JABAQUARA - Miranda saída às 12h10
+[14/03/2023 13:56:55] Ronald Figueiredo Gomes: 14/03 ITAIM - Ronald saída 13:40 (pós plantão/ deslocado do jaba)
+[14/03/2023 14:10:03] Ana Jung Docko: 14/03 Analia Ana saída 14:00
+[14/03/2023 14:21:28] Gabriel de Aguiar Santana: 14/03 Anália - Gabriel saída 14:00
+[14/03/2023 14:32:11] Elaine Imaeda de Moura: 14/03 Anália Elaine saída 14:00
+[14/03/2023 14:39:36] Caio Cesar Lobo Sampaio: 14/03 - Osasco - Caio dispensado. Pos plantão
+[14/03/2023 15:04:10] Anna Beatriz Lima Do Valle Astur: 14/03 - Santa Isabel - Astur saida 15h (passo rotina para Vanessa)
+[14/03/2023 15:04:55] Bruce Ye Man Chow: 14/03 Jabaquara - bruce saida 12:00
+[14/03/2023 15:05:34] Vanessa Paciullo Marossi: 14/03 Santa Isabel - Vanessa entrada 15:00 (assumo rotina da Astur)
+[14/03/2023 15:12:42] Débora Philippi Bressane: 14/03 Anália Débora Bressane entrada 05:50 saída 15:05
+[14/03/2023 15:14:44] Paola Rodrigues Oshiro: 14/03 ANÁLIA-Paola saída 15:00
+[14/03/2023 15:21:26] José Carlos Tuna Scarpa: 14/03 Anália José Carlos Saída 15:10
+[14/03/2023 15:30:09] Sheila Itiroco Monte: 14/03 ITAIM Sheila saída 15:25
+[14/03/2023 15:32:08] Natalia Maia Queiroz: 14/03 Jabaquara Queiroz saída 15:30
+[14/03/2023 15:32:57] Yuri Lucas De Souza: 13/03 Villa - Souza saída 20:10
+[14/03/2023 15:42:08] Livia Schenkel Thurler Trairi: 14/03 OSASCO - Livia saída 15:40
+[14/03/2023 15:44:21] Manoel de Souza Neto: 14/03 Santa Isabel Manoel saida 15:40
+[14/03/2023 15:49:21] Renata Pinheiro Modolo: 14/03 Osasco R. Modolo saída 15:40
+[14/03/2023 15:49:22] Renata Pinheiro Modolo: 14/03 Osasco R. Modolo entrada 4:20 (deslocamento Itaim)
+[14/03/2023 15:49:32] Eduardo Arbache Bezerra: 14/03 Analia - Bezerra saida as 15:45
+[14/03/2023 15:50:26] Ricardo Kawaura: 14/03 Osasco kawaura saída 15:50
+[14/03/2023 16:01:57] Anna Beatriz Aranha Trevisan: 14/03 MORUMBI - Anna Beatriz entrada 06:00
+[14/03/2023 16:02:32] Anna Beatriz Aranha Trevisan: 14/03 MORUMBI - Anna Beatriz saída 15:45
+[14/03/2023 16:08:51] Filipe Lugon Moulin Lima: 14/03 JABAQUARA - Filipe Lugon saida 15:30
+[14/03/2023 16:14:43] Milton Olaio Neto: 14/3-Itaim Olaio entrada 5:40
+[14/03/2023 16:15:06] Milton Olaio Neto: 14/3-Itaim Olaio saída 16:10
+[14/03/2023 16:20:11] Marcos Rogério Pereira Machado Filho: 14/03 Santa - Marcos saída 16:20
+[14/03/2023 16:20:45] Maria Carolina Célia Silveira: 14/03 VNS - M. Carolina saída 16:10
+[14/03/2023 16:22:57] Aline Franchini Goulart Lima: 14/03 ANÁLIA Aline saída 16h00
+[14/03/2023 16:26:46] Thales Luvisotto Neder: 14/03 Jabaquara - Thales saída 16:25
+[14/03/2023 16:34:10] Nathalia Fanucci Oliveira Di Jorge: 14/03 ANÁLIA Nathália saída 16:25
+[14/03/2023 16:35:40] Vitor Luis Assunção Martins: 14/03 Jabaquara - Assunção saída 16:25
+[14/03/2023 16:46:02] Vitor Oliveira André: 14/03 VNS Vitor saída 16:10
+[14/03/2023 16:59:13] Matheus Acquesta Gaubeur: 14/03 Anália- Matheus saída 16:50
+[14/03/2023 17:06:46] Gabriela Rodrigues Machado Borja: 14/03 VILLA - Borja saída 17:05 (pos plantão)
+[14/03/2023 17:07:05] Ana Gabriela Gewehr Vale Salmen: 14/03 Osasco - Vale saída 17:05 (deslocada Itaim)
+[14/03/2023 17:09:54] Fabiana Soares Gama: 14/03 ANÁLIA Fabiana Gama saída 16:20
+[14/03/2023 17:11:02] Gabriel Elias Gewehr Salmen Raffoul: 14/03 Osasco - Salmen saída 16:50 (deslocado Itaim)
+[14/03/2023 17:12:01] Vanessa Paciullo Marossi: 14/03 Santa Isabel - Vanessa saída 17:10
+[14/03/2023 17:13:09] Pedro Augusto Tavares Dall Aglio: 14/03 - Aviccena - Tavares - saída 17:10
+[14/03/2023 17:13:12] Izabella Gontijo Cunha: 14/03 ITAIM - Izabella saída 17:05
+[14/03/2023 17:13:41] Mariana Dardengo Borges: 14/03 JABAQUARA - M. Dardengo saída 17:10
+[14/03/2023 17:16:14] Renata Torres Bueno: 14/03 Analia - Renata Bueno saída 17:15
+[14/03/2023 17:16:29] Fernando Ribeiro Sá: 14/03 Anália Ribeiro saída 17:15
+[14/03/2023 17:27:06] Sidney Orlando de Souza: 14/03-Itaim-Sidney-entrada-06:00
+[14/03/2023 17:31:02] Fabiana Barbosa Bastos: 14/03 Morumbi - Fabiana saída 17:20
+[14/03/2023 18:24:00] Avelino José da Silva Freitas Junior: 14/03 villa - Avelino entrada 06:00
+[14/03/2023 18:29:03] Luiz Augusto Xavier Brandão: 14/03 Morumbi Luiz Augusto saída 18:00
+[14/03/2023 19:15:36] Lucas Aderbal Gonçalves Machado: 14/03  Osasco - saída Machado 19:15h
+[14/03/2023 19:15:47] Fábio Antônio de Souza Oliveira: 14/03 Itaim Fabio saída 19:15
+[14/03/2023 19:24:52] Rodrigo Gomes Minas Novas: 14/03  Osasco Gomes saída 19:20h
+[14/03/2023 19:30:50] Camila Chiarantano Harrison: 14/03 Villa Camila Saida 19h10
+[14/03/2023 19:32:23] Mirela Farias Figueiroa: 14/03 Osasco Mirela saída 19:20
+[14/03/2023 19:36:42] Rodrigo Achui Haga: 14/03 OSASCO - haga saida 19:30
+[14/03/2023 19:41:18] Rodrigo Andrade Carmello: 14/03 Jabaquara - Carmello saida 19:40
+[14/03/2023 19:43:19] Michele De Oliveira Chagas: 14/03 Osasco Michelle saída 19:00
+[14/03/2023 19:49:05] Caroline Firmino Lemes da Silva: 14/03 Morumbi Lemes saída 19:45
+[14/03/2023 20:23:46] Maxvilano Lima De Macedo: 14/03 Osasco Maxvilano saída 20:20
+[14/03/2023 20:27:07] Turibio Rodrigues Freire Neto: 14/03 VNS Turíbio Saida: 19:20
+[14/03/2023 20:33:55] Gabriela Santos Menezes: 14/03 Osasco - Gabriela Menezes saída 19:10
+[14/03/2023 20:34:17] Vivian Cristine dos Anjos e Silva: 14/03 VILLA Vivian saída 20:30
+[14/03/2023 20:35:58] Gretel Oliveira Nicolau: 14/03 Villa Gretel saida 20:35
+[14/03/2023 20:52:12] Eduardo Dala Rosa Soares: 14/03 Itaim - Soares saída 20:50
+[14/03/2023 21:20:14] Débora Alves Aude: 14/03 Itaim Débora saída 21:20
+[14/03/2023 21:21:55] Norival Scandelai Junior: 14/03 Morumbi - Norival Saída 21:10
+[14/03/2023 21:23:38] Pedro Henrique Milhomens da Mota: 14/03 Morumbi Mota saída 21:10
+[14/03/2023 21:38:40] Livia Valverde Fajardo: 14/03 Santa Isabel - Valverde saída 16:30h
+[14/03/2023 21:47:18] Carlos Eduardo Corrêa Grilo: 14/03 Anália - Cadu saída 21:10
+[14/03/2023 21:50:49] Rogério Sidney Thon: 14/03 Itaim Rogério saída 21:20h
+[14/03/2023 21:59:12] Diogo Candeo Rodrigues Cordeiro: 14/03 Anália - Candeo saída às 21:45
+[14/03/2023 22:06:55] Nara Yamane Dos Santos: 14/03 osasco - Nara ( deslocada analia ) saída 17:30h
+[14/03/2023 22:46:18] Stefany Hellen Sousa Martins: 14/03 Morumbi stefany entrada 11:00
+[14/03/2023 22:46:36] Stefany Hellen Sousa Martins: 14/03 Morumbi stefany saida 22:20
+[14/03/2023 22:47:09] Bruna Daibert Danesin: 14/03 Anália Bruna saída 14:00
+[14/03/2023 22:52:35] Bianca Priscila Buniotti: 14/03 Morumbi - Bianca saída 20:20
+[15/03/2023 00:37:08] Gabriel Gondim Fonseca: 15/03 Jabaquara- Gondim saída 00:35 (distância)
+[15/03/2023 04:46:29] Mariana Gasparelli de Souza: 15/03 Morumbi - Mariana Gasparelli entrada 04:35
+[15/03/2023 05:11:01] Izabella Gontijo Cunha: 15/03 JABAQUARA - Izabella entrada 05:10 (deslocada itaim)
+[15/03/2023 05:25:30] Gabriella Gadelha Sarmento: 15/03 Itaim - Gabriella entrada 04:20
+[15/03/2023 05:29:10] Ricardo Barbosa Viana Filho: 15/03 Villa - Barbosa Entrada 05:20
+[15/03/2023 05:34:59] Stefany Hellen Sousa Martins: 15/03 Santa stefany entrada 05:20
+[15/03/2023 05:38:32] Gabriela Soares Piassi: 15/03 ANALIA - Piassi entrada 5:30
+[15/03/2023 05:40:53] Dênio Lopes De Almeida: 15/03 Osasco - Dênio entrada 05:40
+[15/03/2023 05:46:09] Helena Araujo Damasceno: 15/03 Osasco Helena Entrada 05:30
+[15/03/2023 05:47:02] Marina Pontes Moura Nascimento E Silva: 15/03 JABAQUARA -  Moura entrada 05:45
+[15/03/2023 05:52:57] Ricardo Kawaura: 15/3 Osasco kawaura entrada 6:00
+[15/03/2023 05:53:48] Neliane Guedes Pretti: 15/03 Anália Neliane entrada 06:00
+[15/03/2023 05:56:58] Wangles Pignaton de Paula: 15/03 MORUMBI - Wangles entrada 6:00
+[15/03/2023 05:58:59] Fabiana Soares Gama: 15/03 Anália Fabiana Gama entrada as 05:50
+[15/03/2023 06:01:13] Manuela Affonso Ferreira Sanged: 15/03 Osasco - Manuela entrada 05:30
+[15/03/2023 06:03:43] Manoel de Souza Neto: 15/03 Santa Isabel Manoel entrada 06:00
+[15/03/2023 06:04:24] Luiz Guilherme Thomaz Zacharias: 15/03 ITAIM - Guilherme entrada 5:45
+[15/03/2023 06:08:25] Leandro Oliveira Martins Côrtes: 15/03 VILLA - Côrtes entrada 05:50
+[15/03/2023 06:09:28] Leandro Eduardo França: 15/03 OSASCO - França entrada 06:05
+[15/03/2023 06:11:02] Vitor Oliveira André: 15/03 Itaim Vitor entrada 06:00
+[15/03/2023 06:13:20] Vanessa Paciullo Marossi: 15/03 VILLA Vanessa entrada 05:50
+[15/03/2023 06:13:31] Laysa Layna Ribeiro Lima: 15/03 Osasco - Laysa entrada 5:45
+[15/03/2023 06:15:10] Maria Carolina Célia Silveira: 15/03 VNS - M. Carolina entrada 06:00
+[15/03/2023 06:15:34] Bruce Ye Man Chow: 15/03 Morumbi - bruce entrada 06:00
+[15/03/2023 06:24:14] Bruno Stornioli Taguchi Lemos: 15/03 Jabaquara Bruno Lemos entrada 06:00
+[15/03/2023 06:26:10] Carlos Eduardo Corrêa Grilo: 15/03 Anália - Cadu entrada 06:00
+[15/03/2023 06:37:20] Pedro Paulo Silva Farah: 15/03 Morumbi - Pedro entrada 5:30h
+[15/03/2023 06:53:46] Nathalia Fanucci Oliveira Di Jorge: 15/3 MORUMBI Nathália entrada 06:00
+[15/03/2023 07:01:10] Livia Schenkel Thurler Trairi: 15/03 AVICCENA - Livia entrada 6:30
+[15/03/2023 07:04:53] Lucas Aderbal Gonçalves Machado: 15/03 Jabaquara- Machado entra 7:00
+[15/03/2023 07:28:10] Francisco Antonio Alves Bonatto: 15/03 VILLA - Francisco entrada 06:00
+[15/03/2023 07:44:14] Renata Togeiro Bastos Godoy de Faria: 15/03 MORUMBI - Renata Togeiro entrada 5:00
+[15/03/2023 07:47:36] Norival Scandelai Junior: 15/03 Itaim - Norival Entrada 5:40
+[15/03/2023 08:58:44] Cláudio Mueller Kakuda: 13/03 Maternidade - Kakuda saida 15:00h
+[15/03/2023 08:58:59] Cláudio Mueller Kakuda: 15/03 Itaim - Kakuda saida 8:50h
+[15/03/2023 09:10:49] Fernanda Teles Ribeiro: 15/03 Itaim - Fernanda saída 9:10
+[15/03/2023 09:27:59] Antonio Álvaro Dias Lima da Cunha Neto: 15/03 AVICCENA - Álvaro entrada 06:30
+[15/03/2023 09:44:58] Turibio Rodrigues Freire Neto: 15/03 Morumbi - Turíbio ( distância)Entrada: 06:20
+[15/03/2023 09:51:25] Bruno Ferraz de Campos Barone: 15/03 VNS Barone entrada 06:30
+[15/03/2023 11:46:29] Ricardo Barbosa Viana Filho: 15/03 Villa - Barbosa Saída 11:40
+[15/03/2023 12:08:30] Juliano Moisés Tobal: 14/03 Santa - Juliano Tobal saída 17:10
+[15/03/2023 12:12:31] Amanda Kiyoko Souza Kossaka: 15/03 MORUMBI - Amanda dispensada (motivo de saúde)
+[15/03/2023 13:41:09] Ricardo Kawaura: 15/03 Osasco kawaura saída 13:35
+[15/03/2023 13:50:03] Michele De Oliveira Chagas: 15/03 Anália  Michelle  entrada 07:00
+[15/03/2023 13:50:31] Neliane Guedes Pretti: 15/03 Anália Neliane saída 13:35
+[15/03/2023 14:21:47] Gabriel de Aguiar Santana: 15/03 Jabaquara - Gabriel saída 14:20 (deslocado Itaim)
+[15/03/2023 14:41:31] Emerson Domingos Da Costa: 11/03 JABAQUARA Emerson - saída 13:00
+[15/03/2023 14:45:16] Fabiana Soares Gama: 15/03 Anália Fabiana Gama saída as 14:45
+[15/03/2023 14:55:25] Izabella Gontijo Cunha: 15/03 JABAQUARA - Izabella saída 14:30 (deslocada itaim)
+[15/03/2023 15:00:52] Leandro Oliveira Martins Côrtes: 15/03 VILLA - Côrtes saída 15:00
+[15/03/2023 15:37:42] Fernando Akira Koga: 15/03 Morumbi - Koga saída 15:37
+[15/03/2023 15:56:26] Francisco Antonio Alves Bonatto: 15/03 VILLA - Francisco saída 15:50
+[15/03/2023 15:58:59] Bruno Stornioli Taguchi Lemos: 15/03 Jabaquara Bruno Lemos entrada 06:00
+[15/03/2023 15:59:10] Bruno Stornioli Taguchi Lemos: 15/03 Jabaquara Bruno Lemos saída 15:20
+[15/03/2023 16:11:11] Vitor Maciel de Sousa Pinto: 15/03 Anália - Maciel saída 16:10 (deslocado VILLA)
+[15/03/2023 16:11:13] Vanessa Paciullo Marossi: 15/03 VILLA Vanessa saída 16:00
+[15/03/2023 16:16:16] Rodrigo Achui Haga: 15/03 VILLA - haga saida 16:10
+[15/03/2023 16:17:44] Manoel de Souza Neto: 15/03 Santa Isabel Manoel saida 16:15
+[15/03/2023 16:20:16] Marcos Rogério Pereira Machado Filho: 15/03 Santa - Marcos saída 16:15
+[15/03/2023 16:22:19] Stefany Hellen Sousa Martins: 15/03 Santa isabel stefanu saida 15:10
+[15/03/2023 16:30:10] Gabriela Soares Piassi: 15/03 ANALIA - Piassi saída 16:10
+[15/03/2023 16:43:34] Luiz Augusto Xavier Brandão: 15/03 Osasco Luiz Augusto saída 16:40
+[15/03/2023 16:45:50] Marina Pontes Moura Nascimento E Silva: 15/03 Jabaquara Moura saída 16:45
+[15/03/2023 16:46:28] Norival Scandelai Junior: 15/03 Itaim - Norival Saída 16:15
+[15/03/2023 16:48:15] Luiz Guilherme Thomaz Zacharias: 15/03 ITAIM - Guilherme saída 16:20
+[15/03/2023 17:11:39] Helena Araujo Damasceno: 15/03 Osasco Helena Saída 17:10
+[15/03/2023 17:12:07] Nathalia Fanucci Oliveira Di Jorge: 15/03 MORUMBI Nathália saída 17:00
+[15/03/2023 17:19:09] Débora Philippi Bressane: 15/03 Jabaquara Débora Bressane saída 17:00
+[15/03/2023 17:19:44] André da Costa Aguiar Ventura: 15/03 JABAQUARA Ventura saida 16:45
+[15/03/2023 17:20:28] Maria Carolina Célia Silveira: 15/03 VNS - M. Carolina saída 17:10
+[15/03/2023 17:27:29] Gabriel Gondim Fonseca: 15/03 Morumbi - Gondim saída 16:45 (deslocado itaim)
+[15/03/2023 17:30:41] Livia Schenkel Thurler Trairi: 15/03 AVICCENA - Livia saída 16:40
+[15/03/2023 17:36:29] Gretel Oliveira Nicolau: 15/03 Gretel- Integração 7 as 13hs
+[15/03/2023 17:37:26] Bruno Ferraz de Campos Barone: 15/03 VNS Barone saida 17:00
+[15/03/2023 17:50:35] Marina Borges Curralo: 15/3 Maternidade Marina saída 16:45
+[15/03/2023 18:04:20] Mônica Robles Gonçalves: 15/03 monica saida 17:20
+[15/03/2023 18:18:38] Sidney Orlando de Souza: 15/03-Itaim-Sidney-entrada: 06:00
+[15/03/2023 18:26:24] Milton Olaio Neto: 15/3-Itaim Olaio saída 17:10
+[15/03/2023 19:19:37] Karen Manoela Rosa: 15/3 Anália K.Rosa entrada 05:15
+[15/03/2023 19:24:53] Bruce Ye Man Chow: 15/03 Morumbi - bruce saida 19:10
+[15/03/2023 19:38:07] Paula Lopes Agapito de Freitas: 15/03 - Anália - Paula A - saída - 19:38
+[15/03/2023 19:54:46] Vivian Cristine dos Anjos e Silva: 15/03 ANÁLIA Vivian saida 19:50
+[15/03/2023 19:56:12] Carlos Eduardo Corrêa Grilo: 15/03 Anália - Cadu saída 19:20
+[15/03/2023 19:56:35] Laís Ribeiro Teixeira: 15/03 Jabaquara Lais saída 19h55
+[15/03/2023 19:57:04] Dênio Lopes De Almeida: 15/03 Osasco - Dênio saída 19:55
+[15/03/2023 20:01:20] Lucas Aderbal Gonçalves Machado: 15/03 - Jabaquara- Machado 20:00h
+[15/03/2023 20:08:07] Andreia Loureiro Mori: 15/03 Jabaquara Andréia 20:05
+[15/03/2023 20:11:08] Filipe Maeda Hashi Abdalla Martins: 15/03 Jabaquara Maeda saída 20:05
+[15/03/2023 20:11:53] Thais Chaves Pinheiro: 15/03 Itaim - Thaís saída 20:10
+[15/03/2023 20:11:57] Guilherme Silveira Lopes: 15/03 Jabaquara - Silveira saída 20:05
+[15/03/2023 20:12:16] Vivianna Bovério Galzerani: 15/03 VNS Vivianna saída 20:10
+[15/03/2023 20:12:54] Leandro Eduardo França: 15/03 OSASCO - França saída 20:05
+[15/03/2023 20:18:37] Daniellen Lins Lourenço: 15/03 VNS - Daniellen saída 20:15
+[15/03/2023 20:19:16] Michele De Oliveira Chagas: 15/03 Anália - Michelle saída 19:00
+[15/03/2023 20:27:43] Natalia Maia Queiroz: 15/03 Osasco Queiroz saída: 20:30
+[15/03/2023 20:40:25] Caroline Firmino Lemes da Silva: 15/03 Osasco Lemes 20:40
+[15/03/2023 20:46:59] Erick Oliveira Lima Gomes: 15/03 ANÁLIA - Erick saida 20:40
+[15/03/2023 20:48:00] Sheila Itiroco Monte: 15/03 VNS Sheila saída 20:45
+[15/03/2023 20:48:29] Renato Vieira Rodrigues De Oliveira: 15/03 Osasco - Vieira saída 20h40
+[15/03/2023 20:54:47] Wangles Pignaton de Paula: 15/03 MORUMBI - Wangles saída 20:10
+[15/03/2023 21:13:16] Renata Togeiro Bastos Godoy de Faria: 15/03 MORUMBI - Renata Togeiro saída 20:10
+[15/03/2023 21:16:23] Anna Beatriz Aranha Trevisan: 15/03 MORUMBI - Anna Beatriz saída 21:10
+[15/03/2023 21:23:23] Fernando Ribeiro Sá: 15/03 VNS Ribeiro saída 21:10
+[15/03/2023 21:37:22] Elaine Imaeda de Moura: 15/03 Anália Elaine saída 21:35
+[15/03/2023 21:42:44] Ludmylla Gomes Neves: 15/03 Osasco - Ludmylla saída 21:20
+[15/03/2023 21:50:58] Mariana Dardengo Borges: 15/03 ITAIM - M. Dardengo saída 20:40
+[15/03/2023 22:06:55] Leonardo De Paula Souza: 15/03 Analia -Leonardo saida 20:25
+[15/03/2023 22:51:07] Rogério Sidney Thon: 15/03 Morumbi Rogério saída 22:40h
+[15/03/2023 23:06:32] Luciano Angelo Richetti: 15/03 Osasco Luciano Saída 20:45
+[15/03/2023 23:12:48] Diogo Candeo Rodrigues Cordeiro: 15/03 Anália - Candeo saída às 22:35
+[15/03/2023 23:12:52] Rodrigo Andrade Carmello: 15/03 Morumbi - Carmello saida 23:10
+[16/03/2023 04:41:12] Filipe Maeda Hashi Abdalla Martins: 16/03 Jabaquara Maeda entrada 4:30
+[16/03/2023 04:44:21] Daniel Rodrigues de Oliveira: 16/03 Itaim Daniel entrada 4:40
+[16/03/2023 05:22:04] Gabriela Rodrigues Machado Borja: 16/03 Morumbi - Borja entrada 5:00
+[16/03/2023 05:23:51] Manuela Affonso Ferreira Sanged: 16/03 Jabaquara - Manuela entrada 05:00
+[16/03/2023 05:38:22] Orlando Domingues de Araújo Pontes: 16/03 AVICCENA - Orlando entrada 05:30
+[16/03/2023 05:39:03] Karen Yumi Miyashiro: 16/03 VILLA - Yumi entrada 05:30
+[16/03/2023 05:40:03] José Carlos Tuna Scarpa: 16/03 Osasco José Carlos Entrada 05:40
+[16/03/2023 05:40:37] Débora Alves Aude: 16/03 Itaim Débora entrada 05:40
+[16/03/2023 05:48:52] Flavio Hideki Oshika: 16/03 MORUMBI - Flávio entrada 04:20
+[16/03/2023 05:53:45] Paula Angélica Pinha Neves: 16/03 ANÁLIA Paula Neves entrada 5:30
+[16/03/2023 05:56:02] Gabriel Gondim Fonseca: 16/03 Osasco Gondim entrada 5:30
+[16/03/2023 05:56:40] Paula Lopes Agapito de Freitas: 16/03 - Anália - Paula A - entrada - 06:00
+[16/03/2023 05:58:28] Gabriela Santos Menezes: 16/03 Osasco - Gabriela Menezes entrada 06:00
+[16/03/2023 05:58:35] Darlan Junior Schneider: 16/03 Jabaquara - Darlan entrada 6:00
+[16/03/2023 06:04:29] Luccas Varela Godoy: 16/3 Osasco Luccas entrada 6:00
+[16/03/2023 06:06:47] Lucas Aderbal Gonçalves Machado: 16/03 Morumbi Machado - entrada 5:45 h
+[16/03/2023 06:09:01] Rafael Tadeu Marques: 16/03 Itaim Rafael tadeu entrada 5:20
+[16/03/2023 06:09:05] Rodrigo Gomes Minas Novas: 16/3 Jabaquara Gomes entrada 6:00
+[16/03/2023 06:14:30] Gustavo Marques Da silva: 16/03 Morumbi - Marques entrada 05:15
+[16/03/2023 06:17:20] Diogo Henrique Pereira Mattos: 16/03 ANÁLIA - Diogo entrada 05:50
+[16/03/2023 06:30:36] Estanrley Barcelos Pinto: 16/03 ANÁLIA-Estanrley entrada: 06:00
+[16/03/2023 06:31:11] Neliane Guedes Pretti: 16/03 Jabaquara Neliane entrada 06:30
+[16/03/2023 06:33:57] Sheila Itiroco Monte: 16/03 VNS Sheila entrada 06:30 (deslocada ITAIM)
+[16/03/2023 06:34:04] Marcio Ighor Azevedo Silva De Mendonça Melania: 16/03 Villa - Ighor entrada 06:00
+[16/03/2023 06:39:28] ‪+55 21 97187‑5857‬: 16/03 Morumbi - Torrelio entrada 06:00
+[16/03/2023 06:48:49] Norival Scandelai Junior: 16/03 Itaim - Norival Entrada 6:00
+[16/03/2023 06:51:03] Kaiê Fernandes: 16/03 Itaim Kaie entrada 6:00
+[16/03/2023 06:54:10] Fabiana Soares Gama: 16/03 Villa Fabiana Gama entrada as 05:45
+[16/03/2023 07:58:40] Filipe Lugon Moulin Lima: 16/03 JABAQUARA - Filipe Lugon entrada 06:00
+[16/03/2023 08:36:17] Maxvilano Lima De Macedo: 16/03 Morumbi Maxvilano entrada 05:30

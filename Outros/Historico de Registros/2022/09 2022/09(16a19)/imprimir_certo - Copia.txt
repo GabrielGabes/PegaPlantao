@@ -1,0 +1,304 @@
+[09/09/2022 19:44:28] Alexandre Bernardino: 09/09 - Analia - Alexandre - saida 10:35
+[09/09/2022 19:44:28] Alexandre Bernardino: 09/09 - Analia - Alexandre - saida 10:35
+[10/09/2022 08:12:18] Alexsander Takashi Hamada: 10/09  Osasco  Alexsander   entrada as 6:00 ( deslocado do Morumbi)
+[15/09/2022 15:58:29] Alexsander Takashi Hamada: 15/09 Osasco - Alexsander saída 15:40 ( deslocado do itaim no dia anterior)
+[10/09/2022 08:12:18] Alexsander Takashi Hamada: 10/09  Osasco  Alexsander   entrada as 6:00 ( deslocado do Morumbi)
+[15/09/2022 15:58:29] Alexsander Takashi Hamada: 15/09 Osasco - Alexsander saída 15:40 ( deslocado do itaim no dia anterior)
+[09/09/2022 17:50:03] Álvaro Lázaro Ráo Regonato: 09/09 Osasco Ráo saída 17:50 ( deslocado itaim )
+[15/09/2022 14:47:04] Álvaro Lázaro Ráo Regonato: 15/09 Osasco Ráo saída 14:40
+[09/09/2022 17:50:03] Álvaro Lázaro Ráo Regonato: 09/09 Osasco Ráo saída 17:50 ( deslocado itaim )
+[15/09/2022 14:47:04] Álvaro Lázaro Ráo Regonato: 15/09 Osasco Ráo saída 14:40
+[09/09/2022 17:24:11] Amanda Kiyoko Souza Kossaka: 09/09 MORUMBI - Amanda saída 17:15
+[09/09/2022 17:24:11] Amanda Kiyoko Souza Kossaka: 09/09 MORUMBI - Amanda saída 17:15
+[10/09/2022 13:13:06] André da Costa Aguiar Ventura: 10/09 OSASCO Ventura saida 13:10 ( deslocado VNS )
+[15/09/2022 06:00:52] André da Costa Aguiar Ventura: Correção: 14/09 JABAQUARA Ventura saida 20:45
+[10/09/2022 13:13:06] André da Costa Aguiar Ventura: 10/09 OSASCO Ventura saida 13:10 ( deslocado VNS )
+[15/09/2022 06:00:52] André da Costa Aguiar Ventura: Correção: 14/09 JABAQUARA Ventura saida 20:45
+[12/09/2022 16:22:49] Anna Beatriz Aranha Trevisan: 12/09 MORUMBI - Anna Beatriz saída 16:20
+[12/09/2022 16:22:49] Anna Beatriz Aranha Trevisan: 12/09 MORUMBI - Anna Beatriz saída 16:20
+[15/09/2022 15:36:15] Arthur Oliveira Facchini: 15/09 Aviccena Facchini saída 15:30
+[15/09/2022 15:36:15] Arthur Oliveira Facchini: 15/09 Aviccena Facchini saída 15:30
+[12/09/2022 15:25:12] Avelino José da Silva Freitas Junior: 12/09 Anália - Avelino saída 15:15
+[12/09/2022 15:25:12] Avelino José da Silva Freitas Junior: 12/09 Anália - Avelino saída 15:15
+[10/09/2022 11:20:07] Beatriz Antipou dos Santos: 10/09 JABAQUARA- Antipou- saída 11:20 (deslocamento MATERNIDADE)
+[10/09/2022 11:20:07] Beatriz Antipou dos Santos: 10/09 JABAQUARA- Antipou- saída 11:20 (deslocamento MATERNIDADE)
+[12/09/2022 17:26:51] Bruce Ye Man Chow: 12/09 MORUMBI - Bruce saida 17:10
+[13/09/2022 17:58:57] Bruce Ye Man Chow: 13/09 Jabaquara - Bruce saida 16:40
+[14/09/2022 17:34:18] Bruce Ye Man Chow: 14/09 MORUMBI - Bruce saida 17:10
+[12/09/2022 17:26:51] Bruce Ye Man Chow: 12/09 MORUMBI - Bruce saida 17:10
+[13/09/2022 17:58:57] Bruce Ye Man Chow: 13/09 Jabaquara - Bruce saida 16:40
+[14/09/2022 17:34:18] Bruce Ye Man Chow: 14/09 MORUMBI - Bruce saida 17:10
+[14/09/2022 06:35:34] Bruno Ferraz de Campos Barone: 14/09 VNS - Barone dispensado
+[13/09/2022 05:21:52] Bruno Ferraz de Campos Barone: 13/09 VNS - Barone entrada 05:00
+[13/09/2022 19:12:04] Bruno Ferraz de Campos Barone: 13/09 VNS - Barone saída 16:50
+[14/09/2022 06:35:34] Bruno Ferraz de Campos Barone: 14/09 VNS - Barone dispensado
+[13/09/2022 05:21:52] Bruno Ferraz de Campos Barone: 13/09 VNS - Barone entrada 05:00
+[13/09/2022 19:12:04] Bruno Ferraz de Campos Barone: 13/09 VNS - Barone saída 16:50
+[14/09/2022 06:30:12] Bruno Stornioli Taguchi Lemos: 13/09 Jabaquara Bruno Lemos saida 16:20
+[14/09/2022 06:30:12] Bruno Stornioli Taguchi Lemos: 13/09 Jabaquara Bruno Lemos saida 16:20
+[14/09/2022 20:15:36] Carlos Augusto Trevisan: 14/09 ANALIA - Carlos saída 19:35 (deslocamento ITAIM)
+[14/09/2022 20:15:36] Carlos Augusto Trevisan: 14/09 ANALIA - Carlos saída 19:35 (deslocamento ITAIM)
+[15/09/2022 07:59:02] Carlos Eduardo Corrêa Grilo: 15/09 Anália - Kaiê entrada 05:45 (Desolcado Itaim)
+[15/09/2022 07:59:02] Carlos Eduardo Corrêa Grilo: 15/09 Anália - Kaiê entrada 05:45 (Desolcado Itaim)
+[15/09/2022 17:15:01] Caroline Firmino Lemes da Silva: 15/09 Jabaquara Lemes saída 17:10
+[15/09/2022 17:15:01] Caroline Firmino Lemes da Silva: 15/09 Jabaquara Lemes saída 17:10
+[10/09/2022 11:39:56] Daniel Rodrigues de Oliveira: 10/09 Itaim Daniel entrada 7:00
+[10/09/2022 11:40:24] Daniel Rodrigues de Oliveira: 10/09 Itaim Daniel saída 11:10
+[10/09/2022 11:39:56] Daniel Rodrigues de Oliveira: 10/09 Itaim Daniel entrada 7:00
+[10/09/2022 11:40:24] Daniel Rodrigues de Oliveira: 10/09 Itaim Daniel saída 11:10
+[14/09/2022 06:06:51] Daniellen Lins Lourenço: 14/09 AVICCENA - Daniellen entrada 06:00 (deslocamento Morumbi)
+[12/09/2022 17:00:07] Daniellen Lins Lourenço: 12/09 JABAQUARA - Daniellen entrada 15:00 e saída 17:00 (aula residentes)
+[13/09/2022 17:35:14] Daniellen Lins Lourenço: 13/09 MORUMBI - Daniellen saída 17:10
+[14/09/2022 06:06:51] Daniellen Lins Lourenço: 14/09 AVICCENA - Daniellen entrada 06:00 (deslocamento Morumbi)
+[12/09/2022 17:00:07] Daniellen Lins Lourenço: 12/09 JABAQUARA - Daniellen entrada 15:00 e saída 17:00 (aula residentes)
+[13/09/2022 17:35:14] Daniellen Lins Lourenço: 13/09 MORUMBI - Daniellen saída 17:10
+[13/09/2022 10:58:18] Débora Alves Aude: 13/09 Itaim Débora saída 10:55h
+[13/09/2022 10:58:18] Débora Alves Aude: 13/09 Itaim Débora saída 10:55h
+[10/09/2022 14:27:09] Diego da Cunha Tomaz: 10/09 Jabaquara - Diego saída 11:20
+[12/09/2022 17:55:23] Diego da Cunha Tomaz: 12/09 Jabaquara - Diego saída 17:20
+[13/09/2022 17:20:48] Diego da Cunha Tomaz: 13/09 Jabaquara - Diego saída 17:00
+[10/09/2022 14:27:09] Diego da Cunha Tomaz: 10/09 Jabaquara - Diego saída 11:20
+[12/09/2022 17:55:23] Diego da Cunha Tomaz: 12/09 Jabaquara - Diego saída 17:20
+[13/09/2022 17:20:48] Diego da Cunha Tomaz: 13/09 Jabaquara - Diego saída 17:00
+[12/09/2022 13:49:11] Eduardo Dala Rosa Soares: 12/09 Itaim - Soares saída 13:45
+[13/09/2022 10:11:50] Eduardo Dala Rosa Soares: 13/09 Itaim- Soares saída 10:10
+[12/09/2022 13:49:11] Eduardo Dala Rosa Soares: 12/09 Itaim - Soares saída 13:45
+[13/09/2022 10:11:50] Eduardo Dala Rosa Soares: 13/09 Itaim- Soares saída 10:10
+[11/09/2022 09:30:07] Emerson Domingos Da Costa: 09/09 Itaim - Emerson Plantão
+[15/09/2022 18:43:35] Emerson Domingos Da Costa: 14/09 Morumbi - Emerson - 7- distância Saída 22:00
+[11/09/2022 09:30:07] Emerson Domingos Da Costa: 09/09 Itaim - Emerson Plantão
+[15/09/2022 18:43:35] Emerson Domingos Da Costa: 14/09 Morumbi - Emerson - 7- distância Saída 22:00
+[15/09/2022 16:31:46] Erick Oliveira Lima Gomes: 15/09 OSASCO - Erick saída 16:15
+[15/09/2022 16:31:46] Erick Oliveira Lima Gomes: 15/09 OSASCO - Erick saída 16:15
+[09/09/2022 18:38:21] Everton Sidney da Conceição Carvalho: 09/09 VILLA - Everton saída 18:35 (deslocado Alpha)
+[13/09/2022 17:04:23] Everton Sidney da Conceição Carvalho: 13/09 - OSASCO - Everton saída 17:00
+[15/09/2022 17:21:59] Everton Sidney da Conceição Carvalho: 15/09 ANÁLIA Everton saída 15:45 (pós-plantão)
+[09/09/2022 18:38:21] Everton Sidney da Conceição Carvalho: 09/09 VILLA - Everton saída 18:35 (deslocado Alpha)
+[13/09/2022 17:04:23] Everton Sidney da Conceição Carvalho: 13/09 - OSASCO - Everton saída 17:00
+[15/09/2022 17:21:59] Everton Sidney da Conceição Carvalho: 15/09 ANÁLIA Everton saída 15:45 (pós-plantão)
+[13/09/2022 14:30:49] Fabiana Barbosa Bastos: 13/09 JABAQUARA - Fabiana saída 14:20
+[14/09/2022 13:40:11] Fabiana Barbosa Bastos: 14/09 VNS - Fabiana saída 13:25 (saúde)
+[15/09/2022 21:04:19] Fabiana Barbosa Bastos: 15/09 VNS - Fabiana saída 8:45 - saúde.
+[13/09/2022 14:30:49] Fabiana Barbosa Bastos: 13/09 JABAQUARA - Fabiana saída 14:20
+[14/09/2022 13:40:11] Fabiana Barbosa Bastos: 14/09 VNS - Fabiana saída 13:25 (saúde)
+[15/09/2022 21:04:19] Fabiana Barbosa Bastos: 15/09 VNS - Fabiana saída 8:45 - saúde.
+[14/09/2022 19:23:59] Fabiana Soares Gama: 14/09 Anália Fabiana Gama saída as 19:10 ( 06:00 manhã )
+[12/09/2022 15:26:06] Fabiana Soares Gama: 12/09 Anália Fabiana Gama saída as 14:50
+[15/09/2022 16:29:17] Fabiana Soares Gama: 15/09 Villa Fabiana Gama saída as 16:20
+[14/09/2022 19:23:59] Fabiana Soares Gama: 14/09 Anália Fabiana Gama saída as 19:10 ( 06:00 manhã )
+[12/09/2022 15:26:06] Fabiana Soares Gama: 12/09 Anália Fabiana Gama saída as 14:50
+[15/09/2022 16:29:17] Fabiana Soares Gama: 15/09 Villa Fabiana Gama saída as 16:20
+[13/09/2022 20:35:24] Fábio Antônio de Souza Oliveira: 13/09 Itaim Fabio saída 2035hs
+[14/09/2022 12:16:02] Fábio Antônio de Souza Oliveira: 14/09 VNS Fábio saída 12hs( Extra)
+[15/09/2022 15:24:54] Fábio Antônio de Souza Oliveira: 15/09 Itaim Fabio saída 1525 (Extra)
+[12/09/2022 15:35:54] Fábio Antônio de Souza Oliveira: 12/09 Itaim Fabio SAIDA 15:35 ( MOTIVO DE SAUDE )
+[13/09/2022 20:35:24] Fábio Antônio de Souza Oliveira: 13/09 Itaim Fabio saída 2035hs
+[14/09/2022 12:16:02] Fábio Antônio de Souza Oliveira: 14/09 VNS Fábio saída 12hs( Extra)
+[15/09/2022 15:24:54] Fábio Antônio de Souza Oliveira: 15/09 Itaim Fabio saída 1525 (Extra)
+[12/09/2022 15:35:54] Fábio Antônio de Souza Oliveira: 12/09 Itaim Fabio SAIDA 15:35 ( MOTIVO DE SAUDE )
+[15/09/2022 17:21:46] Fabio Yuji Suguita: 15/09 villa yuji saída 17:20
+[15/09/2022 17:21:46] Fabio Yuji Suguita: 15/09 villa yuji saída 17:20
+[11/09/2022 12:26:08] Fernanda Teles Ribeiro: 09/09 - Jabaquara - Fernanda entrada 07:00 ( D3 Morumbi ) 09/09 - Jabaquara - Fernanda saída 12:20 ( D3 Morumbi )
+[12/09/2022 16:58:39] Fernanda Teles Ribeiro: 12/09 Analia - Fernanda saída 16:55
+[11/09/2022 12:26:08] Fernanda Teles Ribeiro: 09/09 - Jabaquara - Fernanda entrada 07:00 ( D3 Morumbi ) 09/09 - Jabaquara - Fernanda saída 12:20 ( D3 Morumbi )
+[12/09/2022 16:58:39] Fernanda Teles Ribeiro: 12/09 Analia - Fernanda saída 16:55
+[13/09/2022 10:37:09] Fernando Akira Koga: 13/09 Itaim - Koga - saída 10:37
+[13/09/2022 10:37:09] Fernando Akira Koga: 13/09 Itaim - Koga - saída 10:37
+[10/09/2022 05:43:52] Filipe Lugon Moulin Lima: 10/09 ANÁLIA - Filipe Lugon entrada 05:40 (deslocado do VNS)
+[10/09/2022 15:42:30] Filipe Lugon Moulin Lima: 10/09 ANÁLIA - Filipe Lugon saída 15:40 (deslocado do VNS)
+[10/09/2022 05:43:52] Filipe Lugon Moulin Lima: 10/09 ANÁLIA - Filipe Lugon entrada 05:40 (deslocado do VNS)
+[10/09/2022 15:42:30] Filipe Lugon Moulin Lima: 10/09 ANÁLIA - Filipe Lugon saída 15:40 (deslocado do VNS)
+[10/09/2022 11:08:44] Filipe Maeda Hashi Abdalla Martins: (Deslocado Itaim)
+[10/09/2022 11:08:28] Filipe Maeda Hashi Abdalla Martins: 10/09 Jabaquara Maeda saída 11:05
+[12/09/2022 15:58:06] Filipe Maeda Hashi Abdalla Martins: 12/09 Osasco Maeda saída 15:55
+[10/09/2022 11:08:44] Filipe Maeda Hashi Abdalla Martins: (Deslocado Itaim)
+[10/09/2022 11:08:28] Filipe Maeda Hashi Abdalla Martins: 10/09 Jabaquara Maeda saída 11:05
+[12/09/2022 15:58:06] Filipe Maeda Hashi Abdalla Martins: 12/09 Osasco Maeda saída 15:55
+[10/09/2022 14:12:47] Gabriel de Aguiar Santana: 10/09 ANÁLIA - Gabriel saída 14:10 (deslocado Itaim)
+[10/09/2022 14:12:47] Gabriel de Aguiar Santana: 10/09 ANÁLIA - Gabriel saída 14:10 (deslocado Itaim)
+[14/09/2022 13:53:09] Gabriella Gadelha Sarmento: 14/09 Itaim - Gabriella entrada 14:00
+[14/09/2022 13:53:09] Gabriella Gadelha Sarmento: 14/09 Itaim - Gabriella entrada 14:00
+[13/09/2022 01:45:57] Gretel Oliveira Nicolau: 12/09 Villa- Gretel saída 01:40 ( distância) - ( p efeito de saida)
+[13/09/2022 01:45:57] Gretel Oliveira Nicolau: 12/09 Villa- Gretel saída 01:40 ( distância) - ( p efeito de saida)
+[09/09/2022 19:42:42] Guilherme de Almeida Costa: 09/09 VILLA - costa saida 19:42 (pós plantão - deslocado itaim)
+[13/09/2022 15:14:33] Guilherme de Almeida Costa: 13/09 OSASCO Costa saída 15:00 (pos plantao)
+[09/09/2022 19:42:42] Guilherme de Almeida Costa: 09/09 VILLA - costa saida 19:42 (pós plantão - deslocado itaim)
+[13/09/2022 15:14:33] Guilherme de Almeida Costa: 13/09 OSASCO Costa saída 15:00 (pos plantao)
+[12/09/2022 12:42:00] Gustavo Marques Da silva: 12/09 Itaim - Marques saída 12:40 (pós plantão maternidade)
+[15/09/2022 21:20:27] Gustavo Marques Da silva: 15/09 VNS - Marques saída 20:40 (deslocado do Anália)
+[12/09/2022 12:42:00] Gustavo Marques Da silva: 12/09 Itaim - Marques saída 12:40 (pós plantão maternidade)
+[15/09/2022 21:20:27] Gustavo Marques Da silva: 15/09 VNS - Marques saída 20:40 (deslocado do Anália)
+[10/09/2022 11:49:49] Hedicleber Pestana Severino: 10/09 alpha Hedicleber saída 11:45
+[10/09/2022 11:49:49] Hedicleber Pestana Severino: 10/09 alpha Hedicleber saída 11:45
+[10/09/2022 05:58:57] Izabella Gontijo Cunha: 10/09 ANALIA - Izabella entrada 06:00 (deslocada ITAIM)
+[10/09/2022 15:46:10] Izabella Gontijo Cunha: 10/09 ANALIA - Izabella saída 15:45 (deslocada ITAIM)
+[10/09/2022 05:58:57] Izabella Gontijo Cunha: 10/09 ANALIA - Izabella entrada 06:00 (deslocada ITAIM)
+[10/09/2022 15:46:10] Izabella Gontijo Cunha: 10/09 ANALIA - Izabella saída 15:45 (deslocada ITAIM)
+[13/09/2022 06:59:32] Jessica Lidia de Souza: 13/09 ANÁLIA-Jessica  entrada: 06:00 (deslocada do Jabaquara/Osasco)
+[13/09/2022 19:18:54] Jessica Lidia de Souza: 13/09 ANÁLIA-Jessica saída 19:18 (deslocada do Jabaquara/Osasco)
+[15/09/2022 15:15:22] Jessica Lidia de Souza: 15/09 Osasco Jessica  saída 15:15 (deslocada Jabaquara no dia anterior)
+[13/09/2022 06:59:32] Jessica Lidia de Souza: 13/09 ANÁLIA-Jessica  entrada: 06:00 (deslocada do Jabaquara/Osasco)
+[13/09/2022 19:18:54] Jessica Lidia de Souza: 13/09 ANÁLIA-Jessica saída 19:18 (deslocada do Jabaquara/Osasco)
+[15/09/2022 15:15:22] Jessica Lidia de Souza: 15/09 Osasco Jessica  saída 15:15 (deslocada Jabaquara no dia anterior)
+[15/09/2022 23:43:26] João Theodoro de Medeiros Neto: 15/09 Analia - João saída 23:40
+[13/09/2022 13:54:52] João Theodoro de Medeiros Neto: 13/09 Jabaquara - João saída 13:40
+[15/09/2022 23:43:26] João Theodoro de Medeiros Neto: 15/09 Analia - João saída 23:40
+[13/09/2022 13:54:52] João Theodoro de Medeiros Neto: 13/09 Jabaquara - João saída 13:40
+[13/09/2022 20:34:48] Juliano Moisés Tobal: 13/09 Alpha Juliano Tobal 19:00 ( assumo plantão noturno)
+[13/09/2022 20:34:48] Juliano Moisés Tobal: 13/09 Alpha Juliano Tobal 19:00 ( assumo plantão noturno)
+[10/09/2022 14:25:24] Kaiê Fernandes: 10/09 Analia - kaie saída 14h20 (deslocado Itaim)
+[13/09/2022 05:55:03] Kaiê Fernandes: 13/09 Osasco - kaie entrada 5h45 (deslocado Itaim)
+[13/09/2022 16:46:08] Kaiê Fernandes: 13/09 Osasco - Kaie saída 16:45 (deslocado Itaim)
+[10/09/2022 14:25:24] Kaiê Fernandes: 10/09 Analia - kaie saída 14h20 (deslocado Itaim)
+[13/09/2022 05:55:03] Kaiê Fernandes: 13/09 Osasco - kaie entrada 5h45 (deslocado Itaim)
+[13/09/2022 16:46:08] Kaiê Fernandes: 13/09 Osasco - Kaie saída 16:45 (deslocado Itaim)
+[16/09/2022 06:26:13] Karen Yumi Miyashiro: 16/09 VILLA- Yumi entrada 05:30 (deslocada Jabaquara)
+[16/09/2022 06:26:13] Karen Yumi Miyashiro: 16/09 VILLA- Yumi entrada 05:30 (deslocada Jabaquara)
+[15/09/2022 16:47:56] Larissa Mayumi Ono: 15/09 Itaim Larissa - saída 16:45
+[15/09/2022 16:47:56] Larissa Mayumi Ono: 15/09 Itaim Larissa - saída 16:45
+[12/09/2022 20:05:32] Leticia Fernandes Borges: 12/09 Jabaquara Letícia saída 19:15
+[15/09/2022 15:57:07] Leticia Fernandes Borges: 15/09 OSASCO - Leticia saída 15:50
+[12/09/2022 20:05:32] Leticia Fernandes Borges: 12/09 Jabaquara Letícia saída 19:15
+[15/09/2022 15:57:07] Leticia Fernandes Borges: 15/09 OSASCO - Leticia saída 15:50
+[15/09/2022 16:51:25] Livia Schenkel Thurler Trairi: 15/09 OSASCO - Livia saída 16:45
+[15/09/2022 16:51:25] Livia Schenkel Thurler Trairi: 15/09 OSASCO - Livia saída 16:45
+[14/09/2022 17:51:31] Luiz Augusto Xavier Brandão: 14/09 Osasco Luiz Augusto saída 17:50
+[14/09/2022 17:51:31] Luiz Augusto Xavier Brandão: 14/09 Osasco Luiz Augusto saída 17:50
+[10/09/2022 14:37:30] Luiz Guilherme Thomaz Zacharias: 10/09 MORUMBI - Guilherme saída 14:00 (deslocamento Itaim)
+[16/09/2022 04:59:46] Luiz Guilherme Thomaz Zacharias: 16/09 ITAIM - Kaie entrada 5:00 (EXTRA)
+[10/09/2022 14:37:30] Luiz Guilherme Thomaz Zacharias: 10/09 MORUMBI - Guilherme saída 14:00 (deslocamento Itaim)
+[16/09/2022 04:59:46] Luiz Guilherme Thomaz Zacharias: 16/09 ITAIM - Kaie entrada 5:00 (EXTRA)
+[15/09/2022 16:37:22] Maiely Marcolin: 15/09 Morumbi - Maiely saída 16:35 (pós plantão MT)
+[15/09/2022 16:37:22] Maiely Marcolin: 15/09 Morumbi - Maiely saída 16:35 (pós plantão MT)
+[12/09/2022 14:24:18] Maira Leite Basile: 12/09 Morumbi - Maíra saída 14h20 (pós plantão deslocada analia)
+[15/09/2022 16:28:45] Maira Leite Basile: 15/09 itaim Maíra saída 16:20 (pós plantão deslocada Morumbi)
+[12/09/2022 14:24:18] Maira Leite Basile: 12/09 Morumbi - Maíra saída 14h20 (pós plantão deslocada analia)
+[15/09/2022 16:28:45] Maira Leite Basile: 15/09 itaim Maíra saída 16:20 (pós plantão deslocada Morumbi)
+[15/09/2022 19:40:26] Manoel de Souza Neto: Saída 19:40
+[09/09/2022 16:55:55] Manoel de Souza Neto: 09/09 Anália Manoel  Saida 16:50  EXTRA
+[15/09/2022 19:40:26] Manoel de Souza Neto: Saída 19:40
+[09/09/2022 16:55:55] Manoel de Souza Neto: 09/09 Anália Manoel  Saida 16:50  EXTRA
+[14/09/2022 16:29:03] Marcelo dos Anjos Reis: 14/09 osasco Marcelo saida 16:25 (deslocado Itaim)
+[14/09/2022 16:29:03] Marcelo dos Anjos Reis: 14/09 osasco Marcelo saida 16:25 (deslocado Itaim)
+[09/09/2022 19:12:20] Marcio Ighor Azevedo Silva De Mendonça Melania: Deslocado Itaim dia anterior
+[15/09/2022 17:08:38] Marcio Ighor Azevedo Silva De Mendonça Melania: 15/09 Villa - Ighor saída 17:00
+[09/09/2022 19:12:20] Marcio Ighor Azevedo Silva De Mendonça Melania: Deslocado Itaim dia anterior
+[15/09/2022 17:08:38] Marcio Ighor Azevedo Silva De Mendonça Melania: 15/09 Villa - Ighor saída 17:00
+[13/09/2022 10:27:58] Maria Carolina Célia Silveira: 13/09 VNS - M. Carolina (dispensada por motivo de saúde)
+[13/09/2022 10:27:58] Maria Carolina Célia Silveira: 13/09 VNS - M. Carolina (dispensada por motivo de saúde)
+[14/09/2022 17:23:41] Mariana Gasparelli de Souza: 14/09 Osasco Mariana Gasparelli saída 17:10 ( deslocada Morumbi)
+[12/09/2022 23:03:53] Mariana Gasparelli de Souza: 12/09 Morumbi - Mariana Gasparelli entrada 06h
+[12/09/2022 23:04:10] Mariana Gasparelli de Souza: 12/09 Morumbi - Mariana Gasparelli saída 16:20
+[14/09/2022 17:23:41] Mariana Gasparelli de Souza: 14/09 Osasco Mariana Gasparelli saída 17:10 ( deslocada Morumbi)
+[12/09/2022 23:03:53] Mariana Gasparelli de Souza: 12/09 Morumbi - Mariana Gasparelli entrada 06h
+[12/09/2022 23:04:10] Mariana Gasparelli de Souza: 12/09 Morumbi - Mariana Gasparelli saída 16:20
+[15/09/2022 15:46:25] Mariana Oliveira De Toledo: 15/09 OSASCO- toledo saída 15:40
+[15/09/2022 15:46:25] Mariana Oliveira De Toledo: 15/09 OSASCO- toledo saída 15:40
+[13/09/2022 14:57:01] Matheus de Alencar Arraes: 13/09 ITAIM Arraes entrada 08h
+[15/09/2022 12:19:38] Matheus de Alencar Arraes: 15/09 JABAQUARA Arraes entrada 05:20 / saida 12:15 (EXTRA)
+[10/09/2022 06:14:14] Matheus de Alencar Arraes: 10/09 ALPHA Arraes entrada 06:00
+[13/09/2022 14:57:01] Matheus de Alencar Arraes: 13/09 ITAIM Arraes entrada 08h
+[15/09/2022 12:19:38] Matheus de Alencar Arraes: 15/09 JABAQUARA Arraes entrada 05:20 / saida 12:15 (EXTRA)
+[10/09/2022 06:14:14] Matheus de Alencar Arraes: 10/09 ALPHA Arraes entrada 06:00
+[13/09/2022 20:32:09] Milton Olaio Neto: 13/9-Itaim Olaio saída 17h45
+[13/09/2022 20:32:09] Milton Olaio Neto: 13/9-Itaim Olaio saída 17h45
+[12/09/2022 14:31:24] Mirela Farias Figueiroa: 12/09 - Morumbi - Mirela saída 14:25
+[12/09/2022 14:31:24] Mirela Farias Figueiroa: 12/09 - Morumbi - Mirela saída 14:25
+[14/09/2022 00:10:13] Natan Soares Silveira: 13/09 Osasco - Natan Saída 00:00 (distância)
+[14/09/2022 00:10:13] Natan Soares Silveira: 13/09 Osasco - Natan Saída 00:00 (distância)
+[13/09/2022 17:48:13] Nathalia Fanucci Oliveira Di Jorge: 13/09 VNS Nathália saída 17:45 (deslocada ANALIA)
+[10/09/2022 11:20:29] Nathalia Fanucci Oliveira Di Jorge: 10/09 OSASCO Nathália saída 11:10
+[13/09/2022 17:48:13] Nathalia Fanucci Oliveira Di Jorge: 13/09 VNS Nathália saída 17:45 (deslocada ANALIA)
+[10/09/2022 11:20:29] Nathalia Fanucci Oliveira Di Jorge: 10/09 OSASCO Nathália saída 11:10
+[10/09/2022 10:38:36] Neliane Guedes Pretti: 10/09 Jabaquara Neliane saída 10:30 (pós plantão)
+[15/09/2022 16:43:19] Neliane Guedes Pretti: 15/09 Jabaquara Neliane saída 16:40
+[10/09/2022 10:38:36] Neliane Guedes Pretti: 10/09 Jabaquara Neliane saída 10:30 (pós plantão)
+[15/09/2022 16:43:19] Neliane Guedes Pretti: 15/09 Jabaquara Neliane saída 16:40
+[10/09/2022 06:21:19] Norival Scandelai Junior: 10/09 Jabaquara - Norival Entrada 6:00 ( deslocado Morumbi )
+[10/09/2022 11:08:54] Norival Scandelai Junior: 10/09 Jabaquara - Norival saída 11:05 ( deslocado Morumbi )
+[10/09/2022 06:21:19] Norival Scandelai Junior: 10/09 Jabaquara - Norival Entrada 6:00 ( deslocado Morumbi )
+[10/09/2022 11:08:54] Norival Scandelai Junior: 10/09 Jabaquara - Norival saída 11:05 ( deslocado Morumbi )
+[12/09/2022 18:20:05] Patrick Alexander Suer Schues: 12/09 Analia - Patrick saída 18:20 (deslocado do Villa no dia anterior)
+[14/09/2022 19:38:47] Patrick Alexander Suer Schues: 14/09 Osasco - Patrick saída 19:35 (deslocado Jabaquara)
+[10/09/2022 13:41:22] Patrick Alexander Suer Schues: 10/09 Jabaquara - Patrick saída 11:40
+[12/09/2022 18:20:05] Patrick Alexander Suer Schues: 12/09 Analia - Patrick saída 18:20 (deslocado do Villa no dia anterior)
+[14/09/2022 19:38:47] Patrick Alexander Suer Schues: 14/09 Osasco - Patrick saída 19:35 (deslocado Jabaquara)
+[10/09/2022 13:41:22] Patrick Alexander Suer Schues: 10/09 Jabaquara - Patrick saída 11:40
+[12/09/2022 21:12:21] Paula Lopes Agapito de Freitas: 12/09 - Paula A - saída 21:10 - Aviccena ( deslocada Anália)
+[12/09/2022 21:12:21] Paula Lopes Agapito de Freitas: 12/09 - Paula A - saída 21:10 - Aviccena ( deslocada Anália)
+[15/09/2022 16:05:53] Pedro Tiago Bonfitto: 15/09 analia - Kaie saida 16:05 (deslocamento itaim)
+[10/09/2022 11:45:32] Pedro Tiago Bonfitto: 10/09 Itaim Bonfitto saída 11:40
+[15/09/2022 16:05:53] Pedro Tiago Bonfitto: 15/09 analia - Kaie saida 16:05 (deslocamento itaim)
+[10/09/2022 11:45:32] Pedro Tiago Bonfitto: 10/09 Itaim Bonfitto saída 11:40
+[13/09/2022 14:45:49] Rafael Tadeu Marques: 13/09 Jabaquara Rafael tadeu saída 13:40h ( EXTRA) assumo rotina João até 19:00h
+[13/09/2022 14:45:49] Rafael Tadeu Marques: 13/09 Jabaquara Rafael tadeu saída 13:40h ( EXTRA) assumo rotina João até 19:00h
+[10/09/2022 07:27:27] Renata Pinheiro Modolo: 10/09 Anália R. Modolo entrada 6:00 (deslocamento Itaim)
+[10/09/2022 07:27:27] Renata Pinheiro Modolo: 10/09 Anália R. Modolo entrada 6:00 (deslocamento Itaim)
+[12/09/2022 16:39:05] Renata Togeiro Bastos Godoy de Faria: 12/09 MORUMBI - Renata Togeiro saída 16:20
+[14/09/2022 06:00:21] Renata Togeiro Bastos Godoy de Faria: 14/09 MORUMBI - Renata Togeiro entrada 5:30
+[12/09/2022 16:39:05] Renata Togeiro Bastos Godoy de Faria: 12/09 MORUMBI - Renata Togeiro saída 16:20
+[14/09/2022 06:00:21] Renata Togeiro Bastos Godoy de Faria: 14/09 MORUMBI - Renata Togeiro entrada 5:30
+[13/09/2022 21:27:51] Renata Torres Bueno: 13/09 Analia - Renata Bueno saída 14:15
+[13/09/2022 21:27:51] Renata Torres Bueno: 13/09 Analia - Renata Bueno saída 14:15
+[12/09/2022 18:15:57] Renato dos Santos Borega: 12/09 Villa - Renato saída 17:40
+[12/09/2022 18:15:57] Renato dos Santos Borega: 12/09 Villa - Renato saída 17:40
+[15/09/2022 16:16:30] Ricardo Giraldelli Carvalho Lima: 15/09 OSASCO - Giraldelli saída 16:15
+[15/09/2022 16:16:30] Ricardo Giraldelli Carvalho Lima: 15/09 OSASCO - Giraldelli saída 16:15
+[10/09/2022 05:49:36] Ricardo Kawaura: 10/09 Osasco-kawaura (deslocado Morumbi)-entrada 06:00
+[10/09/2022 14:22:42] Ricardo Kawaura: 10/09 Osasco Kawaura (deslocado Morumbi)saída 14:20
+[14/09/2022 17:40:37] Ricardo Kawaura: 14/09 Osasco kawaura dispensado por motivo de saúde
+[10/09/2022 05:49:36] Ricardo Kawaura: 10/09 Osasco-kawaura (deslocado Morumbi)-entrada 06:00
+[10/09/2022 14:22:42] Ricardo Kawaura: 10/09 Osasco Kawaura (deslocado Morumbi)saída 14:20
+[14/09/2022 17:40:37] Ricardo Kawaura: 14/09 Osasco kawaura dispensado por motivo de saúde
+[14/09/2022 19:25:50] Rodrigo Achui Haga: 14/09 ANALIA - haga saida 19:25 (deslocado villa)
+[15/09/2022 15:50:30] Rodrigo Achui Haga: 15/09 VILLA - haga saida 15:40
+[14/09/2022 19:25:50] Rodrigo Achui Haga: 14/09 ANALIA - haga saida 19:25 (deslocado villa)
+[15/09/2022 15:50:30] Rodrigo Achui Haga: 15/09 VILLA - haga saida 15:40
+[15/09/2022 14:30:52] Rodrigo Antonio Rey Gonzalez: 15/09 OSASCO - Rey saida 14:30
+[15/09/2022 14:30:52] Rodrigo Antonio Rey Gonzalez: 15/09 OSASCO - Rey saida 14:30
+[13/09/2022 15:48:08] Rodrigo de Carvalho Silva: 13/09 Itaim - Carvalho - Saída 15h40
+[13/09/2022 15:48:08] Rodrigo de Carvalho Silva: 13/09 Itaim - Carvalho - Saída 15h40
+[10/09/2022 05:40:16] Rodrigo Miyashiro Nunes dos Santos: 10/09 JABAQUARA - Miyashiro entrada 05:40 (deslocamento MORUMBI)
+[10/09/2022 11:11:03] Rodrigo Miyashiro Nunes dos Santos: 10/09 JABAQUARA - Miyashiro saida 11:10 (deslocamento MORUMBI)
+[13/09/2022 17:38:06] Rodrigo Miyashiro Nunes dos Santos: 13/09 MORUMBI - Miyashiro entrada 17:10 (assumo rotina Daniellen)
+[10/09/2022 05:40:16] Rodrigo Miyashiro Nunes dos Santos: 10/09 JABAQUARA - Miyashiro entrada 05:40 (deslocamento MORUMBI)
+[10/09/2022 11:11:03] Rodrigo Miyashiro Nunes dos Santos: 10/09 JABAQUARA - Miyashiro saida 11:10 (deslocamento MORUMBI)
+[13/09/2022 17:38:06] Rodrigo Miyashiro Nunes dos Santos: 13/09 MORUMBI - Miyashiro entrada 17:10 (assumo rotina Daniellen)
+[13/09/2022 16:43:55] Rogério Sidney Thon: 13/09 Itaim Rogério saída 16:20h
+[13/09/2022 16:43:55] Rogério Sidney Thon: 13/09 Itaim Rogério saída 16:20h
+[15/09/2022 19:36:46] Sabrina de Souza Ramos: 15/09 Jabaquara Sabrina 19:35
+[15/09/2022 19:36:46] Sabrina de Souza Ramos: 15/09 Jabaquara Sabrina 19:35
+[14/09/2022 19:13:29] Sidney Orlando de Souza: 14/09-Itaim -Sidney-entrada as 06:00 (e saida as 19:00)
+[14/09/2022 19:13:29] Sidney Orlando de Souza: 14/09-Itaim -Sidney-entrada as 06:00 (e saida as 19:00)
+[12/09/2022 06:18:32] Silvia Aline dos Santos Andrade: 12/09 - Jabaquara - Silvia entrada 05:40
+[12/09/2022 06:18:32] Silvia Aline dos Santos Andrade: 12/09 - Jabaquara - Silvia entrada 05:40
+[13/09/2022 16:56:03] Thais Chaves Pinheiro: 13/09 VNS - Pinheiro saída as 16:55 (Pós-plantão/ deslocada Villa Lobos )
+[12/09/2022 19:08:59] Thais Chaves Pinheiro: 12/09 Itaim - Pinheiro entrada as 19:00 (Assumo plantão noturno da Stefany)
+[10/09/2022 09:27:49] Thais Chaves Pinheiro: 10/09 Itaim - T. Pinheiro saída as 09:25 (pós-plantão)
+[12/09/2022 12:20:12] Thais Chaves Pinheiro: 12/09 VNS - Pinheiro saída as 12:20 (EXTRA)
+[15/09/2022 09:45:13] Thais Chaves Pinheiro: 15/09 Itaim - Pinheiro saída as 09:40 (EXTRA)
+[13/09/2022 16:56:03] Thais Chaves Pinheiro: 13/09 VNS - Pinheiro saída as 16:55 (Pós-plantão/ deslocada Villa Lobos )
+[12/09/2022 19:08:59] Thais Chaves Pinheiro: 12/09 Itaim - Pinheiro entrada as 19:00 (Assumo plantão noturno da Stefany)
+[10/09/2022 09:27:49] Thais Chaves Pinheiro: 10/09 Itaim - T. Pinheiro saída as 09:25 (pós-plantão)
+[12/09/2022 12:20:12] Thais Chaves Pinheiro: 12/09 VNS - Pinheiro saída as 12:20 (EXTRA)
+[15/09/2022 09:45:13] Thais Chaves Pinheiro: 15/09 Itaim - Pinheiro saída as 09:40 (EXTRA)
+[13/09/2022 16:16:16] Thales Luvisotto Neder: 13/09 Jabaquara - Thales saída 16:15
+[13/09/2022 16:16:16] Thales Luvisotto Neder: 13/09 Jabaquara - Thales saída 16:15
+[12/09/2022 14:51:25] Thiago Francisco Martins: 12/09 ANALIA Thiago Martins saida 14:50
+[12/09/2022 14:51:25] Thiago Francisco Martins: 12/09 ANALIA Thiago Martins saida 14:50
+[09/09/2022 19:13:05] Vitor Maciel de Sousa Pinto: 09/09 Morumbi - Maciel saída 19:10
+[15/09/2022 15:12:27] Vitor Maciel de Sousa Pinto: 15/09 VILLA - Maciel saída 15:10
+[09/09/2022 19:13:05] Vitor Maciel de Sousa Pinto: 09/09 Morumbi - Maciel saída 19:10
+[15/09/2022 15:12:27] Vitor Maciel de Sousa Pinto: 15/09 VILLA - Maciel saída 15:10
+[10/09/2022 10:10:12] Vitor Oliveira André: 10/09 Itaim Vitor saída 10:10
+[10/09/2022 10:10:12] Vitor Oliveira André: 10/09 Itaim Vitor saída 10:10
+[13/09/2022 06:29:47] Vivianna Bovério Galzerani: 13/09 Villa - Vivianna entrada 06:00 (deslocada do Morumbi)
+[13/09/2022 19:11:09] Vivianna Bovério Galzerani: 13/08 Villa - Vivianna saída 19:10 (deslocada do Morumbi)
+[14/09/2022 17:17:08] Vivianna Bovério Galzerani: 14/09 Morumbi - Vivianna saída 17:10
+[13/09/2022 06:29:47] Vivianna Bovério Galzerani: 13/09 Villa - Vivianna entrada 06:00 (deslocada do Morumbi)
+[13/09/2022 19:11:09] Vivianna Bovério Galzerani: 13/08 Villa - Vivianna saída 19:10 (deslocada do Morumbi)
+[14/09/2022 17:17:08] Vivianna Bovério Galzerani: 14/09 Morumbi - Vivianna saída 17:10
+[12/09/2022 17:15:38] Wangles Pignaton de Paula: 12/09 MORUMBI - Wangles: saída 14:40
+[12/09/2022 17:15:38] Wangles Pignaton de Paula: 12/09 MORUMBI - Wangles: saída 14:40
+[13/09/2022 15:44:11] Yuri Lucas De Souza: 13/09 Osasco - Souza saída 14:10 (deslocado Analia)
+[13/09/2022 15:44:11] Yuri Lucas De Souza: 13/09 Osasco - Souza saída 14:10 (deslocado Analia)

@@ -1,0 +1,149 @@
+[26/12/2022 16:15:41] Erick Oliveira Lima Gomes: 26/12 Santa Erick saida 15:40
+[26/12/2022 16:21:29] Antonio Álvaro Dias Lima da Cunha Neto: 26/12 AVICCENA - Álvaro saída 15h40
+[26/12/2022 16:22:14] Yuri Lucas De Souza: 26/12 Villa - Souza saída 15:40
+[26/12/2022 16:31:22] Renata Togeiro Bastos Godoy de Faria: 26/12 MORUMBI - Renata Togeiro dispensada
+[26/12/2022 16:46:17] Maira Leite Basile: 26/12 VNS Maíra - dispensada
+[26/12/2022 16:53:27] Rodrigo Antonio Rey Gonzalez: 26/12 SANTA ISABEL - Rey saida 16:50
+[26/12/2022 17:39:26] Thiago Francisco Martins: 26/12 ANALIA Thiago Martins saida 17:10
+[26/12/2022 17:46:30] Daniel Masuzaki Wong: 26/12 Jabaquara - Wong saída 17:45
+[26/12/2022 17:49:09] Marcelo Felipe de Souza Buto: 26/12 Morumbi - Buto saída 17:10
+[26/12/2022 17:56:06] Filipe Lugon Moulin Lima: 26/12 JABAQUARA - Filipe Lugon saída 17:55
+[26/12/2022 19:08:58] Pedro Augusto Tavares Dall Aglio: 26/12 Osasco - Tavares - saída 19:08
+[26/12/2022 19:27:22] Marcos Rogério Pereira Machado Filho: 26/12 Aciccena - Marcos saída 19:25
+[26/12/2022 19:39:38] Renata Pinheiro Modolo: 26/12 Jabaquara R. Modolo saída 19:35
+[26/12/2022 19:43:32] Juliano Moisés Tobal: 26/12 Jabaquara Juliano Tobal saída 18:40
+[26/12/2022 20:00:51] Juliana Hussein Grilo: 26/12 VILLA - J. Hussein saída 15:15
+[26/12/2022 20:27:06] Carlos Augusto Trevisan: 26/12 ITAIM - Carlos dispensado
+[26/12/2022 20:27:25] Henri Roger Watanabe Oliveira: 26/12 Morumbi - Henri dispensado
+[26/12/2022 20:44:37] Anna Beatriz Aranha Trevisan: 26/12 MORUMBI - Anna Beatriz dispensada
+[26/12/2022 20:57:01] Paula Angélica Pinha Neves: 26/12 VILLA Paula Neves saída 15:15
+[26/12/2022 23:28:22] Bianca Priscila Buniotti: 26/12 Osasco - Bianca saída 21:15
+[26/12/2022 23:59:56] Victor Sapountzakis Ribeiro: 26/12 Osasco - Sapountzakis 23:10 (distância)
+[27/12/2022 04:53:30] Romulo Spolidorio: 27/12 - jabaquara - Rômulo - entrada 4:45
+[27/12/2022 05:23:00] Pedro Augusto Tavares Dall Aglio: 27/12 - Aviccena - Tavares - 05:20
+[27/12/2022 05:45:06] Diogo Henrique Pereira Mattos: 27/12 ANÁLIA - Diogo entrada 05:40
+[27/12/2022 05:49:00] Natan Soares Silveira: 27/12 - Aviccena - Natan - entrada 05:30
+[27/12/2022 05:56:06] Marcio Ighor Azevedo Silva De Mendonça Melania: 27/12 Itaim - Ighor entrada 05:50
+[27/12/2022 05:57:59] Natan Soares Silveira: 26/12 Anália - Natan - dispensado
+[27/12/2022 06:03:06] Rodrigo Achui Haga: 26/12 OSASCO - haga entrada 06:00
+[27/12/2022 06:03:19] Kaiê Fernandes: 27/12 Itaim Kaie entrada 6:00
+[27/12/2022 06:03:32] Juliano Moisés Tobal: 27/12 Santa Juliano Tobal entrada 06:00
+[27/12/2022 06:09:49] Nathalia Fanucci Oliveira Di Jorge: 27/12 ANÁLIA Nathália Dispensada
+[27/12/2022 06:28:19] Alessandre Luiz Braga Junior: 27/12 Itaim- Alessandre entrada 06:10
+[27/12/2022 06:32:43] Marcelo Felipe de Souza Buto: 27/12 VNS - Buto entrada 6:30
+[27/12/2022 06:34:53] Fabiana Barbosa Bastos: 27/12 Morumbi - Fabiana entrada 06:00
+[27/12/2022 06:39:20] Livia Schenkel Thurler Trairi: 26/12 OSASCO - Livia entrada 5:45
+[27/12/2022 06:40:37] Alberto de Azevedo Alves Moreira: 27/12 Jabaquara - Alberto entrada 6:00
+[27/12/2022 06:40:56] Wangles Pignaton de Paula: 27/12 MORUMBI - Wangles entrada 6:00
+[27/12/2022 06:48:12] Alexsander Takashi Hamada: 27/12    Jabaquara    Alexsander     entrada 6:00
+[27/12/2022 07:00:24] Maira Leite Basile: 27/12 VNS Maíra entrada 5:20
+[27/12/2022 07:04:53] Thiago Francisco Martins: 27/12 ANALIA Thiago Martins entrada 06:00
+[27/12/2022 07:27:22] Gabriel de Aguiar Santana: 27/12 Anália - Gabriel dispensado
+[27/12/2022 07:51:08] José Carlos Tuna Scarpa: 27/12 Anália José Carlos Entrada 06;00
+[27/12/2022 08:02:23] Filipe Maeda Hashi Abdalla Martins: 27/12 Jabaquara Maeda dispensado
+[27/12/2022 08:05:04] Vitor Oliveira André: 27/12 VNS Vitor dispensado
+[27/12/2022 08:06:05] José Marcos Vieira da Silva: 27/12 - Itaim José Marcos entrada 6:00
+[27/12/2022 08:12:33] Mirela Farias Figueiroa: 27/12 - Osasco - Mirela entrada 08:00 (atraso)
+[27/12/2022 09:01:53] Marcelo Maia da Silveira: 26/12 - VILLA - Maia Dispensado
+[27/12/2022 09:02:40] Marcelo Maia da Silveira: 27/12 AVICCENA - Maia Entrada 06:20
+[27/12/2022 09:07:09] Diogo Henrique Pereira Mattos: 27/12 ANÁLIA - Diogo saída 09:06
+[27/12/2022 09:13:44] José Carlos Tuna Scarpa: 27/12 AnáliaJosé Carlos Saída 09:13
+[27/12/2022 09:16:32] Guilherme de Almeida Costa: 27/12 osasco costa entrada 5:20
+[27/12/2022 09:25:28] Estanrley Barcelos Pinto: 27/12- SANTA ISABEL-Estanrley dispensado
+[27/12/2022 09:32:19] Izabella Gontijo Cunha: 26/12 ANALIA - Izabella saída 12:40
+[27/12/2022 09:32:36] Izabella Gontijo Cunha: 27/12 ITAIM - Izabella dispensada
+[27/12/2022 09:36:09] Matheus de Alencar Arraes: 27/12 JABAQUARA Arraes saida 09:35 (pos plantão/deslocado Itaim)
+[27/12/2022 09:42:08] Fabiana Barbosa Bastos: 27/12 Morumbi - Fabiana saída 09:40
+[27/12/2022 09:48:10] Marina Borges Curralo: 27/12 Maternidade Marina dispensada
+[27/12/2022 09:54:14] Erick Oliveira Lima Gomes: 27/12 Morumbi - Erick dispensado
+[27/12/2022 09:59:04] Alexsander Takashi Hamada: 27/12   Jabaquara     Alexsander    saída 9:40
+[27/12/2022 10:04:52] Patrick Alexander Suer Schues: 27/12 Morumbi - Patrick dispensado
+[27/12/2022 10:09:18] Anna Beatriz Aranha Trevisan: 27/12 MORUMBI - Anna Beatriz dispensada
+[27/12/2022 10:12:25] Natan Soares Silveira: 27/12 Aviccena - Natan - saída 09:15
+[27/12/2022 10:23:42] Thiago Francisco Martins: 27/12 ANALIA Thiago Martins saida 10:15
+[27/12/2022 10:36:10] Ricardo Kawaura: 27/12 Osasco Kawaura (pós plantão) saída 10:35
+[27/12/2022 10:37:04] Paola Rodrigues Oshiro: 27/12 ANÁLIA Paola saída 10:35
+[27/12/2022 10:39:29] Luciano Angelo Richetti: 26/12 ITAIM Luciano Dispensado
+[27/12/2022 10:40:19] Wangles Pignaton de Paula: 27/12 MORUMBI - Wangles saída 10:40
+[27/12/2022 10:45:25] Thiago Silva Pinto: 27/12 Osasco - T. Silva - Entrada 10:10 (atraso)
+[27/12/2022 10:50:49] Fernando Akira Koga: 27/12 Itaim - Koga saída 10:50
+[27/12/2022 11:14:34] Rodrigo Achui Haga: 27/12 OSASCO - haga saida 11:10
+[27/12/2022 11:24:11] Ana Jung Docko: 27/12 Analia Ana dispensada
+[27/12/2022 11:32:26] Maria Carolina Célia Silveira: 27/12 VNS - M. Carolina dispensada
+[27/12/2022 11:47:34] Mariana Dardengo Borges: 27/12 MORUMBI - M. Dardengo saída 11:45
+[27/12/2022 12:04:12] Silvia Aline dos Santos Andrade: 27/12 - Anália - Silvia saída 12:00
+[27/12/2022 12:31:49] Carlos Eduardo Corrêa Grilo: 27/12 Anália - Cadu entrada entrada 07:00 Saída 12:20
+[27/12/2022 13:20:50] Filipe Lugon Moulin Lima: 27/12 JABAQUARA - Filipe Lugon saida 13:20
+[27/12/2022 13:21:30] Maria Cecília Domingues da Silva Soares: 27/12 VILLA - M. Cecília entrada 5:45
+[27/12/2022 13:21:41] Maria Cecília Domingues da Silva Soares: 27/12 VILLA - M. Cecília saída 13:20
+[27/12/2022 13:26:06] Pedro Augusto Tavares Dall Aglio: 27/12 aviccena - Tavares - saída 13:25
+[27/12/2022 13:40:34] Romulo Spolidorio: 27/12 Jabaquara - Rômulo - saída 13:40
+[27/12/2022 13:44:44] Aline Franchini Goulart Lima: 27/12 ANÁLIA Aline saída 13:45
+[27/12/2022 13:50:04] Karen Yumi Miyashiro: 27/12 Anália - Yumi saída 13:30
+[27/12/2022 14:05:16] Thais Chaves Pinheiro: 27/12 Itaim - Thaís saída 14:05 (pós-plantão/ deslocada Jabaquara)
+[27/12/2022 14:06:09] Guilherme de Almeida Costa: 27/12 Osasco - costa saida 14:05
+[27/12/2022 14:20:35] Hedicleber Pestana Severino: 27/12 Villa Hedicleber saída 14:10
+[27/12/2022 14:36:27] Maira Leite Basile: 27/12 VNS Maíra saída 14:20
+[27/12/2022 14:38:02] Álvaro Lázaro Ráo Regonato: 26/12 Osasco Ráo saída 15:05
+[27/12/2022 14:52:02] Marcelo Felipe de Souza Buto: 27/12 VNS - Buto saída 14:40
+[27/12/2022 15:08:03] Camila Chiarantano Harrison: 27/12 Villa Camila Saida 15:00
+[27/12/2022 15:08:27] Thiago Barreto Marques Da Silva: 27/12 Osasco Naldo saída 15
+[27/12/2022 15:16:13] Rodrigo Andrade Carmello: 27/12 Anália - Carmello saída 15:10
+[27/12/2022 15:17:19] Alberto de Azevedo Alves Moreira: 27/12 Jabaquara - Alberto saída 15:15
+[27/12/2022 15:46:42] Vivian Cristine dos Anjos e Silva: 27/12 VILLA Vivian saida 15:45
+[27/12/2022 15:57:25] Sidney Orlando de Souza: 27/12-Itaim-Sidney- entrada:05:50 e saida:15:50
+[27/12/2022 16:04:25] Marcio Ighor Azevedo Silva De Mendonça Melania: 27/12 Itaim - Ighor saída 16:00 (deslocado Analia no dia anterior)
+[27/12/2022 16:05:01] Maurício Faria Tetti: 27/12 Analia Maurício saída 15:45
+[27/12/2022 16:06:29] Fabiana Soares Gama: 27/12 Anália Fabiana Gama saída as 15:10
+[27/12/2022 16:08:12] Livia Schenkel Thurler Trairi: 27/12 OSASCO - Livia saída 15:10
+[27/12/2022 16:19:45] Gabriela Soares Piassi: 27/12 ANALIA - Piassi saida 16:15
+[27/12/2022 16:19:50] Dênio Lopes De Almeida: 27/12 ITAIM - Dênio dispensado
+[27/12/2022 16:21:21] Renato dos Santos Borega: 27/12 Villa - Renato saída 15:40
+[27/12/2022 16:28:11] Kaiê Fernandes: 27/12 Itaim Kaie saída 16:20
+[27/12/2022 16:29:47] Ludmylla Gomes Neves: 27/12 OSASCO - Ludmylla saída 15:30
+[27/12/2022 16:35:46] João Theodoro de Medeiros Neto: 27/12 Villa - João saída 16:35
+[27/12/2022 17:05:56] Thais Miranda Ramos: 27/12 OSASCO - Miranda saída às 16h50
+[27/12/2022 17:18:06] Juliano Moisés Tobal: 27/12 Santa Juliano Tobal saída 16:40
+[27/12/2022 17:26:37] André da Costa Aguiar Ventura: 27/12 MORUMBI Ventura saida 17:15
+[27/12/2022 17:27:00] Débora Alves Aude: 27/12 Itaim Débora saída 17:25
+[27/12/2022 17:39:34] José Marcos Vieira da Silva: 27/12 - Itaim José Marcos saída 16:00
+[27/12/2022 18:15:48] Alessandre Luiz Braga Junior: 27/12 - Itaim Alessandre saída 17:20
+[27/12/2022 18:33:17] Bruce Ye Man Chow: 27/12 Jabaquara - bruce saida 16:40
+[27/12/2022 19:17:48] Ricardo Ivo de Lima: 27/12 - Morumbi - Ricardo Ivo Saída - 19:17h
+[27/12/2022 19:49:11] Antonio Álvaro Dias Lima da Cunha Neto: 27/12 AVICCENA - Álvaro dispensado
+[27/12/2022 20:33:06] Rogério Sidney Thon: 27/12 Itaim Rogério saída 19:50h
+[27/12/2022 21:09:03] Diego da Cunha Tomaz: 27/12 Santa Diego dispensado
+[27/12/2022 21:14:10] Bruno Ferraz de Campos Barone: 27/12 VNS Barone dispensado
+[27/12/2022 21:32:51] Norival Scandelai Junior: 27/12 Morumbi - Norival Dispensado
+[27/12/2022 21:48:30] Gretel Oliveira Nicolau: 27/12 - Maternidade- Gretel saida 21:48( deslocada Analia)
+[28/12/2022 04:44:31] Pedro Augusto Tavares Dall Aglio: 28/12 - Osasco - Tavares - entrada 04:35
+[28/12/2022 05:34:05] Filipe Maeda Hashi Abdalla Martins: 27/12 Jabaquara maeda dispensado
+[28/12/2022 05:34:16] Filipe Maeda Hashi Abdalla Martins: 28/12 Jabaquara Maeda entrada 4:50
+[28/12/2022 05:50:47] Gustavo Marques Da silva: 28/12 - Analia Marques entrada 05:50
+[28/12/2022 05:53:46] Vitor Oliveira André: 28/12 Itaim Vitor entrada 06:00
+[28/12/2022 05:56:14] Norival Scandelai Junior: 28/12 Itaim - Norival Entrada 5:15
+[28/12/2022 06:11:25] Matheus Acquesta Gaubeur: 28/12 Villa - Matheus entrada 06:00
+[28/12/2022 06:16:18] Pedro Paulo Silva Farah: 28/12 Morumbi - Pedro entrada 5:30h
+[28/12/2022 06:22:49] Carlos Eduardo Corrêa Grilo: 28/12 Anália - Cadu chegada 06:00
+[28/12/2022 06:28:07] Yuri Lucas De Souza: 28/12 Osasco - Souza entrada 06:00
+[28/12/2022 06:44:07] Maria Carolina Célia Silveira: 28/12 OSASCO - M. Carolina entrada 05:20
+[28/12/2022 07:02:25] Luiz Guilherme Thomaz Zacharias: 28/12 ITAIM - Guilherme entrada 6:20
+[28/12/2022 07:23:03] Diogo Candeo Rodrigues Cordeiro: 28/12 Anália - Candeo dispensado
+[28/12/2022 07:23:35] Izabella Gontijo Cunha: 28/12 Itaim - Izabella dispensada
+[28/12/2022 07:26:05] Felipe de Oliveira Nunes: 28/12 Anália - Nunes entrada 5:40
+[28/12/2022 07:30:55] Nathalia Fanucci Oliveira Di Jorge: 28/12 MORUMBI Nathália Dispensada
+[28/12/2022 07:34:01] Fabio Yuji Suguita: 28/12 jabaquara yuji saída 07:30 (pós plantão)
+[28/12/2022 07:34:46] Fabio Yuji Suguita: 28/12 Santa Isabel yuji dispensado
+[28/12/2022 07:52:54] Antonio Álvaro Dias Lima da Cunha Neto: 28/12 AVICCENA - Álvaro entrada 06:20
+[28/12/2022 08:18:56] José Marcos Vieira da Silva: 28/12 - Itaim José Marcos saída 7:50
+[28/12/2022 08:22:45] Alexsander Takashi Hamada: 28/12    Jabaquara      Alexsander     entrada    6:00
+[28/12/2022 08:43:53] André da Costa Aguiar Ventura: 28/12 JABAQUARA Ventura entrada 6:00
+[28/12/2022 09:46:59] Filipe Maeda Hashi Abdalla Martins: 28/12 Jabaquara Maeda saida 9:40
+[28/12/2022 09:51:28] Luiz Guilherme Thomaz Zacharias: 28/12 ITAIM - Guilherme saída 9:50
+[28/12/2022 09:53:51] Thales Luvisotto Neder: 28/12 Itaim - Thales dispensado
+[28/12/2022 10:00:02] Emerson Domingos Da Costa: 27/12 JABA QUARA - Emerson Saída 11:45
+[28/12/2022 10:02:21] Rodrigo Achui Haga: 28/12 VILLA - haga dispensado
+[28/12/2022 10:06:57] Norival Scandelai Junior: 28/12 Itaim - Norival Saída 9:35
+[28/12/2022 10:24:52] André da Costa Aguiar Ventura: 28/12 JABAQUARA Ventura saida 10:20
+[28/12/2022 10:33:32] Sidney Orlando de Souza: 28/12-Itam-Sidney-entrada 05:50 e saida 10:30
+[28/12/2022 10:36:53] Matheus Acquesta Gaubeur: 28/12 Villa - Matheus saída 10:35

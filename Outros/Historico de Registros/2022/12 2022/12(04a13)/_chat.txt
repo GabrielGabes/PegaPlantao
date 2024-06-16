@@ -1,0 +1,807 @@
+[05/12/2022 11:23:25] Gustavo Marques Da silva: 05/12 Itaim - Marques saída 11:20
+[05/12/2022 11:27:47] Natan Soares Silveira: 05/12 Itaim - Natan - saída 11:10 (pós plantão / deslocado Anália)
+[05/12/2022 12:11:18] Bruno Stornioli Taguchi Lemos: 05/12 Jabaquara Bruno Lemos entrada 07:00 (extra)
+[05/12/2022 12:11:39] Bruno Stornioli Taguchi Lemos: 05/12 Jabaquara Bruno Lemos saída 12:00 (extra)
+[05/12/2022 13:34:20] Maurício Faria Tetti: 05/12 Anália Maurício entrada 6:00 (extra)
+[05/12/2022 13:35:26] Maurício Faria Tetti: 05/12 Anália Maurício saída 13:20 (extra)
+[05/12/2022 13:37:42] Ricardo Ivo de Lima: 05/12 - EXTRA - Morumbi - Ricardo Ivo Entrada - 06:00h
+[05/12/2022 13:37:42] Ricardo Ivo de Lima: 05/12 - EXTRA - Morumbi - Ricardo Ivo Saída - 13:30h
+[05/12/2022 13:42:28] Daniel Masuzaki Wong: 05/12 Jabaquara - Wong saída 13:40 (pós plantão)
+[05/12/2022 13:46:05] Luiz Guilherme Thomaz Zacharias: 05/12 VILLA - Guilherme entrada 7:00 (EXTRA)
+[05/12/2022 13:52:51] Hedicleber Pestana Severino: 05/12 Villa Hedicleber saída 13:45(extra)
+[05/12/2022 13:53:14] Luiz Guilherme Thomaz Zacharias: 05/12 VILLA - Guilherme saída 12:10 (EXTRA)
+[05/12/2022 13:55:18] Alexsander Takashi Hamada: 5/12  Analia   Alexsander    saída 13:45
+[05/12/2022 13:56:40] Ana Jung Docko: 05/12 Analia Ana saída 13:45
+[05/12/2022 13:59:26] Luccas Varela Godoy: 05/12 Osasco Luccas saída 13:55
+[05/12/2022 13:59:58] Pedro Ulysses Vieira De Matos: 05/12 Osasco Ulysses saída 13:55
+[05/12/2022 14:04:44] Juliano Moisés Tobal: 05/12 Jabaquara Juliano Tobal saída 14:00
+[05/12/2022 14:05:58] Diogo Candeo Rodrigues Cordeiro: 05/12 Anália - Candeo saída às 13:25 (EXTRA)
+[05/12/2022 14:10:58] Kaiê Fernandes: 05/12 Itaim Kaie saída 14:10
+[05/12/2022 14:15:29] Renata Pinheiro Modolo: 05/12 Jabaquara R. Modolo saída 14:10
+[05/12/2022 14:15:53] Sidney Orlando de Souza: 05/12-Itaim- Sidney - saida: 14:15
+[05/12/2022 14:17:33] Marcos Rogério Pereira Machado Filho: 05/12 Aviccena - Marcos entrada 6:00
+[05/12/2022 14:17:41] Marcos Rogério Pereira Machado Filho: 05/12 Aviccena - Marcos saída 14:15
+[05/12/2022 14:20:14] Rafael Tadeu Marques: 05/12 Jabaquara Rafael tadeu saída 14:10
+[05/12/2022 14:29:33] Paula Angélica Pinha Neves: 05/12 ANÁLIA  Paula Neves saída 14:00
+[05/12/2022 14:31:20] Ronald Figueiredo Gomes: 05/12 ANÁLIA - Ronald saída 14:00 (pós plantão)
+[05/12/2022 14:34:27] Yuri Anderson Pacheco de Lima: 05/12 Morumbi - Yuri entrada 07:00 (EXTRA)
+[05/12/2022 14:34:48] Yuri Anderson Pacheco de Lima: 05/12 Morumbi - Yuri saída 14:10 (EXTRA)
+[05/12/2022 14:47:26] Bruce Ye Man Chow: 05/12 Analia - bruce saida 14:45 (deslocado Morumbi)
+[05/12/2022 14:48:56] Vanessa Paciullo Marossi: 05/12 ANÁLIA Vanessa saída 14:45
+[05/12/2022 14:49:17] Jessica Lidia de Souza: 05/12 ANÁLIA Jessica  saída 14:45
+[05/12/2022 14:50:29] Eduardo Dala Rosa Soares: 05/12 Itaim - Soares saída 14:15
+[05/12/2022 14:52:34] Vivian Cristine dos Anjos e Silva: 05/12 ANÁLIA  Vivian saida 14:50
+[05/12/2022 14:53:54] Gabriel de Aguiar Santana: 05/12 Itaim - Gabriel saída 14:50
+[05/12/2022 14:58:41] Carlos Eduardo Corrêa Grilo: 05/12 Anália - Cadu saída 13:45h
+[05/12/2022 15:03:58] Ricardo Barbosa Viana Filho: 05/12 Osasco - Barbosa Saída 14:50
+[05/12/2022 15:04:07] Maira Leite Basile: 5/12 VNS - Maíra saída 15:00
+[05/12/2022 15:04:43] Luciano Angelo Richetti: 5/12 Itaim Luciano saída 14:50
+[05/12/2022 15:07:56] Caroline Firmino Lemes da Silva: 05/12 Osasco Lemes saída 13:30
+[05/12/2022 15:11:55] Elaine Imaeda de Moura: 05/12 Osasco Elaine saída 15:10
+[05/12/2022 15:14:02] Francisco Antonio Alves Bonatto: 05/12 ANÁLIA - Francisco saída 15:10
+[05/12/2022 15:23:38] Fábio Antônio de Souza Oliveira: 05/12 Itaim Fabio entrada 6hs
+[05/12/2022 15:27:11] Daniel Rodrigues de Oliveira: 05/12 Itaim Daniel entrada 7:00
+[05/12/2022 15:27:35] Daniel Rodrigues de Oliveira: 05/12 Itaim  saída 15:15
+[05/12/2022 15:35:13] Juliana Akemi Funabashi: 05/12 VILLA - Akemi saída 15:35
+[05/12/2022 15:39:29] Álvaro Lázaro Ráo Regonato: 05/12 Itaim Ráo saída 15:35
+[05/12/2022 15:40:53] Carlos Augusto Trevisan: 05/12 VILLA Carlos saída 15:35 (Deslocado ITAIM)
+[05/12/2022 15:42:24] Filipe Maeda Hashi Abdalla Martins: 05/12 Villa Maeda saída 15:35
+[05/12/2022 15:47:41] Milton Olaio Neto: 05/12-Itaim Olaio saída 14:35
+[05/12/2022 15:52:03] Yoko Hayashi: 05/12 Jabaquara Yoko entrada 5:50
+[05/12/2022 15:52:17] Yoko Hayashi: 05/12 Jabaquara Yoko saída 15:45
+[05/12/2022 15:52:25] Fernanda Teles Ribeiro: 05/12 Analia - Fernanda saída 15:50
+[05/12/2022 16:05:02] Stefany Hellen Sousa Martins: 05/12 santa isabel stefany saida 15:40h
+[05/12/2022 16:13:40] Matheus de Alencar Arraes: 05/12 JABAQUARA Arraes saida 16:13
+[05/12/2022 16:14:35] Rodrigo Antonio Rey Gonzalez: 05/12 SANTA ISABEL - Rey saida 15:50 (pós-plantão)
+[05/12/2022 16:19:19] Mirela Farias Figueiroa: 05/12 Jabaquara Mirela saída 16:15
+[05/12/2022 16:36:30] José Marcos Vieira da Silva: 5/12 - Itaim José Marcos entrada 6:00
+[05/12/2022 16:37:03] José Marcos Vieira da Silva: 5/12 - Itaim José Marcos saída 15:00
+[05/12/2022 16:43:34] Marcelo Felipe de Souza Buto: 5/12 Morumbi - Buto saída 16:40
+[05/12/2022 16:52:45] Renata Torres Bueno: 05/12 Villa - Renata Bueno saída 15:50
+[05/12/2022 16:54:08] Sabrina de Souza Ramos: 05/12 Morumbi Sabrina saída 16:50
+[05/12/2022 16:57:21] Eduardo Arbache Bezerra: 05/12 Itaim - Bezerra saida as 16:45
+[05/12/2022 17:11:46] Maria Cecília Domingues da Silva Soares: 05/12 VILLA - M. Cecília saída 17:10
+[05/12/2022 19:24:19] Camila Chiarantano Harrison: 05/12 Villa Camila Saida 19:20
+[05/12/2022 19:34:02] Henri Roger Watanabe Oliveira: 05/12 Morumbi - Henri Entrada: 05:30
+[05/12/2022 19:34:02] Henri Roger Watanabe Oliveira: 05/12 Morumbi - Henri Saida: 19:20
+[05/12/2022 19:47:53] Roberto Votto Melkan: 05/12 Morumbi Roberto saída ( EXTRA ) 19:40 rotina
+[05/12/2022 19:55:58] Beatriz Antipou dos Santos: 05/12- itaim- antipou-saída 19:50
+[05/12/2022 20:05:16] Avelino José da Silva Freitas Junior: 05/12 Anália - Avelino saída 19:55
+[05/12/2022 20:12:46] Fabiana Soares Gama: 05/12 Anália Fabiana Gama saída as 19:50
+[05/12/2022 20:16:40] Norival Scandelai Junior: 05/12 Morumbi - Norival Saída 20:10
+[05/12/2022 20:27:04] Cláudio Mueller Kakuda: 05/12 Maternidade - Kakuda saida 20:25
+[05/12/2022 20:32:24] Rogério Sidney Thon: 05/12 Morumbi Rogério saída 19:40h
+[05/12/2022 20:55:55] Marcelo Maia da Silveira: 05/12 VILLA  - Maia saída 20:45
+[05/12/2022 21:30:48] Thais Chaves Pinheiro: 05/12 Osasco - Thaís saída as 21:30
+[05/12/2022 21:35:52] Victor Sapountzakis Ribeiro: 05/12 Analia - Sapountzakis saída 21:00 (distância)
+[05/12/2022 21:52:38] Antonio Álvaro Dias Lima da Cunha Neto: 05/12 AVICCENA - Álvaro saída 17:10
+[05/12/2022 22:00:30] Gabriel Gondim Fonseca: 05/12 VNS - Gondim entrada 06:30
+[05/12/2022 22:01:15] Gabriel Gondim Fonseca: 05/12 Morumbi - Gondim saida  16:40 (deslocado VNS)
+[05/12/2022 22:40:49] Emerson Domingos Da Costa: 05/12 OSASCO Emerson entrada 06:00
+[05/12/2022 22:42:18] Emerson Domingos Da Costa: 05/12 OSASCO Emerson saída 15:00
+[05/12/2022 22:53:18] Ricardo Giraldelli Carvalho Lima: 05/12 ANALIA - Giraldelli saída 19:10
+[05/12/2022 23:34:49] Thais Miranda Ramos: 05/12 OSASCO - Miranda saída às 16h45
+[06/12/2022 00:14:51] Bianca Priscila Buniotti: 05/12 Osasco - Bianca saída 20:50
+[06/12/2022 04:13:32] André da Costa Aguiar Ventura: 05/12 MORUMBI Ventura entrada 4:20
+[06/12/2022 04:28:35] Rafael Tadeu Marques: 06/12 VNS Rafael tadeu entrada 04:20
+[06/12/2022 04:47:24] Thais Chaves Pinheiro: 06/12 Jabaquara - Thaís entrada as 04:40
+[06/12/2022 04:50:48] Eduardo Dala Rosa Soares: 06/12 Itaim - Soares entrada 04:45
+[06/12/2022 05:10:30] Débora Alves Aude: 06/12 Itaim Débora entrada 05:10
+[06/12/2022 05:12:26] Vivian Cristine dos Anjos e Silva: 06/12  VILLA  Vivian entrada 05:10
+[06/12/2022 05:24:47] Roberto Votto Melkan: 06/12 Morumbi Roberto entrada 5:20
+[06/12/2022 05:26:05] Wangles Pignaton de Paula: 05/12 MORUMBI - Wangles entrada 5:10
+[06/12/2022 05:27:02] Yuri Anderson Pacheco de Lima: 06/12 Morumbi - Yuri entrada 04:45
+[06/12/2022 05:31:19] Gabriel de Aguiar Santana: 06/12 Anália - Gabriel entrada 05:30
+[06/12/2022 05:49:42] Elaine Imaeda de Moura: 06/12 Anália Elaine entrada 05:50
+[06/12/2022 05:53:42] Rodrigo Miyashiro Nunes dos Santos: 06/12 JABAQUARA - Miyashiro entrada 06:00 (EXTRA)
+[06/12/2022 05:55:56] Ludmylla Gomes Neves: 06/12 Morumbi - Ludmylla entrada 05:40
+[06/12/2022 05:58:18] Diego da Cunha Tomaz: 06/12 Santa - Diego entrada 6:00
+[06/12/2022 05:59:45] Juliano Moisés Tobal: 06/12 Santa - Juliano Tobal entrada 06:00
+[06/12/2022 06:15:58] Vivianna Bovério Galzerani: 06/12 Itaim Vivianna entrada 06:15
+[06/12/2022 06:20:07] Antonio Álvaro Dias Lima da Cunha Neto: 06/12 AVICCENA - Álvaro entrada 06:20
+[06/12/2022 06:27:22] Marcelo Felipe de Souza Buto: 06/12 VNS - Buto entrada 6:30
+[06/12/2022 06:30:15] Matheus Viana Lemo: 06/12 Jabaquara Viana entrada 06:00 (extra)
+[06/12/2022 06:31:35] Gustavo Marques Da silva: 06/12 - VNS Marques entrada 06:30 (EXTRA)
+[06/12/2022 06:32:48] Bruno Stornioli Taguchi Lemos: 06/12 Jabaquara Bruno Lemos entrada 05:40
+[06/12/2022 06:35:11] Ronald Figueiredo Gomes: 06/12 VILLA - Ronald Entrada 06:00 (EXTRA)
+[06/12/2022 07:00:51] Livia Schenkel Thurler Trairi: 06/12 OSASCO - Livia entrada 5:40
+[06/12/2022 07:05:43] Caroline Firmino Lemes da Silva: 06/12 Osasco Lemes entrada 05:45
+[06/12/2022 07:09:23] Diogo Candeo Rodrigues Cordeiro: 06/12 Anália - Candeo entrada às 06:00 (EXTRA)
+[06/12/2022 07:49:17] Jessica Lidia de Souza: 06/12 AVICCENA - Jessica entrada 06:30
+[06/12/2022 08:45:46] Maria Cecília Domingues da Silva Soares: 06/12 VILLA - M. Cecília entrada 9:00 (EXTRA)
+[06/12/2022 08:58:09] Maurício Faria Tetti: 06/12 Analia - Maurício entrada 6:00
+[06/12/2022 09:09:04] Rogério Sidney Thon: 06/12 Itaim Rogério entrada 6:00h
+[06/12/2022 09:17:47] Carlos Eduardo Gondim Oliveira: 06/12 ITAIM - Oliveira saída 09:15 (EXTRA)
+[06/12/2022 09:24:52] Fabiana Barbosa Bastos: 06/12 Morumbi - Fabiana entrada 05:20
+[06/12/2022 09:26:23] Norival Scandelai Junior: 06/12 Morumbi - Norival Entrada 5:20
+[06/12/2022 09:48:03] Fernando Akira Koga: 06/12 Itaim - Koga saída 09:45
+[06/12/2022 09:58:43] Luciano Angelo Richetti: 06/12 Osasco Luciano entrada 6:00
+[06/12/2022 11:36:32] Luiz Augusto Xavier Brandão: 06/12 villa  luiz Augusto entrada as 11:00 (cirurgia a pedido)
+[06/12/2022 13:53:22] Leandro Kendi Kanada: 06/12 Villa Leandro kanada saida 13:50( EXTRA)
+[06/12/2022 13:58:27] Ronald Figueiredo Gomes: 06/12 VILLA - Ronald saida 13:50 (EXTRA)
+[06/12/2022 14:25:57] Juliana Akemi Funabashi: 06/12 ANÁLIA - Akemi saída 14:15 (EXTRA)
+[06/12/2022 15:06:19] Sheila Itiroco Monte: 06/12 ITAIM Sheila entrada 06:00
+[06/12/2022 15:11:33] Carlos Eduardo Corrêa Grilo: 06/12 Anália - Cadu saída às 15:10
+[06/12/2022 15:23:57] Matheus Viana Lemo: 06/12 Jabaquara Viana saída 15:23 (extra)
+[06/12/2022 15:35:59] Pedro Paulo Silva Farah: 06/12 Morumbi Pedro saída 11:40h EXTRA
+[06/12/2022 15:40:57] Rodrigo Miyashiro Nunes dos Santos: 06/12 JABAQUARA - Miyashiro saida 15:40 (EXTRA)
+[06/12/2022 15:41:46] Thales Luvisotto Neder: 06/12 Jabaquara - Thales saída 15:40
+[06/12/2022 15:52:56] Ana Jung Docko: 06/12 Analia Ana saída 15:50
+[06/12/2022 15:53:55] Débora Alves Aude: 06/12 Itaim Débora saída 15:45
+[06/12/2022 15:54:09] Gabriel de Aguiar Santana: 06/12 Anália - Gabriel saída 15:50
+[06/12/2022 16:04:04] Eduardo Dala Rosa Soares: 06/12 Itaim - Soares saída 15:55
+[06/12/2022 16:05:06] Thais Chaves Pinheiro: 06/12 Jabaquara - Thaís saída as 16:05
+[06/12/2022 16:06:29] Felipe de Oliveira Nunes: 06/12 Osasco - Nunes saída as 16:00 (pós plantão deslocado do Aviccena )
+[06/12/2022 16:17:00] Diogo Candeo Rodrigues Cordeiro: 06/12 Anália - Candeo saída às 14:15 (EXTRA)
+[06/12/2022 16:17:40] Renata Torres Bueno: 06/12 Analia - Renata Bueno entrada 05:40 
+[06/12/2022 16:17:40] Renata Torres Bueno: 06/12 Analia - Renata Buenosaída 16:10
+[06/12/2022 16:40:13] Elaine Imaeda de Moura: 06/12 Anália Elaine saída 16:40
+[06/12/2022 16:52:16] Juliano Moisés Tobal: 06/12 Santa Juliano Tobal saída 16h50
+[06/12/2022 16:53:02] Vitor Oliveira André: 06/12 Santa Vitor saída 16:42 (deslocado VNS)
+[06/12/2022 16:57:59] Saullo Queiroz Silveira: 06/12 Jabaquara Saullo entrada 06:00
+[06/12/2022 16:58:17] Saullo Queiroz Silveira: 06/12 Jabaquara Saullo saída 16:50
+[06/12/2022 17:02:37] Maurício Faria Tetti: 06/12 Analia Maurício saída 17:00
+[06/12/2022 17:08:46] Alberto de Azevedo Alves Moreira: 06/12 Jabaquara - Alberto entrada 6:40
+[06/12/2022 17:10:11] Alberto de Azevedo Alves Moreira: 06/12 Jabaquara - Alberto saída 17:10
+[06/12/2022 17:10:30] Filipe Maeda Hashi Abdalla Martins: 06/12 Jabaquara Maeda saída 17:10
+[06/12/2022 17:11:25] Rogério Sidney Thon: 06/12 Itaim Rogério saída 17:00h
+[06/12/2022 17:24:50] Vivianna Bovério Galzerani: 06/12 Itaim Vivianna saída 17:20
+[06/12/2022 17:27:15] Gustavo Marques Da silva: 06/12 VNS Marques saída 16:40 (EXTRA)
+[06/12/2022 17:57:50] Maria Cecília Domingues da Silva Soares: 06/12 VILLA - M. Cecília saída 17:55 (EXTRA)
+[06/12/2022 18:04:15] Anna Beatriz Aranha Trevisan: 06/12 MORUMBI - Anna Beatriz entrada 06:00
+[06/12/2022 18:04:34] Anna Beatriz Aranha Trevisan: 06/12 MORUMBI - Anna Beatriz saída 17:40
+[06/12/2022 18:05:08] Ricardo Ivo de Lima: 06/12 - EXTRA - Morumbi - Ricardo Ivo Entrada - 06:00h
+[06/12/2022 18:05:08] Ricardo Ivo de Lima: 06/12 - EXTRA - Morumbi - Ricardo Ivo Saída - 18:00h
+[06/12/2022 19:14:11] João Theodoro de Medeiros Neto: 06/12 Villa - João saída 19:10
+[06/12/2022 19:15:00] Vivian Cristine dos Anjos e Silva: 06/12 VILLA Vivian saida 19:10
+[06/12/2022 19:23:32] Filipe Lugon Moulin Lima: 06/12 JABAQUARA - Filipe Lugon saída 19:10
+[06/12/2022 19:35:56] Norival Scandelai Junior: 06/12 Morumbi - Norival Saída 19:10
+[06/12/2022 19:36:25] Mirela Farias Figueiroa: 06/12 - Osasco - Mirela saída 19:30  (Luciano assume o distância)
+[06/12/2022 19:53:39] Mariana Gasparelli de Souza: 06/12 Morumbi - Mariana Gasparelli saída 15:00 EXTRA
+[06/12/2022 19:54:06] Thais Miranda Ramos: 06/12 VILLA - Miranda saída às 19h50
+[06/12/2022 19:56:47] Leticia Fernandes Borges: 06/12 VILLA - Letícia saída 19:55
+[06/12/2022 20:00:13] Sidney Orlando de Souza: 06/12-Itaim-Sidney-saida as 20:00
+[06/12/2022 20:11:45] Aline Franchini Goulart Lima: 06/12 ANÁLIA Aline saída 20:10
+[06/12/2022 20:19:48] José Marcos Vieira da Silva: 6/12 - Itaim José Marcos saída 19:40
+[06/12/2022 20:20:32] Natan Soares Silveira: 06/12 - Aviccena- Natan - saída 20:10
+[06/12/2022 20:20:50] Hedicleber Pestana Severino: 06/12 Villa Hedicleber saída 20:15
+[06/12/2022 20:26:12] Wangles Pignaton de Paula: 06/12 MORUMBI - Wangles saída 19:40
+[06/12/2022 20:32:44] Débora Philippi Bressane: 06/12 Anália Débora Bressane entrada 06:00
+[06/12/2022 20:41:39] Juliana Hussein Grilo: 06/12 VILLA - J. Hussein saída 18:15 (EXTRA)
+[06/12/2022 20:42:29] Camila Chiarantano Harrison: 06/12 Villa Camila Saida 20:20
+[06/12/2022 20:46:14] Alessandre Luiz Braga Junior: 06/12 Osasco - Alessandre- Entrada 06:00h
+[06/12/2022 20:46:56] Alessandre Luiz Braga Junior: 06/12 Osasco - Alessandre- Saída 19:20
+[06/12/2022 20:48:40] Marcio Ighor Azevedo Silva De Mendonça Melania: 06/12 - Analia Ighor saída 20:45
+[06/12/2022 21:11:09] Fabiana Barbosa Bastos: 06/12 Morumbi - Fabiana saída 21:10
+[06/12/2022 21:15:04] Luccas Varela Godoy: 06/12 Osasco Luccas saída 20:40
+[06/12/2022 21:18:26] Matheus de Alencar Arraes: 06/12 ITAIM Arraes saida 21:18
+[06/12/2022 21:19:02] Emerson Domingos Da Costa: 06/12 OSASCO Emerson - entrada 06:00
+[06/12/2022 21:19:23] Emerson Domingos Da Costa: 06/12 OSASCO Emerson - Saída 19:45
+[06/12/2022 21:24:19] Romulo Spolidorio: 06/12 Osasco- Rômulo-saída 20h35
+[06/12/2022 21:32:35] Mariana Dardengo Borges: 06/12 MORUMBI - M. Dardengo saída 21:15
+[06/12/2022 22:04:57] Kaiê Fernandes: 06/12 Itaim Kaie saída 19:50
+[06/12/2022 22:18:46] Rodrigo Achui Haga: 06/12 OSASCO - haga saida 21:40
+[06/12/2022 22:19:19] Gretel Oliveira Nicolau: 06/12 Analia Gretel saida 22:15
+[06/12/2022 22:35:33] Daniel Rodrigues de Oliveira: 06/12 Itaim Daniel entrada 13:00 (distância)
+[06/12/2022 22:36:22] Fabiana Soares Gama: 06/12 Anália Fabiana Gama saída as 22:30
+[06/12/2022 22:42:16] Thiago Barreto Marques Da Silva: 06/12 Villa Naldo saída 20:20
+[07/12/2022 00:21:30] Marcelo Felipe de Souza Buto: 06/12 VNS - Buto saída 00:20
+[07/12/2022 01:46:51] Maiely Marcolin: 06/12 VNS - Maiely saida 01:42
+[07/12/2022 04:26:36] Hedicleber Pestana Severino: 07/12 Morumbi Hedicleber entrada 04:20
+[07/12/2022 04:36:48] Amanda Kiyoko Souza Kossaka: 07/12 MORUMBI - Amanda entrada 04:20
+[07/12/2022 04:46:28] Bruno Ferraz de Campos Barone: 07/12 VNS Barone entrada 04:20
+[07/12/2022 04:53:35] Débora Philippi Bressane: 07/12 Jabaquara Débora Bressane entrada 04:50
+[07/12/2022 05:30:04] Filipe Lugon Moulin Lima: 07/12 JABAQUARA - Filipe Lugon entrada 05:20
+[07/12/2022 05:34:46] Rodrigo Achui Haga: 07/12 VILLA - haga entrada 05:30
+[07/12/2022 05:38:53] Ivã Barbosa Soares: 07/12  Osasco Ivã entrada 05:30
+[07/12/2022 05:41:50] Thais Chaves Pinheiro: 07/12 Jabaquara - Thaís entrada as 05:40
+[07/12/2022 05:49:13] Vitor Oliveira André: 07/12 Itaim Vitor entrada 06:00
+[07/12/2022 05:52:03] Vivian Cristine dos Anjos e Silva: 07/12 ANÁLIA Vivian entrada 06:00
+[07/12/2022 05:52:54] Roberto Votto Melkan: 07/12 Osasco Roberto entrada 5:20
+[07/12/2022 06:01:07] Fernando Akira Koga: 07/12 Morumbi - Koga entrada 06:00
+[07/12/2022 06:01:56] Maiely Marcolin: 07/12 Osasco - Maiely entrada 06:00
+[07/12/2022 06:04:10] Filipe Maeda Hashi Abdalla Martins: 07/12 Jabaquara Maeda entrada 6:00
+[07/12/2022 06:04:16] Elaine Imaeda de Moura: 07/12 Anália Elaine entrada 06:00
+[07/12/2022 06:05:18] Thais Miranda Ramos: 07/12 JABAQUARA - Miranda entrada às 06h00
+[07/12/2022 06:05:49] Maurício Faria Tetti: 7/12 Villa - Maurício entrada 5:40
+[07/12/2022 06:09:52] Rodrigo Antonio Rey Gonzalez: 07/12 VILLA - Rey entrada 06:00
+[07/12/2022 06:20:53] Marcos Rogério Pereira Machado Filho: 07/12 Santa - Marcos entrada 6:00
+[07/12/2022 06:21:40] Gabriel de Aguiar Santana: 07/12 Osasco - Gabriel entrada 5:15 (deslocado Itaim)
+[07/12/2022 06:25:56] Paula Lopes Agapito de Freitas: 07/12 - Anália - Paula A - entrada - 05:45
+[07/12/2022 06:41:29] Mariana Oliveira De Toledo: 07/12 - OSASCO - toledo entrada 6:00
+[07/12/2022 07:14:56] Caroline Firmino Lemes da Silva: 07/12 Osasco Lemes entrada 05:40
+[07/12/2022 07:44:20] Luiz Guilherme Thomaz Zacharias: 07/12 ANÁLIA - Guilherme entrada 5:30 (deslocamento Itaim)
+[07/12/2022 07:59:44] Matheus de Alencar Arraes: 07/12 SANTA ISABEL Arraes entrada 07:00 (EXTRA)
+[07/12/2022 08:00:27] Thales Luvisotto Neder: 07/12 Jabaquara - Thales entrada 07:00 (EXTRA)
+[07/12/2022 08:09:56] Diogo Candeo Rodrigues Cordeiro: 07/12 Anália - Candeo entrada às 06:00 (EXTRA)
+[07/12/2022 08:17:11] Rogério Sidney Thon: 07/12 Morumbi Rogério entrada 6:00h
+[07/12/2022 13:04:36] Stefany Hellen Sousa Martins: 07/12 stefany itaim entrada 06:00h
+[07/12/2022 13:05:34] Carlos Eduardo Gondim Oliveira: 07/12 MORUMBI - Oliveira saída 13:00 (EXTRA)
+[07/12/2022 13:09:58] Fábio Antônio de Souza Oliveira: 07/12 Itaim Fabio saída 13hs (Extra)
+[07/12/2022 13:28:40] Mariana Gasparelli de Souza: 07/12 Morumbi Mariana Gasparelli entrada 05:20
+[07/12/2022 13:41:03] Pedro Tiago Bonfitto: 07/12 VILLA Bonfitto saída 13:40 (EXTRA)
+[07/12/2022 13:41:05] Kaiê Fernandes: 07/12 Osasco Kaie saída 13:40 (EXTRA)
+[07/12/2022 14:01:31] Thales Luvisotto Neder: 07/12 Jabaquara - Thales saída 14:00 (EXTRA)
+[07/12/2022 14:09:25] Juliana Akemi Funabashi: 07/12 ANÁLIA - Akemi saída 14:10 (EXTRA)
+[07/12/2022 14:12:47] Felipe Coelho De Souza: 07/12 Itaim - Coelho entrada 6:00 (extra)
+[07/12/2022 14:13:12] Felipe Coelho De Souza: 07/12 Itaim - Coelho saída 13:40 (extra)
+[07/12/2022 14:49:33] Diogo Candeo Rodrigues Cordeiro: 07/13 Anália - Candeo saída às 14:45 (EXTRA)
+[07/12/2022 15:24:49] Matheus de Alencar Arraes: 07/13 SANTA ISABEL Arraes saida 15:10 (EXTRA)
+[07/12/2022 16:36:05] Bruce Ye Man Chow: 07/12 Jabaquara - bruce saida 16:10 (deslocado Morumbi)
+[07/12/2022 16:56:29] Thais Chaves Pinheiro: 07/12 Jabaquara- Thaís saída as 16:55
+[07/12/2022 17:02:32] Fabiana Barbosa Bastos: 07/12 VNS - Fabiana saida 17:00
+[07/12/2022 17:08:38] Rafael Tadeu Marques: 07/12 VNS Rafael tadeu entrada 7:00 ( EXTRA)
+[07/12/2022 17:09:09] Hedicleber Pestana Severino: 07/12 Morumbi Hedicleber saída 16:30
+[07/12/2022 17:09:27] Rafael Tadeu Marques: 07/12 VNS Rafael tadeu saída 17:00 ( EXTRA) assumo rotina até 19:00
+[07/12/2022 17:16:07] Débora Philippi Bressane: 07/12 Jabaquara Débora Bressane saída 16:20
+[07/12/2022 17:18:47] Antonio Álvaro Dias Lima da Cunha Neto: 07/12 AVICCENA - Álvaro entrada 06:20
+[07/12/2022 17:18:54] Filipe Lugon Moulin Lima: 07/12 JABAQUARA - Filipe Lugon saída 17:00
+[07/12/2022 17:19:25] Antonio Álvaro Dias Lima da Cunha Neto: 07/12 AVICCENA - Álvaro saída 17:10
+[07/12/2022 18:01:10] Amanda Kiyoko Souza Kossaka: 07/12 MORUMBI - Amanda saída 16:30
+[07/12/2022 18:06:40] Ana Jung Docko: 07/12 Analia Ana saída 18:05
+[07/12/2022 18:15:55] Fernando Ribeiro Sá: 07/12 Anália Ribeiro saída 18:15 (deslocamento VNS)
+[07/12/2022 18:19:36] Fabiana Soares Gama: 07/12 Anália Fabiana Gama saída as 18:10
+[07/12/2022 18:30:53] Sheila Itiroco Monte: 07/12 VILLA Sheila entrada 06:40
+[07/12/2022 18:52:28] Luiz Guilherme Thomaz Zacharias: 07/12 ANÁLIA - Guilherme saída 18:50 (deslocamento Itaim)
+[07/12/2022 19:00:07] João Theodoro de Medeiros Neto: 07/12 Anália - João entrada 05:30 (deslocado Villa)
+[07/12/2022 19:13:06] Carlos Augusto Trevisan: 07/12 ITAIM - Carlos saída 19:10
+[07/12/2022 19:16:06] Maiely Marcolin: 07/12 Osasco - Maiely saida 15:00
+[07/12/2022 19:20:05] Anna Beatriz Lima Do Valle Astur: 07/12 Santa Isabel - Astur saida 19:15
+[07/12/2022 19:22:25] Matheus Acquesta Gaubeur: 07/12 Villa Matheus saída 19:20
+[07/12/2022 19:26:24] Luiz Augusto Xavier Brandão: 07/12 Osasco Luiz Augusto saída 19:25 hs
+[07/12/2022 19:26:35] Carlos Eduardo Gondim Oliveira: 07/12 ITAIM - Oliveira entrada 19:00 (assumo o plantão)
+[07/12/2022 19:28:04] Jessica Lidia de Souza: 07/12 ITAIM - jessica entrada 07:00 (plantão)
+[07/12/2022 19:28:20] Jessica Lidia de Souza: 07/12 ITAIM - jessica saída 19:00 (Fábio assume plantão)
+[07/12/2022 19:40:50] Roberto Votto Melkan: 07/12 Osasco  Roberto saída 19:40
+[07/12/2022 19:41:23] Izabella Gontijo Cunha: 07/12 ITAIM - Izabella saída 19:40
+[07/12/2022 19:44:33] Elaine Imaeda de Moura: 07/12 Anália Elaine saída 19:40
+[07/12/2022 19:51:24] Mariana Gasparelli de Souza: 07/12 Morumbi Mariana Gasparelli saída 19:40
+[07/12/2022 20:10:19] Manoel de Souza Neto: 07/12 VNS Manoel saída 20:10
+[07/12/2022 20:11:05] Yuri Anderson Pacheco de Lima: 07/12 Itaim - Yuri saída 20:10
+[07/12/2022 20:18:10] Gustavo Marques Da silva: 07/12 Analia - Marques saída 19:40
+[07/12/2022 20:19:52] Diego da Cunha Tomaz: 07/12 Santa - Diego saida 20:15
+[07/12/2022 20:20:37] Thiago Barreto Marques Da Silva: 07/12 Analia - Naldo saída 19:45
+[07/12/2022 20:23:10] Caroline Firmino Lemes da Silva: 07/12 Osasco Lemes saída 19:10
+[07/12/2022 20:25:42] José Marcos Vieira da Silva: 7/12 - Itaim José Marcos saída 19:40
+[07/12/2022 20:26:27] André Luis Xavier Franco: 07/12 Villa Xavier saida 20:00
+[07/12/2022 20:28:13] Vivian Cristine dos Anjos e Silva: 07/12 ANÁLIA Vivian saida 19:40
+[07/12/2022 20:33:21] Neliane Guedes Pretti: 07/12 Anália Neliane saída 20:30
+[07/12/2022 20:33:27] Mariana Oliveira De Toledo: 07/12 OSASCO -  toledo saída 19:50
+[07/12/2022 20:33:51] Ivã Barbosa Soares: 07/12 Osasco Ivã Saída 19:20
+[07/12/2022 20:40:51] Wangles Pignaton de Paula: 07/12 MORUMBI - Wangles saída 20:40
+[07/12/2022 20:42:39] Vanessa Paciullo Marossi: 07/12 VILLA Vanessa saída 20:40
+[07/12/2022 20:42:41] Daniel Masuzaki Wong: 07/12 Osasco - Wong saída 20:40
+[07/12/2022 20:45:34] Paula Lopes Agapito de Freitas: 07/12 - Anália - Paula A - saída - 19:40
+[07/12/2022 20:48:15] Ricardo Barbosa Viana Filho: 07/12 Villa - Barbosa Saída 20:00
+[07/12/2022 20:49:06] Erick Oliveira Lima Gomes: 07/12 Analia - Erick saída 20:30
+[07/12/2022 20:49:28] André da Costa Aguiar Ventura: 07/12 JABAQUARA Ventura saida 20:45
+[07/12/2022 20:49:51] Livia Schenkel Thurler Trairi: 07/12 AVICCENA - Livia saída 20:10
+[07/12/2022 20:53:35] Luccas Varela Godoy: 07/12 Osasco Luccas saída 20:45
+[07/12/2022 20:55:18] Vivianna Bovério Galzerani: 07/12 Morumbi Vivianna saída 20:40
+[07/12/2022 21:09:48] Alexsander Takashi Hamada: 7/12 Analia   Alexsander   saída 20:30
+[07/12/2022 21:12:23] Eduardo Dala Rosa Soares: 07/12 VNS - Soares saída 21:10
+[07/12/2022 21:18:22] Felipe de Oliveira Nunes: 07/12 Anália Nunes saída 20:30
+[07/12/2022 21:24:03] Álvaro Lázaro Ráo Regonato: 07/12 Jabaquara Ráo saída 21:23
+[07/12/2022 21:32:15] Carlos Eduardo Corrêa Grilo: 07/12 Analia - Cadu saída 19:45
+[07/12/2022 21:34:26] Norival Scandelai Junior: 07/12 Itaim - Norival Saída 21:15
+[07/12/2022 21:48:48] Francisco Antonio Alves Bonatto: 07/12 VILLA - Francisco saída 21:45
+[07/12/2022 21:59:10] Matheus Viana Lemo: 07/12 Jabaquara Viana saída 21:55
+[07/12/2022 22:00:03] Rogério Sidney Thon: 07/12 Morumbi Rogério saída 19:10h
+[07/12/2022 22:03:46] Emerson Domingos Da Costa: 07/12 OSASCO Emerson - saída 20:00
+[07/12/2022 22:10:59] Milton Olaio Neto: 07/12-Itaim Olaio saída 22h10
+[07/12/2022 22:11:22] Sergio Zamith: 07/12 Itaim Zamith Saída 22:10 hs.
+[07/12/2022 22:14:35] Sidney Orlando de Souza: 07/12-Itaim -Sidney- saida: 22:14
+[07/12/2022 22:35:15] Pedro Ulysses Vieira De Matos: 07/12 Osasco Ulysses saída 21:35
+[07/12/2022 22:40:37] Mariana Dardengo Borges: 07/12 JABAQUARA - M. Dardengo saída 22:40
+[07/12/2022 22:46:12] Bianca Priscila Buniotti: 06/12 Osasco - Bianca entrada 05:40
+[07/12/2022 22:46:27] Bianca Priscila Buniotti: 06/12 Osasco - Bianca saída 19:10
+[07/12/2022 23:02:38] Pedro Paulo Silva Farah: 07/12 Morumbi Pedro saida 20:00h
+[08/12/2022 00:14:37] Rodrigo Andrade Carmello: 07/12 Jabaquara - Carmello saída 00:10
+[08/12/2022 04:31:57] Saullo Queiroz Silveira: 08/12 VNS Saullo Entrada 04:30
+[08/12/2022 05:02:28] Paula Angélica Pinha Neves: 08/12 ANÁLIA Paula Neves entrada 5:00
+[08/12/2022 05:04:27] André Luis Xavier Franco: 08/12 Jabaquara Xavier entrada 04:50
+[08/12/2022 05:22:55] Vitor Oliveira André: 08/12 Villa Vitor entrada 05:20 (EXTRA)
+[08/12/2022 05:25:51] Fernando Ribeiro Sá: 08/12 Anália Ribeiro entrada 05:20
+[08/12/2022 05:29:35] Norival Scandelai Junior: 08/12 Itaim - Norival Entrada 5:00 EXTRA
+[08/12/2022 05:30:50] Paula Lopes Agapito de Freitas: 08/12 - Anália - Paula A - entrada - 05:30
+[08/12/2022 05:32:57] Marcos Rogério Pereira Machado Filho: 08/12 Villa - Marcos entrada 5:30 (EXTRA)
+[08/12/2022 05:40:42] Diego da Cunha Tomaz: 08/12 Santa - Diego entrada 5:30
+[08/12/2022 05:48:17] Rafael Tadeu Marques: 08/12 Itaim Rafael tadeu entrada: 05:20
+[08/12/2022 05:50:27] Mariana Oliveira De Toledo: 08/12 - ITAIM - toledo entrada 5:30
+[08/12/2022 06:00:08] Izabella Gontijo Cunha: 08/12 OSASCO - Izabella entrada 05:45 (deslocada aviccenna)
+[08/12/2022 06:00:11] Pedro Tiago Bonfitto: 08/12 ANÁLIA Bonfitto entrada 05:20
+[08/12/2022 06:01:16] Bruna Daibert Danesin: 08/12 Analia Bruna entrada 05:30
+[08/12/2022 06:02:09] Fabio Yuji Suguita: 08/12 villa yuji entrada 06:00
+[08/12/2022 06:02:47] Thiago Silva Pinto: 08/12 Santa - T. Silva - Entrada 06:00hrs
+[08/12/2022 06:02:56] Diogo Henrique Pereira Mattos: 08/12 ANÁLIA - Diogo entrada 06:00
+[08/12/2022 06:04:47] Carlos Eduardo Corrêa Grilo: 08/12 ANÁLIA - Cadu entrada 06:00
+[08/12/2022 06:19:25] Bruce Ye Man Chow: 08/12 Itaim - bruce entrada 06:00 (EXTRA)
+[08/12/2022 06:23:07] Vivianna Bovério Galzerani: 08/12 Morumbi Vivianna entrada 05:40
+[08/12/2022 06:23:46] Karen Yumi Miyashiro: 08/12 Osasco - Yumi entrada 06:20
+[08/12/2022 06:27:46] Livia Schenkel Thurler Trairi: 08/12 OSASCO - Livia entrada 6:00 (EXTRA)
+[08/12/2022 06:30:06] Fernando Akira Koga: 08/12 VNS - Koga entrada 06:30
+[08/12/2022 06:50:58] Diogo Candeo Rodrigues Cordeiro: 08/12 Anália - Candeo entrada às 06:00 (EXTRA)
+[08/12/2022 06:52:26] José Carlos Tuna Scarpa: 08/12 Jabaquara José Carlos Entrada 06:00
+[08/12/2022 06:56:34] Flavio Hideki Oshika: 08/12 ANÁLIA - Flávio entrada 05:45
+[08/12/2022 06:56:59] Andreia Loureiro Mori: 08/12 ITAIM Andréia Mori entrada 7:00 (EXTRA)
+[08/12/2022 07:00:19] Kaiê Fernandes: 08/12 Itaim Kaie entrada 6:50
+[08/12/2022 07:05:47] Sabrina de Souza Ramos: 08/12 Jabaquara Sabrina entrada 06:00
+[08/12/2022 07:15:16] Pedro Paulo Silva Farah: 08/12 Morumbi Pedro entrada 6:00h
+[08/12/2022 07:27:56] Ricardo Giraldelli Carvalho Lima: 08/12 JABAQUARA - Giraldelli entrada 06:00 (deslocado MB dia anterior)
+[08/12/2022 07:41:57] Andre Mortari Plá Gil: 07/12 Itaim André saída 13:15h
+[08/12/2022 07:42:26] Andre Mortari Plá Gil: 08/12 Itaim André entrada 6:00h
+[08/12/2022 07:44:36] Hedicleber Pestana Severino: 08/12 Villa Hedicleber entrada 06:00(extra)
+[08/12/2022 07:55:08] Filipe Maeda Hashi Abdalla Martins: 08/12 Jabaquara Maeda entrada 6:00
+[08/12/2022 08:39:27] Gabriel Gondim Fonseca: 08/12 Morumbi - Gondim entrada 6:00h
+[08/12/2022 09:07:59] Matheus de Alencar Arraes: 08/12 SANTA ISABEL Arraes entrada 07h (EXTRA)
+[08/12/2022 10:13:12] Eduardo Arbache Bezerra: 08/12 Santa Isabel - Bezerra saida as 10:10 (extra)
+[08/12/2022 10:15:50] Fábio Antônio de Souza Oliveira: 08/12 Itaim Fabio Saída 10:15 ( Extra)
+[08/12/2022 11:07:55] Gustavo Marques Da silva: 08/12 Itaim - Marques saída 10:55 (EXTRA)
+[08/12/2022 11:10:29] Norival Scandelai Junior: 08/12 Itaim - Norival Saída 10:55   EXTRA
+[08/12/2022 11:36:22] Bruce Ye Man Chow: 08/12 Itaim - bruce saida 11:10 (EXTRA)
+[08/12/2022 11:47:22] José Marcos Vieira da Silva: 8/12 - Itaim José Marcos entrada 6:00
+[08/12/2022 11:47:55] Maira Leite Basile: 8/12 Morumbi- Maíra saída 11:47 (extra)
+[08/12/2022 12:27:37] Yuri Lucas De Souza: 08/12 Aviccena - Souza saída 12:27 (EXTRA)
+[08/12/2022 13:02:34] Marcos Rogério Pereira Machado Filho: 08/12 Villa - Marcos saída 13:00 (EXTRA)
+[08/12/2022 13:23:59] Sheila Itiroco Monte: 08/12 ITAIM Sheila entrada 06:00
+[08/12/2022 13:40:29] Renata Pinheiro Modolo: 08/12 Itaim R. Modolo entrada 6:00
+[08/12/2022 14:30:02] Vitor Oliveira André: 08/12 Villa Vitor saída 14:30 (EXTRA)
+[08/12/2022 14:33:19] Diogo Candeo Rodrigues Cordeiro: 08/13 Anália - Candeo saída às 13:30 (EXTRA)
+[08/12/2022 14:39:19] Stefany Hellen Sousa Martins: 07/12 Itaim stefany saida 19:15
+[08/12/2022 14:59:33] Livia Schenkel Thurler Trairi: 08/12 OSASCO - Livia saída 14:50 (EXTRA)
+[08/12/2022 15:28:13] Andreia Loureiro Mori: 08/12 ITAIM Andréia Mori saída  15:20 (EXTRA)
+[08/12/2022 16:26:19] Mariana Oliveira De Toledo: 08/12 ITAIM - toledo saída 16:20
+[08/12/2022 16:42:51] Rodrigo Andrade Carmello: 08/12 Jabaquara - Carmello saída 16:20
+[08/12/2022 16:43:00] Hedicleber Pestana Severino: 08/12 Villa Hedicleber saída 16:30(extra)
+[08/12/2022 16:50:54] Eduardo Dala Rosa Soares: 08/12 Morumbi - Soares entrada 05:40 ( EXTRA )
+[08/12/2022 16:51:14] Eduardo Dala Rosa Soares: 08/12 Morumbi - Soares saída 16:50 ( EXTRA )
+[08/12/2022 16:53:41] Carlos Eduardo Corrêa Grilo: 08/12 ANÁLIA - Cadu saída às 16:50
+[08/12/2022 16:55:19] Matheus de Alencar Arraes: 08/12 SANTA ISABEL Arraes saida 15:45 (EXTRA)
+[08/12/2022 16:57:36] José Marcos Vieira da Silva: 8/12 - Itaim José Marcos saída 16:40
+[08/12/2022 17:11:15] Turibio Rodrigues Freire Neto: 08/12 Osasco Turíbio EXTRA Entrada 07:00
+[08/12/2022 17:11:15] Turibio Rodrigues Freire Neto: 08/12 Osasco Turíbio EXTRA Saída 17:10
+[08/12/2022 17:12:52] Rodrigo Miyashiro Nunes dos Santos: 08/12 - JABAQUARA - Miyashiro saida 17:10 (deslocamento MORUMBI)
+[08/12/2022 17:14:09] Alexandre Bernardino: 08/12 - Aviccena- Alexandre - entrada 06:30
+[08/12/2022 17:14:26] Alexandre Bernardino: 08/12 - Aviccena- Alexandre - saída 17:00
+[08/12/2022 17:15:59] Carlos Eduardo Gondim Oliveira: 08/12 VNS - Oliveira saída 17:15 (EXTRA)
+[08/12/2022 17:16:01] André Luis Xavier Franco: 08/12 Jabaquara Xavier saida 17:10 (deslocado do VNS)
+[08/12/2022 17:34:20] Juliana Hussein Grilo: 08/12 ANÁLIA - J. Hussein saída 16:00 (EXTRA)
+[08/12/2022 17:44:51] Ivã Barbosa Soares: 08/12 Osasco Ivã entrada 06:00
+[08/12/2022 18:11:00] Ricardo Ivo de Lima: 08/12 - EXTRA - Morumbi - Ricardo Ivo Entrada - 6:00h
+[08/12/2022 18:11:00] Ricardo Ivo de Lima: 08/12 - EXTRA - Morumbi - Ricardo Ivo Saída - 18:00h
+[08/12/2022 18:27:25] Thiago Barreto Marques Da Silva: 08/12 Osasco -Naldo saída as 18:25
+[08/12/2022 18:39:44] Diego da Cunha Tomaz: 08/12 Santa - Diego saida 16:50
+[08/12/2022 18:48:17] Carlos Augusto Trevisan: 08/12 MORUMBI - Carlos entrada 5:10
+[08/12/2022 18:48:31] Carlos Augusto Trevisan: 08/12 MORUMBI - Carlos saída 18:45
+[08/12/2022 19:07:37] Juliana Akemi Funabashi: 08/12 ANÁLIA - Akemi saída 19:05
+[08/12/2022 19:14:42] Ricardo Giraldelli Carvalho Lima: 08/12 JABAQUARA - Giraldelli saída 18:00 (deslocado MB dia anterior)
+[08/12/2022 19:14:57] Filipe Lugon Moulin Lima: 08/12 JABAQUARA - Filipe Lugon saída 19:10
+[08/12/2022 19:20:02] Fabiana Barbosa Bastos: 8/12 Morumbi - Fabiana saída 19:15 - deslocada VNS
+[08/12/2022 19:23:19] Paula Lopes Agapito de Freitas: 08/12 - Anália - Paula A - saída - 19:20hs
+[08/12/2022 19:30:40] Flavio Hideki Oshika: 08/12 ANÁLIA - Flávio saida 19:30
+[08/12/2022 19:32:02] Vivianna Bovério Galzerani: 08/12 Morumbi Vivianna saída 19:20
+[08/12/2022 19:33:28] Neliane Guedes Pretti: 08/12 Jabaquara Neliane saída 19:30
+[08/12/2022 19:42:57] Daniel Rodrigues de Oliveira: 08/12 Itaim Daniel entrada 7:00
+[08/12/2022 19:43:16] Daniel Rodrigues de Oliveira: 08/12 Itaim Daniel saída 19:40
+[08/12/2022 19:45:44] Jessica Lidia de Souza: 08/12 Osasco- Jessica saida 19:45
+[08/12/2022 19:47:03] Thais Miranda Ramos: 08/12 OSASCO - Miranda saída às 19h45
+[08/12/2022 19:48:09] Manoel de Souza Neto: 08/12 VNS Manoel entrada 06:30
+[08/12/2022 19:48:22] Manoel de Souza Neto: 08/12 VNS Manoel saída 19:40
+[08/12/2022 19:49:44] Matheus Acquesta Gaubeur: 08/12 Anália- Matheus saída 19:45
+[08/12/2022 19:52:48] Victor Sapountzakis Ribeiro: 08/12 Osasco - Sapountzakis saída 19:52
+[08/12/2022 19:55:58] Andre Mortari Plá Gil: 8/12 Itaim André saída: 19:10h
+[08/12/2022 20:10:07] Mariana Dardengo Borges: 08/12 MORUMBI - Dardengo entrada 05:30
+[08/12/2022 20:10:19] Mariana Dardengo Borges: 08/12 MORUMBI - Dardengo saída 20:10
+[08/12/2022 20:13:39] Alessandre Luiz Braga Junior: 08/12 Analia Franco - Alessandre - Saída: 19:57
+[08/12/2022 20:18:01] Francisco Antonio Alves Bonatto: 08/12 VILLA - Francisco saída 20:15
+[08/12/2022 20:20:56] Silvia Aline dos Santos Andrade: 08/12 - Morumbi - Silvia saída 20:20
+[08/12/2022 20:25:48] Pedro Paulo Silva Farah: 08/12 Morumbi Pedro saída 20:15h
+[08/12/2022 20:29:36] Camila Chiarantano Harrison: 08/12 Villa Camila Saida 20:25
+[08/12/2022 20:39:06] Débora Alves Aude: 08/12 Itaim Débora saída 20:35h
+[08/12/2022 20:40:58] Gabriel Gondim Fonseca: 08/12 - Morumbi - Gondim saída 20:10
+[08/12/2022 20:42:54] João Theodoro de Medeiros Neto: 08/12 Anália - João saída 20:40
+[08/12/2022 20:50:29] Milton Olaio Neto: 08/12-Itaim Olaio saída 20:50
+[08/12/2022 20:52:05] Sheila Itiroco Monte: 08/12 ITAIM Sheila saída 19:10
+[08/12/2022 20:53:30] Pedro Henrique Milhomens da Mota: 08/12 VNS Mota saída 20h50
+[08/12/2022 20:55:15] Renata Pinheiro Modolo: 08/12 Itaim R. Modolo saída 20:10
+[08/12/2022 21:05:47] Sergio Zamith: 08/12 Jabaquara Zamith saída 21:05 hs.
+[08/12/2022 21:12:33] Marcelo Maia da Silveira: 08/12 VILLA  - Maia saída 21:00
+[08/12/2022 21:14:02] Gretel Oliveira Nicolau: 08/12 Analia Gretel saida 21:10
+[08/12/2022 21:17:29] Sidney Orlando de Souza: 08/12 Itaim-Sidney-saida as 21:15
+[08/12/2022 21:21:49] Rodrigo Achui Haga: 08/12 VILLA - haga saida 21:15
+[08/12/2022 21:35:24] Fabio Yuji Suguita: 08/12 villa yuji saida 19:15
+[08/12/2022 21:35:29] Fabiana Soares Gama: 08/12 Villa Fabiana Gama saída as 21:35
+[08/12/2022 21:40:18] Karen Peixoto Ricci: 08/12 Itaim Karen saída 21:15
+[08/12/2022 21:57:40] Ludmylla Gomes Neves: 08/12 Osasco - Ludmylla  saída    20:30
+[08/12/2022 21:58:46] Yoko Hayashi: 08/12 Osasco Yoko saída 20:30
+[08/12/2022 22:01:04] Bruna Daibert Danesin: 08/12 Analia Bruna saída 16:30
+[08/12/2022 22:25:13] Kaiê Fernandes: 08/12 Itaim Kaie saída 22h10
+[09/12/2022 04:20:25] Amanda Kiyoko Souza Kossaka: 09/12 MORUMBI - Amanda entrada 04:20
+[09/12/2022 04:31:17] Filipe Lugon Moulin Lima: 09/12 JABAQUARA -  Filipe Lugon entrada 04:30
+[09/12/2022 04:36:15] Silvia Aline dos Santos Andrade: 09/12 - Morumbi - Silvia entrada 04:30
+[09/12/2022 04:41:12] Marcio Ighor Azevedo Silva De Mendonça Melania: 09/12 - Villa Ighor entrada 04:30
+[09/12/2022 04:42:16] Camila Chiarantano Harrison: 09/12 Villa Camila Entrada 04:40 (para Antipou)
+[09/12/2022 04:58:42] Gabriel Gondim Fonseca: 09/12 Analia - Gondim Entrada 04:45 (deslocado HSI)
+[09/12/2022 05:07:18] Maira Leite Basile: 09/12 - Morumbi - Maíra entrada 04:30
+[09/12/2022 05:15:15] Daniel Masuzaki Wong: 09/12 Morumbi - Wong entrada 05:10
+[09/12/2022 05:17:09] Roberto Votto Melkan: 09/12 Itaim Roberto entrada 5:15
+[09/12/2022 05:23:07] Débora Alves Aude: 09/12 Maternidade Debora entrada 05:15
+[09/12/2022 05:26:05] Fernando Ribeiro Sá: 09/12 Anália Ribeiro entrada 05:20 (deslocamento VNS)
+[09/12/2022 05:27:53] Pedro Tiago Bonfitto: 09/12 Anália Bonfitto entrada 05:20
+[09/12/2022 05:32:30] Marcos Rogério Pereira Machado Filho: 09/12 Villa - Marcos entrada 5:30
+[09/12/2022 05:33:47] Fabio Yuji Suguita: 09/12 jabaquara yuji entrada 05:30
+[09/12/2022 05:36:18] Elaine Imaeda de Moura: 09/12 Osasco Elaine entrada 05:35
+[09/12/2022 05:41:37] Thiago Silva Pinto: 09/12 Santa - T. Silva  entrada 5:30 ( EXTRA)
+[09/12/2022 05:42:00] Yuri Lucas De Souza: 09/12 Aviccena - Souza entrada 05:40
+[09/12/2022 05:44:17] Aline Franchini Goulart Lima: 09/12 Villa Aline entrada 05:40
+[09/12/2022 06:00:20] Vitor Oliveira André: 09/12 Jabaquara Vitor entrada 06:00
+[09/12/2022 06:01:40] Manoel de Souza Neto: 09/12 Itaim Manoel entrada 06:00
+[09/12/2022 06:02:39] Fernando Akira Koga: 09/12 VNS - Koga entrada 06:00
+[09/12/2022 06:10:56] Andre Mortari Plá Gil: 09/12 Itaim André entrada 6:00h
+[09/12/2022 06:13:54] Leticia Fernandes Borges: 09/12 Villa Letícia entrada 6:00
+[09/12/2022 06:16:36] Rodrigo Miyashiro Nunes dos Santos: 09/12 ITAIM - Miyashiro entrada 05:30
+[09/12/2022 06:16:53] Maiely Marcolin: 09/12 Osasco - Maiely entrada 06:00 (deslocada VNS)
+[09/12/2022 06:17:36] João Theodoro de Medeiros Neto: 09/12 Anália - João entrada 06:00
+[09/12/2022 06:36:32] Álvaro Lázaro Ráo Regonato: 09/12 Jabaquara Ráo entrada 06:35
+[09/12/2022 06:37:55] Felipe de Oliveira Nunes: 09/12 Villa - Nunes entrada 6:00
+[09/12/2022 07:12:54] Vitor Maciel de Sousa Pinto: 09/12 Morumbi - Maciel entrada 05:45
+[09/12/2022 07:22:16] Livia Schenkel Thurler Trairi: 09/12 AVICCENA - Livia entrada 6:30
+[09/12/2022 07:25:42] Ricardo Giraldelli Carvalho Lima: 09/12 VILLA - Giraldelli entrada 06:00 (deslocado IT dia anterior)
+[09/12/2022 07:52:03] Rodrigo Andrade Carmello: Deslocado VNS
+[09/12/2022 07:52:35] Luiz Guilherme Thomaz Zacharias: 09/12 ITAIM - Guilherme entrada 7:00 (EXTRA)
+[09/12/2022 08:03:20] Alessandre Luiz Braga Junior: 09/12 Osasco - Alessandre entrada 06:00
+[09/12/2022 08:06:05] Orlando Domingues de Araújo Pontes: 09/12 Anália Orlando entrada 06:00
+[09/12/2022 08:21:40] Ivã Barbosa Soares: 09/12 Osasco Ivã Entrada 06:00
+[09/12/2022 08:48:58] Vanessa Paciullo Marossi: 09/12 ANÁLIA Vanessa entrada 06:00
+[09/12/2022 08:53:15] Thiago Barreto Marques Da Silva: 09/12 Aviccena Naldo entrada 06:00
+[09/12/2022 09:33:10] Mirela Farias Figueiroa: 09/12 - Jabaquara - Mirela entrada 06:15
+[09/12/2022 09:34:49] Marcio Ighor Azevedo Silva De Mendonça Melania: 09/12 - Villa Ighor saída 09:30
+[09/12/2022 09:36:24] Camila Chiarantano Harrison: 09/12 Villa Camila Saida 09:35 (para Antipou)
+[09/12/2022 09:39:21] Emerson Domingos Da Costa: 08/12 MORUMBI Emerson - Plantão
+[09/12/2022 09:43:40] Flavio Hideki Oshika: 09/12 MORUMBI - Flávio entrada 06:00
+[09/12/2022 10:03:30] Luiz Guilherme Thomaz Zacharias: 09/12 ITAIM - Guilherme saída 10:00 (EXTRA)
+[09/12/2022 10:10:22] Juliana Akemi Funabashi: 09/12 ANÁLIA - Akemi saída 10:10 (EXTRA)
+[09/12/2022 10:20:12] Ana Jung Docko: 09/12 Analia Ana saída 10:20
+[09/12/2022 10:25:38] Elaine Imaeda de Moura: 09/12 - Osasco Elaine saída 10:25
+[09/12/2022 10:26:00] Maiely Marcolin: 09/12 Osasco - Maiely saida 10:25
+[09/12/2022 10:26:14] Ivã Barbosa Soares: 09/12 Osasco Ivã Saída 10:25
+[09/12/2022 10:31:50] Débora Philippi Bressane: 09/12 Jabaquara Débora Bressane saída 10:20
+[09/12/2022 10:37:15] Carlos Eduardo Corrêa Grilo: 09/12 Anália - Cadu entrada às 7h (EXTRA)
+[09/12/2022 10:37:16] Carlos Eduardo Corrêa Grilo: 09/12 Anália - Cadu saída às 10:35 (EXTRA)
+[09/12/2022 10:48:36] Thiago Silva Pinto: 09/12 Santa - T. Silva saída às 10:35 (EXTRA)
+[09/12/2022 11:07:49] Stefany Hellen Sousa Martins: 09/12 jabaquara stefany saida 11:05h
+[09/12/2022 11:08:29] Stefany Hellen Sousa Martins: 09/12 jabaquara stefany entrada 05:45h
+[09/12/2022 11:47:55] Eduardo Arbache Bezerra: 09/12 Itaim - Bezerra saida as 11:15 (extra)
+[09/12/2022 12:27:15] Fabio Yuji Suguita: 09/12 jabaquara yuji saida 12:25
+[09/12/2022 12:31:31] Marcos Rogério Pereira Machado Filho: 09/12 Villa - Marcos saída 12:30
+[09/12/2022 13:56:52] Ricardo Barbosa Viana Filho: 09/12 Anália - Barbosa Saída 13:00
+[09/12/2022 13:57:00] Ricardo Barbosa Viana Filho: (Pós plantão )
+[09/12/2022 14:12:08] Bruno Ferraz de Campos Barone: 09/12 VNS Barone saida 14:15
+[09/12/2022 14:25:02] Roberto Votto Melkan: 09/12 Itaim Roberto saída 14:10
+[09/12/2022 14:40:03] Manoel de Souza Neto: 09/12 Itaim Manoel saída 14:40
+[09/12/2022 14:44:58] Milton Olaio Neto: 09/12-Itaim Olaio entrada 5:20
+[09/12/2022 14:45:17] Milton Olaio Neto: 09/12-Itaim Olaio saída 14:10
+[09/12/2022 14:46:48] Arthur Oliveira Facchini: 09/12 Itaim Facchini saída 14:40 (pós plantão)
+[09/12/2022 14:52:55] Aline Franchini Goulart Lima: 09/12 Villa Aline saída 14:45
+[09/12/2022 14:53:11] Alessandre Luiz Braga Junior: 09/12 Osasco - Alessandre saída 14:50
+[09/12/2022 15:18:09] Fernando Ribeiro Sá: 09/12 Anália Ribeiro saída 15:15 (deslocamento VNS)
+[09/12/2022 15:21:03] Karen Yumi Miyashiro: 09/12 Osasco - Yumi saída 15:05 (deslocada MT)
+[09/12/2022 16:12:38] Mirela Farias Figueiroa: 09/12 - Jabaquara Mirela saída 16:10
+[09/12/2022 16:19:26] Bruno Stornioli Taguchi Lemos: 09/12 Jabaquara Bruno Lemos saída 16:10
+[09/12/2022 16:34:50] Felipe de Oliveira Nunes: 09/12 Villa - Nunes saída 16:30
+[09/12/2022 16:42:07] Ricardo Giraldelli Carvalho Lima: 09/12 VILLA - Giraldelli saída 16:40 (deslocado IT dia anterior)
+[09/12/2022 16:44:50] Álvaro Lázaro Ráo Regonato: 09/12 Jabaquara Ráo saída 16:35
+[09/12/2022 16:45:32] Yuri Lucas De Souza: 09/12 Aviccena - Souza saída 16:45
+[09/12/2022 16:51:31] Filipe Lugon Moulin Lima: 09/12 JABAQUARA - Filipe Lugon saida 10:45
+[09/12/2022 16:54:17] Maira Leite Basile: 09/12 - Morumbi - Maíra saída 16:50
+[09/12/2022 16:56:34] Vanessa Paciullo Marossi: 09/12 ANÁLIA Vanessa saída 16:55
+[09/12/2022 16:57:56] Turibio Rodrigues Freire Neto: 09/12 VNS TURÍBIO EXTRA 07:00-11:30 Assumo saída Koga 11:30-15:40
+[09/12/2022 16:57:58] Silvia Aline dos Santos Andrade: 09/12 - Morumbi - Silvia saída 16:50
+[09/12/2022 17:00:31] Yuri Anderson Pacheco de Lima: 09/12 Morumbi - Yuri entrada 06:20
+[09/12/2022 17:00:41] Yuri Anderson Pacheco de Lima: 09/12 Morumbi - Yuri saída 17:00
+[09/12/2022 17:08:11] Mariana Dardengo Borges: 09/12 MORUMBI - M. Dardengo saída 16:50
+[09/12/2022 17:13:21] Flavio Hideki Oshika: 09/12 MORUMBI - Flávio saida 16:55
+[09/12/2022 18:08:19] Vitor Oliveira André: 09/12 Jabaquara Vitor saída 18:08
+[09/12/2022 18:47:14] Victor Sapountzakis Ribeiro: 09/12 Anália - Sapountzakis saída 18:46
+[09/12/2022 18:48:09] Ludmylla Gomes Neves: 09/12 Osasco - Ludmylla saída 18:00 (deslocada ITAIM)
+[09/12/2022 19:11:56] Thiago Barreto Marques Da Silva: 09/12 Aviccena - Naldo - saída 11:50
+[09/12/2022 19:15:10] Alberto de Azevedo Alves Moreira: 09/12 Osasco - Alberto saída 19:14
+[09/12/2022 19:27:35] Jessica Lidia de Souza: 09/12 Villa - jessica entrada 07:00
+[09/12/2022 19:27:57] Jessica Lidia de Souza: 09/12 Itaim  - jessica saída 19:25 (deslocada villa)
+[09/12/2022 19:38:10] José Carlos Tuna Scarpa: 09/12 Jabaquara José Carlos Saída 19:38
+[09/12/2022 19:43:44] Débora Alves Aude: 09/12 maternidade Débora saída 19:30
+[09/12/2022 19:50:51] Amanda Kiyoko Souza Kossaka: 09/12 MORUMBI - Amanda saída 19:50
+[09/12/2022 19:52:34] Matheus Viana Lemo: 09/12 Jabaquara Viana saída 19:52
+[09/12/2022 20:07:19] Francisco Antonio Alves Bonatto: 09/12 VILLA - Francisco saída 20:05
+[09/12/2022 20:09:53] André da Costa Aguiar Ventura: 09/12 ITAIM Ventura saida 20:10
+[09/12/2022 20:10:53] Rodrigo Miyashiro Nunes dos Santos: 09/12 ITAIM - Miyashiro saida 20:10
+[09/12/2022 20:11:34] Vitor Maciel de Sousa Pinto: 09/12 MORUMBI - Maciel saída 20:10
+[09/12/2022 20:16:13] Yoko Hayashi: 09/12 Osasco Yoko saída 20:10
+[09/12/2022 20:23:56] Andre Mortari Plá Gil: 09/12 Itaim Andre saída 20:10
+[09/12/2022 20:40:51] Daniel Masuzaki Wong: 09/12 Morumbi - Wong saída 20:40
+[09/12/2022 20:42:15] Pedro Tiago Bonfitto: 09/12 ANÁLIA Bonfitto saída 16:50
+[09/12/2022 20:43:37] Caroline Firmino Lemes da Silva: 09/12 Osasco Lemes saída 20:10
+[09/12/2022 20:57:14] Mariana Oliveira De Toledo: 09/12 ANÁLIA - toledo saída 20:55
+[09/12/2022 21:05:17] Pedro Henrique Milhomens da Mota: 09/12 Itaim Mota saída 21:00
+[09/12/2022 21:21:48] Erick Oliveira Lima Gomes: 09/12 Villa - Erick saída 21:10
+[09/12/2022 21:32:26] Patrick Alexander Suer Schues: 09/12 Anália - Patrick saída 21:30
+[09/12/2022 21:36:11] Matheus Acquesta Gaubeur: 09/12 Anália- Matheus saída 21:35
+[09/12/2022 21:40:19] Luiz Augusto Xavier Brandão: 09/12 santa Luiz Augusto saída 10:45 hs
+[09/12/2022 22:47:14] Anna Beatriz Aranha Trevisan: 09/12 MORUMBI - Anna Beatriz entrada 06:00
+[09/12/2022 22:47:34] Anna Beatriz Aranha Trevisan: 09/12 MORUMBI - Anna Beatriz saída 20:35
+[10/12/2022 05:21:09] Débora Alves Aude: 10/12 Itaim Débora entrada 05:20
+[10/12/2022 05:22:22] Juliano Moisés Tobal: 10/12 Jabaquara Juliano Tobal entrada 05:00
+[10/12/2022 05:30:05] Vitor Oliveira André: 10/12 Itaim Vitor entrada 05:20
+[10/12/2022 05:30:54] Daniel Masuzaki Wong: 10/12 Morumbi - Wong entrada 05:20
+[10/12/2022 05:35:31] Karen Yumi Miyashiro: 10/12 VILLA - Yumi entrada 05:00
+[10/12/2022 05:37:08] Norival Scandelai Junior: 10/12 Morumbi - Norival Entrada 5:15
+[10/12/2022 05:37:51] Mônica Robles Gonçalves: 10/12 aviccena monica entrada 04:30
+[10/12/2022 05:39:19] Luiz Guilherme Thomaz Zacharias: 10/12 ITAIM - Guilherme entrada 5:20
+[10/12/2022 05:43:07] Ivã Barbosa Soares: 10/12 Osasco Ivã entrada 05:40
+[10/12/2022 05:46:17] Matheus Acquesta Gaubeur: 10/12 Villa Matheus entrada 05:45
+[10/12/2022 05:59:58] Álvaro Lázaro Ráo Regonato: 10/12 Jabaquara Ráo entrada 06:00
+[10/12/2022 06:02:37] João Theodoro de Medeiros Neto: 10/12 Itaim - João entrada 06:00
+[10/12/2022 06:03:44] Leandro Kendi Kanada: 10/12 Villa Leandro kanada entrada 06:00
+[10/12/2022 06:04:10] Carlos Eduardo Corrêa Grilo: 10/12 Anália - Cadu entrada 06:00
+[10/12/2022 06:04:25] Ludmylla Gomes Neves: 10/12 Jabaquara Ludmylla  entrada 04:30
+[10/12/2022 06:09:21] Matheus Viana Lemo: 10/12 Jabaquara viana entrada 5:45
+[10/12/2022 06:15:07] Marcio Ighor Azevedo Silva De Mendonça Melania: 10/12 - Morumbi Ighor entrada 06:00
+[10/12/2022 06:15:14] Gabriel Gondim Fonseca: 09/12 Analia - Gondim saída 12:50 (deslocado HSI)
+[10/12/2022 06:15:49] Yuri Anderson Pacheco de Lima: 10/12 Morumbi - Yuri entrada 06:00
+[10/12/2022 06:15:49] Gabriel Gondim Fonseca: 10/12 Aviccena - Gondim entrada 06:10
+[10/12/2022 06:21:36] Bruno Ferraz de Campos Barone: 10/12 VNS Barone entrada 06:15
+[10/12/2022 06:24:21] Erick Oliveira Lima Gomes: 10/12 Analia - Erick entrada 06:10
+[10/12/2022 06:31:49] Ana Jung Docko: 10/12 Jabaquara Ana entrada 06:00
+[10/12/2022 06:48:19] André Luis Xavier Franco: 10/12 Analia Xavier entrada 05:50
+[10/12/2022 07:02:20] Luccas Varela Godoy: 10/12 Osasco Luccas entrada 5:45
+[10/12/2022 07:03:13] Diego da Cunha Tomaz: 10/12 Santa Diego entrada 6:00
+[10/12/2022 07:12:09] Camila Chiarantano Harrison: 10/12 Villa Camila Entrada 05:45
+[10/12/2022 07:12:49] Saullo Queiroz Silveira: 10/12 VNS Saullo entrada 06:00
+[10/12/2022 07:23:16] Alessandre Luiz Braga Junior: 10/12 Osasco - Alessandre entrada 06:00
+[10/12/2022 07:32:07] Juliana Hussein Grilo: 10/12 VILLA - J. Hussein entrada 5:30
+[10/12/2022 07:48:49] Ronald Figueiredo Gomes: 10/12 VILLA - Ronald Entrada 07:00 (EXTRA)
+[10/12/2022 08:04:08] Thales Luvisotto Neder: 10/12 Jabaquara - Thales entrada 07:00 (EXTRA)
+[10/12/2022 08:07:47] Matheus de Alencar Arraes: 10/12 JABAQUARA Arraes entrada 07:00 (EXTRA)
+[10/12/2022 08:48:31] Leticia Fernandes Borges: 10/12 Villa Letícia entrada 7:00 ( EXTRA)
+[10/12/2022 09:08:30] Thiago Barreto Marques Da Silva: 10/12 Itaim - Naldo - entrada 5:45
+[10/12/2022 09:23:27] Pedro Paulo Silva Farah: 10/12 Morumbi Pedro entrada 6:00h
+[10/12/2022 09:58:05] Maurício Faria Tetti: 10/12 Anália Maurício entrada 5:30
+[10/12/2022 12:15:15] Thales Luvisotto Neder: 10/12 Jabaquara - Thales saída 12:15h (EXTRA)
+[10/12/2022 12:36:31] Vitor Oliveira André: 10/12 Itaim Vitor saída 12:36
+[10/12/2022 12:40:25] Francisco José Lucena Bezerra: 10/12 ITAIM, Lucena saída 12:36
+[10/12/2022 12:56:06] Daniellen Lins Lourenço: 10/12 ITAIM - Daniellen saída 12:50 (deslocamento Morumbi)
+[10/12/2022 12:56:10] Felipe Coelho De Souza: 10/12 VNS - Coelho saída 11:20 (extra)
+[10/12/2022 13:05:50] Pedro Augusto Tavares Dall Aglio: 10/12 Anália - Tavares - saída 12:57 ( pós plantão )
+[10/12/2022 13:30:45] Gabriela Soares Piassi: 10/12 Anália - Piassi - saída 13:20 ( pós plantão )
+[10/12/2022 13:33:36] Thiago Barreto Marques Da Silva: 10/12 Itaim - Naldo - saída 13:25
+[10/12/2022 13:36:12] João Theodoro de Medeiros Neto: 10/12 Itaim - João saída 13:35 (deslocado Villa)
+[10/12/2022 13:40:40] Débora Alves Aude: 10/12 Itaim Débora saída 13:40
+[10/12/2022 13:44:59] Gustavo Marques Da silva: 10/12 Itaim - Marques saída 13:35 (deslocado do Anália)
+[10/12/2022 13:48:21] Gabriella Gadelha Sarmento: 10/12 VNS Gabriella dispensada    ( motivo de saúde)
+[10/12/2022 13:50:35] Débora Philippi Bressane: 10/12 Itaim Débora Bressane entrada 05:40 saída 13:40
+[10/12/2022 13:51:23] Diogo Henrique Pereira Mattos: 10/12 ANÁLIA - Diogo saída 13:50
+[10/12/2022 14:01:12] Hedicleber Pestana Severino: 10/12 Santa Isabel Hedicleber saída 13:40
+[10/12/2022 14:01:31] Ronald Figueiredo Gomes: 10/12 VILLA - Ronald saida 14:00 (EXTRA)
+[10/12/2022 14:11:16] Marina Borges Curralo: 10/12 Maternidade Marina saída 13:10
+[10/12/2022 14:24:10] Diego da Cunha Tomaz: 10/12 Santa - Diego saida 14:20
+[10/12/2022 14:41:05] Leticia Fernandes Borges: 10/12 VILLA - Letícia saída 14:40 ( EXTRA)
+[10/12/2022 14:41:12] Luiz Guilherme Thomaz Zacharias: 10/12 ITAIM - Guilherme saída 14:40
+[10/12/2022 14:46:16] Milton Olaio Neto: 10/12-Itaim Olaio entrada 6:00
+[10/12/2022 14:46:32] Milton Olaio Neto: 10/12-Itaim Olaio saída 14:40
+[10/12/2022 14:46:37] Sheila Itiroco Monte: 10/12 ITAIM Sheila saída 14:45
+[10/12/2022 14:47:44] Karen Yumi Miyashiro: 10/12 VILLA - Yumi saída 14:45
+[10/12/2022 14:49:19] Izabella Gontijo Cunha: 10/12 ITAIM - Izabella saída 14:40
+[10/12/2022 14:50:11] Matheus de Alencar Arraes: 10/12 JABAQUARA Arraes saida 14:50 (EXTRA)
+[10/12/2022 14:51:38] Bruno Ferraz de Campos Barone: 10/12 VNS Barone saida 14:50
+[10/12/2022 15:18:55] Livia Schenkel Thurler Trairi: 10/12 AVICCENA - Livia saída 15:10
+[10/12/2022 15:19:48] Erick Oliveira Lima Gomes: 10/12 ANÁLIA - Erick saída 14:30
+[10/12/2022 15:21:28] Ludmylla Gomes Neves: 10/12 JABAQUARA Ludmylla saida 15:10( deslocada Osasco )
+[10/12/2022 15:32:13] Juliana Hussein Grilo: 10/12 VILLA - J. Hussein saída 15:25
+[10/12/2022 15:38:26] Daniel Rodrigues de Oliveira: 10/12 Itaim Daniel saída 15:30
+[10/12/2022 15:40:11] Rodrigo Miyashiro Nunes dos Santos: 10/12 MORUMBI - Miyashiro saida 15:40 (EXTRA)
+[10/12/2022 15:40:39] Matheus Viana Lemo: 10/12 Jabaquara Viana saída 15:40
+[10/12/2022 15:41:13] Filipe Maeda Hashi Abdalla Martins: 10/12 Jabaquara Maeda saída 15:40
+[10/12/2022 15:44:47] Ricardo Giraldelli Carvalho Lima: 10/12 VILLA - Giraldelli entrada 07:00
+[10/12/2022 15:45:01] Álvaro Lázaro Ráo Regonato: 10/12 Jabaquara Ráo saída 15:44
+[10/12/2022 15:45:19] Ricardo Giraldelli Carvalho Lima: 10/12 JABAQUARA- Giraldelli saída 15:15 (deslocado Villa)
+[10/12/2022 15:46:34] Everton Sidney da Conceição Carvalho: 10/12 Morumbi - Everton saída 15:45 (Pós-plantão/Deslocado Itaim)
+[10/12/2022 15:51:01] Anna Beatriz Lima Do Valle Astur: 10/12 Osasco - Astur saida 15:50 (pós plantão)
+[10/12/2022 15:55:54] Norival Scandelai Junior: 10/12 Morumbi - Norival Saída 15:40
+[10/12/2022 15:56:15] Rodrigo Achui Haga: 10/12 OSASCO - haga saida 15:55
+[10/12/2022 16:12:59] André Luis Xavier Franco: 10/12 Analia Xavier saida 16:10
+[10/12/2022 16:14:18] Maiely Marcolin: 10/12 VNS - Maiely saida 16:10
+[10/12/2022 16:15:00] Vivianna Bovério Galzerani: 10/12 Morumbi Vivianna saída 16:10
+[10/12/2022 16:17:45] Carlos Eduardo Corrêa Grilo: 10/12 Anália - Cadu saída 16:15
+[10/12/2022 16:32:47] Juliano Moisés Tobal: 10/12 Jabaquara Juliano Tobal saída 16:00
+[10/12/2022 16:41:09] Matheus Acquesta Gaubeur: 10/12 Villa - Matheus saída 16:40
+[10/12/2022 17:06:01] Sergio Zamith: 10/12 Jabaquara -Zamith saída 17:05
+[10/12/2022 17:14:29] Marcio Ighor Azevedo Silva De Mendonça Melania: 10/12 Morumbi - Ighor saída 17:10
+[10/12/2022 17:17:50] Yuri Anderson Pacheco de Lima: 10/12 Morumbi - Yuri saída 16:40
+[10/12/2022 17:19:00] Eduardo Arbache Bezerra: 10/12 Itaim - Bezerra saida 15:40
+[10/12/2022 17:20:03] Paula Lopes Agapito de Freitas: 10/12 - Anália - Paula A - saída - 17:20
+[10/12/2022 17:20:20] Ana Jung Docko: 10/12 Jabaquara Ana saída 17:20
+[10/12/2022 17:25:25] Luccas Varela Godoy: 10/12 Osasco Luccas saída 17:25
+[10/12/2022 17:27:52] Pedro Paulo Silva Farah: 10/12 Morumbi Pedro saída 17:20h
+[10/12/2022 17:29:42] Daniel Masuzaki Wong: 10/12 Morumbi - Wong saída 17:25
+[10/12/2022 17:40:10] Manoel de Souza Neto: 10/12 Anália Manoel saída 17:40
+[10/12/2022 17:47:10] Turibio Rodrigues Freire Neto: 09/12 Morumbi Turíbio Entrada 06:20
+[10/12/2022 17:47:10] Turibio Rodrigues Freire Neto: 09/12 Morumbi Turíbio Saída 16:50
+[10/12/2022 18:13:06] Camila Chiarantano Harrison: 10/12 Villa Camila Saida 18:10
+[10/12/2022 18:20:42] Ricardo Barbosa Viana Filho: 10/12 Morumbi - Barbosa Saída 17:40
+[10/12/2022 18:40:24] Mariana Oliveira De Toledo: 10/12 ANÁLIA - toledo saída 18:35
+[10/12/2022 19:02:08] Maira Leite Basile: 10/12 Itaim - Maíra saída 18:45
+[10/12/2022 19:09:12] Leandro Kendi Kanada: 10/12 Villa Leandro kanada saida 19:00
+[10/12/2022 19:14:34] Juliana Akemi Funabashi: 10/12 ANÁLIA - Akemi saída 18:35
+[10/12/2022 19:42:53] Ivã Barbosa Soares: 10/12 Osasco Ivã Saída 19:40
+[10/12/2022 19:44:02] Gabriel de Aguiar Santana: 10/12 Itaim - Gabriel saída 19:40
+[10/12/2022 19:45:49] Vanessa Paciullo Marossi: 10/12 ANALIA Vanessa saída 19:45
+[10/12/2022 19:54:53] Emerson Domingos Da Costa: 10/12 JABAQUARA Emerson - saída 17h
+[10/12/2022 20:02:33] Vivian Cristine dos Anjos e Silva: 10/12 VILLA  Vivian saida 19:50
+[10/12/2022 21:00:49] Alessandre Luiz Braga Junior: 10/12 Osasco Alessandre saída 20:30
+[10/12/2022 21:31:02] Filipe Lugon Moulin Lima: 10/12 JABAQUARA - Filipe Lugon saida 21:20
+[11/12/2022 06:28:17] Débora Philippi Bressane: 11/12 Jabaquara Débora Bressane entrada 06:00 (D3 EXTRA)
+[11/12/2022 06:41:06] Gabriela Soares Piassi: 11/12 Jabaquara- Piassi entrada 6:00 (plantão)
+[11/12/2022 07:18:11] Vivianna Bovério Galzerani: 11/12 Villa - Vivianna entrada 06:20 (D1)
+[11/12/2022 08:23:31] Marcelo Maia da Silveira: 11/12 VILLA  - Maia saída 08:10  (pós plt)
+[11/12/2022 13:13:02] Gabriel Gondim Fonseca: 11/12 Jabaquara - Gondim saída 13:10 (D3)
+[11/12/2022 13:29:52] Diogo Candeo Rodrigues Cordeiro: 11/12 Villa - Candeo entrada 07:10 (EXTRA)
+[11/12/2022 13:30:05] Kaiê Fernandes: 11/12 Villa Kaie entrada 7h45 (d3)
+[11/12/2022 13:30:32] Kaiê Fernandes: 11/12 Villa Kaie saída 13:15 (d3)
+[11/12/2022 13:30:48] Diogo Candeo Rodrigues Cordeiro: 12/12 Villa - Candeo saída às 13:25 (D3 EXTRA)
+[11/12/2022 13:39:18] Pedro Paulo Silva Farah: 11/12 Analia  Pedro saída 13:10h D3
+[11/12/2022 13:59:07] Débora Philippi Bressane: 11/12 Jabaquara Débora Bressane saída 12:15 (D3 EXTRA)
+[11/12/2022 14:28:58] Camila Chiarantano Harrison: 11/12 Villa Camila Saída 14:00 (D2)
+[11/12/2022 14:54:01] Ricardo Kawaura: 11/12 Osasco kawaura entrada 10:10
+[11/12/2022 14:54:19] Ricardo Kawaura: 11/12 Osasco kawaura saída 14:50
+[11/12/2022 14:59:20] Renata Pinheiro Modolo: 10/12 Itaim R. Modolo saída 18:40
+[11/12/2022 15:04:23] Renata Pinheiro Modolo: 11/12 Osasco R. Modolo entrada 9:00 (d3B Anália)
+[11/12/2022 15:04:41] Renata Pinheiro Modolo: 11/12 Osasco R. Modolo saída 14:40
+[11/12/2022 18:17:31] Pedro Tiago Bonfitto: 11/12 Santa Isabel Bonfitto saída 12:45 (EXTRA)
+[11/12/2022 18:55:27] Turibio Rodrigues Freire Neto: 11/12 VNS TURÍBIO EXTRA Entrada 06:10
+[11/12/2022 18:55:27] Turibio Rodrigues Freire Neto: 11/12 VNS TURÍBIO EXTRA Saída 15:40
+[11/12/2022 19:14:53] Carlos Augusto Trevisan: 11/12 ANALIA Carlos saída 14:40 (D2)
+[11/12/2022 20:09:49] Saullo Queiroz Silveira: 11/12 Villa Saullo entrada 07:45 (d3)
+[11/12/2022 20:10:21] Saullo Queiroz Silveira: 11/12 Villa Saullo saída 12:30 (d3)
+[12/12/2022 01:22:54] Carlos Eduardo Gondim Oliveira: 11/12 MATERNIDADE - Oliveira entrada 19:00 (assumo o plantão)
+[12/12/2022 04:51:35] André da Costa Aguiar Ventura: 12/12 MORUMBI Ventura entrada 4:50
+[12/12/2022 05:05:13] Gabriella Gadelha Sarmento: 12/12 Itaim - Gabriella entrada 04:20
+[12/12/2022 05:19:59] Kaiê Fernandes: 12/12 Itaim Kaie entrada 4:50
+[12/12/2022 05:25:32] Daniel Masuzaki Wong: 12/12 Osasco - Wong entrada 05:20
+[12/12/2022 05:30:52] Rafael Tadeu Marques: 12/12 Jabaquara Rafael tadeu entrada 04:40
+[12/12/2022 05:41:55] Norival Scandelai Junior: 12/12 Morumbi - Norival Entrada 5:10
+[12/12/2022 05:48:33] Erick Oliveira Lima Gomes: 12/12 Villa - Erick entrada 05:20
+[12/12/2022 05:50:14] Pedro Augusto Tavares Dall Aglio: 12/12 Osasco - Tavares - entrada 5:50
+[12/12/2022 05:55:36] Vivian Cristine dos Anjos e Silva: 12/12 ANÁLIA Vivian entrada 06:00
+[12/12/2022 05:56:31] Diogo Henrique Pereira Mattos: 12/12 ANÁLIA - Diogo entrada 06:00
+[12/12/2022 05:57:02] Rodrigo Andrade Carmello: 12/12 Morumbi - Carmello entrada 04:20
+[12/12/2022 05:57:16] Diego da Cunha Tomaz: 12/12 Santa - Diego entrada 6:00
+[12/12/2022 05:57:58] Bruce Ye Man Chow: 12/12 Morumbi - bruce entrada 05:45
+[12/12/2022 05:58:50] Juliano Moisés Tobal: 12/12 Osasco Juliano Tobal entrada 05:20
+[12/12/2022 06:01:40] Gustavo Marques Da silva: 12/12 Osasco - Marques entrada 06:00
+[12/12/2022 06:01:58] Matheus de Alencar Arraes: 12/12 JABAQUARA Arraes entrada 05:45
+[12/12/2022 06:10:34] Gabriel de Aguiar Santana: 12/12 Itaim - Gabriel entrada 5:30
+[12/12/2022 06:14:00] Antonio Álvaro Dias Lima da Cunha Neto: 12/12 AVICCENA - Álvaro entrada 06:10
+[12/12/2022 06:16:05] Hedicleber Pestana Severino: 12/12 Villa Hedicleber entrada 05:20(extra)
+[12/12/2022 06:20:56] Everton Sidney da Conceição Carvalho: 12/12 Anália Everton entrada 05:50
+[12/12/2022 06:21:17] Beatriz Antipou dos Santos: 12/12 Itaim- Antipou- entrada 06:00
+[12/12/2022 06:22:00] Fernando Ribeiro Sá: 12/12 VNS Ribeiro entrada 06:15 (EXTRA)
+[12/12/2022 06:22:04] Rogério Sidney Thon: 12/12 Morumbi Rogério entrada 5:45h
+[12/12/2022 06:22:07] Roberto Votto Melkan: 12/12 Morumbi Roberto entrada 6:00 ( EXTRA)
+[12/12/2022 06:37:08] Bruno Stornioli Taguchi Lemos: 12/12 Jabaquara Bruno Lemos entrada 06:00 (EXTRA)
+[12/12/2022 06:51:26] Eduardo Arbache Bezerra: 12/12 Itaim - Bezerra entrada as 05:45
+[12/12/2022 06:58:06] Renata Pinheiro Modolo: 12/12 Jabaquara R. Modolo entrada 4:50
+[12/12/2022 07:15:05] José Marcos Vieira da Silva: 12/12 - Itaim José Marcos entrada 6:00
+[12/12/2022 07:28:28] Luiz Guilherme Thomaz Zacharias: 12/12 JABAQUARA - Guilherme entrada 7:00 (EXTRA)
+[12/12/2022 07:54:30] Yoko Hayashi: 12/12 Jabaquara Yoko entrada 5:30
+[12/12/2022 08:40:16] Fabiana Barbosa Bastos: 12/12 VNS - Fabiana entrada 06:00 (deslocada Morumbi)
+[12/12/2022 08:42:41] Stefany Hellen Sousa Martins: 12/12 jabaquara stefany entrada 06:20
+[12/12/2022 08:51:34] Andreia Loureiro Mori: 12/12 ITAIM Andréia entrada 7:00 (extra)
+[12/12/2022 09:25:20] Anna Beatriz Aranha Trevisan: 12/12 MORUMBI - Anna Beatriz entrada 06:00
+[12/12/2022 10:09:10] Renata Torres Bueno: 12/12 Villa - Renata Bueno entrada 6:00
+[12/12/2022 11:02:51] Fábio Antônio de Souza Oliveira: 12/12 Iraim Fabio entrada 5:20hs
+[12/12/2022 11:09:57] Wangles Pignaton de Paula: 12/12 MORUMBI - Wangles entrada 6:00 (EXTRA)
+[12/12/2022 12:46:05] Vanessa Paciullo Marossi: 12/12 ANÁLIA vanessa saída 12:45
+[12/12/2022 12:48:59] Rodrigo Miyashiro Nunes dos Santos: 12/12 MORUMBI - Miyashiro saida 12:45 (EXTRA)
+[12/12/2022 12:52:27] Mariana Oliveira De Toledo: 12/12 ITAIM - toledo saída 12:45 (pós plantão)
+[12/12/2022 12:55:32] Leandro Kendi Kanada: 12/12 Villa Leandro kanada saida 12:50 (EXTRA)
+[12/12/2022 13:01:07] Andreia Loureiro Mori: 12/12 ITAIM Andréia saída 12:50 (extra)
+[12/12/2022 13:20:18] Marina Borges Curralo: 12/12 Maternidade Marina saída 13:20 (EXTRA)
+[12/12/2022 14:02:06] Fernando Ribeiro Sá: 12/12 VNS Ribeiro saída 14:00 (EXTRA)
+[12/12/2022 14:19:09] Álvaro Lázaro Ráo Regonato: 12/12 Itaim Ráo saída 14:18 ( pos plantao )
+[12/12/2022 15:59:41] Everton Sidney da Conceição Carvalho: 12/12 Anália Everton saída 15:55h (Deslocado Itaim)
+[12/12/2022 16:06:20] Bruno Stornioli Taguchi Lemos: 12/12 Jabaquara Bruno Lemos saida 15:55 (EXTRA)
+[12/12/2022 16:13:17] Gabriella Gadelha Sarmento: 12/12 Itaim - Gabriella saída 16:05
+[12/12/2022 16:13:49] Ana Jung Docko: 12/12 Analia Ana saída 15:45
+[12/12/2022 16:38:24] Diego da Cunha Tomaz: 12/12 Santa - Diego saida 16:30
+[12/12/2022 16:40:28] Alessandre Luiz Braga Junior: 12/12 Santa - Alessandre saída 16:40
+[12/12/2022 16:50:23] Fabiana Barbosa Bastos: 12/12 VNS - Fabiana saída 16:40 (deslocada Morumbi)
+[12/12/2022 16:57:25] Diogo Henrique Pereira Mattos: 12/12 ANÁLIA - Diogo saída 16:55
+[12/12/2022 16:58:44] Fernanda Teles Ribeiro: 12/12 Analia - Fernanda saída 16:50 ( dispensada motivo saúde )
+[12/12/2022 17:41:41] Luccas Varela Godoy: 12/12 Osasco Luccas saída 17:40
+[12/12/2022 17:41:45] Hedicleber Pestana Severino: 12/12 Villa Hedicleber saída 17:40(extra)
+[12/12/2022 17:47:22] Fabio Yuji Suguita: 12/12 jabaquara yuji saida 17:45 (extra)
+[12/12/2022 18:20:29] Luiz Guilherme Thomaz Zacharias: 12/12 JABAQUARA - Guilherme saída 18:15 (EXTRA)
+[12/12/2022 18:22:16] Wangles Pignaton de Paula: 12/12 MORUMBI - Wangles saída 18:20 (EXTRA)
+[12/12/2022 18:46:42] Carlos Augusto Trevisan: 12/12 ITAIM - Carlos entrada 5:40
+[12/12/2022 18:46:57] Carlos Augusto Trevisan: 12/12 ITAIM - Carlos saída 18:45
+[12/12/2022 19:00:46] Avelino José da Silva Freitas Junior: 12/12 villa - Avelino saída 18:58 (deslocado do Anália)
+[12/12/2022 19:15:08] Beatriz Antipou dos Santos: 12/12- Maternidade - Antipou- saída 19:15 (deslocada itaim)
+[12/12/2022 19:18:50] Roberto Votto Melkan: 12/12 Morumbi Roberto saída ( EXTRA) 19:10 ( rotina)
+[12/12/2022 19:38:02] Erick Oliveira Lima Gomes: 12/12 Villa - Erick saída 19:30
+[12/12/2022 19:40:48] Kaiê Fernandes: 12/12 Osasco Kaie saída 18:00 (deslocado Itaim)
+[12/12/2022 19:41:16] Norival Scandelai Junior: 12/12 Morumbi - Norival Saída 19:20
+[12/12/2022 19:41:16] Renata Pinheiro Modolo: 12/12 Jabaquara R. Modolo saída 19:40
+[12/12/2022 19:50:14] Eduardo Dala Rosa Soares: 12/12 Itaim - Soares saída 19:50
+[12/12/2022 19:53:25] Francisco Antonio Alves Bonatto: 12/12 ANÁLIA - Francisco saída 19:40
+[12/12/2022 19:54:22] Rodrigo Andrade Carmello: 12/12 Morumbi - Carmello saída 19:10
+[12/12/2022 19:55:03] Thais Chaves Pinheiro: 12/12 Villa - Thaís saída as 19:55
+[12/12/2022 20:06:44] Antonio Álvaro Dias Lima da Cunha Neto: 12/12 AVICCENA - Álvaro saída 20:05
+[12/12/2022 20:07:23] Eduardo Arbache Bezerra: 12/12 Itaim - Bezerra saida as 19:45
+[12/12/2022 20:11:35] Matheus de Alencar Arraes: 12/12 JABAQUARA Arraes saida 20:11
+[12/12/2022 20:16:46] Yoko Hayashi: 12/12 Jabaquara Yoko saída 19:40
+[12/12/2022 20:18:31] Daniel Masuzaki Wong: 12/12 Osasco - Wong saída 20:15 (deslocado do Jabaquara no dia anterior)
+[12/12/2022 20:21:14] Pedro Ulysses Vieira De Matos: 12/12 Osasco - Ulysses saída 20:05
+[12/12/2022 20:21:34] Juliano Moisés Tobal: 12/12 Osasco Juliano Tobal saída 20:15 (deslocado Jabaquara)
+[12/12/2022 20:30:05] Yuri Lucas De Souza: 12/12 Villa - Souza saída as 19:55
+[12/12/2022 20:31:17] Rafael Tadeu Marques: 12/12 Jabaquara Rafael tadeu saída 19:35
+[12/12/2022 20:33:01] José Carlos Tuna Scarpa: 12/12 Analia José Carlos Saída 20:20
+[12/12/2022 20:46:53] Gustavo Marques Da silva: 12/12 Osasco - Marques saída 20:40 (deslocado Itaim)
+[12/12/2022 20:48:57] Anna Beatriz Aranha Trevisan: 12/12 MORUMBI - Anna Beatriz saída 20:30
+[12/12/2022 21:16:44] Sidney Orlando de Souza: 12/12- Itaim- Sidney-saida as 15:00.
+[12/12/2022 21:22:52] Mirela Farias Figueiroa: 12/12 - Jabaquara Mirela saída 21:20
+[12/12/2022 21:27:47] Bruce Ye Man Chow: 12/12 Morumbi - bruce saida 21:10
+[12/12/2022 21:29:46] Rogério Sidney Thon: 12/12 Morumbi Rogério saída  19:40h
+[12/12/2022 21:41:30] Ricardo Giraldelli Carvalho Lima: 12/12 VILLA - Giraldelli saída 21:40
+[12/12/2022 21:54:16] Pedro Augusto Tavares Dall Aglio: 12/12 Osasco - Tavares - saída 21:54
+[12/12/2022 22:08:26] Thiago Silva Pinto: 12/12 - Jabaquara - T. Silva - saída 21:35
+[12/12/2022 22:08:28] Rodrigo Giovanelli Constantino: 12/12 Analia Giovanelli saída 22:05
+[12/12/2022 22:19:25] Ronald Figueiredo Gomes: 12/12 OSASCO - Ronald saída 22:10
+[12/12/2022 22:22:44] Thiago Francisco Martins: 12/12 ANALIA Thiago Martins saida as 22h20
+[12/12/2022 22:28:50] Paula Angélica Pinha Neves: 12/12 VILLA Paula Neves saída 21:40
+[12/12/2022 22:32:48] Renata Torres Bueno: 12/12 Villa - Renata Bueno saída 19:55
+[12/12/2022 22:36:30] Victor Sapountzakis Ribeiro: 12/12 Anália - Sapountzakis saída 22:35 (distância)
+[12/12/2022 22:41:50] Leticia Fernandes Borges: 12/12 Anália - Letícia saída 22:35
+[12/12/2022 22:42:04] Marcos Rogério Pereira Machado Filho: 12/12 Aviccena - Marcos saída 22:40
+[12/12/2022 22:43:46] Pedro Tiago Bonfitto: 12/12 Anália Bonfitto saída 22:05
+[12/12/2022 22:45:54] Anna Beatriz Lima Do Valle Astur: 12/12 Osasco Astur saida 22:10
+[12/12/2022 22:49:02] Ricardo Barbosa Viana Filho: 12/12 Osasco - Barbosa Saída 22:10
+[12/12/2022 22:49:53] Stefany Hellen Sousa Martins: 12/12 jabaquara stefany saida 20:50
+[12/12/2022 23:11:24] Fabiana Soares Gama: 12/12 Anália Fabiana Gama saída as 22:40
+[12/12/2022 23:16:17] Bianca Priscila Buniotti: 12/12 Osasco - Bianca saída 22:05
+[12/12/2022 23:21:10] Filipe Lugon Moulin Lima: 12/12 JABAQUARA - Filipe Lugon saída 22:10
+[13/12/2022 00:29:48] Carlos Eduardo Gondim Oliveira: 13/12 MATERNIDADE - Oliveira saída 00:25 (cirurgia a pedido)
+[13/12/2022 01:22:38] Emerson Domingos Da Costa: 12/12 MORUMBI Emerson - Distância 2 - Saída 22:00
+[13/12/2022 04:46:22] Thais Chaves Pinheiro: 13/12 Jabaquara - Thaís entrada as 04:40
+[13/12/2022 05:03:46] Gabriella Gadelha Sarmento: 13/12 VNS - Gabriella entrada 04:20
+[13/12/2022 05:09:27] Alexsander Takashi Hamada: 12/12 Analia  Alexsander saída 21:35
+[13/12/2022 05:16:12] Roberto Votto Melkan: 13/12 Morumbi Roberto entrada 5:15
+[13/12/2022 05:19:35] Débora Alves Aude: 13/12 Itaim Débora entrada 05:20
+[13/12/2022 05:21:08] Kaiê Fernandes: 13/12 analia Kaie entrada 5:20 (deslocado Itaim)
+[13/12/2022 05:30:56] Yuri Lucas De Souza: 13/12 Osasco - Souza entrada 05:30
+[13/12/2022 06:00:32] Diogo Henrique Pereira Mattos: 13/12 ANÁLIA - Diogo entrada 06:00
+[13/12/2022 06:01:05] Elaine Imaeda de Moura: 13/12 Anália Elaine entrada 6:00
+[13/12/2022 06:02:37] João Theodoro de Medeiros Neto: 13/12 Villa - João entrada 06:00
+[13/12/2022 06:04:29] Vitor Oliveira André: 13/12 VNS Vítor entrada 06:00
+[13/12/2022 06:04:58] Gabriel de Aguiar Santana: 13/12 Anália - Gabriel entrada 06:00
+[13/12/2022 06:05:19] Rodrigo Achui Haga: 13/12 OSASCO - haga entrada 06:00
+[13/12/2022 06:05:41] Bruno Stornioli Taguchi Lemos: 13/12 Jabaquara Bruno Lemos entrada 06:00
+[13/12/2022 06:12:04] Marcio Ighor Azevedo Silva De Mendonça Melania: 13/12 Villa - Ighor entrada 05:30
+[13/12/2022 06:13:50] Álvaro Lázaro Ráo Regonato: 13/12 Jabaquara Ráo entrada 06:05
+[13/12/2022 06:17:14] Diego da Cunha Tomaz: 13/12 Santa - Diego entrada 5:50
+[13/12/2022 06:26:53] Wangles Pignaton de Paula: 12/12 MORUMBI - Wangles entrada 6:00 (EXTRA)
+[13/12/2022 06:28:39] Ludmylla Gomes Neves: 13/12 Villa - Ludmylla entrada 05:30
+[13/12/2022 07:13:57] Karen Yumi Miyashiro: 13/12 Osasco - Yumi entrada 06:00
+[13/12/2022 07:21:44] Matheus Viana Lemo: 13/12 Jabaquara viana entrada 07:00 (EXTRA)
+[13/12/2022 07:39:28] Alberto de Azevedo Alves Moreira: 13/12 Jabaquara - Alberto entrada 6:35
+[13/12/2022 07:47:35] Natan Soares Silveira: 13/12 Aviccena - Natan - entrada 06:30
+[13/12/2022 08:03:18] Andreia Loureiro Mori: 13/12 ITAIM Andréia entrada 7:00
+[13/12/2022 08:03:32] Matheus de Alencar Arraes: 13/12 ITAIM Arraes entrada 08:00
+[13/12/2022 08:23:45] Sheila Itiroco Monte: 13/12 ITAIM Sheila entrada 06:00
+[13/12/2022 08:29:26] André da Costa Aguiar Ventura: 13/12 MORUMBI Ventura entrada 6:50
+[13/12/2022 08:29:49] Rogério Sidney Thon: 13/12 Itaim Rogério entrada 6:00h
+[13/12/2022 08:32:16] Anna Beatriz Aranha Trevisan: 13/12 MORUMBI - Anna Beatriz entrada 06:00
+[13/12/2022 08:53:30] Bruno Ferraz de Campos Barone: 13/12 VNS Barone entrada 06:15
+[13/12/2022 08:56:01] Andreia Loureiro Mori: 13/12 ITAIM Andréia entrada 7:00 (extra)
+[13/12/2022 08:58:09] Rafael Tadeu Marques: 13/12 VNS Rafael tadeu entrada: 06:20
+[13/12/2022 08:59:03] Norival Scandelai Junior: 13/12 Morumbi - Norival Entrada 6:10
+[13/12/2022 09:06:19] Daniel Rodrigues de Oliveira: 12/12 Itaim Daniel saída 19:15

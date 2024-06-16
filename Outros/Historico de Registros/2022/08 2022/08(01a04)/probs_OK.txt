@@ -1,0 +1,40 @@
+[02/08/2022 19:58:55] ‪+55 11 93014‑1014‬: 02/ Analia Alexsander Hamada saída as 19 45
+[02/08/2022 16:52:05] ‪+55 31 9311‑8084‬: 02/08 JABAQUARA - Miranda saída às 16:50
+[01/08/2022 19:29:34] ‪+55 31 9311‑8084‬: 01/08 OSASCO - Miranda saída às 19:28
+[03/08/2022 23:20:07] ‪+55 31 9866‑0605‬: 03/08 - Osasco - Coelho 23:00
+[04/08/2022 05:40:55] ‪+55 31 9866‑0605‬: Corrigindo: 03/08 - Osasco - Felipe Coelho Entrada 6:00 Saída 23:00
+[03/08/2022 05:56:32] ‪+55 11 93014‑1014‬: 03/08 Villa Alexsander entrada 5:40
+[03/08/2022 19:28:32] ‪+55 11 93014‑1014‬: 03/08 Villa - Alexsander   Saída  19:30
+
+[01/08/2022 19:00:08] Thais Chaves Pinheiro: 01/08 Osasco - Thaís entrada 19:00 (Assumo plantão no lugar do João)
+[01/08/2022 08:41:53] Turibio Rodrigues Freire Neto: 01/08 Morumbi Turíbio (Distância) Entrada 06:20
+[03/08/2022 19:41:55] Turibio Rodrigues Freire Neto: 03/08 Morumbi Turíbio distância Entrada 06:15
+[03/08/2022 01:09:58] Wangles Pignaton de Paula: 02/08 MORUMBI - Wangles saída 1 h 00 min de 03/08 (distância)
+[01/08/2022 19:13:51] Yuri Lucas De Souza: 01/08 OSASCO - Souza entrada 06:00 e saída 19:10
+[01/08/2022 13:04:28] Aline Franchini Goulart Lima: 01/08 VILLA Aline saída 12h40 (Juliana Hussein assume o plantão)
+
+[02/08/2022 21:30:06] Milton Olaio Neto: 02/8-Itaim Olaio entrada 7h e saída 21h10
+
+
+[03/08/2022 12:54:46] Elaine Imaeda de Moura: 03/08 Morumbi Elaine entrada 4:40 (correção, data estava errada)
+[03/08/2022 14:04:20] Rafael Tadeu Marques: 03/08 Itaim Rafael tadeu Assumo rotina Norival Entrada: 14:00h
+[04/08/2022 08:09:30] Luiz Guilherme Thomaz Zacharias: 04/08 MORUMBI - Guilherme entrada 5:50 até as 7h (valor normal)
+
+[06/08/2022 15:41:52] Carlos Eduardo Gondim Oliveira: 06/08 VNS - oliveira entrada as 06:15 (Distância)
+
+[07/08/2022 13:12:37] Diogo Candeo Rodrigues Cordeiro: 07/08 Jabaquara - Candeo entrada às 07:00 e saída às 13:00 D3
+
+[05/08/2022 01:23:59] Marcelo dos Anjos Reis: 04/08 Morumbi Marcelo saida 01:20 (distancia)
+
+[05/08/2022 01:46:03] Mariana Dardengo Borges: 04/08 MORUMBI - M. Dardengo saída 01:40 (distância)
+
+[06/08/2022 18:59:14] Pedro Augusto Tavares Dall Aglio: 06/08 - Itaim- Tavares - entrada: 19h (assumo plantão)
+
+[07/08/2022 23:05:27] Gretel Oliveira Nicolau: O7/08- Villa - Gretel saída  17: 10 ( D1R- deslocamento MT)
+
+[05/08/2022 19:47:19] Karen Yumi Miyashiro: 05/08 ANÁLIA- Yumi entrada 06:00 (deslocada JB)
+
+[07/08/2022 12:21:37] Karen Peixoto Ricci: 07/08 Itaim Karen entrada 7:00 (d3)
+[07/08/2022 12:22:09] Karen Peixoto Ricci: 07/08 Itaim Karen saída 12:10 (d3)
+[07/08/2022 18:01:37] Mônica Robles Gonçalves: 07/08 Itaim Monica entrada 07:00 (D2)
+[07/08/2022 18:02:02] Mônica Robles Gonçalves: 07/08 Itaim Monica saida 14:05 (D2)

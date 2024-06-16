@@ -1,0 +1,660 @@
+13/06/2022 20:21 - +55 11 97780-5085: 13/06 ANALIA - Giraldelli saida 20h20.
+13/06/2022 20:23 - +55 11 99552-6970: 13/06 MORUMBI - Amanda saida às 20:10h
+13/06/2022 20:40 - +55 11 93000-5556: 13/06 OSASCO - Ronald saida 20:40
+13/06/2022 21:08 - +55 11 99455-4085: 13/06 MORUMBI - Anna Beatriz saida 21h05
+13/06/2022 21:20 - +55 11 97979-3762: 13/06 - Analia - Wong - Saida 21:10h
+13/06/2022 21:30 - +55 11 98613-7767: 13/06 Morumbi - Mariana Gasparelli saida 20:50
+13/06/2022 22:15 - +55 11 98925-8101: 13/06 - ANALIA - Paula A - saida 22:15hs
+13/06/2022 22:15 - +55 11 98736-2313: 13/06 OSASCO - Thiago Silva saida 21:35
+13/06/2022 22:16 - +55 11 91093-2345: 13/06 OSASCO-kawaura saida 22:15hs
+13/06/2022 22:17 - +55 11 98328-4904: 13/06 ANALIA - Tavares - saida 22:15
+13/06/2022 22:17 - +55 11 97195-9129: 13/06 ANALIA Matheus saida 22:10
+13/06/2022 22:24 - +55 17 99664-7931: 13/06 Analia- Souza saida 21:10
+13/06/2022 22:26 - +55 11 97544-7981: 13/06 Villa Renato - saida 20:25
+13/06/2022 22:27 - +55 11 93936-1052: 13/6 - Itaim José Marcos saida 20:00h
+13/06/2022 22:30 - +55 11 99668-5693: 13/06 ANALIA Sheila saida 22:30
+13/06/2022 23:13 - +55 11 98135-1412: 13/06 Villa Elaine saida 23:10
+14/06/2022 04:24 - +55 11 98152-5544: 14/06 VILLA - M. Cecília entrada às 4h21
+14/06/2022 05:01 - +55 18 99769-2299: 14/06 Morumbi- Letícia entrada 4:30
+14/06/2022 05:18 - +55 11 98857-6333: 14/06 ANALIA - Gabriel entrada 5:15
+14/06/2022 05:22 - +55 11 99386-7232: 14/06 Itaim Débora entrada 05:15h
+14/06/2022 05:42 - +55 19 98133-5715: 14/06 Morumbi Vivianna entrada 05:30
+14/06/2022 05:43 - +55 14 98106-9529: 14/06 - Jabaquara - Silvia entrada 05:30
+14/06/2022 05:46 - +55 19 98818-5184: 14/06 - Analia - Marques entrada 05:45h
+14/06/2022 05:56 - +55 11 98207-5064: 14/06 Morumbi - Yuri entrada 05:30
+14/06/2022 05:58 - +55 11 98342-7637: 14/06 - Jabaquara Vitor entrada 6h00
+14/06/2022 05:59 - +55 11 97363-7172: 14/06 ANALIA - Diogo entrada 06h00
+14/06/2022 06:01 - +55 11 98540-4606: 14/06 MORUMBI - Wangles: entrada 6 h 00 min
+14/06/2022 06:11 - +55 11 99671-2384: 14/06 Itaim - Carvalho - Entrada 06h
+14/06/2022 06:12 - +55 21 98347-7559: 14/06 - Jabaquara Jessica entrada 6h00
+14/06/2022 06:21 - +55 11 97622-8367: 14/6 OSASCO renan entrada 5:40
+14/06/2022 06:24 - +55 11 98135-1412: 14/06 ANALIA Elaine entrada 6:00
+14/06/2022 06:29 - +55 11 99688-2228: 14/06 Jabaquara - Thales - entrada 6:00
+14/06/2022 06:36 - +55 11 99471-0484: 14/6 Morumbi - Norival  Entrada 6:00
+14/06/2022 06:56 - +55 11 99623-1393: 13/06 - OSASCO - Everton  Saida: 20:55h
+14/06/2022 07:00 - +55 11 97039-1717: 14/6 - AVICCENA - Álvaro Entrada 6h20
+14/06/2022 07:14 - +55 11 96583-4881: 14/06 ANALIA - Renata Bueno entrada 5:35
+14/06/2022 07:15 - +55 11 96580-9153: 14/06 alpha Hedicleber entrada 05:45
+14/06/2022 07:17 - +55 11 97514-6843: 14/06 ANALIA Thiago Martins entrada as 05h50
+14/06/2022 07:20 - +55 11 98315-9950: 14/06 Itaim Rogério entrada 6:00h
+14/06/2022 07:46 - +55 11 96430-8158: 13/06 OSASCO - Bianca saida 21h10
+14/06/2022 07:54 - +55 11 98952-8447: 14/06 Jabaquara - Fabiana entrada 6:00
+14/06/2022 11:04 - +55 11 98325-1538: 14/06 OSASCO Yoko entrada 6:30
+14/06/2022 11:44 - +55 11 93150-7166: 14/06 VNS Saullo entrada 06:00
+14/06/2022 14:45 - +55 11 99386-7232: 14/06 Itaim Débora saida 14:45h
+14/06/2022 14:46 - +55 11 94516-9147: 14/06 - ANALIA Cadu saida às 13:40h
+14/06/2022 14:48 - +55 11 98757-2707: 14/06 - ANALIA Maciel saida às 14:45 (pós-plantão)
+14/06/2022 14:50 - +55 11 99134-8989: 14/06 Morumbi - Pedro (extra)Saida 13:00h
+14/06/2022 14:50 - +55 11 97618-5274: 14/06 ANALIA Manoel Saida 14:50
+14/06/2022 14:53 - +55 11 94500-4841: 14/06 VILLA - Akemi saida 14:50hrs (EXTRA)
+14/06/2022 15:31 - +55 11 98207-2567: 14/06 - Morumbi Koga saida 15:30 extra
+14/06/2022 15:57 - +55 11 99901-0097: 14/6 OSASCO Luccas saida 13:00
+14/06/2022 16:00 - +55 11 98315-9950: 14/06 Itaim Rogério saida 15:15h
+14/06/2022 16:02 - +55 11 94048-8859: 14/06 Jabaquara - Fernanda saida 16:00 ( extra )
+14/06/2022 16:20 - +55 11 98342-7637: 14/06 - Jabaquara Vitor saida 16h20
+14/06/2022 16:26 - +55 11 96580-9153: 14/06 alpha Hedicleber saida 16:25(deslocado Osasco)
+14/06/2022 16:30 - +55 14 98106-9529: 14/06 - Jabaquara - Silvia saida 16:30
+14/06/2022 16:33 - +55 11 98857-6333: 14/06 ANALIA - Gabriel saida 16:30
+14/06/2022 16:41 - +55 11 98952-8447: 14/6 Jabaquara - Fabiana saida 16:30
+14/06/2022 16:50 - +55 19 98818-5184: 14/06 - ANALIA - Marques saida 16:40h
+14/06/2022 16:52 - +55 11 97337-0789: 14/06- Itaim-- Sidney- entrada as  06:00 e saida 16:20
+14/06/2022 17:01 - +55 11 99688-2228: 14/06 Jabaquara - Thales - saida 16:50
+14/06/2022 17:03 - +55 11 96076-2899: 14/06 Jabaquara- Matheus Viana- saida 17:06
+14/06/2022 17:12 - +55 11 97039-1717: 14/6 - AVICCENA - Álvaro Entrada 6h20 / Saida 15:15
+14/06/2022 17:13 - +55 21 96963-1676: 14/06 Jabaquara Facchini saida 14:50 (extra)
+14/06/2022 17:43 - +55 11 98349-6499: 14/06 VNS Rafael tadeu Saida: 17:36h (EXTRA)
+14/06/2022 18:05 - +55 11 99455-4085: 14/06 MORUMBI - Anna Beatriz saida 18h05
+14/06/2022 18:19 - +55 11 98267-1900: 14/06 Alpha - Natan- saida 14:40 (deslocado Jabaquara)
+14/06/2022 18:29 - +55 11 98506-6158: 14/06 Morumbi Marcelo saida 18:05
+14/06/2022 18:30 - +55 11 99715-4325: 14/06 VILLA Ana entrada 06:00
+14/06/2022 19:23 - +55 11 94480-1920: 14/06 Osasco Vanessa saida 19:20h
+14/06/2022 19:24 - +55 11 98221-2562: 14/06 VILLA Avelino saida 19:20h
+14/06/2022 19:25 - +55 11 99134-7955: 14/06 OSASCO - haga saida 19:20
+14/06/2022 19:37 - +55 11 97651-9961: 14/06 Villa - Pinheiro saida 19h37m
+14/06/2022 19:40 - +55 11 98371-9212: 14/06 VNS Roberto saida 19:40 ( deslocado Itaim)
+14/06/2022 19:40 - +55 11 96583-4881: 14/06 Analia - Renata Bueno saida 16h30
+14/06/2022 19:42 - +55 11 98285-5008: 14/06 Jabaquara - Bruno LemosSaida 19:40
+14/06/2022 19:42 - +55 11 94803-6868: 14/06 Villa - Gondim saida 19h40
+14/06/2022 19:51 - +55 11 98202-5443: 14/06 Morumbi Turíbio Entrada 06:15 Saida: 19:50
+14/06/2022 19:52 - +55 11 98499-7133: 14/06 ANALIA Débora Bressane entrada 06:00
+14/06/2022 19:54 - +55 11 99552-6970: 14/06 ITAIM - Amanda saida às 19:40h
+14/06/2022 19:54 - +55 11 94240-1412: 14/06-ANALIA-PAOLA saida 19:50h
+14/06/2022 19:57 - +55 11 99885-9879: 14/05 Alpha Juliano Tobal saida 19h30
+14/06/2022 20:01 - +55 11 97514-6843: 14/06 ANALIA Thiago Martins entrada as 05h50 e saida as 19h45
+14/06/2022 20:12 - +55 11 97544-7981: 14/06 Villa Renato - entrada 10:00 saida 17:25
+14/06/2022 20:12 - +55 11 99764-0380: 14/06 Itaim Daniel entrada 13:00h e saida 19:40h
+14/06/2022 20:18 - +55 11 99577-0208: 14/06 Aviccena Piassi  saida 20:17
+14/06/2022 20:45 - +55 21 98347-7559: 14/06 Jabaquara - Jessica Saida 20:45
+14/06/2022 20:45 - +55 11 98540-4606: 14/06 MORUMBI - Wangles: saida 20 h 45 min
+14/06/2022 20:48 - +55 11 98144-9399: 14/06 VILLA Vívian saida 20:45
+14/06/2022 20:53 - +55 11 98364-8637: 14/06 VNS bruce entrada 06:20Saida 20:40
+14/06/2022 21:08 - +55 11 99786-0461: 14/06 ANALIA Aline saida 21h08
+14/06/2022 21:09 - +55 11 98731-4904: 14/06 OSASCO - Candeo saida às 16:15 (pós plantão / deslocado do Aviccena)
+14/06/2022 21:12 - +55 11 99623-1393: 14/06 - OSASCO - Everton (deslocado Jabaquara)Saida: 18:50h
+14/06/2022 21:15 - +55 11 93936-1052: 14/6 - Itaim José Marcos saida 19:30h
+14/06/2022 21:15 - +55 11 99788-0066: 14/06 OSASCO - Lívia saida 17:15h
+14/06/2022 21:16 - +55 11 93217-5039: 14/06 MORUMBI - Daniellen saida 21:15h
+14/06/2022 21:17 - +55 82 9655-7210: 14/06 Analia- Ighor saida 21:15
+14/06/2022 21:38 - +55 11 98989-4801: 14/06 OSASCO - Bezerra saida as 21:10
+14/06/2022 21:40 - +55 11 97453-7574: 14/06 VNS - Filipe Lugon saida as 21:40h
+14/06/2022 21:41 - +55 11 94360-4985: 14/06 ANALIA Nathália saida às 21:40h
+14/06/2022 21:42 - +55 11 99758-4554: 14/06 ANALIA Fabiana Gama saida  as 21:40
+14/06/2022 21:45 - +55 11 95783-4415: 14/06 ITAIM Arraes saida 21:30
+14/06/2022 21:46 - +55 11 99270-3491: 14/06 ITAIM - Guilherme saida 21:45
+14/06/2022 22:15 - +55 11 93000-5556: 14/06 Villa - Ronald saida 20:50
+14/06/2022 22:17 - +55 11 96030-8340: 14/06 ANALIA José Carlos Saida 21:40
+14/06/2022 22:57 - +55 11 99463-8029: 14/06 VILLA - J. Hussein saida 22:05
+14/06/2022 23:33 - +55 11 99317-9863: 14/06 Jabaquara Maeda saida 23:10
+15/06/2022 00:05 - +55 11 98059-0668: 14/06 VILLA Carlos saida 15/06 00h00m (Distancia)
+15/06/2022 02:21 - +55 11 93150-7166: 14/06 VNS Saullo saida 02:00
+15/06/2022 05:13 - +55 11 98824-7117: 15/06 Jabaquara Ráo entrada 05:10
+15/06/2022 05:17 - +55 11 97453-7574: 15/06 ITAIM - Filipe Lugon entrada 05:15h
+15/06/2022 05:21 - +55 11 97979-3762: 15/06 - ANALIA - Wong - Entrada 05:15h
+15/06/2022 05:22 - +55 11 98349-6499: 15/06 Itaim Rafael tadeu Entrada 05:15h
+15/06/2022 05:28 - +55 11 99671-2384: 15/06 Itaim - Carvalho - Entrada 04h45
+15/06/2022 05:28 - +55 11 93217-5039: 15/06 MORUMBI - Daniellen entrada 05:10h
+15/06/2022 05:30 - +55 11 98925-8101: 15/06 - ANALIA - Paula A - entrada 05:30hs
+15/06/2022 05:32 - +55 27 99755-2492: 15/06 ANALIA Neliane entrada 05:30
+15/06/2022 05:40 - +55 11 99317-9863: 15/06 OSASCO Maeda entrada 5:40
+15/06/2022 05:41 - +55 11 97996-6228: 15/06 Villa Maurício entrada 5:40
+15/06/2022 05:45 - +55 11 99897-5310: 15/06 VILLA - Francisco entrada 04:50
+15/06/2022 05:46 - +55 11 99471-0484: 15/6 Itaim - Norival Entrada 5:15
+15/06/2022 05:46 - +55 11 97320-0100: 15/06 Itaim Zamith entrada 05:45
+15/06/2022 05:48 - +55 11 98342-7637: 15/06 - Itaim Vitor entrada 6h00
+15/06/2022 05:56 - +55 11 98144-9399: 15/06 ANALIA  Vivian entrada 06:00
+15/06/2022 05:57 - +55 14 98187-8937: 15/06 Jabaquara stefany entrada as 05:00h
+15/06/2022 06:00 - +55 11 98267-1900: 15/05 - OSASCO - Natan - entrada 06:00
+15/06/2022 06:00 - +55 11 98540-4606: 15/06 MORUMBI - Wangles: entrada 6 h 00 min
+15/06/2022 06:01 - +55 18 99788-1950: 14/06 aviccena costa saida 17:00
+15/06/2022 06:02 - +55 18 99788-1950: 15/06 jabaquara costa entrada 6h
+15/06/2022 06:04 - +55 11 94127-2750: 15/06 OSASCO - Patrick entrada 6:00
+15/06/2022 06:07 - +55 21 96961-5924: 15/06 Jabaquara - Carmello entrada 06:00
+15/06/2022 06:11 - +55 11 96459-7930: 15/06 Itaim - João entrada 06h00
+15/06/2022 06:20 - +55 19 98133-5715: 15/06 Morumbi Vivianna entrada 06:15
+15/06/2022 06:21 - +55 11 99788-0066: 15/06 OSASCO - Livia entrada 5:20h
+15/06/2022 06:31 - +55 11 94480-1920: 15/06 ANALIA Vanessa entrada 06h
+15/06/2022 06:32 - +55 11 99134-7955: 15/06 VILLA - haga entrada 05:30
+15/06/2022 06:39 - +55 11 96030-8340: 15/06 Jabaquara José Carlos Entrada 06:00
+15/06/2022 06:41 - +55 11 98315-9950: 15/06 Morumbi Rogério entrada 5:15h
+15/06/2022 06:44 - +55 11 98496-6744: 15/06 Alpha - Marcos entrada 5:45h
+15/06/2022 06:52 - +55 11 97345-4609: 14/06 Jabaquara Diego saida 16:45
+15/06/2022 06:59 - +55 11 99298-5645: 15/06 VNS Ribeiro entrada 06:40
+15/06/2022 07:08 - +55 11 96580-9153: 15/06 Villa Hedicleber entrada 06:00
+15/06/2022 07:22 - +55 11 95471-1556: 15/06 Analia Mônica entrada 05:30
+15/06/2022 07:42 - +55 11 98325-1538: 14/06 OSASCO Yoko saida 16:20
+15/06/2022 08:03 - +55 11 99270-3491: 15/06 ITAIM - Guilherme entrada 6:00
+15/06/2022 08:12 - +55 11 98152-5544: 15/06 VILLA - M. Cecília dispensado (motivo de saúde)
+15/06/2022 09:33 - +55 11 98613-7767: 15/06 Morumbi - Mariana Gasparelli dispensado
+15/06/2022 12:00 - +55 11 94048-8859: 15/06 Morumbi - Fernanda saida 12:00 ( EXTRA )
+15/06/2022 12:35 - +55 11 95485-5006: 15/06 OSASCO saida 12:30 (extra)
+15/06/2022 12:45 - +55 11 97030-5050: 14/06 Jabaquara Bruna saida 21h30
+15/06/2022 12:58 - +55 11 97693-0685: 14/06 VNS Fabio saida 12:55(Extra)
+15/06/2022 13:39 - +55 11 98185-6767: 14/06 - EXTRA - Morumbi - Ricardo Ivo Saida - 13:30h
+15/06/2022 15:05 - +55 11 94500-4841: 14/06 VILLA - Akemi saida 15:05hrs (EXTRA)
+15/06/2022 16:10 - +55 11 99430-3910: 15/06 Aviccena Leandro kanada ( deslocado Villa) pos plantão saida 16:05
+15/06/2022 16:13 - +55 11 99758-4554: 15/06 ANALIA Fabiana Gama saida as 16:05 ( meio período manhã )
+15/06/2022 16:26 - +55 11 98371-9212: 15/06 Osasco Roberto saida 16:00 ( motivo saúde)
+15/06/2022 16:27 - +55 11 99463-8029: 15/06 VILLA - J. Hussein saida 12:35 (EXTRA)
+15/06/2022 17:02 - +55 11 98364-8637: 15/06 Analia bruce entrada 06:30Saida 16:20 (deslocado Morumbi)
+15/06/2022 17:03 - +55 11 91093-2345: 15/06 OSASCO Kawaura(pós plantão) saida 17:00hs
+15/06/2022 17:28 - +55 11 93000-5556: 15/06 Jabaquara - Ronald saida 17:10 (EXTRA)
+15/06/2022 18:01 - +55 11 97039-1717: 15/6 - AVICCENA Álvaro Entrada 6h30 / Saida 17h20
+15/06/2022 18:15 - +55 11 96076-2899: 15/06 - Matheus Viana- entrada 06:00h
+15/06/2022 18:26 - +55 11 99688-2228: 15/06 - Itaim - Thales - saida 18:25 (rotina assumida pelo Barbosa)
+15/06/2022 18:29 - +55 11 98952-8447: 15/6 VNS - Fabiana entrada 6:30
+15/06/2022 18:43 - +55 11 93150-7166: 15/06 VNS Saullo entrada 05:00 saida 16:30
+15/06/2022 18:52 - +55 11 99715-4325: 15/06 ANALIA Ana entrada 05:45
+15/06/2022 19:13 - +55 11 98328-4904: 15/06 ANALIA - Tavares - saida 19:10
+15/06/2022 19:15 - +55 11 93217-5039: 15/06 MORUMBI - Daniellen saida 19:10h
+15/06/2022 19:39 - +55 18 99788-1950: 15/06 jabaquara costa saida 19:20
+15/06/2022 19:39 - +55 11 97337-0789: 15/06-Itaim-Sidney-entrada as 07:00 e saida as19:30
+15/06/2022 19:40 - +55 19 98133-5715: 15/06 Morumbi Vivianna entrada 06:15 saida 19:40
+15/06/2022 19:44 - +55 11 99788-0066: 15/06 OSASCO - Livia saida 17:05h
+15/06/2022 19:50 - +55 11 96030-8340: 15/06 Jabaquara José Carlos Saida 19:50
+15/06/2022 19:50 - +55 11 99668-5693: 15/6 ANALIA Sheila saida 19:50
+15/06/2022 19:53 - +55 11 94516-9147: 15/06 - ANALIACadu saida às 19:30h
+15/06/2022 19:56 - +55 17 99664-7931: 15/06 Villa - Souza saida 19:50
+15/06/2022 20:00 - +55 21 96961-5924: 15/06 Jabaquara - Carmello saida 19:50
+15/06/2022 20:11 - +55 11 96459-7930: 15/06 Itaim - João saúda 19h50
+15/06/2022 20:14 - +55 11 96580-9153: 15/06 Villa Hedicleber saida 20:10
+15/06/2022 20:15 - +55 11 98540-4606: 15/06 MORUMBI - Wangles: saida 20 h 15 min
+15/06/2022 20:27 - +55 11 98499-7133: 15/06 Jabaquara Débora Bressane saida 20:00
+15/06/2022 20:31 - +55 19 98818-5184: 15/06 - Analia - Marques saida 20:30h
+15/06/2022 20:34 - +55 11 93936-1052: 15/6 - Itaim José Marcos saida 20:10h
+15/06/2022 20:48 - +55 11 98506-6158: 15/06 Itaim Marcelo saida 20:35
+15/06/2022 20:50 - +55 11 97320-0100: 15/06 Itaim. Zamith Saida  20:50 hs
+15/06/2022 20:51 - +55 11 98390-9645: 15/06 jabaquara yuji saida 20:50
+15/06/2022 20:55 - +55 11 98270-4774: 15/06 Osasco Luiz Augusto saida as 20:40 hs
+15/06/2022 20:57 - +55 11 98589-5916: 15/06 Itaim - Barbosa Entrada 18:25 Saida 20:50 (Rotina No lugar do Thales )
+15/06/2022 21:10 - +55 11 99552-6970: 15/06 MORUMBI - Amanda saida às 20:00h
+15/06/2022 21:12 - +55 11 99134-8989: 15/06 Morumbi - Pedro Saida 19:40
+15/06/2022 21:29 - +55 11 98202-8804: 15/06 ANALIA-Estanrley Saida: 20h:30
+15/06/2022 21:30 - +55 11 99317-9863: 15/06 OSASCO Maeda saida 17:10
+15/06/2022 21:41 - +55 11 98285-5008: 15/06 Jabaquara - Bruno Lemos Saida 21:40
+15/06/2022 21:48 - +55 11 97195-9129: 15/06 Villa Matheus saida 21:45
+15/06/2022 21:54 - +55 11 94360-4985: 15/06 ANALIA Nathália saida às 21:45h
+15/06/2022 22:10 - +55 11 95730-8277: 15/06 Villa Xavier saida 22:00
+15/06/2022 22:37 - +55 21 96963-1676: 15/06 Analia Facchini saida 21:45
+15/06/2022 22:42 - +55 11 98213-0230: 15/06 MORUMBI - Renata Togeiro saida 20:15
+15/06/2022 23:13 - +55 11 94942-8888: 15/06 - VILLA - Paula Neves - saida 22:50 hrs
+16/06/2022 05:23 - +55 11 99620-1746: 16/06 Itaim M. Carolina entrada 05h20
+16/06/2022 05:30 - +55 11 98824-7117: 16/06 Itaim Ráo entrada 05:30
+16/06/2022 05:32 - +55 11 94360-4985: 16/06 MORUMBI Nathália entrada às 05:10h
+16/06/2022 05:43 - +55 11 99317-9863: 16/06 Jabaquara Maeda entrada 5:30
+16/06/2022 05:49 - +55 12 99644-1801: 16/06 MORUMBI toledo entrada 5:15
+16/06/2022 05:55 - +55 11 98535-1526: 16/06 Morumbi antipou entrada 06:00
+16/06/2022 05:58 - +55 14 98106-9529: 16/06 - Morumbi - Silvia entrada 06:00
+16/06/2022 05:59 - +55 11 95494-3031: 16/06 Villa Orlando entrada 06:00
+16/06/2022 05:59 - +55 11 98524-3797: 16/06 JABAQUARA - Ulysses entrada 6:00
+16/06/2022 06:00 - +55 11 97618-5274: 16/06 VNS Manoel entrada 06:00
+16/06/2022 06:01 - +55 11 98390-9645: 16/06 villa yuji entrada 06:00
+16/06/2022 06:01 - +55 11 99298-5645: 16/06 ANALIA Ribeiro entrada 06:00
+16/06/2022 06:04 - +55 11 99671-2384: 16/06 Itaim - Carvalho - Entrada 06h
+16/06/2022 06:06 - +55 11 98267-1900: 16/06 - Morumbi - Natan - entrada 05:20
+16/06/2022 06:08 - +55 11 98736-2313: 16/06 - Osasco - T. Silva entrada 05:40
+16/06/2022 06:11 - +55 11 95730-8277: 16/06 VNS Xavier entrada 06:00
+16/06/2022 06:21 - +55 11 94942-8888: 16/06 - ANALIA - Paula Neves - entrada 5:30 hrs.
+16/06/2022 06:25 - +55 11 98059-0668: 15/06 ITAIM Carlos saida 20h00m
+16/06/2022 06:31 - +55 11 97622-8367: 16/6 alpha renan entrada as 6:00
+16/06/2022 06:44 - +55 11 98589-5916: 16/06 - ANALIA - Barbosa Entrada 06:00
+16/06/2022 06:49 - +55 11 99582-0499: 16/06 Itaim - Kakuda entrada 5:20
+16/06/2022 07:02 - +55 11 97300-2336: 15/06 Prevent Sênior André - entrada: 18h/ saida: 01:45h (EXTERNA)
+16/06/2022 07:20 - +55 11 96928-2696: 16/06 Jabaquara- Nunes - entrada 6:00
+16/06/2022 07:22 - +55 11 97302-0603: 16/06 Jabaquara- Lemes - entrada 6:00
+16/06/2022 07:31 - +55 11 95155-6889: 16/06 morumbi - oliveira entrada 07:30 (atraso)
+16/06/2022 08:08 - +55 11 93150-7166: 16/06 VNS Saullo entra 05:30
+16/06/2022 08:35 - +55 11 97699-4451: 16/07 OSASCO Paloma entrada 6:00
+16/06/2022 08:48 - +55 11 97363-7172: 16/06 ANALIA - Diogo dispensado (saúde)
+16/06/2022 09:40 - +55 11 99950-9540: 16/06 VNS Soares saida 09:40 ( Extra )
+16/06/2022 09:53 - +55 11 96030-8340: 16/06 Jabaquara José Carlos Entrada 6:00
+16/06/2022 10:09 - +55 11 99668-5693: 16/6 ITAIM Sheila entrada 6:00
+16/06/2022 10:50 - +55 11 99700-0471: 16/06 MORUMBI - Miyashiro saida 10:50
+16/06/2022 10:50 - +55 12 99644-1801: 16/06 MORUMBI toledo (deslocado Itaim) saida 10:50
+16/06/2022 10:52 - +55 11 99606-4189: 16/06 Morumbi Luciano saida 10h45
+16/06/2022 11:01 - +55 11 98267-1900: 16/06 - Morumbi - Natan saida 10:50 (deslocado Jabaquara)
+16/06/2022 11:02 - +55 11 95783-4415: 16/06 ITAIM Arraes saida 11:00 (pos plantao)
+16/06/2022 11:08 - +55 11 99909-7499: 16/06 Jabaquara Rafael Fava saida 11:00
+16/06/2022 11:08 - +55 11 97345-4609: 16/06 Jabaquara Diego saida 10:50
+16/06/2022 11:14 - +55 14 98106-9529: 16/06 - Morumbi - Silvia saida 10:50
+16/06/2022 11:18 - +55 11 94360-4985: 16/06 MORUMBI Nathália entrada às 05:10 saida às 11:10
+16/06/2022 11:35 - +55 11 96030-8340: 16/06 Jabaquara José Carlos Saida 11:35
+16/06/2022 12:22 - +55 11 99317-9863: 16/06 Jabaquara maeda saida 12:00
+16/06/2022 12:45 - +55 11 95730-8277: 16/06 Saida 12:30
+16/06/2022 12:49 - +55 11 94942-8888: 16/06 - ANALIA - Paula Neves - saida 10:40 hrs
+16/06/2022 12:58 - +55 11 98185-6767: 16/06 - Morumbi - Ricardo Ivo Entrada - 05:40h Saida - 12:55h
+16/06/2022 13:02 - +55 11 99620-1746: 16/06 Itaim M. Carolina saida 12h50
+16/06/2022 13:03 - +55 11 97300-2336: 16/06 itaim André - saida: 12:45h
+16/06/2022 13:05 - +55 11 98613-7767: 16/06 Morumbi - Mariana Gasparelli (dispensado)
+16/06/2022 13:07 - +55 11 96076-2899: 16/06 Jabaquara- Matheus Viana - entrada 06:00 Saida 13:10
+16/06/2022 13:12 - +55 11 99669-0435: 16/06 ANALIA - Bonfitto Entrada: 06:00h Saida: 12:55h
+16/06/2022 13:12 - +55 11 98736-2313: 16/06 Saida 11:40
+16/06/2022 13:12 - +55 11 98589-5916: 16/06 ANALIA - Barbosa Saida 13:06
+16/06/2022 13:16 - +55 11 99298-5645: 16/06 ANALIA Ribeiro saida 13:10
+16/06/2022 13:34 - +55 11 98952-8447: 16/06 VNS - Fabiana - assumo o distância
+16/06/2022 13:46 - +55 11 99668-5693: 16/6 ITAIM Sheila saida 13:45
+16/06/2022 13:53 - +55 11 98824-7117: 16/06 Itaim Ráo saida 13:50
+16/06/2022 14:20 - +55 11 95494-3031: 16/06 Villa Orlando saida 14:20
+16/06/2022 14:22 - +55 11 93936-1052: 16/6 - Itaim José Marcos entrada 6h e saida 14:20h
+16/06/2022 14:28 - +55 27 99755-2492: 16/06 Jabaquara Neliane saida 14:25
+16/06/2022 14:45 - +55 11 94537-4540: 16/06 Itaim R. Modolo entrada 6h00 e saida 14h44
+16/06/2022 14:48 - +55 11 99314-1082: 16/06 OSASCO - Rey entrada 05:50 e saida 14:45
+16/06/2022 14:50 - +55 82 9655-7210: 16/06 Analia - Ighor saida 14:45
+16/06/2022 14:51 - +55 11 98390-9645: 16/06 villa yuji saida 14:50
+16/06/2022 14:52 - +55 21 98347-7559: 16/06 Analia - Jessica saida 14:40 (deslocado villa/Morumbi)
+16/06/2022 14:57 - +55 11 96430-8158: 16/06 Osasco - Bianca saida 14h50
+16/06/2022 15:14 - +55 11 97302-0603: 16/06 Jabaquara Lemes saida 14:25
+16/06/2022 15:25 - +55 11 97699-4451: 16/07 OSASCO Paloma entrada 6:00 saida 14:45
+16/06/2022 15:25 - +55 11 97320-0100: 16/06 Jabaquara Zamith saida 15:25.
+16/06/2022 15:25 - +55 11 97996-6228: 16/06 Analia Maurício saida 15:25
+16/06/2022 15:27 - +55 11 97606-5975: 16/06 - ANALIA - Mirela - saida 15:25
+16/06/2022 15:27 - +55 11 93000-5556: 16/06 OSASCO - Ronald saida 15:20
+16/06/2022 15:31 - +55 11 98342-7637: 16/06 - Jabaquara Vitor saida 15h25
+16/06/2022 15:52 - +55 11 99463-8029: 16/06 VILLA - J. Hussein entrada 6:00 e saida 15:45
+16/06/2022 16:09 - +55 11 99455-4085: 16/06 MORUMBI Anna Beatriz saida 16h05
+16/06/2022 16:10 - +55 11 94500-4841: 16/06 ANALIA - Akemi saida 16:10hrs
+16/06/2022 16:37 - +55 11 98135-1412: 16/06 ANALIA Elaine saida 16:35
+16/06/2022 16:46 - +55 11 96459-7930: 16/06 ANALIA - João saida 16:40
+16/06/2022 16:59 - +55 11 98648-4894: 16/06: Villa - Maia; saida: 16:50
+16/06/2022 17:01 - +55 11 98349-6499: 16/06 VNS Rafael tadeu dispensado ( motivo de saúde)
+16/06/2022 17:06 - +55 11 98757-2707: 16/06 Villa - Maciel saida 17:05
+16/06/2022 17:19 - +55 11 94516-9147: 16/06 - ANALIA Cadu saida às 17:15h
+16/06/2022 17:22 - +55 11 96928-2696: 16/06  Jabaquara - Nunes - Saida 14:25
+16/06/2022 17:29 - +55 11 98202-8804: 16/06 ANALIA-Estanrley Saida: 16h:10
+16/06/2022 18:55 - +55 11 99758-4554: 16/6 Villa Fabiana Gama saida as 18:45
+16/06/2022 18:59 - +55 11 97544-7981: 16/06 Villa Renato - saida 17:10
+16/06/2022 19:45 - +55 11 99964-0616: 16/06 Itaim Karen saida 19:40
+16/06/2022 19:46 - +55 21 99648-3363: 16/06 Itaim Mota saida 19h40
+16/06/2022 20:00 - +55 11 99932-5422: 16/06 - Aviccena - Alexandre - entrada 06:30 - saida 19:20
+16/06/2022 20:10 - +55 11 99671-2384: 16/06 Itaim - Carvalho - Saida 20h10
+16/06/2022 20:10 - +55 11 97780-5085: 16/06 OSASCO - Giraldelli saida 20h10
+16/06/2022 20:18 - +55 11 97258-2895: 16/06 Itaim Larissa - saida 20:15
+16/06/2022 20:22 - +55 11 99134-8989: 16/06 Morumbi - Pedro Saida 20:15h
+16/06/2022 20:31 - +55 11 99788-0066: 16/06 OSASCO - Livia saida 19:20h
+16/06/2022 21:03 - +55 21 96963-1676: 16/06 Aviccena Facchini saida 20:40
+16/06/2022 21:26 - +55 11 99380-3117: 16/6-Itaim Olaio entrada 6h00 e saida 19h10
+16/06/2022 22:22 - +55 11 99577-0208: 16/06 - OSASCO Piassi saida 22:20
+16/06/2022 22:23 - +55 11 95155-6889: 16/06 morumbi - oliveira saida 22:22
+16/06/2022 23:19 - +55 11 98325-1538: 16/06 OSASCO Yoko saida 23:15
+17/06/2022 05:21 - +55 11 96739-0898: 17/06 Jabaquara - Buto entrada 5:20
+17/06/2022 05:35 - +55 11 99314-1082: 17/06 VILLA - Rey entrada 05:30
+17/06/2022 05:36 - +55 11 99786-0461: 17/06 Villa Aline chegada 05h35
+17/06/2022 05:47 - +55 11 99317-9863: 17/06 Jabaquara maeda entrada 5:40
+17/06/2022 05:50 - +55 11 98496-6744: 17/06 Villa - Marcos entrada 5:35h
+17/06/2022 05:50 - +55 18 99788-1950: 17/06 Morumbi Costa entrada 06:00h
+17/06/2022 05:55 - +55 11 91093-2345: 17/06 OSASCO kawaura entrada 6:00hs
+17/06/2022 05:57 - +55 11 99909-7499: 17/06 Itaim Rafael Fava entrada 6:00
+17/06/2022 05:59 - +55 21 96963-1676: 17/06 Itaim Facchini entrada 06:00
+17/06/2022 05:59 - +55 21 98347-7559: 17/06 Villa - Jessica entrada 6h (deslocado do ANALIA Franco)
+17/06/2022 05:59 - +55 11 99700-0471: 17/06 MORUMBI - Miyashiro entrada 06:00
+17/06/2022 06:00 - +55 12 99644-1801: 17/06 Villa - toledo entrada 6:00 (deslocado Itaim)
+17/06/2022 06:24 - +55 11 95155-6889: 17/06 vns - oliveira entrada 06:20
+17/06/2022 06:35 - +55 11 99668-5693: 17/6 MORUMBI entrada Sheila 6:00
+17/06/2022 06:38 - +55 11 98342-7637: 17/06 - Jabaquara Vitor entrada 06h30
+17/06/2022 07:10 - +55 11 95471-1556: 17/06 Itaim Mônica entrada 05:30
+17/06/2022 07:46 - +55 21 99648-3363: 17/06 Itaim Mota entrada 6h30
+17/06/2022 07:47 - +55 11 97618-5274: 17/06 ANALIA Manoel Saida 07:45
+17/06/2022 08:37 - +55 11 98152-5544: 17/06 VILLA - M. Cecília dispensado (motivo de saúde)
+17/06/2022 08:45 - +55 11 99582-0499: 17/06 Itaim Kakuda entrada 5:15h
+17/06/2022 10:08 - +55 11 96583-4881: 17/06 Villa - Renata Bueno saida 09:45 (pós plantão)
+17/06/2022 10:42 - +55 18 99769-2299: 17/06 Jabaquara-Leticia saida 10:00
+17/06/2022 10:43 - +55 11 98371-9212: 17/06 Itaim Roberto saida 10:40
+17/06/2022 10:55 - +55 11 99950-9540: 17/06 Itaim Soares saida 10:50 ( pos plantão)
+17/06/2022 10:59 - +55 11 98731-4904: 17/06 Itaim - Candeo saida às 10:50 (pós-plantão)
+17/06/2022 11:25 - +55 11 98364-8637: 17/06 Jabaquara bruce entrada 06:00Saida 10:40
+17/06/2022 11:28 - +55 11 98285-5008: 17/06 Jabaquara - Bruno LemosSaida 11:25
+17/06/2022 11:44 - +55 11 99380-3117: 17/6-Itaim Olaio entrada 6h00
+17/06/2022 12:08 - +55 11 99582-0499: 17/06 Itaim Kakuda saida 12:00
+17/06/2022 12:24 - +55 11 99764-0380: 17/06 Itaim Daniel saida 12:20h
+17/06/2022 12:25 - +55 11 99688-2228: 17/06 Jabaquara - Thales - saida 12:25
+17/06/2022 13:01 - +55 11 97363-7172: 17/06 ANALIA - Diogo dispensado
+17/06/2022 13:24 - +55 17 99664-7931: 17/06 Analia - Souza saida 13:20 (pos plantao)
+17/06/2022 13:26 - +55 11 99317-9863: 17/06 Jabaquara maeda saida 13:20
+17/06/2022 13:38 - +55 51 9928-2774: 17/06 Jabaquara - Maiely saida 13:35
+17/06/2022 13:43 - +55 11 98496-6744: 17/06 Villa - Marcos saida 13:40h
+17/06/2022 13:44 - +55 11 91093-2345: 17/06 OSASCO kawaura saida 13:40hs
+17/06/2022 13:45 - +55 11 97797-1766: 17/06 ANALIA,  Lucena saida 13:20
+17/06/2022 13:55 - +55 11 99623-1393: 17/06 - OSASCO - Everton Saida: 13:50h
+17/06/2022 14:00 - +55 11 99964-0616: 17/06 Alpha Karen saida 13:50
+17/06/2022 14:04 - +55 11 96739-0898: 17/06 Jabaquara - Buto saida 13:20
+17/06/2022 14:19 - +55 11 97302-0603: 17/06 OSASCO Lemes saida 14:15
+17/06/2022 14:21 - +55 11 94537-4540: 17/06 Osasco R. Modolo saida 14h10
+17/06/2022 14:34 - +55 11 98349-6499: 17/06 VNS Rafael tadeu Dispensado ( motivo de saúde)
+17/06/2022 14:56 - +55 11 99430-3910: 17/06 ANALIA Leandro kanada saida 14:40
+17/06/2022 15:25 - +55 11 99715-4325: 17/06 ANALIA Ana entrada 05:15 saida 15:25
+17/06/2022 15:51 - +55 11 99577-0208: 17/06 JABAQUARA Piassi saida 15:50
+17/06/2022 16:00 - +55 11 98135-1412: 17/06 Osasco Elaine saida 16:00
+17/06/2022 16:15 - +55 11 97195-9129: 17/06 Matheus saida 16:15
+17/06/2022 16:30 - +55 11 94500-4841: 17/06 VILLA - Akemi (deslocado ANALIA) Entrada 06:00hrs Saida 15:05hrs
+17/06/2022 16:38 - +55 11 97606-5975: 17/06 - Jabaquara - Mirela - saida 16:30
+17/06/2022 17:05 - +55 11 99932-5422: 17/06 - Morumbi - Alexandre - saida 17:00
+17/06/2022 17:17 - +55 11 98857-6333: 17/06 ANALIA - Gabriel saida 17:10
+17/06/2022 17:18 - +55 11 97699-4451: 17/06 ANALIA- Paloma saida 16:50
+17/06/2022 17:26 - +55 11 98342-7637: 17/06 - Jabaquara Vitor saida 16h45
+17/06/2022 17:27 - +55 11 98213-0230: 17/06 MORUMBI - Renata Togeiro saida 16:30
+17/06/2022 17:56 - +55 11 98328-4904: 17/06 OSASCO - Tavares - saida 17:50 ( deslocado Jabaquara)
+17/06/2022 18:51 - +55 11 98613-7767: 17/06 - Itaim - Mariana Gasparelli (dispensado)
+17/06/2022 18:56 - +55 19 98818-5184: 17/06 - Morumbi - Marques saida 18:30h (deslocado Star)
+17/06/2022 19:15 - +55 11 97979-3762: 17/06 - Aviccena - Wong - Saida 19:15h
+17/06/2022 19:23 - +55 11 99901-0097: 17/6 Osasco Luccas saida 17:00
+17/06/2022 19:27 - +55 11 99552-6970: 17/06 MORUMBI - Amanda saida às 19:20h
+17/06/2022 19:28 - +55 11 98535-1526: 17/06- Analia- Antipou- 19:25
+17/06/2022 19:36 - +55 82 9655-7210: 17/06 - OSASCO Ighor saida 19:30
+17/06/2022 19:47 - +55 11 98221-2562: 17/06 Villa - Avelino saida 19:47h
+17/06/2022 19:51 - +55 11 99909-7499: 17/06 Itaim Rafael Fava saida 19:50
+17/06/2022 19:56 - +55 11 95471-1556: 17/06 Itaim Mônica saida 19:45
+17/06/2022 20:01 - +55 21 99648-3363: 17/06 Itaim Mota saida 19h30
+17/06/2022 20:11 - +55 11 98325-1538: 17/06 Osasco Yoko saida 20:10
+17/06/2022 20:12 - +55 21 96963-1676: 17/06 Itaim Facchini saida 20:10
+17/06/2022 20:18 - +55 11 99455-4085: 17/06 MORUMBI - Anna Beatriz saida 20h15
+17/06/2022 21:22 - +55 11 98390-9645: 17/06 aviccena yuji saida 21:20
+17/06/2022 21:30 - +55 11 99386-7232: 17/06 Itaim Débora saida 21:30h
+17/06/2022 21:52 - +55 11 99620-1746: 17/06 Itaim M. Carolina saida 21h40
+18/06/2022 00:24 - +55 14 98187-8937: 17/06 itaim stefany saida 20:50h
+18/06/2022 05:35 - +55 11 97453-7574: 18/06 ITAIM - Filipe Lugon entrada as 05:20h
+18/06/2022 05:40 - +55 11 99688-2228: 18/06 Jabaquara - Thales - entrada 5:30
+18/06/2022 05:41 - +55 11 94101-6553: 18/06 Villa Camila Entrada 5h40
+18/06/2022 05:43 - +55 11 95471-1556: 18/06 Itaim Mônica entrada 05:30
+18/06/2022 05:53 - +55 11 97195-9129: 18/06 ANALIA Matheus entrada 06:00
+18/06/2022 05:54 - +55 11 98342-7637: 18/06 - VNS Vitor entrada 6h00
+18/06/2022 05:54 - +55 11 96583-4881: 17/06 ANALIA - Renata Bueno entrada 5h50
+18/06/2022 05:55 - +55 11 98221-2562: 18/06 villa - Avelino entrada 05:50h
+18/06/2022 05:56 - +55 11 91093-2345: 18/06 OSASCO kawaura entrada 6:00hs
+18/06/2022 06:07 - +55 11 97699-4451: 18/06 ANALIA Paloma entrada 6:00
+18/06/2022 06:13 - +55 11 97606-5975: 18/06 - Morumbi - Mirela - entrada 06:00
+18/06/2022 06:15 - +55 18 99769-2299: 18/06- Morumbi - Letícia- entrada 6:00
+18/06/2022 06:20 - +55 11 98390-9645: 18/06 itaim yuji entrada 06:00
+18/06/2022 06:25 - +55 11 94552-5908: 18/06 OSASCO Ivã entrada 06:15
+18/06/2022 06:44 - +55 11 99582-0499: 18/06 Jabaquara - Kakuda entrada 6h
+18/06/2022 06:57 - +55 11 98589-5916: 17/06 ANALIA - Barbosa Entrada 05:40
+18/06/2022 07:14 - +55 11 99788-0066: 18/06 VILLA - Livia entrada 5:50h
+18/06/2022 07:41 - +55 11 99298-5645: 18/06 VNS Ribeiro saida 07:40 (pós-plantão)
+18/06/2022 07:50 - +55 11 99270-3491: 18/06 ITAIM - Guilherme saida 7:50 (pós plantão)
+18/06/2022 07:52 - +55 11 97320-0100: 18/06 Itaim - Zamith entrada 05:40 hs.
+18/06/2022 07:53 - +55 11 98952-8447: 18/6 Jabaquara - Fabiana entrada 6:00
+18/06/2022 08:00 - +55 11 97363-7172: 18/06 Itaim - Diogo dispensado
+18/06/2022 08:26 - +55 11 96928-2696: 17/06 Itaim - Nunes - Saida 20:30 (deslocado do Jabaquara, cirurgia a pedido)
+18/06/2022 08:35 - +55 11 98857-6333: 18/06 Itaim - Gabriel entrada 6:00
+18/06/2022 08:46 - +55 14 98187-8937: 18/06 Jabaquara stefany entrada 08:30 h - atraso
+18/06/2022 09:07 - +55 11 97693-0685: 18/06 Itaim Fabio saida 09:07
+18/06/2022 09:43 - +55 11 94803-6868: 18/06 Itaim Gondim saida 09:40 (pós plantão- deslocado Alphamed)
+18/06/2022 09:43 - +55 18 99769-2299: 18/06 Morumbi- Letícia saida 9:15
+18/06/2022 10:07 - +55 11 99463-8029: 18/06 ANALIA - J. Hussein entrada 5:30
+18/06/2022 10:20 - +55 11 98925-8101: 18/06 - ANALIA - Paula A - dispensado ( saúde).
+18/06/2022 11:01 - +55 11 98824-7117: 18/06 Itaim Ráo saida 11:00 ( deslocado morumbi )
+18/06/2022 11:11 - +55 11 98152-5544: 18/06 VILLA - M. Cecília dispensado (saúde)
+18/06/2022 11:16 - +55 11 97606-5975: 18/06 - Morumbi - Mirela - saida 11:15
+18/06/2022 11:53 - +55 11 97453-7574: 18/06 ITAIM - Filipe Lugon saida as 11:45h
+18/06/2022 11:59 - +55 11 98342-7637: 18/06 - VNS Vitor saida 11h40
+18/06/2022 12:23 - +55 11 93000-5556: 18/06 Jabaquara - Ronald saida 12:10 (Extra)
+18/06/2022 12:37 - +55 11 98757-2707: 18/06 MORUMBI - Maciel saida 12:25
+18/06/2022 12:41 - +55 11 98364-8637: 18/06 Jabaquara bruce saida 12:41 (extra)
+18/06/2022 12:46 - +55 27 99755-2492: 18/06 Jabaquara Neliane saida 12:45 (pós plantão)
+18/06/2022 12:51 - +55 11 99430-3910: 18/06 Villa Leandro kanada saida 12:40( EXTRA)
+18/06/2022 13:13 - +55 11 94101-6553: 18/06 Villa Camila Saida 13h10
+18/06/2022 13:14 - +55 11 99688-2228: 18/06 Jabaquara - Thales - saida 13:10 (deslocado Osasco)
+18/06/2022 13:18 - +55 11 96030-8340: 18/06 Jabaquara José Carlos Saida 13:10
+18/06/2022 13:24 - +55 11 99386-7232: 18/06 Jabaquara Débora saida 13:10h
+18/06/2022 13:41 - +55 11 97320-0100: 18/06 Itaim Zamith saida 13:40.
+18/06/2022 13:53 - +55 11 99788-0066: 18/06 VILLA - Livia saida 13:50h
+18/06/2022 14:21 - +55 11 97514-6843: 18/06 ANALIA Thiago Martins saida as 14h20 (EXTRA)
+18/06/2022 14:40 - +55 11 97996-6228: 18/06 Analia Maurício saida 14:40 ( extra)
+18/06/2022 14:51 - +55 11 97544-7981: 18/06 VillaRenato - saida 14:45
+18/06/2022 14:57 - +55 11 99950-9540: 18/06 VNS Soares saida 14:55
+18/06/2022 15:04 - +55 11 94537-4540: 18/06 Morumbi R. Modolo saida 14h10
+18/06/2022 15:14 - +55 11 99314-1082: 18/06 JABAQUARA - Rey saida 15:00
+18/06/2022 15:15 - +55 11 91093-2345: 18/06 OSASCO-kawaura saida 15:15hs
+18/06/2022 15:18 - +55 11 94552-5908: 18/06 OSASCO Ivã Saida 15:15h
+18/06/2022 15:25 - +55 11 99715-4325: 18/06 OSASCO Ana saida 15:20
+18/06/2022 15:25 - +55 11 98736-2313: 18/06 ANALIA Thiago Silva saida as 14h50 (Deslocado OSASCO)
+18/06/2022 15:27 - +55 11 96583-4881: 18/06 Analia - Renata Bueno saida 15:25
+18/06/2022 15:30 - +55 11 98589-5916: 18/06 ANALIA - Barbosa Saida 14:50 (deslocado maternidade )
+18/06/2022 15:42 - +55 11 97195-9129: 18/06 ANALIA Matheus saida 15:40
+18/06/2022 15:47 - +55 11 97699-4451: 18/06 ANALIA - Paloma entrada 6:00 saida 15:38
+18/06/2022 15:51 - +55 11 98535-1526: 18/06 Jabaquara Antipou saida 15:40
+18/06/2022 16:00 - +55 11 97030-5050: 18/06 Analia Bruna saida 14h40 pós plantão
+18/06/2022 16:01 - +55 11 99932-5422: 18/06 - Alexandre - saida 16:00
+18/06/2022 16:05 - +55 11 99606-4189: 18/06 ITAIM Luciano saida 14h50
+18/06/2022 16:09 - +55 11 95494-3031: 18/06 ANALIA Orlando saida 16:00
+18/06/2022 16:10 - +55 11 98371-9212: 18/06 Morumbi Roberto saida 16:10
+18/06/2022 16:16 - +55 11 99669-0435: 18/06 Villa - Bonfitto Saida: 16:10h
+18/06/2022 16:23 - +55 11 98524-3797: 18/06 ANALIA - Ulysses saida 16:20
+18/06/2022 16:42 - +55 11 99786-0461: 18/06 ANALIA Aline saida 16h40
+18/06/2022 17:09 - +55 11 95471-1556: 18/06 Itaim Mônica saida 16:50
+18/06/2022 18:21 - +55 11 98390-9645: 18/06 itaim yuji saida 18:20
+18/06/2022 19:10 - +55 11 96430-8158: 18/06 Itaim - Bianca entrada 06h00 saida 17h50
+18/06/2022 19:27 - +55 11 98325-1538: 18/06 Osasco Yoko saida 19:15
+18/06/2022 20:20 - +55 11 98857-6333: 18/06 Itaim - Gabriel saida 20:20
+18/06/2022 21:05 - +55 11 94127-2750: 18/06 Morumbi - Patrick saida 21:00
+18/06/2022 21:14 - +55 11 98144-9399: 18/06 VILLA Vívian saida 21:00
+19/06/2022 05:46 - +55 11 99932-5422: 19/06 Morumbi - Alexandre - entrada 05:45 (D1)
+19/06/2022 06:23 - +55 11 99623-1393: 19/06 - Itaim - Everton (D1)Entrada: 06:10h
+19/06/2022 06:28 - +55 11 99688-2228: 19/06 Morumbi - Thales - entrada 6:10 (D2R)
+19/06/2022 08:21 - +55 11 99709-0036: 19/06 Villa - Luana - entrada 8:00 (D1B)
+19/06/2022 08:35 - +55 11 98535-1526: 19/06 - Analia- Antipou - plantão no lugar do Patrick (deslocado MT)
+19/06/2022 08:56 - +55 11 98736-2313: 19/06 Avicena- T. Silva - entrada 07:50 (D3R)
+19/06/2022 09:07 - +55 11 97606-5975: 19/06 - Itaim - Mirela - entrada 08:20 (D3R)
+19/06/2022 12:44 - +55 11 99709-0036: 19/06 Villa Luana D1B  saida 12:35
+19/06/2022 14:34 - +55 11 94127-2750: 19/06 Villa - Patrick saida 14:30 (D1R no lugar da Antipou, deslocado MT)
+20/06/2022 05:06 - +55 11 97453-7574: 20/06 VNS - Filipe Lugon entrada as 05:00h
+20/06/2022 05:33 - +55 19 98818-5184: 20/06 - Itaim - Marques entrada 05:30h
+20/06/2022 05:36 - +55 11 99471-0484: 20/6 Morumbi - Norival Entrada 5:10
+20/06/2022 05:42 - +55 11 98213-0230: 20/06 JABAQUARA - Renata Togeiro entrada 5:00 (deslocado Morumbi)
+20/06/2022 05:43 - +55 11 93150-7166: 20/06 VNS Saullo entrada 05:00
+20/06/2022 05:44 - +55 11 98540-4606: 20/06 MORUMBI - Wangles: entrada 5 h 40 min
+20/06/2022 05:44 - +55 21 99648-3363: 20/06 VNS Mota entrada 5h30
+20/06/2022 05:58 - +55 11 96580-9153: 20/06 Villa Hedicleber entrada 06:00
+20/06/2022 05:59 - +55 11 99437-9168: 20/06 Itaim Gabriella entrada 6:00
+20/06/2022 06:01 - +55 11 99758-4554: 20/06 ANALIA Fabiana Gama entrada as 06:00
+20/06/2022 06:05 - +55 11 99950-9540: 20/06 Itaim Soares entrada 06:00
+20/06/2022 06:06 - +55 11 95155-6889: 20/06 Osasco - oliveira entrada 05:40
+20/06/2022 06:08 - +55 11 99552-6970: 20/06 MORUMBI - Amanda entrada às 06:00h
+20/06/2022 06:14 - +55 11 94537-4540: 20/06 Jabaquara R. Modolo entrada 6h00
+20/06/2022 06:24 - +55 11 97622-8367: 20/6 alpha renan entrada as 6:00
+20/06/2022 06:50 - +55 11 97699-4451: 20/06 ANALIA Paloma entrada 6:00
+20/06/2022 07:00 - +55 11 97039-1717: 20/6 - AVICCENA - Álvaro Entrada 6h15
+20/06/2022 07:09 - +55 11 96739-0898: 20/06 Jabaquara - Buto entrada 6h15
+20/06/2022 07:14 - +55 11 98736-2313: 20/06 Osasco - T. Silva entrada 05:30
+20/06/2022 07:15 - +55 11 98315-9950: 20/06 Morumbi Rogério entrada 5:40h
+20/06/2022 07:22 - +55 21 96961-5924: 20/06 ANALIA - Carmello entrada 06:00
+20/06/2022 07:37 - +55 11 98925-8101: 20/06 - ANALIA - Paula A - dispensado ( saúde).
+20/06/2022 07:46 - +55 11 98589-5916: 20/06 ANALIA - Barbosa Entrada 06:00
+20/06/2022 09:19 - +55 11 98506-6158: 20/06 Itaim Marcelo saida 09:00 (extra)
+20/06/2022 09:59 - +55 11 97651-9961: 20/06 Itaim Pinheiro - saida 09h59m (Extra)
+20/06/2022 11:18 - +55 11 98499-7133: 20/06 Jabaquara Débora Bressane saida 10:30 (EXTRA)
+20/06/2022 11:19 - +55 11 98952-8447: 20/06 Morumbi - Fabiana saida 11:15 - EXTRA
+20/06/2022 12:09 - +55 11 99386-7232: 20/06 Morumbi Débora saida 12:05 (EXTRA)
+20/06/2022 13:07 - +55 11 99764-0380: 20/06 Itaim Daniel saida 12:20h
+20/06/2022 13:09 - +55 11 99430-3910: 20/06 Villa Leandro kanada saida 13:05 ( EXTRA)
+20/06/2022 13:35 - +55 11 98535-1526: 20/06- Analia- Antipou - saida 13:30 pós plantão (deslocado itaim)
+20/06/2022 14:24 - +55 11 99270-3491: 20/06 JABAQUARA - Guilherme (EXTRA) Entrada 7:00 Saida 14:20
+20/06/2022 14:35 - +55 11 98221-2562: 20/06 ANALIA Avelino saida 14:30h
+20/06/2022 14:56 - +55 11 94516-9147: 20/06 - ANALIA Cadu saida às 14:30h
+20/06/2022 15:16 - +55 11 94803-6868: 20/06 ANALIA Gondim saida 15:15 (deslocado villa)
+20/06/2022 15:36 - +55 11 99620-1746: 20/06 VNS M. Carolina saida 15h30 (Extra)
+20/06/2022 15:47 - +55 11 96580-9153: 20/06 villa Hedicleber 06:00 às 07:00 - período normal 07:00 às 15:35 - extra
+20/06/2022 15:58 - +55 11 99885-9879: 20/06 Villa Juliano Tobal saida 15h45
+20/06/2022 16:00 - +55 11 99700-0471: 20/06 MORUMBI - Miyashiro saida 16:00 (EXTRA)
+20/06/2022 16:01 - +55 27 99755-2492: 20/06 Jabaquara Neliane saida 16:00 (pós-plantão)
+20/06/2022 16:02 - +55 11 96343-8257: 20/06 Osasco (EXTRA) Kaie saida 16:00
+20/06/2022 16:46 - +55 11 99314-1082: 20/06 Osasco - Rey saida 16:40 (pós-plantão)
+20/06/2022 16:48 - +55 11 97039-1717: 20/6 - AVICCENA - Álvaro Entrada 6h15 / Saida 16h45
+20/06/2022 16:56 - +55 11 98524-3797: 20/06 VILLA - Ulysses saida 16:55
+20/06/2022 17:03 - +55 21 96961-5924: 20/06 ANALIA - Carmello saida 16:55 (deslocado do Morumbi no dia anterior)
+20/06/2022 17:11 - +55 11 99901-0097: 20/6 Osasco Luccas saida 17:10
+20/06/2022 17:17 - +55 11 96430-8158: 20/06 Osasco - Bianca Saida 17h10 (pós-plantão)
+20/06/2022 17:20 - +55 11 98213-0230: 20/06 JABAQUARA - Renata Togeiro saida 17:15 (deslocado Morumbi)
+20/06/2022 17:41 - +55 11 98207-2567: 20/06 VNS - Koga Saida 17:40 extra
+20/06/2022 17:52 - +55 11 98328-4904: 20/06 - Aviccena- Tavares - saida 17:45
+20/06/2022 17:56 - +55 11 98364-8637: 20/06 Morumbi bruce entrada 06:00
+20/06/2022 18:08 - +55 11 98059-0668: 20/06 ITAIM Carlos entrada 5h10m saida 17h35m
+20/06/2022 18:34 - +55 11 98315-9950: 20/06 Morumbi Rogério saida 17:10h
+20/06/2022 18:51 - +55 11 97651-9961: 20/06 Osasco - Pinheiro - Entrada 19h (assumo plantão da Mirella)
+20/06/2022 18:53 - +55 11 98613-7767: 20/06 Morumbi - Mariana Gasparelli entrada 06h
+20/06/2022 19:24 - +55 11 97979-3762: 20/06 - ANALIA - Wong - Saida 19:20h
+20/06/2022 19:24 - +55 11 94500-4841: 20/06 VILLA - Akemi saida 19:20hrs
+20/06/2022 19:42 - +55 21 99648-3363: 20/06 VNS Mota saida 19h20
+20/06/2022 19:48 - +55 11 97345-4609: 20/06 Jabaquara Diego saida 19:45
+20/06/2022 19:56 - +55 11 99709-0036: 20/06 Analia - Luana saida 19:20
+20/06/2022 19:58 - +55 11 93936-1052: 20/6 - Itaim José Marcos saida 19:15h
+20/06/2022 20:10 - +55 11 97647-5050: 20/06 Morumbi - Henri Saida: 19:45
+20/06/2022 20:10 - +55 14 98106-9529: 20/06 - Jabaquara - Silvia saida 20:05
+20/06/2022 20:16 - +55 11 97453-7574: 20/06 VNS - Filipe Lugon saida as 20:15h
+20/06/2022 20:18 - +55 11 96928-2696: 20/06 Analia - Nunes saida 20:15 (deslocado do jabaquara no dia anterior)
+20/06/2022 20:32 - +55 11 95485-5006: 20/06 - Jabaquara - Sabrina saida 20:05
+20/06/2022 21:00 - +55 11 98144-9399: 20/06 VILLA Vivian saida 20:55
+20/06/2022 21:02 - +55 11 99577-0208: 20/06 ANALIA (deslocado villa) - Piassi 20:50
+20/06/2022 21:10 - +55 11 97693-0685: 20/06 Itaim Fabio saida 21:10
+20/06/2022 21:11 - +55 11 98371-9212: 20/06 Morumbi Roberto saida 21:10
+20/06/2022 21:39 - +55 11 98857-6333: 20/06 Itaim - Gabriel saida 21:38
+20/06/2022 21:45 - +55 11 99606-4189: 20/06 ITAIM Luciano saida 21h10
+20/06/2022 21:49 - +55 11 98325-1538: 20/06 OSASCO Yoko entrada 06:00 saida 21:10
+20/06/2022 21:50 - +55 11 97195-9129: 20/06 ANALIA Matheus saida 21:40
+20/06/2022 22:12 - +55 11 96030-8340: 20/06 ANALIA José Carlos Saida 22:12
+20/06/2022 22:12 - +55 11 96459-7930: 20/06 OSASCO - João saida 22h12 (deslocado Villa)
+20/06/2022 22:15 - +55 11 98267-1900: 20/06 - ANALIA- Natan- saida 22:09
+20/06/2022 22:22 - +55 11 91093-2345: 20/06 - OSASCO kawaura saida 22:15hs
+20/06/2022 22:46 - +55 11 97355-2449: 20/06 OSASCO Maíra saida 22h10
+20/06/2022 22:46 - +55 18 99788-1950: 20/06 Costa aviccena (deslocado itaim) saida 22:45
+20/06/2022 22:56 - +55 11 99671-2384: 20/06 Jabaquara - Carvalho - Saida 22h10
+20/06/2022 23:03 - +55 11 99669-0435: 20/06 OSASCO - Bonfitto Saida: 22:40h
+20/06/2022 23:27 - +55 11 97514-6843: 20/06 ANALIA Thiago Martins saida as 22h40
+21/06/2022 05:30 - +55 11 94101-6553: 20/06 Villa Camila Entrada 5h30
+21/06/2022 05:30 - +55 11 98857-6333: 21/06 ANALIA - Gabriel entrada 5:20
+21/06/2022 05:45 - +55 11 98540-4606: 21/06 MORUMBI - Wangles: entrada 6 h 00 min
+21/06/2022 05:50 - +55 11 98315-9950: 21/06 Itaim Rogério entrada 5:20h
+21/06/2022 05:53 - +55 11 94127-2750: 21/06 Morumbi - Patrick entrada 5:50
+21/06/2022 05:54 - +55 11 98342-7637: 21/06 - Jabaquara Vitor entrada 6h00
+21/06/2022 05:56 - +55 11 98207-2567: 21/06 Itaim - KogaEntrada 06:00
+21/06/2022 05:59 - +55 11 97363-7172: 21/06 ANALIA - Diogo entrada 06h00
+21/06/2022 06:12 - +55 11 99950-9540: 21/06 Itaim Soares entrada 06:00
+21/06/2022 06:12 - +55 11 99455-4085: 20/06 MORUMBI Anna Beatriz saida 19h40
+21/06/2022 06:16 - +55 11 99909-7499: 21/06 Itaim Rafael Fava entrada 6:15
+21/06/2022 06:41 - +55 11 93150-7166: 21/06 VNS Saullo entrada 06:30
+21/06/2022 06:49 - +55 11 99788-0066: 21/06 OSASCO - Livia entrada 6:00h
+21/06/2022 07:05 - +55 11 94122-8627: 21/06 - Morumbi - Yumi Entrada 06:00h
+21/06/2022 07:21 - +55 11 98213-0230: 21/06 MORUMBI - Renata Togeiro entrada 5:30
+21/06/2022 08:40 - +55 11 98824-7117: 21/06 Itaim Ráo saida 08:35 ( extra )
+21/06/2022 09:28 - +55 11 97514-6843: 21/06 ANALIA Thiago Martins entrada as 06h00
+21/06/2022 10:11 - +55 21 96963-1676: 21/06 Jabaquara Facchini saida 10:10 (extra)
+21/06/2022 13:00 - +55 11 98349-6499: 21/06 VNS Rafael tadeu Saida: 13:00h ( EXTRA)
+21/06/2022 13:04 - +55 19 98818-5184: 21/06 - VNS - Marques saida 13:00h
+21/06/2022 13:08 - +55 11 98757-2707: 21/06 - ANALIA - Maciel saida 13:05 (EXTRA)
+21/06/2022 13:20 - +55 11 98731-4904: 21/06 OSASCO - Candeo saida às 13:10 (pós-plantão / deslocado do Aviccena)
+21/06/2022 13:59 - +55 11 97651-9961: 21/06 Osasco - Pinheiro saida 13h58m (pós-plantão)
+21/06/2022 14:15 - +55 11 96928-2696: 21/06 Analia- Nunes saida 13:55 (deslocado do Villa no dia anterior)
+21/06/2022 14:19 - +55 11 98857-6333: 21/06 ANALIA - Gabriel saida 14:15
+21/06/2022 14:45 - +55 11 99471-0484: 21/6 Morumbi - Norival Saida 14:10 EXTRA
+21/06/2022 15:17 - +55 11 98390-9645: 21/06 jabaquara yuji saida 15:15 (extra)
+21/06/2022 16:05 - +55 11 98613-7767: 21/06 Morumbi - Mariana Gasparelli saida 15:50h ( EXTRA)
+21/06/2022 16:22 - +55 11 99455-4085: 21/06 MORUMBI - Anna Beatriz saida 16h15
+21/06/2022 16:54 - +55 11 97363-7172: 21/06 ANALIA - Diogo saida 16h54
+21/06/2022 16:55 - +55 11 94500-4841: 21/06 ANALIA - Akemi Entrada 05:20hrs Saida 16:55hrs
+21/06/2022 17:03 - +55 11 99270-3491: 21/06 ALPHAMED - Guilherme (deslocado Itaim)Entrada 5:20Saida 16:20
+21/06/2022 17:16 - +55 27 99909-3770: 21/06 Jabaquara - M. Dardengo entrada 6h00, saida 17:10
+21/06/2022 17:18 - +55 11 99688-2228: 21/06 Jabaquara - Thales - saida 17:15
+21/06/2022 17:21 - +55 11 98952-8447: 21/06 Jabaquara - Fabiana saida 17:20
+21/06/2022 17:23 - +55 11 96076-2899: 21/06 Jabaquara- Matheus Viana- saida 17:25
+21/06/2022 17:46 - +55 11 99715-4325: 21/06 VILLA Ana entrada 5:45
+21/06/2022 17:49 - +55 11 98499-7133: 21/06 ANALIA Débora Bressane entrada 06h
+21/06/2022 18:03 - +55 11 98506-6158: 21/06 Morumbi Marcelo saida 17:50
+21/06/2022 18:06 - +55 11 93207-7321: 21/06 Itaim - Izabella entrada 06h00
+21/06/2022 18:27 - +55 11 97544-7981: 21/06 VillaRenato - saida 14:50
+21/06/2022 18:39 - +55 14 98187-8937: 21/06 Itaim stefany saida 18:30h pos planrao
+21/06/2022 18:48 - +55 11 98221-2562: 21/06 villa - Avelino entrada as 06:00h
+21/06/2022 19:12 - +55 11 99577-0208: 21/06 VILLA (deslocado Jabaquara) - Piassi saida 19:12
+21/06/2022 19:18 - +55 11 98364-8637: 21/06 VNS bruce saida 14:00
+21/06/2022 19:21 - +55 11 97345-4609: 21/06 Jabaquara Diego saida 19:20
+21/06/2022 19:22 - +55 11 94360-4985: 21/06 ANALIA Nathália saida às 19:10
+21/06/2022 19:23 - +55 11 97030-5050: 21/06 Jabaquara Bruna saida 19h25
+21/06/2022 19:29 - +55 11 99764-0380: 21/06 Itaim Daniel entrada 13:00 saida 18:20h
+21/06/2022 19:33 - +55 11 97622-8367: 21/6 OSASCO renan saida as 19:25
+21/06/2022 19:35 - +55 82 9655-7210: 21/06 - Jabaquara Ighor saida 19:30
+21/06/2022 19:41 - +55 11 96459-7930: 21/06 Villa - João saida 19h38 (deslocado ANALIA)
+21/06/2022 19:46 - +55 11 95783-4415: 21/06 ITAIM Arraes entrada 09h
+21/06/2022 19:50 - +55 11 97453-7574: 21/06 VNS - Filipe Lugon saida as 19:40h
+21/06/2022 19:51 - +55 11 98144-9399: 21/06 VILLA  Vívian saida 19:45
+21/06/2022 19:56 - +55 11 96739-0898: 21/06 VNS - Buto (plantão) entrada 9:00 (a pedido coordenação)
+21/06/2022 20:14 - +55 11 99668-5693: 21/6 ANALIA Sheila saida 20:10
+21/06/2022 20:20 - +55 11 94127-2750: 21/06 Morumbi - Patrick saida 20:20
+21/06/2022 20:22 - +55 11 98267-1900: 21/06 - OSASCO - Natan - Saida 20:15
+21/06/2022 20:24 - +55 11 99709-0036: 21/06 - OSASCO ( Desl- MB) Luana saida 20:25
+21/06/2022 20:47 - +55 11 99623-1393: 21/06 - Villa - Everton Saida: 20:10h
+21/06/2022 20:48 - +55 11 96583-4881: 21/06 ANALIA - Renata Bueno saida 20:40
+21/06/2022 20:49 - +55 11 99380-3117: 21/6-Itaim Olaio 4h20 e saida 20h20
+21/06/2022 20:53 - +55 11 99463-8029: 21/06 VILLA - J. Hussein saida 20:45h
+21/06/2022 20:54 - +55 18 99769-2299: 21/06 Aviccena- Letícia saida 20:50 ( Pós plantão - deslocado do Villa )
+21/06/2022 20:55 - +55 11 97337-0789: 21/06-Itaim -Sidney- entrada as 06:00 e saida 20:30
+21/06/2022 20:58 - +55 11 99134-7955: 21/06 OSASCO - haga saida 20:50
+21/06/2022 20:59 - +55 18 99788-1950: 21/06 Osasco - Costa saida 20:58  (deslocado Itaim)
+21/06/2022 21:06 - +55 11 96343-8257: 21/06 ItaimKaie saida 21:05
+21/06/2022 21:10 - +55 11 98315-9950: 21/06 Itaim Rogério saida 20:30h
+21/06/2022 21:23 - +55 11 96580-9153: 21/06 Osasco Hedicleber saida 21:20
+21/06/2022 21:23 - +55 11 94048-8859: 21/06 Aviccena - Fernanda saida 21:15 ( deslocado AF )
+21/06/2022 21:24 - +55 11 98202-5443: 21/06 Morumbi Turíbio Entrada 07:00 Saida 20:40
+21/06/2022 21:27 - +55 11 93936-1052: 21/6 - Itaim José Marcos saida 21:00h
+21/06/2022 21:38 - +55 11 98989-4801: 21/06 OSASCO - Bezerra saida as 21:38
+21/06/2022 21:40 - +55 11 99552-6970: 21/06 ITAIM - Amanda saida às 21:40h
+21/06/2022 21:51 - +55 11 98152-5544: 21/06 VILLA - M. Cecília saida às 21h49
+21/06/2022 22:12 - +55 11 98540-4606: 21/06 MORUMBI - Wangles: saida 22 h 10 min
+21/06/2022 22:19 - +55 11 97693-0685: 21/0 Itaim Fabio saida 22:19
+21/06/2022 22:31 - +55 21 98347-7559: 21/06 Morumbi Jessica Saida 22:30
+21/06/2022 22:36 - +55 11 98371-9212: 21/06 Itaim Roberto saida 22:35
+21/06/2022 23:00 - +55 11 99620-1746: 21/06 VNS M. Carolina saida 21h10
+21/06/2022 23:01 - +55 11 99901-0097: 21/6 Osasco Luccas saida 22:50
+21/06/2022 23:11 - +55 11 99386-7232: 21/06 Itaim Débora saida 23:10h
+21/06/2022 23:12 - +55 11 94480-1920: 21/06 Aviccena - Vanessa saida 23:00h
+22/06/2022 00:01 - +55 11 99788-0066: 21/06 OSASCO - Livia saida 16:40h
+22/06/2022 01:37 - +55 11 99758-4554: 21/06 ANALIA Fabiana Gama saida as 19:15
+22/06/2022 02:03 - +55 11 98270-4774: 21/06 Morumbi Luiz Augusto saida 22/06 02:00 hs
+22/06/2022 04:46 - +55 51 9928-2774: 22/06 Itaim - Maiely entrada 04:45
+22/06/2022 05:06 - +55 11 97979-3762: 22/06 - ANALIA - Wong - Entrada 05:00h
+22/06/2022 05:28 - +55 11 99620-1746: 22/06 ANALIA M. Carolina entrada 05h20 (deslocado VNS)
+22/06/2022 05:37 - +55 11 98207-2567: 22/06 Morumbi - KogaEntrada 05:35
+22/06/2022 05:45 - +55 21 99648-3363: 22/06 Jabaquara Mota entrada 5h30 (deslocado VNS)
+22/06/2022 05:49 - +55 11 98342-7637: 22/06 - Itaim Vitor entrada 6h00
+22/06/2022 05:54 - +55 11 98540-4606: 22/06 MORUMBI - Wangles: entrada 6 h 00 min
+22/06/2022 05:57 - +55 11 98371-9212: 22/06 Osasco Roberto entrada 6:00
+22/06/2022 05:57 - +55 11 97833-6430: 22/06 Jabaquara Ráo entrada 06:00
+22/06/2022 05:58 - +55 11 98144-9399: 22/06 ANALIA Vivian entrada 06:00
+22/06/2022 06:01 - +55 11 94127-2750: 22/06 Itaim - Patrick entrada 6:00
+22/06/2022 06:03 - +55 11 99709-0036: 22/06 OSASCO - Luana entrada 6:00
+22/06/2022 06:08 - +55 11 98857-6333: 22/06 Itaim - Gabriel entrada 5:30
+22/06/2022 06:08 - +55 11 99909-7499: 22/06 Jabaquara Rafael Fava entrada 6:00
+22/06/2022 06:10 - +55 11 98506-6158: 22/06 Itaim Marcelo entrada 06:00
+22/06/2022 06:13 - +55 11 99298-5645: 22/06 Jabaquara Ribeiro entrada 06:00 (deslocado VNS)
+22/06/2022 06:14 - +55 11 98496-6744: 22/06 Alpha - Marcos entrada 6:00h
+22/06/2022 06:16 - +55 18 99769-2299: 22/06 Morumbi- Letícia entrada 6:00
+22/06/2022 06:21 - +55 11 98349-6499: 22/06 Itaim Rafael tadeu Entrada: 04:45h
+22/06/2022 06:22 - +55 11 97996-6228: 22/06 Villa Maurício  entrada 5:30
+22/06/2022 06:41 - +55 11 95471-1556: 22/06 Analia Mônica entrada 06:00
+22/06/2022 06:45 - +55 11 93207-7321: 21/06 Itaim - Izabella saida 20h55
+22/06/2022 06:46 - +55 11 98267-1900: 22/06 - OSASCO - Natan - entrada 05:15
+22/06/2022 06:51 - +55 11 99134-7955: 22/06 VILLA - haga entrada 06:00
+22/06/2022 07:03 - +55 14 98187-8937: 22/06 Jabaquara stefany entrada 06:00h
+22/06/2022 07:06 - +55 11 99270-3491: 22/06 ITAIM - Guilherme entrada 5:40
+22/06/2022 07:17 - +55 18 99788-1950: 22/06 Aviccena Costa entrada 06:00
+22/06/2022 07:17 - +55 11 96583-4881: 22/06 Aviccena - Renata Bueno entrada 5h50
+22/06/2022 07:33 - +55 17 99664-7931: 22/06 OSASCO - Souza entrada 06:00
+22/06/2022 07:55 - +55 11 96580-9153: 22/06 Villa Hedicleber entrada 06:15
+22/06/2022 09:26 - +55 11 98989-4801: 22/06 Alpha - Bezerra entrada as 06:15
+22/06/2022 10:10 - +55 11 97453-7574: 22/06 ITAIM - Filipe Lugon dispensado

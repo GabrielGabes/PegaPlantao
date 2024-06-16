@@ -1,0 +1,119 @@
+[09/02/2023 10:02:56] Vitor Maciel de Sousa Pinto: 09/02 VILLA - Maciel entrada 10:00
+[09/02/2023 10:43:29] Luciano Angelo Richetti: 09/02 Santa Isabel Luciano saída 10:40 (extra)
+[09/02/2023 11:20:44] Gabriel Gondim Fonseca: 09/02 VNS - Gondim saída 11:20 (Extra)
+[09/02/2023 11:39:29] Eduardo Dala Rosa Soares: 09/02 Morumbi - Soares entrada 05:20 ( EXTRA )
+[09/02/2023 11:40:08] Eduardo Dala Rosa Soares: 09/02 Morumbi - Soares saída 11:40 ( EXTRA )
+[09/02/2023 12:04:06] Fábio Antônio de Souza Oliveira: 09/02 VNS Fábio saída 12hs (Extr))a)
+[09/02/2023 12:54:11] Leticia Fernandes Borges: 09/02 Itaim Letícia saída 12:50
+[09/02/2023 12:58:20] Mariana Dardengo Borges: 08/02 JABAQUARA - M. Dardengo saída 20:40
+[09/02/2023 12:58:48] Mariana Dardengo Borges: 09/02 MORUMBI - M. Dardengo entrada 05:45
+[09/02/2023 12:59:20] Bruna Daibert Danesin: 09/02 Anália Bruna entrada 05:30
+[09/02/2023 13:28:09] Paula Angélica Pinha Neves: 09/02 VILLA  Paula Neves saída 13:25 ( EXTRA)
+[09/02/2023 13:31:46] Marcos Rogério Pereira Machado Filho: 09/02 Villa - Marcos saída 13:25 (EXTRA)
+[09/02/2023 13:48:01] Marcelo Felipe de Souza Buto: 09/02 Jabaquara - Buto saída 13:45 (EXTRA)
+[09/02/2023 13:55:38] Fabio Yuji Suguita: 09/02 jabaquara yuji saída 13:55
+[09/02/2023 13:59:28] Guilherme Silveira Lopes: 09/02 Jabaquara - Silveira entrada 07:00 (EXTRA)
+[09/02/2023 14:00:19] Guilherme Silveira Lopes: 09/02 Jabaquara - Silveira saída 13:45 (EXTRA)
+[09/02/2023 14:22:46] Norival Scandelai Junior: 09/02 Morumbi - Norival Saída 14:20 EXTRA
+[09/02/2023 14:25:51] Thiago Barreto Marques Da Silva: 09/02  - jabaquara - Naldo - entrada 05:45(deslocado Villa)
+[09/02/2023 14:26:45] Thiago Barreto Marques Da Silva: 09/02  - jabaquara - Naldo - saída 14:20(deslocado Villa)
+[09/02/2023 14:36:07] Everton Sidney da Conceição Carvalho: 09/02 - Osasco - Everton saída 14:30 (EXTRA)
+[09/02/2023 14:42:41] Jessica Lidia de Souza: 09/02 Analia Jessica  Saída 14:40 EXTRA
+[09/02/2023 14:44:12] Manoel de Souza Neto: 09/02 Santa Isabel Manoel saida 14:40
+[09/02/2023 14:44:15] Fabiana Barbosa Bastos: 09/02 VNS - Fabiana saída 14:40
+[09/02/2023 14:56:14] Hedicleber Pestana Severino: 09/02 Villa Hedicleber saída 14:50(extra)
+[09/02/2023 15:15:19] Vitor Maciel de Sousa Pinto: 09/02 VILLA - Maciel saída 15:15
+[09/02/2023 15:16:17] Maurício Faria Tetti: 09/02 Analia Maurício saída 15:15 (extra)
+[09/02/2023 15:16:21] Gustavo Marques Da silva: 09/02 Analia - Marques saída 15:10 (EXTRA)
+[09/02/2023 15:25:30] Marcelo Maia da Silveira: 09/02 VILLA  - Maia saída 15:20
+[09/02/2023 15:27:59] Camila Chiarantano Harrison: 09/02 Villa Camila Saida 15:25
+[09/02/2023 15:43:51] Ana Jung Docko: 09/02 Analia Ana saída 15:40
+[09/02/2023 15:50:06] Matheus Acquesta Gaubeur: 09/02 Anália- Matheus saída 15:50
+[09/02/2023 16:27:48] Turibio Rodrigues Freire Neto: 09/02 Osasco Turíbio Extra Saída 16:20
+[09/02/2023 16:31:38] Neliane Guedes Pretti: 09/02 Jabaquara Neliane saída 16:30
+[09/02/2023 16:34:57] Rodrigo Achui Haga: 09/02 VILLA - haga saida 16:10
+[09/02/2023 16:35:57] Filipe Lugon Moulin Lima: 09/02 JABAQUARA - Filipe Lugon saida 16:10
+[09/02/2023 16:40:07] Diego da Cunha Tomaz: 09/02 Santa Diego saida 16:10
+[09/02/2023 16:46:37] Cláudio Mueller Kakuda: 09/02 Maternidade - Kakuda saida 16:45
+[09/02/2023 17:17:05] Yuri Lucas De Souza: 09/02 Osasco - Souza saída 17:00 (deslocado Villa)
+[09/02/2023 17:20:32] José Marcos Vieira da Silva: 09/02 - Itaim José Marcos entrada 6:00
+[09/02/2023 17:20:37] José Carlos Tuna Scarpa: Anália José Carlos Entrada 13:00
+[09/02/2023 17:20:37] José Carlos Tuna Scarpa: Anália José Carlos Saída 17:00
+[09/02/2023 18:37:54] Yoko Hayashi: 09/02 Osasco Yoko entrada 6:00
+[09/02/2023 18:52:35] Gretel Oliveira Nicolau: 09/02 Analia Gretel saida 16:50
+[09/02/2023 19:12:46] Francisco José Lucena Bezerra: 09/02 ANÁLIA - Lucena - saída 19:10
+[09/02/2023 19:35:24] Yuri Anderson Pacheco de Lima: 09/02 VNS - Yuri entrada 07:00
+[09/02/2023 19:35:34] Yuri Anderson Pacheco de Lima: 09/02 VNS - Yuri saída 19:30
+[09/02/2023 19:36:03] Sergio Zamith: 09/02 Jabaquara Zamith Saída 19:35
+[09/02/2023 19:39:22] Kawan Ramis Rodrigues: 09/02 Osasco- Kawan saída 19:35
+[09/02/2023 19:39:54] Kawan Ramis Rodrigues: 09/02 Osasco- Valverde saída 19:35
+[09/02/2023 19:41:47] Marcio Ighor Azevedo Silva De Mendonça Melania: 09/02 Villa - Ighor saída 19:40
+[09/02/2023 19:54:09] Sabrina de Souza Ramos: 09/02 Jabaquara Sabrina saída 19:40
+[09/02/2023 20:00:45] Pedro Henrique Milhomens da Mota: 09/02 VNS Mota saída 16:15
+[09/02/2023 20:00:52] Juliana Akemi Funabashi: 09/02 ANÁLIA - Akemi saída 20:00
+[09/02/2023 20:00:54] Débora Alves Aude: 09/02 Itaim Débora saída 20:00
+[09/02/2023 20:06:21] Alexandre Bernardino: 09/02 - Aviccena - Alexandre - entrada 05:30
+[09/02/2023 20:06:21] Alexandre Bernardino: 09/02 - Aviccena - Alexandre - saída 20:05
+[09/02/2023 20:11:02] Estanrley Barcelos Pinto: 09/02 ANÁLIA-Estanrley Saida: 19:50
+[09/02/2023 20:14:14] Anna Beatriz Aranha Trevisan: 09/02 MORUMBI - Anna Beatriz entrada 06:00
+[09/02/2023 20:14:25] Anna Beatriz Aranha Trevisan: 09/02 MORUMBI - Anna Beatriz saída 20:10
+[09/02/2023 20:47:48] Filipe Maeda Hashi Abdalla Martins: 09/02 Jabaquara Maeda saída 20:45
+[09/02/2023 20:55:19] Carlos Eduardo Gondim Oliveira: 09/02 MORUMBI - Oliveira saída 20:50
+[09/02/2023 21:10:55] Arthur Oliveira Facchini: 09/02 Aviccena Facchini saída 21:10
+[09/02/2023 21:12:15] Matheus de Alencar Arraes: 09/02 JABAQUARA Arraes saida 21:10
+[09/02/2023 21:26:23] Ludmylla Gomes Neves: 09/02 Osasco- Ludmylla saída 21:20
+[09/02/2023 21:40:35] Orlando Domingues de Araújo Pontes: 09/02 Aviccena Orlando saída 21:40
+[09/02/2023 21:41:45] Rodrigo Miyashiro Nunes dos Santos: 09/02 MORUMBI - Miyashiro saida 21:40
+[09/02/2023 21:43:54] Silvia Aline dos Santos Andrade: 09/02 - Morumbi - Silvia saída 21:40
+[09/02/2023 21:47:25] Ricardo Kawaura: 09/02 Osasco kawaura saída 21:45
+[09/02/2023 21:51:05] Alexsander Takashi Hamada: 9/2 Analia  Alexsander  saída 21:50
+[09/02/2023 21:53:45] Ricardo Giraldelli Carvalho Lima: 09/02 ANALIA - Giraldelli saída 21:10
+[09/02/2023 21:54:19] Ricardo Ivo de Lima: 09/02 - Morumbi - Ricardo Ivo Saída - 21:45h
+[09/02/2023 22:01:19] Emerson Domingos Da Costa: 09/02 OSASCO Emerson - Saída 22:00
+[09/02/2023 22:04:33] Felipe Coelho De Souza: 09/02 Itaim - Coelho saída 21:40
+[09/02/2023 22:14:26] Pedro Paulo Silva Farah: 09/02 Morumbi - Pedro saída 21:40h
+[09/02/2023 22:21:37] Mariana Dardengo Borges: 09/02 MORUMBI - M. Dardengo saída 22:15
+[10/02/2023 01:54:09] Bruno Stornioli Taguchi Lemos: 09/02 Jabaquara Bruno Lemos saída 01:50 (para efeito de escala)
+[10/02/2023 04:28:24] Fernando Ribeiro Sá: 10/02 Itaim Ribeiro entrada 04:20 (deslocamento VNS)
+[10/02/2023 04:53:23] Gabriella Gadelha Sarmento: 10/02 VNS - Gabriella entrada 04:20
+[10/02/2023 05:05:29] Guilherme Silveira Lopes: 10/02 Osasco - Silveira entrada 4:25
+[10/02/2023 05:09:55] Romulo Spolidorio: 10/02 - Rômulo - entrada 05:05 ( deslocamento analia)
+[10/02/2023 05:12:33] Fabio Yuji Suguita: 10/02 jabaquara yuji entrada 05:10
+[10/02/2023 05:21:30] Rodrigo Miyashiro Nunes dos Santos: 10/02 ITAIM - Miyashiro entrada 05:20
+[10/02/2023 05:24:51] Silvia Aline dos Santos Andrade: 10/02 - Morumbi - Silvia entrada 05:20
+[10/02/2023 05:31:01] Elaine Imaeda de Moura: 10/02 - Osasco - Elaine entrada 05:30
+[10/02/2023 05:31:24] Sheila Itiroco Monte: 10/02 ITAIM Sheila entrada 5:30
+[10/02/2023 05:44:14] Milton Olaio Neto: 09/02-Itaim Olaio saída 19:40
+[10/02/2023 05:44:29] Matheus Acquesta Gaubeur: 10/02 Anália - Matheus entrada 05:45
+[10/02/2023 05:45:15] Victor Sapountzakis Ribeiro: 10/02 Osasco - Sapountzakis entrada 05:43
+[10/02/2023 05:45:20] Renata Pinheiro Modolo: 10/02 Morumbi R. Modolo entrada 5:20
+[10/02/2023 05:50:01] Alessandre Luiz Braga Junior: 10/02 MORUMBI - Alessandre entrada 04:40
+[10/02/2023 05:55:36] Guilherme de Almeida Costa: 10/02 analia costa entrada 05:30
+[10/02/2023 05:55:43] Ricardo Kawaura: 10/02 Osasco kawaura entrada 6;00
+[10/02/2023 05:56:51] Manoel de Souza Neto: 10/02 Santa Isabel Manoel entrada 05:50
+[10/02/2023 05:59:58] Ludmylla Gomes Neves: 10/02 - Osasco - Ludmylla entrada 05:30
+[10/02/2023 06:01:25] Débora Alves Aude: 10/02 Itaim Débora entrada 05:40
+[10/02/2023 06:02:28] Arthur Oliveira Facchini: 10/02 Itaim Facchini entrada 06:00
+[10/02/2023 06:04:05] Andre Mortari Plá Gil: 09/02 Itaim André saída 19:40h
+[10/02/2023 06:07:39] Larissa Mayumi Ono: 10/02 Itaim Larissa - entrada 06:00
+[10/02/2023 06:11:52] Helena Araujo Damasceno: 10/02 Jabaquara Helena Entrada 06:00
+[10/02/2023 06:15:29] Andre Mortari Plá Gil: 10/02 itaim André entrada 6:00h
+[10/02/2023 06:25:49] Francisco Antonio Alves Bonatto: 10/02 VILLA - Francisco entrada 06:00
+[10/02/2023 06:29:02] Marcos Rogério Pereira Machado Filho: 10/02 Villa - Marcos entrada 6:00
+[10/02/2023 06:31:41] Fernando Akira Koga: 10/02 VNS - Koga entrada 06:30
+[10/02/2023 06:34:59] Vanessa Paciullo Marossi: 10/02 ANÁLIA Vanessa entrada 06:00
+[10/02/2023 06:37:32] Bruce Ye Man Chow: 10/02 Jabaquara - bruce entrada 05:40
+[10/02/2023 06:38:53] Beatriz Antipou dos Santos: 10/02- Itaim- Antipou- entrada 05:50
+[10/02/2023 07:03:12] Leticia Fernandes Borges: 10/02 Villa- Letícia Entrada 5:50
+[10/02/2023 07:03:30] Luiz Guilherme Thomaz Zacharias: 10/02 ITAIM - Guilherme entrada 7:00 (EXTRA)
+[10/02/2023 07:05:11] Juliana Akemi Funabashi: 10/02 ANÁLIA - Akemi entrada 05:30
+[10/02/2023 07:14:50] Maira Leite Basile: 10/02 Morumbi - Maíra entrada 5:40
+[10/02/2023 07:22:36] Thassio Cunha De Santa: 10/02 JABAQUARA - Thassio entrada 6:00
+[10/02/2023 07:23:45] Yuri Lucas De Souza: 10/02 Aviccena - Souza entrada 06:00
+[10/02/2023 07:37:42] Caroline Firmino Lemes da Silva: 10/02 Osasco Lemes entrada 05:50
+[10/02/2023 07:49:11] Yoko Hayashi: 10/02 Osasco Yoko entrada 6:00
+[10/02/2023 07:50:18] Flavio Hideki Oshika: 10/02 MORUMBI - Flávio entrada 06:00
+[10/02/2023 07:52:50] Mirela Farias Figueiroa: 10/02 - Jabaquara Mirela entrada 06:30
+[10/02/2023 08:04:28] Vitor Maciel de Sousa Pinto: 10/02 MORUMBI - Maciel entrada 06:15
+[10/02/2023 09:08:30] Pedro Henrique Milhomens da Mota: 10/02 Itaim Mota entrada 5:30
+[10/02/2023 09:32:50] Marcela Leite Rosignoli: 09/02 Osasco Marcela Leite saída 21:10
