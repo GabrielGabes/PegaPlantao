@@ -1,679 +1,660 @@
-[19/06/2024 15:37:24] Sergio Zamith: 19/06 Itaim -Zamith saída 15:37
-[19/06/2024 15:47:24] Rodrigo Miyashiro Nunes dos Santos: 19/06 MORUMBI - Miyashiro saida 15:45
-[19/06/2024 15:52:56] Pedro Paulo Silva Farah: 19/06 VNS ( deslocado Morumbi) Pedro saida 15:40h
-[19/06/2024 15:54:34] Patrick Alexander Sauer Schues: 19/06 Anália - Patrick saída 15:55
-[19/06/2024 16:14:37] Antonio Alvaro Dias Lima da Cunha Neto: 19/06 CENTRAL - Álvaro entrada 11:00
-[19/06/2024 16:15:48] Sidney Orlando de Souza: 19/06 Osasco Sidney-saida: 16:10
-[19/06/2024 16:16:23] Fabiana Soares Gama: 19/06 Anália Fabiana Gama saída as 16:15
-[19/06/2024 16:19:16] Turibio Rodrigues Freire Neto: 19/06 Osasco - Turibio ( deslocado Morumbi) Saida: 16:15
-[19/06/2024 16:26:56] Vanessa Paciullo Marossi: 19/06 Villa - Vanessa saída 16:25
-[19/06/2024 16:27:49] Thiago de Oliveira Heringer: 19/06 Villa - Heringer saída 16:25
-[19/06/2024 16:35:12] Alessandre Luiz Braga Junior: 19/06 Analia - Alessandre saida 16:35
-[19/06/2024 16:37:08] Renata Togeiro Bastos Godoy de Faria: 19/06 MORUMBI - Renata Togeiro entrada 5:00
-[19/06/2024 16:50:20] Erick Oliveira Lima Gomes: 19/06 Santa - Erick saída 16:40
-[19/06/2024 16:51:06] Lais Ribeiro Teixeira: 19/06 Jabaquara Lais saída 16:50
-[19/06/2024 16:57:38] Marcelo Seiji Takaoka: 19/06 Santa - Takaoka saída 16:20
-[19/06/2024 17:08:39] Matheus de Alencar Arraes: 19/06 ITAIM Arraes entrada 06:00
-[19/06/2024 17:08:51] Matheus de Alencar Arraes: 19/06 ITAIM Arraes saida 17:08
-[19/06/2024 17:08:59] Guilherme Silveira Lopes: 19/06 Jabaquara - Silveira saída 14:40
-[19/06/2024 17:18:59] Luccas Varela Godoy: 19/06 alpha Luccas saída 16:40
-[19/06/2024 17:20:23] Arthur Oliveira Facchini: 19/06 Jabaquara Facchini entrada 17:00
-[19/06/2024 18:01:09] Pedro Augusto Tavares Dall Aglio: 19/06 Osasco - Tavares - 17:50
-[19/06/2024 18:01:54] Paloma Kiyomi Taguchi: 19/06 ITAIM - Paloma entrada 6:00
-[19/06/2024 18:06:32] Caroline Firmino Lemes da Silva: 19/06 Morumbi Lemes entrada 12:00
-[19/06/2024 18:06:47] Caroline Firmino Lemes da Silva: 19/06 Morumbi Lemes saída 18:00
-[19/06/2024 18:20:44] Juliana Akemi Funabashi: 19/06 ANÁLIA - Akemi entrada 06:00
-[19/06/2024 18:43:22] Elaine Imaeda de Moura: 19/06 Jabaquara Elaine saída 18:40
-[19/06/2024 19:04:49] Bruno Stornioli Taguchi Lemos: 19/06 HIAE Bruno Lemos saída 19:00 (anestesia externa)
-[19/06/2024 19:10:08] Karoline Becker Paraboni: 19/06- Anália Karoline saída 19:10
-[19/06/2024 19:12:13] Leonardo de Paula Souza: 19/06 Osasco - Leonardo saída 19:10
-[19/06/2024 19:20:34] Rafael Queiroz Araujo: 19/06 Anália - Rafael saída 19:15
-[19/06/2024 19:21:23] Camila Chiarantano Harrison: 19/06 Villa Camila Saida 19:20
-[19/06/2024 19:42:58] Leonardo de Paula Souza: 19/06 Osasco -Leonardo entrada 05:50
-[19/06/2024 19:46:45] Thais Chaves Pinheiro: 19/06 Itaim - Thaís saída 19:45
-[19/06/2024 19:49:29] Nathalia Fanucci Oliveira Di Jorge: 19/06 MORUMBI Nathália saída 19:45
-[19/06/2024 19:50:18] Arthur Oliveira Facchini: 19/06 Jabaquara Facchini saída 19:45
-[19/06/2024 19:52:19] Kaiê Fernandes: 19/06 santa Kaie saída 19:40
-[19/06/2024 19:52:17] Filipe Lugon Moulin Lima: 19/06 ITAIM - Filipe Lugon saida  19:40
-[19/06/2024 20:01:00] Gustavo Alvarenga Bicalho: 19/06 Osasco - Gustavo saída 19:50
-[19/06/2024 20:07:41] Maria Teresa Souza Gomes: 19/06 Osasco - M Teresa saída 20:05
-[19/06/2024 20:08:27] Antonio Alvaro Dias Lima da Cunha Neto: 19/06 CENTRAL - Álvaro saída 20:00
-[19/06/2024 20:13:34] Marcelo Felipe de Souza Buto: 19/06 Jabaquara - Buto saída 20:12
-[19/06/2024 20:15:32] Diego da Cunha Tomaz: 19/06 Santa - Diego saída 19:15
-[19/06/2024 20:18:39] Daniellen Lins Lourenço: 19/06 MORUMBI - Daniellen saída 20:18
-[19/06/2024 20:31:14] Paola Rodrigues Oshiro: 19/06 Anália - Paola saída 20:20
-[19/06/2024 20:40:39] Moabe Gonçalves De Oliveira: 19/06 Moabe - ITAIM saída 20:40
-[19/06/2024 20:43:22] Denio Lopes de Almeida: 19/06 Morumbi - Dênio saída 20:40
-[19/06/2024 20:49:52] Leandro Machado Deorce: 19/06 Anália - Deorce saída 20:30
-[19/06/2024 20:52:15] Norival Scandelai Junior: 19/06 Alpha - Norival saída 19:15
-[19/06/2024 21:07:46] Vivian Cristine dos Anjos e Silva: 19/06 Analia Vivian saida 20:50
-[19/06/2024 21:07:50] Ronald Figueiredo Gomes: 19/06 CENTRAL - Ronald saida 20:40
-[19/06/2024 21:08:54] Carlos Eduardo Gondim Oliveira: 19/06 Morumbi - Oliveira saída 20:50
-[19/06/2024 21:10:25] Rafael Tadeu Marques: 19/06VNS Rafael Tadeu saida 21:08
-[19/06/2024 21:30:46] Thassio Cunha de Santana: 19/06 Jabaquara Thassio saída 19:50
-[19/06/2024 21:38:47] Alexandre Bernardino: 19/06 Villa - Alexandre - saída 21:35
-[19/06/2024 21:41:23] Thiago Silva Pinto: 19/06 Villa - T.Silva  - saída 21:40
-[19/06/2024 21:46:12] Ivã Barbosa Soares: 19/06 Osasco Ivã Saída 21:45
-[19/06/2024 21:50:39] Marcela Aparecida Correa Martins: 19/06 Anália Martins saída 20:30
-[19/06/2024 21:52:50] Vitor Maciel de Sousa Pinto: 19/06 Anália Maciel saída 21:50
-[19/06/2024 22:10:59] Manoel Célio Moura Junior: 19/06 Itaim - Célio saída 22:10h
-[19/06/2024 22:21:11] André Augusto Bellini: 19/06 OSASCO - Bellini saída 22:20
-[20/06/2024 00:32:43] Marina Pontes Moura Nascimento e Silva: 19/06 Osasco Moura saída 00:10
-[20/06/2024 02:40:51] Thiago Francisco Martins: 17/06 ITAIM Thiago Martins saida 22:40
-[20/06/2024 02:41:08] Thiago Francisco Martins: 19/06 ITAIM Thiago Martins entrada 16:00
-[20/06/2024 02:41:30] Thiago Francisco Martins: 19/06 ITAIM Thiago Martins saida 02:40
-[20/06/2024 03:25:29] Rafael Tadeu Marques: 20/06 VNS Rafael Tadeu entrada 3:20 ( extra)
-[20/06/2024 04:24:13] Maiely Marcolin: 20/06 Itaim - Maiely entrada 04:20
-[20/06/2024 04:43:29] Nathalia Fanucci Oliveira Di Jorge: 20/06 MORUMBI Nathália entrada 04:10
-[20/06/2024 05:15:24] Manoel de Souza Neto: 20/06 VNS Manoel entrada 05:15
-[20/06/2024 05:15:36] Daniellen Lins Lourenço: 20/06 JABAQUARA - Daniellen entrada 05:15
-[20/06/2024 05:16:14] Flavio Maia Castilho: 20/06 Morumbi - Castilho entrada 5:15
-[20/06/2024 05:18:27] Gabriela Santos Menezes: 20/06 Morumbi - G.Menezes entrada 05:15
-[20/06/2024 05:22:00] ~ Ícaro Moura: 20/06 Itaim - Ícaro entrada 04:40 (deslocado VNS)
-[20/06/2024 05:22:03] Kaiê Fernandes: 20/06 Osasco Kaie entrada 5:20
-[20/06/2024 05:24:29] Marcelo Maia da Silveira: 20/06 Villa  - Maia Entrada 05:10
-[20/06/2024 05:36:59] Bruno Stornioli Taguchi Lemos: 20/06 Morumbi Bruno Lemos entrada 05:20
-[20/06/2024 05:39:43] Erick Oliveira Lima Gomes: 20/06 Santa - Erick entrada 05:20
-[20/06/2024 06:00:04] Patrick Alexander Sauer Schues: 20/06 Morumbi - Patrick entrada 06:00
-[20/06/2024 06:00:40] Thayse Fachin Cormanique Kayser: 20/06 Itaim - Thayse entrada 6:00
-[20/06/2024 06:02:37] Estanrley Barcelos Pinto: 20/06 VILLA-Estanrley entrada: 06:00
-[20/06/2024 06:03:22] Larissa Mayumi Ono: 20/06 Osasco Larissa - entrada 06:00
-[20/06/2024 06:05:55] André Luis Xavier Franco: 20/06 Itaim - Xavier entrada 05:30 (deslocado VNS)
-[20/06/2024 06:08:31] Pedro Augusto Tavares Dall Aglio: 20/06 Anália - Tavares - entrada 6:00
-[20/06/2024 06:27:19] Leandro Eduardo França: 20/06 JABAQUARA - França entrada 06:30
-[20/06/2024 06:30:23] Helena Araujo Damasceno: 19/06 Jabaquara Helena Saída 16:20
-[20/06/2024 06:32:51] Fernando Akira Koga: 20/06 VNS - Koga entrada 06:30
-[20/06/2024 06:32:56] Guilherme Petry Martins Pereira: 20/06 Villa - Petry entrada 06:00
-[20/06/2024 06:35:43] Ricardo Ivo de Lima: 20/06 - Morumbi - Ricardo Ivo Entrada - 05:20h
-[20/06/2024 06:51:47] Marcella Pellicciotti de Souza: 19/06 morumbi pellicciotti saída 20:00
-[20/06/2024 06:56:51] Ana Clara Mourão Barreto: 19/06 Itaim Clara dispensada
-[20/06/2024 07:02:00] Juliano Moisés Tobal: 20/06 Jabaquara Juliano Tobal entrada 05:00
-[20/06/2024 07:26:26] Manuela Affonso Ferreira Sanged: 20/06 Osasco - Manuela entrada 06:00
-[20/06/2024 07:32:59] Pedro Victor Massaroto e Silva : 20/06 Central Massaroto entrada 6:00
-[20/06/2024 07:34:18] Ricardo Giraldelli Carvalho Lima: 20/06 VILLA - Giraldelli entrada 05:30
-[20/06/2024 07:34:49] Thales Luvisotto Neder: 20/06 Jabaquara - Thales entrada 06:00
-[20/06/2024 07:47:46] Diogo Henrique Pereira Mattos: 20/06 Anália - Diogo entrada 06:00
-[20/06/2024 07:48:01] Lais Ribeiro Teixeira: 20/06 Jabaquara Lais entrada 06:20
-[20/06/2024 07:58:19] Stefany Hellen Sousa Martins: 20/06 Itaim stefany entrada 08:00 ( atraso)
-[20/06/2024 08:11:29] Ana Jung Docko: 20/06 Analia Ana dispensada
-[20/06/2024 08:15:07] Rafael Tadeu Marques: 20/06 VNS Rafael Tadeu saída 7:00 ( extra) assumo rotina
-[20/06/2024 08:34:39] André da Costa Aguiar Ventura: 20/06 MORUMBI Ventura entrada 6:00
-[20/06/2024 09:11:11] Diogo Henrique Pereira Mattos: 20/06 Anália - Diogo saída 09:00
-[20/06/2024 09:13:52] Caroline Firmino Lemes da Silva: 20/06 Jabaquara Lemes entrada 09:00
-[20/06/2024 09:19:54] Rodrigo Gomes Minas Novas: 20/06 Osasco - Gomes entrada 05:35
-[20/06/2024 09:37:27] Carlos Eduardo Corrêa Grilo: 20/06 Anália - Cadu entrada 05:40
-[20/06/2024 09:57:27] Arthur Rodrigues Torrélio: 20/06 OSASCO - Torrelio saída 09:55 (Deslocado Anália / Pós plantão)
-[20/06/2024 11:10:54] Leonardo Barbosa Santos: 20/06 VNS L.Santos saida 11:06 (deslocado analia / pos plantao)
-[20/06/2024 11:11:55] Raiza Luna Peixoto: 20/06 Osasco Raiza entrada 11:00
-[20/06/2024 11:17:44] Marcelo Maia da Silveira: 20/06  Villa - Maia saída 11:00
-[20/06/2024 11:18:48] Nathalia Soares Rodrigues Gomes : 20/06 Anália - Nat Rodrigues saída 11:10
-[20/06/2024 11:20:08] Pedro Henrique Diniz Botelho: 20/06 Osasco - Diniz entrada 9:00
-[20/06/2024 11:22:49] Ricardo Giraldelli Carvalho Lima: 20/06 VILLA - Giraldelli saída 11:00
-[20/06/2024 11:23:55] Maxvilano Lima de Macedo: 20/06 Villa Maxvilano entrada 06:00
-[20/06/2024 11:25:26] Kawan Ramis Rodrigues: 20/06 - Anália - Kawan entrada 05:50
-[20/06/2024 11:30:02] Kawan Ramis Rodrigues: 20/06 - Anália - Kawan saída 10:15
-[20/06/2024 11:34:46] Sidney Orlando de Souza: 20/06-Osasco-Sidney - saida: 11:15
-[20/06/2024 12:23:13] Marcos Rogério Pereira Machado Filho: 20/06 Alpha Marcos entrada 6:00
-[20/06/2024 12:36:18] Paula Angélica Pinha Neves: 20/06 ANÁLIA Paula Neves entrada 9:00
-[20/06/2024 12:37:04] Paula Angélica Pinha Neves: 20/06 ANÁLIA Paula Neves saída 9:30
-[20/06/2024 12:46:55] Maurício Faria Tetti: 20/06 - Analia Maurício entrada 13:00 (a pedido da coordenação)
-[20/06/2024 13:21:44] Márcio Ighor Azevedo Silva de Mendonça Melânia: 20/06 VILLA - Ighor entrada 11:00
-[20/06/2024 13:22:19] Hedicleber Pestana Severino: 19/06 Morumbi Hedicleber saída 19:45
-[20/06/2024 14:11:53] Maxvilano Lima de Macedo: 20/06 Villa maxvilano saída 14:10
-[20/06/2024 14:12:49] Daniellen Lins Lourenço: 20/06 JABAQUARA - Daniellen saída 14:10
-[20/06/2024 14:21:51] Lais Ribeiro Teixeira: 20/06 Jabaquara Lais saída 14:20
-[20/06/2024 14:28:46] Leandro Eduardo França: 20/06 JABAQUARA - França saída 14:20
-[20/06/2024 14:35:51] Maiely Marcolin: 20/06 Itaim - Maiely saida 14:15
-[20/06/2024 14:42:55] Victor Augusto de Souza Moraes: 06/06 Anália - V.Augusto saída 22:50
-[20/06/2024 14:49:28] Carlos Eduardo Corrêa Grilo: 20/06 Anália - Cadu saída 14:45
-[20/06/2024 14:49:43] Nathalia Fanucci Oliveira Di Jorge: 20/06 MORUMBI Nathália saída 14:45
-[20/06/2024 15:24:14] Rafael Queiroz Araujo: 20/06 Anália - Rafael saída 15:20
-[20/06/2024 15:33:41] Pedro Victor Massaroto e Silva : 20/06 Central Massaroto saída 15:30
-[20/06/2024 15:36:05] Juliano Moisés Tobal: 20/06 Jabaquara Juliano Tobal saída 09:40
-[20/06/2024 15:43:02] Fábio Antônio de Souza Oliveira: 20/06 Itaim Fabio saída 15:37
-[20/06/2024 15:43:16] Karoline Becker Paraboni: 20/06 Anália Karoline saída 15:43
-[20/06/2024 15:45:53] Renata Togeiro Bastos Godoy de Faria: 20/06 MORUMBI - Renata Togeiro entrada 4:15
-[20/06/2024 15:53:14] Maria Teresa Souza Gomes: 20/06 Anália M Teresa saída 15:40
-[20/06/2024 15:56:40] Pedro Henrique Lucas de Moraes: 20/06 Analia - Moraes saida 15:35
-[20/06/2024 16:03:31] Pedro Belintani de Maio: 20/06 Analia - Belintani saída 15:50h
-[20/06/2024 16:03:43] Manoel Célio Moura Junior: 20/06 Anália - Célio saída 16:00h
-[20/06/2024 16:09:49] Ivã Barbosa Soares: 20/06 Alpha Ivã Saída 15:50
-[20/06/2024 16:14:00] José Marcos Vieira da Silva: 20/06 - Jabaquara José Marcos entrada 5:45
-[20/06/2024 16:14:23] José Marcos Vieira da Silva: 20/06 - Jabaquara José Marcos saída 13:30
-[20/06/2024 16:30:06] Guilherme Petry Martins Pereira: 20/06 Villa - Petry saída 15:40
-[20/06/2024 16:30:27] Gabriela Santos Menezes: 20/06 Morumbi - G.Menezes saída 16:25
-[20/06/2024 16:40:10] Paula Lopes Agapito de Freitas: 20/06 - Central - Paula A - saida - 16:40
-[20/06/2024 16:42:36] ~ Ícaro Moura: 20/06 Itaim - Ícaro saída 16:40 (deslocado VNS)
-[20/06/2024 16:47:31] Yuri Anderson Pacheco de Lima: 20/06 VNS - Yuri saída 16:30
-[20/06/2024 16:59:29] Norival Scandelai Junior: 20/06 Alpha - Norival saída 16:10
-[20/06/2024 17:02:43] Bruna Daibert Danesin: 20/06 Central Bruna saída 16:20
-[20/06/2024 17:14:45] Rodrigo Achui Haga: 20/06 VILLA - haga saida 17:10
-[20/06/2024 17:42:45] Juliana Akemi Funabashi: 20/06 ANÁLIA - Akemi saída 17:00
-[20/06/2024 17:50:21] Bruce Ye Man Chow: 20/06 Jabaquara - bruce entrada 07:00
-[20/06/2024 17:50:28] Bruce Ye Man Chow: 20/06 Jabaquara - bruce saida 16:10
-[20/06/2024 18:34:56] Mariana Dardengo Borges: 20/06 MORUMBI - M. Dardengo entrada 05:20
-[20/06/2024 18:59:13] Anna Beatriz Aranha Trevisan: 19/06 VILLA - Anna Beatriz entrada 06:00
-[20/06/2024 18:59:27] Anna Beatriz Aranha Trevisan: 20/06 ITAIM - Anna Beatriz entrada 06:00
-[20/06/2024 19:17:08] Maurício Faria Tetti: 20/06 Anália Maurício saída 19:00
-[20/06/2024 19:29:32] Victor Augusto de Souza Moraes: 20/06 - Anália V.Augusto saída 19:20
-[20/06/2024 19:41:14] Ricardo Ivo de Lima: 20/06 - Morumbi - Ricardo Ivo Saída - 19:30h
-[20/06/2024 19:41:46] André Luis Xavier Franco: 20/06 Itaim - Xavier saída 19:40
-[20/06/2024 19:54:20] Caroline Firmino Lemes da Silva: 20/06 Jabaquara Lemes saída 19:50
-[20/06/2024 20:08:01] Karen Yumi Miyashiro: 20/06 Villa - Yumi saída 19:20
-[20/06/2024 20:09:17] Flavio Maia Castilho: 20/06 morumbi - Castilho saida 20:10
-[20/06/2024 20:10:08] Fabiana Soares Gama: 20/06 Villa Fabiana Gama saída as 17:10
-[20/06/2024 20:12:38] Yoko Hayashi: 20/06 Itaim Yoko entrada 5:45
-[20/06/2024 20:12:46] Yoko Hayashi: 20/06 Itaim Yoko saída 19:45
-[20/06/2024 20:13:01] Rafael Tadeu Marques: 20/06 VNS Rafael Tadeu saída 20:10
-[20/06/2024 20:28:58] Thassio Cunha de Santana: 20/06 Villa Thassio saída 19:50
-[20/06/2024 20:40:45] Guilherme Silveira Lopes: 20/06 Jabaquara - Silveira saída 20:40
-[20/06/2024 20:42:01] Diego da Cunha Tomaz: 20/06 Santa - Diego saída 20:40
-[20/06/2024 20:43:16] Diego da Cunha Tomaz: 20/06 Santa - Diego entrada 6:00
-[20/06/2024 20:43:20] Thayse Fachin Cormanique Kayser: 20/06 ITAIM - Thayse saída 20:25
-[20/06/2024 20:46:21] Sabrina de Souza Ramos: 20/06 Jabaquara Sabrina saída 20:45
-[20/06/2024 20:52:04] Daniel Rodrigues de Oliveira: 20/06 Itaim Daniel saída 10:00
-[20/06/2024 20:57:22] Sheila Itiroco Monte: 20/06 ITAIM Sheila saída 20:57
-[20/06/2024 21:17:44] Natalia Nunes Santos: 20/06 Itaim Nat Nunes saída 21:10
-[20/06/2024 21:18:52] Renata Togeiro Bastos Godoy de Faria: 20/06 MORUMBI - Renata Togeiro saída 21:10
-[20/06/2024 21:20:26] Ricardo Kawaura: 20/06 Osasco kawaura saída 21:20
-[20/06/2024 21:21:36] Pedro Paulo Silva Farah: 20/06 Morumbi - Pedro entrada 06:00h
-[20/06/2024 21:21:53] Pedro Paulo Silva Farah: 20/06 Morumbi - Pedro saída 19:30h
-[20/06/2024 21:23:48] Márcio Ighor Azevedo Silva de Mendonça Melânia: 20/06 VILLA - Ighor saída 21:20
-[20/06/2024 21:24:13] Vitor Luiz Assunção Martins: 20/06 Osasco Assunção saída 21:20
-[20/06/2024 21:41:25] Raiza Luna Peixoto: 20/06 Osasco Raiza saída 21:35
-[20/06/2024 21:42:21] Hedicleber Pestana Severino: 20/06 Morumbi Hedicleber saída 21:40
-[20/06/2024 21:45:24] Karen Peixoto Ricci: 20/06 Itaim Karen saída 21:45
-[20/06/2024 21:49:51] Marcelo de Oliveira Peres: 20/06 ITAIM Marcelo  saída 21:40
-[20/06/2024 21:50:25] Rodrigo Miyashiro Nunes dos Santos: 20/06 MORUMBI - Miyashiro saida 21:50
-[20/06/2024 21:50:49] Juliana Santos Saboia: 20/06 OSASCO -saboia saída 21:10
-[20/06/2024 22:14:03] Marcelo Felipe de Souza Buto: 20/06 Villa - Buto saída 22:10
-[20/06/2024 22:17:29] Milton Olaio Neto: 20/6-Itaim Olaio saída 21:45
-[20/06/2024 22:22:06] Jessica Lidia de Souza: 20/06 Villa - Jessica saída 22:20
-[20/06/2024 22:33:54] Filipe Maeda Hashi Abdalla Martins: 20/06 santa maeda saída 22:10
-[20/06/2024 23:06:08] Leandro Oliveira Martins Cortês: 20/06 SANTA - Côrtes saída 22:50
-[20/06/2024 23:11:46] Débora Alves Aude: 20/06 Itaim Débora saída 23:10
-[20/06/2024 23:41:12] Luciano Angelo Richetti: 20/6 Itaim Luciano saída 23:40
-[20/06/2024 23:45:10] Gustavo Alvarenga Bicalho: 20/06 Itaim - Gustavo 23:40 (Coelho assume plantão) ‎<Mensagem editada>
-[21/06/2024 00:11:37] Thiago Silva Pinto: 20/06 SANTA - T. Silva - saída 00:10
-[21/06/2024 00:12:23] Filipe Lugon Moulin Lima: 21/06 ITAIM - Filipe Lugon saida 00:10
-[21/06/2024 01:53:14] Fernando Ribeiro Sá: 21/06 Santa - Ribeiro saída 01:50 (distância)
-[21/06/2024 04:18:31] Rodrigo Miyashiro Nunes dos Santos: 21/06 MORUMBI - Miyashiro entrada 04:15
-[21/06/2024 04:34:08] Aline Franchini Goulart Lima: 21/06 Villa Aline entrada 04:30
-[21/06/2024 04:53:04] Gabriella Gadelha Sarmento: 21/06 VNS - Gabriella entrada 04:50
-[21/06/2024 05:01:38] Arthur Oliveira Facchini: 21/06 Jabaquara Facchini entrada 05:00
-[21/06/2024 05:15:57] Karoline Becker Paraboni: 21/06 Santa Karoline 05:15
-[21/06/2024 05:19:04] Victor Augusto de Souza Moraes: 21/06 Itaim - V.Augusto entrada 05:15
-[21/06/2024 05:19:19] Estanrley Barcelos Pinto: 21/06 SANTA-Estanrley entrada: 05:00
-[21/06/2024 05:22:59] Leandro Eduardo França: 21/06 JABAQUARA - França entrada 05:20
-[21/06/2024 05:26:45] Márcio Ighor Azevedo Silva de Mendonça Melânia: 21/06 CENTRAL - Ighor entrada 05:20 (deslocado HVL)
-[21/06/2024 05:26:49] Gretel Oliveira Nicolau: 21/06 Analia- Gretel entrada 05:20
-[21/06/2024 05:31:19] Vitor Oliveira André: 21/06 Villa Vitor entrada 05:30
-[21/06/2024 05:35:56] Rodrigo Antonio Rey Gonzalez: 21/06 SANTA - Rey entrada 05:30
-[21/06/2024 05:44:52] Camila Chiarantano Harrison: 21/06 Villa Camila Entrada 5:35
-[21/06/2024 05:49:55] Ronald Figueiredo Gomes: 21/06 JABAQUARA - Ronald entrada 05:45
-[21/06/2024 05:52:41] Caio Tulio Duarte: 21/06 ANÁLIA - Caio entrada 05:20
-[21/06/2024 05:58:31] Fernando Akira Koga: 21/06 VNS - Koga entrada 06:00
-[21/06/2024 05:59:47] Marcella Pellicciotti de Souza: 21/06 Jabaquara pellicciotti entrada 6:00
-[21/06/2024 06:01:10] Denio Lopes de Almeida: 21/06 Osasco - Dênio entrada 06:00 (deslocado Villa)
-[21/06/2024 06:01:15] Pedro Henrique Milhomens da Mota: 21/06 Osasco Mota entrada 5:30 (deslocado VNS)
-[21/06/2024 06:01:17] Daniel  Masuzaki Wong: 21/06 Osasco - Wong entrada 06:00
-[21/06/2024 06:05:46] Rodrigo Gomes Minas Novas: 21/06 SANTA - Gomes entrada 06:00
-[21/06/2024 06:27:27] Vivianna Bovério Galzerani: 21/06 Jabaquara Vivianna entrada 06:00
-[21/06/2024 06:36:00] Karen Peixoto Ricci: 21/06 Alpha Karen entrada 6:35
-[21/06/2024 07:09:31] Leonardo Barbosa Santos: 21/06 HSI - L. Santos entrada 4:50
-[21/06/2024 07:09:36] Leonardo Barbosa Santos: 21/06 HSI - L. Santos saída 7:00 (Coelho assume a rotina)
-[21/06/2024 07:11:11] Felipe Coelho de Souza: 21/06 HSI - Coelho entrada 7:00 (assumo rotina, deslocado Itaim)
-[21/06/2024 07:23:27] Marcos Rogério Pereira Machado Filho: 20/06 Alpha Marcos saída 16:15
-[21/06/2024 07:23:50] Thales Luvisotto Neder: 21/06 Villa - Thales entrada 06:00
-[21/06/2024 07:34:30] Ricardo Barbosa Viana Filho: 20/06 Analia - Barbosa Entrada 13:00
-[21/06/2024 07:34:40] Ricardo Barbosa Viana Filho: 20/06 Analia - Barbosa Saída 15:40
-[21/06/2024 07:42:49] Juliana Santos Saboia: 21/06 OSASCO - Saboia entrada 06:00
-[21/06/2024 08:36:07] Leandro Eduardo França: 21/06 JABAQUARA - França saída 08:35
-[21/06/2024 08:41:04] Pedro Henrique Diniz Botelho: 21/06 Osasco - Diniz saída 8:40 (pós plantão)
-[21/06/2024 08:51:55] Manoel Célio Moura Junior: 21/06 Itaim - Célio entrada 09:00h (deslocado Osasco) ‎<Mensagem editada>
-[21/06/2024 08:52:29] Natan Soares Silveira: 21/06 HCT - Natan - entrada 06:40
-[21/06/2024 08:56:09] Leandro Oliveira Martins Cortês: 21/06 SANTA - Côrtes entrada 06:00
-[21/06/2024 09:13:17] Carlos Eduardo Corrêa Grilo: 21/06 Anália - Cadu entrada 06:00
-[21/06/2024 09:13:42] Carlos Eduardo Corrêa Grilo: 21/06 Anália - Cadu saída 09:10
-[21/06/2024 09:16:00] Renata Togeiro Bastos Godoy de Faria: 21/06 MORUMBI - Renata Togeiro entrada 5:00
-[21/06/2024 09:37:31] Francisco Antonio Alves Bonatto: 21/06 VILLA - Francisco saída 09:30
-[21/06/2024 09:47:51] Gabriel de Aguiar Santana: 20/06 Itaim - Gabriel saída 02:20 (distância)
-[21/06/2024 10:06:17] Yuri Anderson Pacheco de Lima: 21/06 Morumbi - Yuri entrada 05:20
-[21/06/2024 10:07:47] Arthur Oliveira Facchini: 21/06 Jabaquara Facchini saída 10:05
-[21/06/2024 10:19:24] Caroline Firmino Lemes da Silva: 21/06 Morumbi Lemes entrada 06:00
-[21/06/2024 10:42:53] Alexandre Amaral Lucas: 19/06 Osasco - alexandre Amaral saída 21:00
-[21/06/2024 10:44:57] Isabela Mattarelli Souza Carli: 21/06 - Morumbi - Mattarelli entrada 05:35
-[21/06/2024 10:55:26] Mariana Gasparelli de Souza: 21/06 - Morumbi - Mariana Gasparelli entrada 06:10 ( a pedido)
-[21/06/2024 11:08:10] Fernando Akira Koga: 21/06 VNS - Koga saída 11:07
-[21/06/2024 11:40:23] Ana Jung Docko: 21/06 Analia Ana saída 11:20
-[21/06/2024 11:43:10] Anna Beatriz Aranha Trevisan: 21/06 ITAIM - Anna Beatriz entrada 06:00
-[21/06/2024 11:55:04] Fernando Ribeiro Sá: 21/06 Santa - Ribeiro entrada 12:00 (deslocamento VNS)
-[21/06/2024 12:08:18] Patrick Alexander Sauer Schues: 21/06 Morumbi - Patrick entrada 12:00
-[21/06/2024 12:22:06] Karen Yumi Miyashiro: 21/06 Anália - Yumi entrada 06:00
-[21/06/2024 12:40:17] Ana Clara Mourão Barreto: 21/06 Jabaquara Clara saída 12:40
-[21/06/2024 13:00:38] Pedro Henrique Milhomens da Mota: 21/06 Osasco Mota saída 12:15 (deslocado VNS)
-[21/06/2024 13:52:53] Marcos Vinícius Costa Carvalho: 21/06 ITAIM - Vinicius entrada 09:00
-[21/06/2024 13:53:58] Marcos Vinícius Costa Carvalho: 21/06 ITAIM - Vinicius saída 13:00
-[21/06/2024 15:22:40] Ricardo Giraldelli Carvalho Lima: 21/06 VILLA - Giraldelli saída 15:20
-[21/06/2024 15:39:55] Juliano Moisés Tobal: 21/06 Villa Juliano Tobal saída 15:35
-[21/06/2024 15:44:01] Thales Luvisotto Neder: 21/06 Villa - Thales saída 15:40
-[21/06/2024 15:59:04] Débora Alves Aude: 21/06 Itaim - Débora saída 15:55
-[21/06/2024 16:24:10] Vitor Oliveira André: 21/06 Villa Vitor saída 16:24
-[21/06/2024 16:32:16] Aline Franchini Goulart Lima: 21/06 Villa Aline saída 16:30
-[21/06/2024 16:34:20] Thaís Miranda Ramos: 21/06 OSASCO - Miranda saída às 16:30
-[21/06/2024 16:45:34] Marcelo Maia da Silveira: 21/06 Villa  - Maia saída 16:40
-[21/06/2024 16:45:42] Ronald Figueiredo Gomes: 21/06 JABAQUARA - Ronald saida 16:45
-[21/06/2024 16:58:49] Milton Olaio Neto: 21/6-Itaim Olaio entrada 6:00
-[21/06/2024 16:59:17] Milton Olaio Neto: 21/6-Itaim Olaio saída 16:45
-[21/06/2024 17:03:09] Márcio Ighor Azevedo Silva de Mendonça Melânia: 21/06 CENTRAL - Ighor saída 17:00 (deslocado HVL)
-[21/06/2024 17:04:27] Camila Chiarantano Harrison: 21/06 Villa Camila Saida 14:06
-[21/06/2024 17:14:19] Helena Araujo Damasceno: 21/06 Villa Helena entrada 13:00
-[21/06/2024 17:42:48] Rodrigo Miyashiro Nunes dos Santos: 21/06 MORUMBI - Miyashiro saida 17:40
-[21/06/2024 17:44:26] Denio Lopes de Almeida: 21/06 Osasco - Dênio saída 17:40 (deslocado Villa)
-[21/06/2024 17:45:08] Guilherme Silveira Lopes: 21/06 Morumbi - Silveira saída 17:45
-[21/06/2024 17:45:56] Gretel Oliveira Nicolau: 21/06 Analia- Gretel saida 17:40
-[21/06/2024 17:46:51] Eduardo Arbache Bezerra: 21/06 Villa - Bezerra entrada as 13:00 (a pedido da coordenação)
-[21/06/2024 17:46:52] Eduardo Arbache Bezerra: 21/06 Villa - Bezerra saida as 17:45
-[21/06/2024 17:47:01] Flavio Hideki Oshika: 21/06 MORUMBI - Flávio entrada 04:20
-[21/06/2024 17:47:20] Flavio Hideki Oshika: 21/06 MORUMBI - Flávio saída 17:45 ‎<Mensagem editada>
-[21/06/2024 18:46:25] Felipe Coelho de Souza: 21/06 Santa - Coelho saída 18:20 (deslocado itaim)
-[21/06/2024 19:06:03] Daniellen Lins Lourenço: 21/06 JABAQUARA - saída 19:05
-[21/06/2024 19:12:38] Mariana Gasparelli de Souza: 21/06 Morumbi - Mariana Gasparelli saída 17:10
-[21/06/2024 19:17:29] André da Costa Aguiar Ventura: 21/06 ALPHA Ventura saida 19:10
-[21/06/2024 19:19:02] Rômulo Spolidorio: 21/06 Analia Rômulo saída 19:15
-[21/06/2024 19:26:03] Karoline Becker Paraboni: 21/06 Santa Karoline saída 19:25
-[21/06/2024 19:33:47] Estanrley Barcelos Pinto: 21/06 SANTA-Estanrley saída: 19:25
-[21/06/2024 19:41:14] Flávio Rosa Figueiredo Souza: 21/06 - Osasco - Figueiredo saída 19:40
-[21/06/2024 19:58:05] Yoko Hayashi: 21/06 Alpha Yoko saída 19:45
-[21/06/2024 20:00:03] Fábio Yuji Suguita: 21/06 jabaquara yuji saída 20:00
-[21/06/2024 20:08:26] Elaine Imaeda de Moura: 21/06 Morumbi Elaine saída 19:50
-[21/06/2024 20:18:02] Helena Araujo Damasceno: 21/06 HVL Helena saída 17:10 ‎<Mensagem editada>
-[21/06/2024 20:23:38] Everton Sidney da Conceição Carvalho: 21/06 - ITAIM - Everton saída 20:20
-[21/06/2024 20:25:33] Alexandre Amaral Lucas: 21/06 Osasco - alexandre Amaral saída 20:25
-[21/06/2024 20:26:36] Gabriela Soares Piassi: 21/06 Osasco - Piassi saída 20:15
-[21/06/2024 20:27:44] Natalia  Yume Hissayasu Menezes: 21/06 Osasco - Nat Yume saída 20:20
-[21/06/2024 20:35:15] Thiago de Oliveira Heringer: 21/06 Anália - Heringer saída 20:35
-[21/06/2024 20:35:29] Leandro Oliveira Martins Cortês: 21/06 SANTA - Côrtes saída 20:30
-[21/06/2024 20:40:07] Bruce Ye Man Chow: 21/06 Jabaquara - bruce saida 19:40
-[21/06/2024 20:40:34] Mônica Robles Gonçalves: 21/06 Itaim Mônica saída 20:20
-[21/06/2024 20:41:35] Arthur Rodrigues Torrélio: 21/06 OSASCO - Torrelio saída 20:40
-[21/06/2024 20:43:56] Fabiana Barbosa Bastos: 21/06 VNS - Fabiana saída 20:40
-[21/06/2024 20:46:32] Erick Oliveira Lima Gomes: 21/06 Jabaquara - Erick saída 20:45
-[21/06/2024 20:46:52] Fábio Antônio de Souza Oliveira: 21/06 entrada 7hs e saída 20hs ( Mayane fez o período no meu lugar)
-[21/06/2024 20:56:55] Isabela Mattarelli Souza Carli: 21/06 - Morumbi - Mattarelli saída 19:50
-[21/06/2024 21:04:42] Rodrigo Antonio Rey Gonzalez: 21/06 SANTA - Rey saida 19:50
-[21/06/2024 21:05:10] Gabriela Santos Menezes: 21/05 Morumbi - G.Menezes saída 21:05
-[21/06/2024 21:08:08] Vanessa Paciullo Marossi: 21/06 Anália - Vanessa saída 21:00
-[21/06/2024 21:08:26] Pedro Augusto Tavares Dall Aglio: 21/06 Anália - Tavares - saída 21:00
-[21/06/2024 21:24:51] Maiely Marcolin: 21/06 Itaim - Maiely saida 21:00
-[21/06/2024 21:27:03] Leonardo de Paula Souza: 21/06 Jabaquara- Leonardo entrada 05:40
-[21/06/2024 21:27:27] Leonardo de Paula Souza: 21/06 Jabaquara- Leonardo saída 12:50
-[21/06/2024 21:41:18] Renato dos Santos Borega: 21/06 Villa - Renato saída 15:10
-[21/06/2024 21:45:14] Darlan Junior Schneider: 21/06 Itaim - Darlan saida 21:45
-[21/06/2024 21:47:17] Gustavo Marques da Silva: 21/06 Itaim - Marques saida 21:45
-[21/06/2024 22:00:06] Marcos Bastos dos Santos: 21/06 Jabaquara - Bastos - saída 22:00
-[21/06/2024 22:03:06] Marcela Aparecida Correa Martins: 21/06 Anália - Martins saída 21:00
-[21/06/2024 22:04:27] Amanda Kiyoko Souza Kossaka: 21/06 MORUMBI - Amanda saída 21:35
-[21/06/2024 22:09:51] Marcelo de Oliveira Peres: 21/06 MORUMBI - Marcelo saída 21:40
-[21/06/2024 22:26:05] Ludmylla Gomes Neves: 21/06 Osasco Ludmylla entrada 9:00
-[21/06/2024 22:26:35] Ludmylla Gomes Neves: 21/06 Osasco Ludmylla saida 22:25
-[21/06/2024 22:29:15] Ricardo Kawaura: 21/06 Osasco kawaura saída 22:25
-[21/06/2024 22:44:12] Maíra Leite Basile: 21/06 Central - Maíra saída 21:40
-[21/06/2024 22:53:39] Diogo Henrique Pereira Mattos: 21/06 Anália - Diogo saída 22:45
-[22/06/2024 02:57:01] Alessandre Luiz Braga Junior: 22/06 Analia - alessandre saida 03:00 (Distancia)
-[22/06/2024 04:40:05] Norival Scandelai Junior: 22/06 Itaim - Norival entrada 4:15
-[22/06/2024 04:42:27] Felipe de Oliveira Nunes: 22/06 Osasco - Nunes entrada 04:40 (deslocado HSI)
-[22/06/2024 04:57:17] Natalia  Yume Hissayasu Menezes: 22/06 Jabaquara - Nat Yume entrada 05:00
-[22/06/2024 05:25:16] Pedro Augusto Tavares Dall Aglio: 22/06 Anália - Tavares - entrada 5:20
-[22/06/2024 05:28:04] Yuri Anderson Pacheco de Lima: 22/06 Jabaquara - Yuri entrada 05:10
-[22/06/2024 05:34:12] Flávio Rosa Figueiredo Souza: 22/06 - Jabaquara - Figueiredo entrada 05:30
-[22/06/2024 05:35:11] Marcella Pellicciotti de Souza: 22/06 Jabaquara - Pellicciotti entrada 5:30
-[22/06/2024 05:36:41] Filipe Lugon Moulin Lima: 22/06 ANALIA - Filipe Lugon entrada 05:35 (deslocado ITAIM)
-[22/06/2024 05:41:45] Flavio Hideki Oshika: 22/06 ANALIA - Flávio entrada 05:40
-[22/06/2024 05:48:46] Thiago de Oliveira Heringer: 22/06 Morumbi - Heringer entrada 05:40
-[22/06/2024 05:49:00] Fernando Ribeiro Sá: 22/06 VNS Ribeiro entrada 05:45
-[22/06/2024 05:51:15] Diego da Cunha Tomaz: 22/06 Santa - Diego entrada 6:00
-[22/06/2024 05:53:06] Camila Resende de Paula: 22/06 Anália - C. Resende - entrada 6:00
-[22/06/2024 06:01:47] Gabriela de Faria Bizarria: 22/06 Anália - Bizarria entrada 06:00
-[22/06/2024 06:04:55] Lucas Silva Martins: 22/06 Osasco - Silva - entrada 06:00
-[22/06/2024 06:21:50] Débora Alves Aude: 22/06 VNS - Débora entrada 06:20
-[22/06/2024 06:26:19] Augusto de Castro Santos Queiroz: 22/06 Analia - Castro entrada 06:00
-[22/06/2024 06:39:27] Márcio Ighor Azevedo Silva de Mendonça Melânia: 22/06 VILLA - Ighor entrada 06:00
-[22/06/2024 06:41:32] Manuela Affonso Ferreira Sanged: 22/06 Osasco - Manuela entrada 05:30 (deslocada Jabaquara)
-[22/06/2024 06:43:10] Mônica Robles Gonçalves: 22/06 Itaim Mônica entrada 06:00
-[22/06/2024 07:24:30] Natalia Nunes Santos: 22/06 Osasco - Nat Nunes entrada 05:50 (deslocada Jabaquara)
-[22/06/2024 07:25:40] Renata Pinheiro Modolo: 22/06 Anália - R. Modolo entrada 6:00 (deslocamento Itaim)
-[22/06/2024 07:26:56] Marcelo Felipe de Souza Buto: 22/06 Villa - Buto entrada 6:00 (deslocado alpha)
-[22/06/2024 07:34:06] Leonardo Barbosa Santos: 22/06 jabaquara L.Santos 6:30 (pedido coordenação)
-[22/06/2024 07:47:06] Carlos Augusto Trevisan: 22/06 JABAQUARA - Carlos - entrada 6:00
-[22/06/2024 08:08:54] Rafael Tadeu Marques: 22/06 VNS Rafael Tadeu saída 8:05
-[22/06/2024 08:21:34] Thais Bosi Nonato: 22/06 Jabaquara - Bosi saída 08:20
-[22/06/2024 08:25:38] Yuri Anderson Pacheco de Lima: 22/06 Jabaquara - Yuri saída 08:20
-[22/06/2024 08:25:59] Anna Beatriz Aranha Trevisan: 22/06 JABAQUARA - Anna Beatriz entrada 06:00
-[22/06/2024 09:11:56] Carlos Eduardo Gondim Oliveira: 22/06 Osasco - Oliveira entrada 05:30 ‎<Mensagem editada>
-[22/06/2024 09:12:39] Isabela Mattarelli Souza Carli: 22/06 - Morumbi - Mattarelli entrada 05:40
-[22/06/2024 09:17:33] Natalia  Yume Hissayasu Menezes: 22/06 Jabaquara - Nat Yume saída 09:10
-[22/06/2024 09:22:52] Bianca Priscila Buniotti: 22/06 Morumbi - Bianca entrada 06:00
-[22/06/2024 10:13:48] Emerson Domingos da Costa: 22/06 Jabaquara Emerson saída 10:10
-[22/06/2024 10:15:55] Marcella Pellicciotti de Souza: 22/06 Jabaquara pellicciotti saída 10:10
-[22/06/2024 10:18:19] Thayse Fachin Cormanique Kayser: 22/06 ANÁLIA - Thayse entrada 06:00
-[22/06/2024 10:31:40] Pedro Augusto Tavares Dall Aglio: 22/06 Anália - Tavares - saída 10:30
-[22/06/2024 10:44:32] Hedicleber Pestana Severino: 22/06 alpha Hedicleber saída 10:40(deslocamento Villa) ‎<Mensagem editada>
-[22/06/2024 10:49:18] Anna Beatriz Aranha Trevisan: 22/06 JABAQUARA - Anna Beatriz saída 10:45
-[22/06/2024 11:05:43] Carlos Augusto Trevisan: 22/06 JABAQUARA - Carlos saída 10:55
-[22/06/2024 11:17:04] Filipe Lugon Moulin Lima: 22/06 ANALIA - Filipe Lugon saida 11:10 (deslocado ITAIM)
-[22/06/2024 11:38:31] Diego da Cunha Tomaz: 22/06 Santa - Diego saída 11:30
-[22/06/2024 11:39:28] José Carlos Tuna Scarpa: 21/06 Santa José Carlos Entrada 13:00
-[22/06/2024 11:40:00] José Carlos Tuna Scarpa: 21/06 Santa José Carlos Saída 19:50
-[22/06/2024 11:43:56] Caio Tulio Duarte: 22/06 ANALIA - Caio saida 11:40
-[22/06/2024 12:04:15] Rafhael Silva Leal: 22/06 villa - Leal dispensado
-[22/06/2024 12:06:42] Flavio Hideki Oshika: 22/06 ANÁLIA - Flávio saída 12:05 (deslocado maternidade)
-[22/06/2024 12:17:52] Renata Torres Bueno: 22/06 Anália - Renata Bueno entrada 05:30
-[22/06/2024 12:18:29] Renata Torres Bueno: 22/06 Analia - Renata Bueno saída 11:40 (deslocada HSI)
-[22/06/2024 12:18:56] Renata Pinheiro Modolo: 22/06 Anália - R. Modolo saída 12:15
-[22/06/2024 12:38:14] Manoel Célio Moura Junior: 22/06 Itaim - Célio saída 12:35h
-[22/06/2024 12:40:26] Karen Peixoto Ricci: 22/06 Itaim Karen saída 12:35
-[22/06/2024 12:49:48] Guilherme de Almeida Costa: 22/06 morumbi costa saida 12:50
-[22/06/2024 12:51:43] Márcio Ighor Azevedo Silva de Mendonça Melânia: 22/06 VILLA - Ighor saída 12:50
-[22/06/2024 13:14:02] Gabriela Soares Piassi: 22/06 Alpha - Piassi saída 13:10
-[22/06/2024 13:16:37] Felipe de Oliveira Nunes: 22/06 Osasco - Nunes saída 13:10 (deslocado HSI)
-[22/06/2024 13:17:36] Marcelo Felipe de Souza Buto: 22/06 Villa - Buto saída 13:10 (deslocado Alpha)
-[22/06/2024 13:18:47] Thayse Fachin Cormanique Kayser: 22/06 Anália - Thayse saída 13:05
-[22/06/2024 13:35:17] Manuela Affonso Ferreira Sanged: 22/06 Osasco - Manuela saída 13:25 (deslocada Jabaquara) ‎<Mensagem editada>
-[22/06/2024 13:40:11] Camila Resende de Paula: 22/06 Anália - C. Resende saída 13:40
-[22/06/2024 13:45:51] Natalia Nunes Santos: 22/06 Osasco - Nat Nunes saída 13:45 (deslocada Jabaquara)
-[22/06/2024 13:45:54] Ricardo Giraldelli Carvalho Lima: 22/06 VILLA - Giraldelli saída 13:45
-[22/06/2024 13:52:51] Rodrigo Miyashiro Nunes dos Santos: 22/06 ITAIM - Miyashiro saida 13:50
-[22/06/2024 13:57:16] Carlos Eduardo Gondim Oliveira: 22/06 Osasco - Oliveira saída 13:50 (deslocado Maternidade)
-[22/06/2024 13:59:51] Matheus Acquesta Gaubeur: 22/06 Villa - Matheus saída 13:30
-[22/06/2024 14:18:02] Mônica Robles Gonçalves: 22/06 Itaim Mônica saída 12:35
-[22/06/2024 14:18:03] Helena Araujo Damasceno: 22/06 Osasco Helena entrada 05:30 (deslocada itaim)
-[22/06/2024 14:18:46] Helena Araujo Damasceno: 22/06 osasco Helena Saída 14:10 (deslocada Itaim)
-[22/06/2024 14:26:53] Henri Roger Watanabe Oliveira: 22/06 Morumbi - Henri entrada as 05:00
-[22/06/2024 14:27:17] Henri Roger Watanabe Oliveira: 22/06 Morumbi - Henri saida as 14:10
-[22/06/2024 14:43:24] Andréia Loureiro Mori: 22/06 Jabaquara Andréia saída 14:40
-[22/06/2024 14:46:28] Augusto de Castro Santos Queiroz: 22/03 Analia - Castro saida 14:40
-[22/06/2024 15:09:02] Orlando Domingues de Araújo Pontes: 22/06 Villa Orlando saída 15:08
-[22/06/2024 15:23:16] Ludmylla Gomes Neves: 22/06 Osasco Ludmylla entrada 06:20
-[22/06/2024 15:23:48] Ludmylla Gomes Neves: 22/06 Osasco Ludmylla saida 15:20
-[22/06/2024 15:41:38] Vivian Cristine dos Anjos e Silva: 22/06 Villa Vivian saida 15:40
-[22/06/2024 15:45:01] Luccas Varela Godoy: 22/06 Osasco Luccas saída 15:40
-[22/06/2024 15:51:24] Leandro Machado Deorce: 22/06 Itaim - Deorce saída 15:50
-[22/06/2024 15:54:16] Gabriel de Aguiar Santana: 22/06 Itaim - Gabriel saída 15:50
-[22/06/2024 15:54:46] Luccas Varela Godoy: 22/06 Osasco Luccas entrada 6:00
-[22/06/2024 15:57:37] Luciano Angelo Richetti: 22/06 Central Luciano Saída 13:40
-[22/06/2024 16:10:08] Thiago de Oliveira Heringer: 22/06 Morumbi - Heringer saída 16:10
-[22/06/2024 16:11:17] Isabela Mattarelli Souza Carli: 22/06 - Morumbi - Mattarelli saída 16:05
-[22/06/2024 16:18:36] Gabriela de Faria Bizarria: 22/06 Anália - Bizarria saída 16:15
-[22/06/2024 16:36:20] Matheus Cardozo Janiques: 22/06 Santa - Cardozo saída 16:30
-[22/06/2024 16:36:37] Estanrley Barcelos Pinto: 22/06 ANÁLIA-Estanrley saída: 16:30
-[22/06/2024 16:43:46] Mariana Gasparelli de Souza: 22/06 Morumbi - Mariana Gasparelli entrada 05:40
-[22/06/2024 16:44:06] Mariana Gasparelli de Souza: 22/06 Morumbi - Mariana Gasparelli saída 15:40
-[22/06/2024 16:46:22] Fernando Ribeiro Sá: 22/06 VNS Ribeiro saída 16:45
-[22/06/2024 16:49:45] Ricardo Barbosa Viana Filho: 22/06 Morumbi - Barbosa Entrada 06:00
-[22/06/2024 16:50:21] Renato dos Santos Borega: 22/06 Villa - Renato saída 13:30
-[22/06/2024 16:50:31] Ricardo Barbosa Viana Filho: 22/06 Morumbi - Barbosa Saída 16:10
-[22/06/2024 17:19:09] Lucas Silva Martins: 22/06 Osasco - Silva - saída 17:15
-[22/06/2024 17:48:04] Marina Borges Curralo: 22/6 Osasco Marina saída 17:40
-[22/06/2024 17:50:10] Pedro Henrique Lucas de Moraes: 22/06 Analia - Moraes - saida 17:30
-[22/06/2024 18:07:28] Nathalia Soares Rodrigues Gomes : 22/06 Anália - Nat Rodrigues saída 17:55
-[22/06/2024 18:13:23] Yoko Hayashi: 22/06 Osasco Yoko saída 17:55
-[22/06/2024 18:22:59] Raiza Luna Peixoto: 22/06 Jabaquara Raiza saída 18:10
-[22/06/2024 18:42:19] Marcos Bastos dos Santos: 22/06 Anália - Bastos - saída 18:40
-[22/06/2024 18:47:49] Darlan Junior Schneider: 22/06 Itaim - Darlan saida 18:45
-[22/06/2024 19:14:48] Pedro Victor Massaroto e Silva : 22/06 Jabaquara Massaroto saída 19:10
-[22/06/2024 19:17:22] Débora Alves Aude: 22/06 VNS Débora saída 19:15
-[22/06/2024 19:37:03] André Augusto Bellini: 22/06 MORUMBI - Bellini saída 19:35
-[22/06/2024 19:37:11] Pedro Henrique Milhomens da Mota: 22/06 VNS Mota entrada 6:00
-[22/06/2024 20:11:24] Moabe Gonçalves De Oliveira: 22/06 ITAIM Moabe saída 20:10
-[22/06/2024 20:19:18] Saullo Queiroz Silveira: 22/06 VNS Saullo entrada 05:00
-[22/06/2024 20:19:37] Saullo Queiroz Silveira: 22/06 VNS Saullo saída 19:30
-[22/06/2024 20:49:37] Bruno Stornioli Taguchi Lemos: 22/06 Morumbi Bruno Lemos saída 20:40
-[22/06/2024 20:50:10] Rodrigo Achui Haga: 22/06 OSASCO - haga dispensado
-[22/06/2024 20:56:44] Bianca Priscila Buniotti: 22/06 Morumbi- Bianca saída 16:35
-[22/06/2024 22:27:47] Flávio Rosa Figueiredo Souza: 22/06 - Jabaquara- Figueiredo saída 12:30
-[22/06/2024 22:41:36] Thiago Silva Pinto: 22/06 - Villa - T. Silva - Saída 15:40
-[23/06/2024 05:04:00] Gabriela de Faria Bizarria: 23/06 Anália - Bizarria entrada 05:00
-[23/06/2024 05:30:01] Marcella Pellicciotti de Souza: 23/06 vns pellicciotti entrada 05:30
-[23/06/2024 05:33:02] Raphael Moura Britto: 23/06 Villa Britto entrada 05:30
-[23/06/2024 05:50:18] Karen Yumi Miyashiro: 23/06 Anália - Yumi entrada 05:30
-[23/06/2024 06:06:20] Ana Jung Docko: 23/06 Jabaquara Ana entrada 05:20 (D1)
-[23/06/2024 06:30:36] Thiago de Oliveira Heringer: 23/06 Morumbi - Heringer entrada 06:30
-[23/06/2024 06:39:46] Maíra Leite Basile: 23/06 VNS - Maíra entrada 6:00
-[23/06/2024 07:32:04] Felipe de Oliveira Nunes: 23/06 Morumbi - Nunes entrada 05:30 (D2R)
-[23/06/2024 07:42:59] Marcelo de Oliveira Peres: 23/06 Morumbi Marcelo entrada 05:25 (D1)
-[23/06/2024 11:26:49] Diogo Henrique Pereira Mattos: 23/06 Anália - Diogo entrada 07:00 (D3 Osasco)
-[23/06/2024 11:27:09] Diogo Henrique Pereira Mattos: 23/06 Anália - Diogo saída 11:10 (D3 Osasco)
-[23/06/2024 12:10:28] Thiago Silva Pinto: 23/06 Anália - T. Silva entrada 08:10 (D3)
-[23/06/2024 12:11:16] Thiago Silva Pinto: 23/06 Anália - T.Silva - saída 12:05 (D3)
-[23/06/2024 12:17:30] Amanda Kiyoko Souza Kossaka: 23/06 ANÁLIA - Amanda entrada 08:20 (D3 Villa)
-[23/06/2024 12:32:32] Juliano Moisés Tobal: 23/06 Anália Juliano Tobal entrada 07:00
-[23/06/2024 12:33:46] Juliano Moisés Tobal: 23/06 Anália Juliano Tobal saída 12:30
-[23/06/2024 12:44:01] Amanda Kiyoko Souza Kossaka: 23/06 ANÁLIA - Amanda saída 12:00 (D3 Villa)
-[23/06/2024 12:57:28] Maria Teresa Souza Gomes: 23/06 Jabaquara - M Teresa entrada 7:00 (D3 Itaim)
-[23/06/2024 12:57:43] Maria Teresa Souza Gomes: 23/06 Jabaquara - M Teresa saída  12:55 (D3 Itaim)
-[23/06/2024 13:47:06] Karen Yumi Miyashiro: 22/06 Villa - Yumi saída 14:30
-[23/06/2024 13:47:25] Karen Yumi Miyashiro: 23/06 Anália - Yumi saída 13:30
-[23/06/2024 14:06:58] Ricardo Giraldelli Carvalho Lima: 23/06 OSASCO - Giraldelli entrada 08:10
-[23/06/2024 14:14:07] Ricardo Giraldelli Carvalho Lima: 23/06 OSASCO - Giraldelli saída 14:10
-[23/06/2024 15:17:26] Carlos Augusto Trevisan: 23/06 JABAQUARA - Carlos saída 11:35
-[23/06/2024 18:03:11] Gustavo Marques da Silva: 23/06 Osasco - Marques saída 13:30 (D2 Jabaquara)
-[23/06/2024 18:40:58] Felipe de Oliveira Nunes: 23/06 Morumbi - Nunes saída 18:40 (D2R)
-[23/06/2024 20:06:28] José Marcos Vieira da Silva: 21/06 - Jabaquara José Marcos entrada 6:00
-[23/06/2024 20:06:48] José Marcos Vieira da Silva: 21/06 - Jabaquara José Marcos saída 13:45
-[23/06/2024 22:52:38] Marcelo de Oliveira Peres: 21/06 - Morumbi Marcelo saída 22:20 (D1)
-[24/06/2024 04:06:15] Rafael Tadeu Marques: 24/06 Itaim Rafael Tadeu entrada 3:50 ( extra)
-[24/06/2024 04:35:31] Gabriel de Aguiar Santana: 24/06 Jabaquara - Gabriel entrada 04:35
-[24/06/2024 04:36:29] Henri Roger Watanabe Oliveira: 24/06 Itaim - Henri entrada as 04:30
-[24/06/2024 05:13:25] Mariana Gasparelli de Souza: 24/06 Morumbi - Mariana Gasparelli entrada 04:20
-[24/06/2024 05:14:34] Camila Resende de Paula: 24/06 Villa - C. Resende entrada as 05:15
-[24/06/2024 05:15:12] Daniel  Masuzaki Wong: 24/06 Jabaquara - Wong entrada 05:15
-[24/06/2024 05:20:43] Filipe Lugon Moulin Lima: 24/06 OSASCO - Filipe Lugon entrada 05:20 (deslocado ITAIM)
-[24/06/2024 05:22:46] Lais Ribeiro Teixeira: 24/06 Jabaquara Lais entrada 05:20
-[24/06/2024 05:23:04] Vitor Oliveira André: 24/06 Jabaquara Vitor entrada 05:20
-[24/06/2024 05:24:38] Kaiê Fernandes: 24/06 Osasco Kaie entrada 5:20
-[24/06/2024 05:25:15] Rômulo Spolidorio: 24/06 Jabaquara Rômulo entrada 05:20
-[24/06/2024 05:38:32] Marcela Leite Rosignoli: 24/06 Anália Marcela Leite entrada 05:35
-[24/06/2024 05:46:14] Pedro Henrique Lucas de Moraes: 24/06 Osasco Moraes entrada 5:35
-[24/06/2024 05:52:46] Diego da Cunha Tomaz: 24/06 Santa - Diego entrada 5:30 ‎<Mensagem editada>
-[24/06/2024 05:53:40] Vitor Maciel de Sousa Pinto: 24/06 Anália - Maciel entrada 05:50
-[24/06/2024 05:56:30] Francisco Antonio Alves Bonatto: 24/06 VILLA - Francisco entrada 05:50
-[24/06/2024 05:57:02] Bruce Ye Man Chow: 24/06 Jabaquara - bruce entrada 06:00
-[24/06/2024 05:57:16] Pedro Henrique Milhomens da Mota: 24/06 Morumbi Mota entrada 4:30 (deslocado VNS)
-[24/06/2024 05:57:50] Marcelo Felipe de Souza Buto: 24/06 Jabaquara - Buto entrada 6:00
-[24/06/2024 06:03:59] Gabriella Gadelha Sarmento: 24/06 VNS - Gabriella entrada 05:20
-[24/06/2024 06:05:39] Lucas Silva Martins: 24/06 Santa - silva - entrada 05:30
-[24/06/2024 06:13:54] Flavio Hideki Oshika: 23/06 MORUMBI - Flávio saída 13:15 (D2 bom)
-[24/06/2024 06:15:57] Vanessa Paciullo Marossi: 24/06 Anália - Vanessa entrada 06:00
-[24/06/2024 06:34:58] Brian Sossai Pacheco: 24/06 OSASCO - Brian entrada 06:00
-[24/06/2024 06:35:09] Felipe Coelho de Souza: 24/06 Morumbi - Coelho entrada 5:20 (deslocado Itaim)
-[24/06/2024 06:35:40] Marcelo Seiji Takaoka: 24/06 Osasco - Takaoka entrada 06:00
-[24/06/2024 06:38:54] Renata Togeiro Bastos Godoy de Faria: 24/06 MORUMBI - Renata Togeiro entrada 5:00
-[24/06/2024 07:05:04] Luiz Guilherme Thomaz Zacharias: 24/06 MORUMBI - Guilherme entrada 5:20
-[24/06/2024 07:15:31] Alexsander Takashi Hamada: 24/06 Analia - Alex entrada 6:00
-[24/06/2024 07:41:17] Ana Jung Docko: 24/06 Analia Ana dispensada
-[24/06/2024 07:47:07] Marcelo Maia da Silveira: 24/06 Villa  - Maia Entrada 06:00
-[24/06/2024 07:50:37] Bianca Priscila Buniotti: 24/06 Jabaquara - Bianca entrada 06:00
-[24/06/2024 07:59:45] Turibio Rodrigues Freire Neto: 24/06 Morumbi - Turibio Entrada: 05:40
-[24/06/2024 08:03:37] Gustavo Marques da Silva: 24/06 Osasco - Marques entrada 05:35 (deslocado Itaim)
-[24/06/2024 08:09:35] Eduardo Dala Rosa Soares: 24/06 VNS - Soares entrada às 06:00
-[24/06/2024 08:16:17] Norival Scandelai Junior: 24/06 Itaim - Norival entrada 6:00
-[24/06/2024 08:16:34] Renata Pinheiro Modolo: 24/06 Itaim - R. Modolo entrada 6:00
-[24/06/2024 08:28:44] Natalia Nunes Santos: 24/06 Osasco - Nat Nunes dispensada
-[24/06/2024 08:59:10] Alexandre Bernardino: 24/06 Villa - Alexandre - entrada 07:30 - anestesia externa
-[24/06/2024 09:08:04] Leonardo Barbosa Santos: 24/06 jabaquara L.Santos saida 9:05 (pos jbq - deslocado vila)
-[24/06/2024 09:13:23] Rafael Tadeu Marques: 24/06 Itaim Rafael Tadeu saída 7:00 ( extra) assumo rotina
-[24/06/2024 09:15:22] Gabriel de Aguiar Santana: 24/06 Jabaquara - Gabriel saída 09:10
-[24/06/2024 09:38:57] Antonio Alvaro Dias Lima da Cunha Neto: 24/06 CENTRAL - Álvaro entrada 06:00
-[24/06/2024 09:41:01] Francisco Antonio Alves Bonatto: 24/06 VILLA - Francisco saída 09:40
-[24/06/2024 10:22:27] Wangles Pignaton de Paula: 24/06 VILLA - Wangles entrada 5:45
-[24/06/2024 10:23:38] Camila Resende de Paula: 24/06 Villa - C. Resende saída  10:20
-[24/06/2024 10:29:22] Carlos Eduardo Corrêa Grilo: 24/06 Anália - Cadu entrada 05:40
-[24/06/2024 10:40:03] Guilherme de Almeida Costa: 24/06 itaim costa saida 10:40
-[24/06/2024 10:57:45] Sidney Orlando de Souza: 24/06 Osasco-Sidney saida: 10:50
-[24/06/2024 10:57:53] Raiza Luna Peixoto: 24/06 Villa Raiza entrada 11:00
-[24/06/2024 11:00:09] Natalia Maia Queiroz: 24/06 Morumbi Queiroz dispensada
-[24/06/2024 11:12:50] Maria Cecília Domingues da Silva Soares: 24/06 VILLA - M. Cecília entrada 11:00
-[24/06/2024 11:16:51] Carlos Eduardo Corrêa Grilo: 24/06 Anália - Cadu saída 11:10
-[24/06/2024 11:22:12] Everton Sidney da Conceição Carvalho: 24/06 - MORUMBI - Everton - dispensa (saúde)
-[24/06/2024 11:23:21] Thales Luvisotto Neder: 24/06 Jabaquara - Thales saída 11:20
-[24/06/2024 11:26:53] Ricardo Barbosa Viana Filho: 24/06 Analia - Barbosa Entrada 11:00
-[24/06/2024 11:55:20] Daniel  Masuzaki Wong: 24/06 Jabaquara - Wong saída 11:40
-[24/06/2024 12:21:12] Rômulo Spolidorio: 24/06 Jabaquara Rômulo saida 12:15
-[24/06/2024 12:40:17] Henri Roger Watanabe Oliveira: 24/06 Itaim - Henri saida as 11:40
-[24/06/2024 12:43:04] Antonio Alvaro Dias Lima da Cunha Neto: 24/06 CENTRAL - Álvaro saída 12:40
-[24/06/2024 12:55:45] Renata Pinheiro Modolo: 24/06 Itaim - R. Modolo saída 12:30
-[24/06/2024 13:26:02] Cláudio Mueller Kakuda: 24/06 Maternidade - Kakuda entrada 5:20h
-[24/06/2024 13:42:16] Lais Ribeiro Teixeira: 24/06 Jabaquara Lais saída 13:40
-[24/06/2024 13:42:18] Kaiê Fernandes: 24/06 Osasco Kaie saída 13:40
-[24/06/2024 13:47:38] Flavio Maia Castilho: 24/06 Central - Castilho saída 13:40
-[24/06/2024 14:10:34] Maíra Leite Basile: 24/06 VNS - Maíra saída 14:00
-[24/06/2024 14:13:54] Gabriela de Faria Bizarria: 24/06 Anália - Bizarria saída 07:45 (pós plantão - deslocada de Osasco)
-[24/06/2024 14:43:38] Izabela Cristina Almeida Duarte: 24/06 Itaim Iza Duarte entrada 6h
-[24/06/2024 14:43:58] Izabela Cristina Almeida Duarte: 24/06 Itaim Iza Duarte saída 13:50
-[24/06/2024 14:51:10] Carlos Eduardo Gondim Oliveira: 24/06 VNS - Oliveira entrada 06:00
-[24/06/2024 15:01:34] Jessica Lidia de Souza: 24/06 Santa - Jessica saída 15:00 (pós plantão)
-[24/06/2024 16:14:44] Pedro Henrique Diniz Botelho: 24/06 Osasco - Diniz saída 16:10 (deslocado Jabaquara // pós plantão Osasco)
-[24/06/2024 16:35:29] Thiago de Oliveira Heringer: 24/06 Morumbi - Heringer saída 16:35 (pós plantão, deslocado Anália)
-[24/06/2024 16:36:55] Alexandre Bernardino: 24/06 Villa - Alexandre - saída 16:35 - anestesia externa
-[24/06/2024 16:38:18] Paula Angélica Pinha Neves: 24/06 VILLA Paula Neves entrada 9:00
-[24/06/2024 16:38:36] Paula Angélica Pinha Neves: 24/06 VILLA Paula Neves saída 16:20
-[24/06/2024 16:43:44] Alexsander Takashi Hamada: 24/06 Analia Alex saída 16:40
-[24/06/2024 17:05:02] Augusto de Castro Santos Queiroz: 24/06 Villa- Castro saida 17:00
-[24/06/2024 17:11:03] Bianca Priscila Buniotti: 24/06 Jabaquara - Bianca saída 17:10
-[24/06/2024 17:13:06] Pedro Henrique Milhomens da Mota: 24/06 Morumbi Mota saída 17:10 (deslocado VNS)
-[24/06/2024 17:13:20] Bruce Ye Man Chow: 24/06 Jabaquara - bruce saida 17:10
-[24/06/2024 17:29:04] Rodrigo Martins Pereira: 24/06 OSASCO - pereira entrada 06:00
-[24/06/2024 17:30:25] Felipe Coelho de Souza: 24/06 Morumbi - Coelho saída 17:10 (deslocado Itaim)
-[24/06/2024 17:37:07] Luccas Varela Godoy: 24/6 alpha Luccas saída 17:10
-[24/06/2024 17:41:06] Bruno Ferraz de Campos Barone: 24/06 VNS Barone entrada 06:30
-[24/06/2024 17:41:20] Bruno Ferraz de Campos Barone: 24/06 VNS Barone saida 16:55
-[24/06/2024 17:58:39] Filipe Lugon Moulin Lima: 24/06 OSASCO - Filipe Lugon saida 17:55 (deslocado ITAIM)
-[24/06/2024 18:36:35] Lucas Silva Martins: 24/06 santa - silva - saída 18:30
-[24/06/2024 18:49:18] Mariana Gasparelli de Souza: 24/06 Morumbi - Mariana Gasparelli saída 17:45
-[24/06/2024 19:26:32] Karen Manoela Rosa: 24/06 Morumbi KRosa entrada 06:00
-[24/06/2024 19:26:45] Raiza Luna Peixoto: 24/06 Raiza Villa saída 19:25
-[24/06/2024 19:38:53] Gabriella Gadelha Sarmento: 24/06 VNS - Gabriella saída 19:35
-[24/06/2024 19:42:15] Eduardo Dala Rosa Soares: 24/06 VNS - Soares saída 19:35
-[24/06/2024 19:42:34] Pedro Belintani de Maio: 24/06 Analia - Belintani saída 19:40h
-[24/06/2024 19:42:42] Marcos Rogério Pereira Machado Filho: 24/06 Alpha Marcos saída 19:15
-[24/06/2024 19:50:10] Eduardo Arbache Bezerra: 24/06 Itaim - Bezerra saida as 19:40
-[24/06/2024 19:55:09] Diego da Cunha Tomaz: 24/06 Santa - Diego saída 19:50
-[24/06/2024 20:01:39] Gustavo Marques da Silva: 24/06 Osasco - Marques saída 19:50 (deslocado Itaim)
-[24/06/2024 20:07:53] Ludmylla Gomes Neves: 24/06 Morumbi Ludmylla entrada 05:30
-[24/06/2024 20:08:29] Ludmylla Gomes Neves: 24/06 Morumbi Ludmylla saida 19:40
-[24/06/2024 20:10:08] Matheus de Alencar Arraes: 24/06 JABAQUARA Arraes saida 20:10
-[24/06/2024 20:12:17] Andréia Loureiro Mori: 24/06 Jabaquara Andréia saída 19:40
-[24/06/2024 20:13:30] José Marcos Vieira da Silva: 24/06 - Jabaquara José Marcos saída 19:20
-[24/06/2024 20:14:15] Maria Cecília Domingues da Silva Soares: 24/06 VILLA - M. Cecília saída 20:10
-[24/06/2024 20:29:38] Natalia  Yume Hissayasu Menezes: 24/06 - Osasco - Nat Yume saída 20:30
-[24/06/2024 20:36:26] Gabriela Meireles Linhares de Araujo: 24/05 Anália G.Linhares saída 20:30h
-[24/06/2024 20:42:04] Thais Chaves Pinheiro: 24/06 Itaim - Thaís saída 20:40
-[24/06/2024 20:42:33] Brian Sossai Pacheco: 24/06 OSASCO - Brian saída 20:40
-[24/06/2024 20:49:51] Thais Bosi Nonato: 24/06 Anália - Bosi saída 20:45 ‎<Mensagem editada>
-[24/06/2024 20:51:17] ~ Ícaro Moura: 24/06 OSASCO - Ícaro saída 20:45
-[24/06/2024 20:51:33] Pedro Henrique Lucas de Moraes: 24/06 Osasco- moraes saida 20:05
-[24/06/2024 20:56:17] Daniellen Lins Lourenço: 24/06 JABAQUARA - Daniellen saída 20:50
-[24/06/2024 20:57:21] Marcelo Seiji Takaoka: 24/06 Osasco - Takaoka saída 20:40
-[24/06/2024 20:58:26] Marcela Aparecida Correa Martins: 24/06 Santa - Martins entrada 6:00
-[24/06/2024 20:58:48] Marcela Aparecida Correa Martins: 24/06 Santa - Martins saída 19:40
-[24/06/2024 21:05:43] Fabiana Soares Gama: 24/06 Anália Fabiana Gama saída as 21:05
-[24/06/2024 21:17:46] Marcos Vinícius Costa Carvalho: 24/06 OSASCO - Vinicius saída 21:15
-[24/06/2024 21:17:54] Pedro Augusto Tavares Dall Aglio: 24/06 Central - Tavares - saída - 21:15 ‎<Mensagem editada>
-[24/06/2024 21:26:44] Guilherme Silveira Lopes: 24/06 Jabaquara - Silveira saída 21:10
-[24/06/2024 21:28:38] Luciano Angelo Richetti: 24/6 Itaim Luciano saída 19:40
-[24/06/2024 21:35:21] Gabriela Soares Piassi: 24/06 Osasco - Piassi saída 21:20
-[24/06/2024 21:39:48] Luiz Guilherme Thomaz Zacharias: 24/06 MORUMBI - Guilherme saída 20:40
-[24/06/2024 21:49:13] Flávio Rosa Figueiredo Souza: 24/06 - Anália - Figueiredo saída 21:15
-[24/06/2024 21:49:16] Renata Torres Bueno: 24/06 Villa - Renata Bueno saída 21:10
-[24/06/2024 21:49:29] Thayse Fachin Cormanique Kayser: 24/06 Anália - Thayse saída 21:49
-[24/06/2024 21:52:04] Renata Togeiro Bastos Godoy de Faria: 24/06 MORUMBI - Renata Togeiro saída 21:10
-[24/06/2024 22:00:52] Helena Araujo Damasceno: 24/06 Osasco Helena Saída 21:55 ‎<Mensagem editada>
-[24/06/2024 22:01:16] Moabe Gonçalves De Oliveira: 24/06 ITAIM - Moabe saída 21:40
-[24/06/2024 22:05:27] Rodrigo Andrade Carmello: 24/06 Morumbi - Carmello saída 21:50
-[24/06/2024 22:17:18] Juliana Hussein: 24/06 VILLA - J. Hussein entrada 13:00
-[24/06/2024 22:17:36] Juliana Hussein: 24/06 VILLA - J. Hussein saida 20:35
-[24/06/2024 22:21:48] Márcio Ighor Azevedo Silva de Mendonça Melânia: 24/06 ANALIA - Ighor saída 22:20
-[24/06/2024 23:31:59] Natan Soares Silveira: 24/06 Alpha - Natan - Saída 13:00 (deslocado Anália / pós plantão )
-[24/06/2024 23:39:24] Ricardo Barbosa Viana Filho: 24/06 Analia - Barbosa Saída 22:25
-[25/06/2024 00:10:57] Thiago Francisco Martins: 24/06 ITAIM Thiago Martins saida 20:40
-[25/06/2024 03:55:40] Rafael Tadeu Marques: 24/06 Itaim Rafael Tadeu saída 21:10
-[25/06/2024 03:56:35] Rafael Tadeu Marques: 25/06 VNS Rafael Tadeu entrada 3:20 ( extra) Deslocado Itaim
-[25/06/2024 04:53:44] Bruce Ye Man Chow: 25/06 Jabaquara - bruce entrada 04:50
-[25/06/2024 05:00:52] Thiago Francisco Martins: 25/06 VNS Thiago Martins entrada 04:20
-[25/06/2024 05:02:31] Emerson Domingos da Costa: 25/06 Jabaquara Emerson entrada 05:00
-[25/06/2024 05:21:37] Aline Franchini Goulart Lima: 25/06 Villa Aline entrada 05:20
-[25/06/2024 05:28:25] Marcos Rogério Pereira Machado Filho: 25/06 Santa Marcos entrada 5:20
-[25/06/2024 05:34:26] Flávio Rosa Figueiredo Souza: 25/06 - Osasco - Figueiredo entrada 05:30
-[25/06/2024 05:39:21] Vivian Cristine dos Anjos e Silva: 25/06 Villa Vivian entrada 05:35
-[25/06/2024 05:40:22] Luciano Angelo Richetti: 25/06 Santa Luciano entrada 5:20
-[25/06/2024 05:42:24] Norival Scandelai Junior: 25/06 Morumbi - Norival entrada 4:15
-[25/06/2024 06:00:23] Silvia Aline dos Santos Andrade: 25/06 Morumbi - Silvia entrada 06:00
-[25/06/2024 06:05:44] Paloma Kiyomi Taguchi: 25/06 JABAQUARA - Paloma entrada 6:00
-[25/06/2024 06:07:59] Thaís Miranda Ramos: 25/06 JABAQUARA - Miranda entrada às 06:05
-[25/06/2024 06:08:02] Diego da Cunha Tomaz: 25/06 Santa - Diego entrada 6:00
-[25/06/2024 06:12:40] Gustavo Marques da Silva: 25/06 Itaim - Marques entrada 06:00
-[25/06/2024 06:14:36] Arthur Rodrigues Torrélio: 25/06 OSASCO - Torrelio entrada 06:00
-[25/06/2024 06:17:41] Lucas Silva Martins: 25/06 - Santa (desloc. Itaim ) - silva - entrada 05:20
-[25/06/2024 06:18:37] Fábio Antônio de Souza Oliveira: 25/06 Itaim Fabio entrada 6hs
-[25/06/2024 06:21:57] Leticia Fernandes Borges: 25/06 Itaim Leticia entrada 6:00
-[25/06/2024 06:22:32] Bruno Stornioli Taguchi Lemos: 25/06 Morumbi Bruno Lemos entrada 06:00
-[25/06/2024 06:22:39] Rômulo Spolidorio: 25/06 Jabaquara Rômulo entrada 06:00
-[25/06/2024 06:28:16] Vitor Luiz Assunção Martins: 25/06 Osasco - Assunção entrada 05:30
-[25/06/2024 06:32:28] Eduardo Arbache Bezerra: 25/06 Santa - Bezerra entrada as 05:50
-[25/06/2024 06:35:52] Fabiana Barbosa Bastos: 25/06 Morumbi - Fabiana entrada 05:50
-[25/06/2024 06:38:19] Antonio Alvaro Dias Lima da Cunha Neto: 25/06 CENTRAL - Álvaro entrada 05:30
-[25/06/2024 06:51:02] Eduardo Dala Rosa Soares: 25/06 Morumbi - Soares entrada 05:20
-[25/06/2024 06:51:43] Nathalia Fanucci Oliveira Di Jorge: 25/06 ANALIA Nathália entrada 06:00
-[25/06/2024 06:52:15] Anna Beatriz Aranha Trevisan: 25/06 VILLA - Anna Beatriz entrada 06:00
-[25/06/2024 07:00:10] Gabriella Gadelha Sarmento: 25/06 VNS - Gabriella entrada 06:30
-[25/06/2024 08:03:17] Renata Togeiro Bastos Godoy de Faria: 25/05 MORUMBI - Renata Togeiro entrada 5:00
-[25/06/2024 08:04:54] Vitor Oliveira André: 25/06 VNS Vitor dispensa
-[25/06/2024 08:14:20] Kaiê Fernandes: 25/06 Itaim - Kaiê entrada 05:20
-[25/06/2024 08:14:30] Rodrigo Martins Pereira: 25/06 ITAIM - pereira dispensa
-[25/06/2024 08:18:36] Isabela Mattarelli Souza Carli: 25/06 - Osasco - Mattarelli entrada 06:00
-[25/06/2024 08:27:07] Ricardo Kawaura: 25/06 Osasco kawaura-entrada 09:00
-[25/06/2024 08:44:34] Darlan Junior Schneider: 24/06 Morumbi - Darlan dispensado
-[25/06/2024 09:26:57] Marina Pontes Moura Nascimento e Silva: 24/06 Osasco Moura Saída 22:10
-[25/06/2024 09:32:18] Maria Cecília Domingues da Silva Soares: 25/06 VILLA - M. Cecília dispensada
-[25/06/2024 09:54:02] Norival Scandelai Junior: 25/06 Morumbi - Norival saída 9:40
-[25/06/2024 10:35:23] Guilherme Petry Martins Pereira: 25/06 Alpha - Petry saída 10:25 (deslocado VNS)
-[25/06/2024 10:50:04] Fernando Akira Koga: 25/06 Itaim - Koga saída 10:50
-[25/06/2024 11:16:36] Pedro Augusto Tavares Dall Aglio: 24/06 Central - Tavares - entrada 6:30
-[25/06/2024 11:18:01] Gabriela Soares Piassi: 25/06 Osasco - Piassi entrada 06:00
-[25/06/2024 11:18:44] Gabriela Soares Piassi: 25/06 Osasco - Piassi saída 11:15
-[25/06/2024 11:21:40] Bruce Ye Man Chow: 25/06 Jabaquara - Bruce saida 11:21
-[25/06/2024 12:09:22] Eduardo Dala Rosa Soares: 25/06 Morumbi - Soares saída 12:00
-[25/06/2024 12:13:29] José Marcos Vieira da Silva: 25/06 - Jabaquara José Marcos entrada 6:00
-[25/06/2024 12:13:55] José Marcos Vieira da Silva: 25/06 - Jabaquara José Marcos saída 11:20
-[25/06/2024 12:38:53] Fabiana Barbosa Bastos: 25/06 Morumbi - Fabiana saída 12:35
-[25/06/2024 12:40:03] Matheus de Alencar Arraes: 25/06 ALPHA Arraes saida 12:40 (deslocado JABAQUARA)
-[25/06/2024 13:26:51] Carlos Eduardo Gondim Oliveira: 25/06 Maternidade - Oliveira entrada 13:00
-[25/06/2024 13:35:08] Rafhael Silva Leal: 25/06 maternidade - Leal entrada 13:00 (para b. Antipou)
-[25/06/2024 13:35:19] Lucas Silva Martins: 25/06 santa - silva - saída 13:35
-[25/06/2024 13:52:12] Caroline Firmino Lemes da Silva: 25/06 Villa Lemes entrada 11:00
-[25/06/2024 14:24:12] Victor Augusto de Souza Moraes: 25/06 Anália - V.Augusto saída 14:05 (PÓS HAF - Deslocado ALPHA)
-[25/06/2024 14:48:04] Pedro Henrique Milhomens da Mota: 25/06 Maternidade Mota saída 13:00
-[25/06/2024 15:21:04] Marina Borges Curralo: 25/6 Maternidade Marina saída 13:30
-[25/06/2024 15:39:30] Leticia Fernandes Borges: 25/06 Itaim Letícia saída 15:30
-[25/06/2024 15:47:39] Emerson Domingos da Costa: 25/06 Jabaquara Emerson saída 15:35
-[25/06/2024 16:06:05] Flávio Rosa Figueiredo Souza: 25/06 - Osasco - Figueiredo saída 16:05
-[25/06/2024 16:08:16] Vivian Cristine dos Anjos e Silva: 25/06 Villa Vivian saida 16:00
-[25/06/2024 16:20:51] Nathalia Fanucci Oliveira Di Jorge: 25/06 ANALIA Nathália saída 16:00
-[25/06/2024 16:23:38] Vitor Luiz Assunção Martins: 25/06 Osasco Assunção saída 16:15
-[25/06/2024 16:33:46] Carlos Eduardo Corrêa Grilo: 25/06 Anália - Cadu saída 16:30
-[25/06/2024 16:54:22] Alexsander Takashi Hamada: 25/06 Analia Alex saída 14:40
-[25/06/2024 17:01:43] Arthur Rodrigues Torrélio: 25/06 OSASCO - Torrelio saída 17:00
-[25/06/2024 17:08:45] Renato dos Santos Borega: 25/06 Villa - Renato entrada 6:00
-[25/06/2024 17:09:29] Rômulo Spolidorio: 25/06 Jabaquara Rômulo saída 17:08
-[25/06/2024 17:12:13] Aline Franchini Goulart Lima: 25/06 Villa Aline saída 17:10
-[25/06/2024 17:12:47] Juliana Hussein: 25/06 VILLA - J. Hussein saida 16:40
-[25/06/2024 17:14:59] Marcos Rogério Pereira Machado Filho: 25/06 Santa Marcos saída 16:40
-[25/06/2024 17:21:29] Natalia  Yume Hissayasu Menezes: 25/06 Osasco - Nat Yume saída 17:20
-[25/06/2024 17:22:26] Marcelo Felipe de Souza Buto: 25/06 Jabaquara - Buto saída 17:10
-[25/06/2024 17:23:22] Renata Togeiro Bastos Godoy de Faria: 25/06 MORUMBI - Renata Togeiro saída 17:20
-[25/06/2024 17:24:38] Luciano Angelo Richetti: 25/06 Santa Luciano saída 16:40
-[25/06/2024 17:27:59] Bruno Stornioli Taguchi Lemos: 25/06 Morumbi Bruno Lemos saída 16:25
-[25/06/2024 17:30:09] Pedro Victor Massaroto e Silva : 25/06 Jabaquara Massaroto saída 17:10
-[25/06/2024 17:32:47] Gretel Oliveira Nicolau: 25/06 Villa- Gretel saida 16:30
-[25/06/2024 17:56:15] Thiago Francisco Martins: 25/06 VNS Thiago Martins saida 13:10
+[01/07/2024 04:50:14] Gabriel de Aguiar Santana: 01/07 Jabaquara - Gabriel entrada 04:45
+[01/07/2024 05:02:31] Henri Roger Watanabe Oliveira: 01/07 Itaim - Henri entrada as 05:00
+[01/07/2024 05:04:50] Mariana Gasparelli de Souza: 01/07 Morumbi - Mariana Gasparelli entrada 05:00
+[01/07/2024 05:12:51] Maíra Leite Basile: 01/07 VNS - Maíra entrada 5:00
+[01/07/2024 05:15:58] Emerson Domingos da Costa: 01/07 Jabaquara Emerson entrada 05:00
+[01/07/2024 05:16:36] Daniel  Masuzaki Wong: 01/07 Jabaquara - Wong entrada 05:15
+[01/07/2024 05:16:38] Filipe Lugon Moulin Lima: 01/07 MORUMBI - Filipe Lugon entrada 05:10 (deslocado ITAIM)
+[01/07/2024 05:23:08] Pedro Augusto Tavares Dall Aglio: 01/07 - Central- Tavares - entrada 5:20
+[01/07/2024 05:27:10] Fábio Antônio de Souza Oliveira: 01/07 Itaim Fabio entrada 5hs
+[01/07/2024 05:32:09] Kaiê Fernandes: 01/07 Osasco Kaie entrada 5:20
+[01/07/2024 05:45:32] Luiz Guilherme Thomaz Zacharias: 01/07 MORUMBI - Guilherme entrada 5:20
+[01/07/2024 05:52:46] Vitor Oliveira André: 01/07 Jabaquara Vitor entrada 06:00
+[01/07/2024 06:04:15] Francisco Antonio Alves Bonatto: 01/07 VILLA - Francisco entrada 05:45
+[01/07/2024 06:04:22] Fernando Akira Koga: 01/07 VNS - Koga entrada 06:00
+[01/07/2024 06:04:43] Gabriela de Faria Bizarria: 01/07  Osasco - Bizarria entrada 06:00 ‎<Mensagem editada>
+[01/07/2024 06:08:09] Thiago Silva Pinto: 01/07 Villa - T.Silva - entrada 06:00
+[01/07/2024 06:09:10] Guilherme de Almeida Costa: 01/07 santa - costa entrada 05:30
+[01/07/2024 06:22:15] Rodrigo Martins Pereira: 01/07 OSASCO - pereira entrada 06:00
+[01/07/2024 06:25:45] Felipe Coelho de Souza: 01/07 Itaim - Coelho entrada 6:25
+[01/07/2024 06:27:48] Natalia Nunes Santos: 01/07 Jabaquara - Nat Nunes entrada 06:00
+[01/07/2024 06:34:04] Pedro Henrique Milhomens da Mota: 01/07 Itaim Mota entrada 5:30 (deslocado VNS)
+[01/07/2024 06:35:56] Lais Ribeiro Teixeira: 01/07 Jabaquara Lais entrada 07:00
+[01/07/2024 06:43:36] Luciano Angelo Richetti: 01/07 Itaim Luciano entrada 06:30
+[01/07/2024 06:45:44] Natan Soares Silveira: 01/07 Analia - Natan - entrada 06:00
+[01/07/2024 06:46:09] Thais Bosi Nonato: 01/07 Anália - Bosi entrada 07:00
+[01/07/2024 06:46:33] Vitor Maciel de Sousa Pinto: 01/07 Anália - Maciel entrada 07:00
+[01/07/2024 06:46:33] Rômulo Spolidorio: 01/07 Jabaquara Rômulo entrada 07:00
+[01/07/2024 06:46:42] Alexsander Takashi Hamada: 01/07 Analia - Alex entrada 6:00
+[01/07/2024 06:50:14] Erick Oliveira Lima Gomes: 01/07 Jabaquara Erick entrada 07:00
+[01/07/2024 06:51:02] Bruce Ye Man Chow: 01/07 Itaim - Bruce entrada 06:00
+[01/07/2024 06:54:41] Ricardo Giraldelli Carvalho Lima: 01/07 ANÁLIA - Giraldelli entrada 07:00
+[01/07/2024 06:55:12] Maurício Faria Tetti: 01/07 Anália Maurício entrada 7:00
+[01/07/2024 06:57:17] Marcos Vinícius Costa Carvalho: 01/07 MORUMBI - Vinicius entrada 06:00
+[01/07/2024 06:58:07] Natalia  Yume Hissayasu Menezes: 01/07 Anália - Nat Yume entrada 07:00
+[01/07/2024 06:58:09] Bruna Daibert Danesin: 01/07 Santa Bruna entrada 05:40
+[01/07/2024 06:58:31] Raphael Moura Britto: 01/07 Anália - Britto entrada 07:00
+[01/07/2024 06:59:09] Brian Sossai Pacheco: 01/07 OSASCO - Brian entrada 07:00
+[01/07/2024 07:00:25] Augusto de Castro Santos Queiroz: 01/07 Analia - Castro entrada 07:00
+[01/07/2024 07:00:27] Thayse Fachin Cormanique Kayser: 01/07 ANÁLIA - Thayse entrada 07:00
+[01/07/2024 07:00:54] Vanessa Paciullo Marossi: 01/07 Anália - Vanessa entrada 06:00
+[01/07/2024 07:01:25] Guilherme Petry Martins Pereira: 01/07 Osasco - Petry entrada 07:00
+[01/07/2024 07:02:55] Renata Pinheiro Modolo: 01/07 Anália - R. Modolo entrada 5:45
+[01/07/2024 07:03:46] Karen Cavichini Rosseto: 01/07 Villa - Cavichini entrada 07:00
+[01/07/2024 07:04:57] Victor Augusto de Souza Moraes: 01/07 Anália - V.Augusto entrada 07:00
+[01/07/2024 07:06:32] Fabiana Soares Gama: 01/07 Anália Fabiana Gama entrada as 07:00
+[01/07/2024 07:09:59] Yoko Hayashi: 01/07 Jabaquara Yoko entrada 07:09 (atraso)
+[01/07/2024 07:11:50] Maria Teresa Souza Gomes: 01/07 Osasco - M Teresa entrada 07:00
+[01/07/2024 07:12:20] Bruno Ferraz de Campos Barone: 01/07 VNS Barone entrada 07:00
+[01/07/2024 07:12:39] Norival Scandelai Junior: 01/07 Itaim - Norival entrada 6:00
+[01/07/2024 07:12:42] Marcela Leite Rosignoli: 01/07 Anália Marcela Leite entrada 07:00
+[01/07/2024 07:13:13] Yuri Anderson Pacheco de Lima: 01/07 Villa - Yuri entrada 07:00
+[01/07/2024 07:15:22] Marcelo Seiji Takaoka: 01/07 Anália - Takaoka entrada 07:00
+[01/07/2024 07:15:28] Flavio Maia Castilho: 1/07 Alpha - Castilho entrada 7:00
+[01/07/2024 07:17:26] Leandro Eduardo França: 01/07 JABAQUARA - França entrada 07:00
+[01/07/2024 07:19:57] Leonardo Barbosa Santos: 01/07 jabaquara L.Santos entrada 7:00 (deslocado villa - pos jbq)
+[01/07/2024 07:20:50] Thiago de Oliveira Heringer: 01/07 Central - Heringer entrada 07:00 (plantão 24 h)
+[01/07/2024 07:21:30] Thaís Miranda Ramos: 01/07 JABAQUARA - Miranda entrada às 07:00
+[01/07/2024 07:21:53] Filipe Maeda Hashi Abdalla Martins: 01/07 Jabaquara - Maeda entrada 7:00
+[01/07/2024 07:22:23] Marcelo Maia da Silveira: 01/07 Villa  - Maia Entrada 07:00
+[01/07/2024 07:23:41] Francisco José Lucena Bezerra: 01/07 VILLA - Lucena - entrada 07:00 (plantão 24h)
+[01/07/2024 07:28:02] Manoel de Souza Neto: 01/07 VNS Manoel entrada 07:00 (Distância)
+[01/07/2024 07:28:51] Pedro Paulo Silva Farah: 01/07 Morumbi - Pedro entrada 07:00h (Plantão)
+[01/07/2024 07:28:55] Gustavo Marques da Silva: 01/07 Osasco - Marques entrada 06:00 (deslocado Itaim)
+[01/07/2024 07:31:57] Cláudio Mueller Kakuda: 01/07 Maternidade Kakuda entrada 7:00
+[01/07/2024 07:40:38] Marcos Rogério Pereira Machado Filho: 01/07 Alpha Marcos entrada 7:00
+[01/07/2024 07:41:23] Bianca Priscila Buniotti: 01/07 Jabaquara - Bianca entrada 07:00
+[01/07/2024 07:41:35] Ludmylla Gomes Neves: 01/07 Morumbi - Ludmylla  entrada 07:00h
+[01/07/2024 07:41:38] Flávio Rosa Figueiredo Souza: 01/07 - Anália - Figueiredo entrada 07:00
+[01/07/2024 07:42:01] Alexandre Amaral Lucas: 01/07 Morumbi - alexandre Amaral entrada - 07:00 (distância)
+[01/07/2024 07:50:29] Patrick Alexander Sauer Schues: 01/07 Osasco - Patrick entrada 07:00 (plantão)
+[01/07/2024 07:50:30] Pedro Henrique Milhomens da Mota: 01/07 Itaim Mota saída 7:40 (deslocado VNS)
+[01/07/2024 07:53:10] Caio Tulio Duarte: 01/07 - Anália Caio entrada 07:00 (plantão)
+[01/07/2024 08:02:48] Thiago Barreto Marques da Silva: 01/07 - Jabaquara Naldo entrada 07:00 (plantão)
+[01/07/2024 08:17:29] Mariana Gasparelli de Souza: 01/07 - Morumbi - Mariana Gasparelli saída 08:00
+[01/07/2024 08:23:36] Ronald Figueiredo Gomes: 01/07 ITAIM - Ronald entrada 07:00 (plantão)
+[01/07/2024 08:41:12] Thales Luvisotto Neder: 01/07 Villa - Thales entrada 09:00
+[01/07/2024 08:52:26] Pedro Henrique Lucas de Moraes: 01/07 Analia - Moraes entrada 7:00 ( deslocado villa - pos analia ) ‎<Mensagem editada>
+[01/07/2024 09:00:38] Márcio Ighor Azevedo Silva de Mendonça Melânia: 01/07 ANALIA - Ighor entrada 09:00
+[01/07/2024 09:02:56] Eduardo Arbache Bezerra: 01/07 Itaim - Bezerra entrada as 09:00
+[01/07/2024 09:03:01] Raul Felipe Maldonado Herbas: 01/07 Osasco Maldonado entrada 7:00 ‎<Mensagem editada>
+[01/07/2024 09:05:54] Ana Jung Docko: 01/07 Analia Ana entrada 09:00
+[01/07/2024 09:10:10] Denio Lopes de Almeida: 01/07 Osasco - Dênio entrada 07:00
+[01/07/2024 09:12:35] Karen Yumi Miyashiro: 01/07 Villa - Yumi entrada 07:00
+[01/07/2024 09:20:10] Emerson Domingos da Costa: 01/07 Jabaquara Emerson saída 09:10
+[01/07/2024 09:53:42] Henri Roger Watanabe Oliveira: 01/07 Itaim - Henri saida as 09:35
+[01/07/2024 09:54:04] Maurício Faria Tetti: 01/07 Analia Maurício saída 9:50 (pós plantão)
+[01/07/2024 10:36:23] Helena Araujo Damasceno: 01/07 Osasco Helena entrada 09:00
+[01/07/2024 10:39:03] Daniel Rodrigues de Oliveira: 01/07 Itaim Daniel entrada 6:00
+[01/07/2024 10:44:10] Guilherme Silveira Lopes: 01/07 Jabaquara - Silveira entrada 11:00
+[01/07/2024 10:44:11] Filipe Lugon Moulin Lima: 01/07 MORUMBI - Filipe Lugon saida 10:30 (deslocado ITAIM)
+[01/07/2024 10:45:22] Carlos Eduardo Gondim Oliveira: 01/07 VNS - Oliveira entrada 09:30
+[01/07/2024 10:47:12] Luiz Guilherme Thomaz Zacharias: 01/07 MORUMBI - Guilherme saída 10:30
+[01/07/2024 10:51:00] Natalia Maia Queiroz: 01/07 MORUMBI Queiroz entrada 11:00
+[01/07/2024 10:53:00] Guilherme de Almeida Costa: 01/07 santa costa saida 10:50
+[01/07/2024 10:55:34] Rogério Sidney Thon: 01/07 Itaim Rogério entrada 7:00h
+[01/07/2024 10:56:11] Marcelo Seiji Takaoka: 01/07 Anália - Takaoka saída 10:40
+[01/07/2024 10:56:38] Rogério Sidney Thon: 01/07 Itaim Rogério saída 10:57h
+[01/07/2024 11:01:16] Pedro Henrique Lucas de Moraes: 01/07 Analia - moraes saida 10:50
+[01/07/2024 11:01:40] Pedro Henrique Diniz Botelho: 01/07 Analia - Diniz entrada 11:00
+[01/07/2024 11:12:30] Leonardo Barbosa Santos: 01/07 jabaquara L.Santos saida 11:10 (deslocado villa - pos jbq)
+[01/07/2024 11:13:36] Gabriel de Aguiar Santana: 01/07 Jabaquara - Gabriel saída 11:10
+[01/07/2024 11:15:20] Rodrigo Andrade Carmello: 01/07 Morumbi - Carmello entrada 11:00
+[01/07/2024 11:25:51] Andréia Loureiro Mori: 01/07 Jabaquara Andréia entrada 9:00
+[01/07/2024 11:46:37] Ana Jung Docko: 01/07 Analia Ana saída 11:45
+[01/07/2024 12:44:47] Francisco Antonio Alves Bonatto: 01/07 VILLA - Francisco saída 12:40
+[01/07/2024 12:46:19] Renata Pinheiro Modolo: 01/07 Anália - R. Modolo saída 12:20 (deslocamento Itaim)
+[01/07/2024 12:48:38] Norival Scandelai Junior: 01/07 Itaim - Norival saída 12:00
+[01/07/2024 12:48:52] Karen Cavichini Rosseto: 01/07 villa - Cavichini saída 12:40
+[01/07/2024 12:56:34] Thais Chaves Pinheiro: 01/07 Itaim - Thaís entrada 13:00
+[01/07/2024 12:56:52] Luccas Varela Godoy: 01/07 alpha Luccas entrada 7:00
+[01/07/2024 12:58:52] Flavio Hideki Oshika: 01/07 MATERNIDADE - Flávio entrada 13:00
+[01/07/2024 13:00:29] Yuri Anderson Pacheco de Lima: 01/07 Villa - Yuri saída 13:00
+[01/07/2024 13:01:28] Camila Chiarantano Harrison: 01/07 Villa Camila Entrada 13:00
+[01/07/2024 13:06:14] Everton Sidney da Conceição Carvalho: 01/07 - MORUMBI - Everton entrada 07:00
+[01/07/2024 13:13:06] Daniel Rodrigues de Oliveira: 01/07 Itaim Daniel saída 13:15
+[01/07/2024 13:15:58] Carlos Augusto Trevisan: 01/07 MORUMBI - Carlos entrada 7:00
+[01/07/2024 13:16:43] Bruce Ye Man Chow: 01/07 Itaim - bruce saida 13:00
+[01/07/2024 13:38:36] Bruna Daibert Danesin: 01/07 Santa Bruna saída 13:35
+[01/07/2024 14:14:28] Vanessa Paciullo Marossi: 01/07 Anália Vanessa saída 13:40 (motivo de saude)
+[01/07/2024 14:17:07] Bruno Ferraz de Campos Barone: 01/07 VNS Barone saida 13:40
+[01/07/2024 14:48:57] Maíra Leite Basile: 01/07 VNS - Maíra saída 14:45
+[01/07/2024 15:03:10] Thales Luvisotto Neder: 01/07 Villa - Thales saída 15:00
+[01/07/2024 15:07:40] Raiza Luna Peixoto: 01/07 Villa Raiza entrada 15:00
+[01/07/2024 15:08:50] Marcela Aparecida Correa Martins: 01/07 Santa - Martins entrada 06:00
+[01/07/2024 15:08:51] Karen Manoela Rosa: 01/07 Morumbi KRosa entrada 06:00
+[01/07/2024 15:09:21] Marcela Aparecida Correa Martins: 01/07 Santa - Martins saída 15:07
+[01/07/2024 15:18:37] Thassio Cunha de Santana: 01/07 Anália - Thassio entrada 11:00
+[01/07/2024 16:03:24] Natan Soares Silveira: 01/07 Anália - Natan - saída 16:00
+[01/07/2024 16:06:56] Izabela Cristina Almeida Duarte: 01/07 Itaim Iza Duarte entrada 6:00
+[01/07/2024 16:07:18] Izabela Cristina Almeida Duarte: 01/07 Itaim Iza Duarte saida 15:50
+[01/07/2024 16:26:40] Pedro Augusto Tavares Dall Aglio: 01/07 Central - Tavares - saída 16:25
+[01/07/2024 16:29:08] Ludmylla Gomes Neves: 01/07 Morumbi - Ludmylla  saida  15:45
+[01/07/2024 16:40:11] Daniellen Lins Lourenço: 01/07 JABAQUARA - Daniellen entrada 17:00
+[01/07/2024 16:45:06] Daniel  Masuzaki Wong: 01/07 Jabaquara - Wong saída 16:45
+[01/07/2024 16:57:08] Marcelo Maia da Silveira: 01/07 Villa  - Maia saída 16:55
+[01/07/2024 16:59:39] Cláudio Mueller Kakuda: 01/07 Maternidade - Kakuda saida 17:00
+[01/07/2024 17:01:56] Gustavo Marques da Silva: 01/07 Osasco - Marques saída 17:00 (deslocado Itaim)
+[01/07/2024 17:03:28] Sergio Zamith: 01/07 Maternidade-Zamith Entrada 07:00
+[01/07/2024 17:08:19] Felipe de Oliveira Nunes: 01/07 Anália - Nunes dispensado (saúde)
+[01/07/2024 17:11:19] Felipe Coelho de Souza: 01/07 Itaim - Coelho saída 17:05
+[01/07/2024 17:13:01] Eduardo Dala Rosa Soares: 01/07 VNS - Soares entrada 07:00
+[01/07/2024 17:13:18] Eduardo Dala Rosa Soares: 01/07 VNS - Soares saída 17:10 ‎<Mensagem editada>
+[01/07/2024 17:15:07] Lais Ribeiro Teixeira: 01/07 Jabaquara Lais saída 17:15
+[01/07/2024 17:17:41] Filipe Maeda Hashi Abdalla Martins: 01/07 Jabaquara - Maeda saída 17:15
+[01/07/2024 17:19:53] Fábio Antônio de Souza Oliveira: 01/07 Itaim Fabio saída 17:19hs
+[01/07/2024 17:22:22] Ivã Barbosa Soares: 01/07 Osasco Ivã entrada 09:00
+[01/07/2024 17:22:30] Ivã Barbosa Soares: 01/07 Osasco Ivã Saída 17:20
+[01/07/2024 17:27:24] Marcos Rogério Pereira Machado Filho: 01/07 Alpha Marcos saída 17:25
+[01/07/2024 17:27:51] Kaiê Fernandes: 01/07 Osasco Kaie saída 17:10
+[01/07/2024 17:29:44] Renata Togeiro Bastos Godoy de Faria: 01/07 MORUMBI - Renata Togeiro saída 17:25
+[01/07/2024 17:31:34] Karen Yumi Miyashiro: 01/07 Villa - Yumi saída 17:30
+[01/07/2024 17:36:38] Rômulo Spolidorio: 01/07 Jabaquara Rômulo saída 17:35
+[01/07/2024 17:38:20] Jessica Lidia de Souza: 01/07 Central - Jessica - entrada 06:00
+[01/07/2024 17:38:34] Jessica Lidia de Souza: 01/07 Central - Jessica - saida 17:30
+[01/07/2024 17:39:36] Leandro Eduardo França: 01/07 JABAQUARA - França saída 17:35 ‎<Mensagem editada>
+[01/07/2024 17:47:11] Camila Chiarantano Harrison: 01/07 Villa Camila Saida 17:45
+[01/07/2024 17:50:15] Natalia Nunes Santos: 01/07 Jabaquara Nat Nunes saída 17:50
+[01/07/2024 17:50:51] Vitor Maciel de Sousa Pinto: 01/07 Anália Maciel saída 17:50
+[01/07/2024 18:01:23] Rodrigo Martins Pereira: 01/07 OSASCO - pereira saída 18:00
+[01/07/2024 18:02:06] Renato dos Santos Borega: 01/07 Villa - Renato entrada 7:00
+[01/07/2024 18:02:07] Renato dos Santos Borega: 01/07 Villa - Renato saída 17:45
+[01/07/2024 18:02:31] Maria Teresa Souza Gomes: 01/07 Osasco - M. Teresa saída 18:00
+[01/07/2024 18:09:07] Flavio Maia Castilho: 1/07 Alpha - Castilho saída 18:10 ‎<Mensagem editada>
+[01/07/2024 18:14:36] Thiago Silva Pinto: 01/07 Villa - T.Silva  saída 18:00
+[01/07/2024 18:15:12] Marcos Vinícius Costa Carvalho: 01/07 Morumbi - Vinicius saida  17:50
+[01/07/2024 18:15:48] Brian Sossai Pacheco: 01/07 OSASCO - Brian saída 18:15
+[01/07/2024 18:23:12] Bianca Priscila Buniotti: 01/07 Jabaquara - Bianca saída 17:15
+[01/07/2024 18:23:35] Thais Bosi Nonato: 01/07 Anália - Bosi saída 18:15
+[01/07/2024 18:34:40] Rodrigo Antonio Rey Gonzalez: 01/07 SANTA - Rey saida 18:00
+[01/07/2024 18:37:38] Carlos Eduardo Gondim Oliveira: 01/07 VNS - Oliveira saída 18:37
+[01/07/2024 18:40:08] Karen Manoela Rosa: 01/07 Morumbi KRosa saída 18:00
+[01/07/2024 18:45:49] Everton Sidney da Conceição Carvalho: 01/07 - MORUMBI - Everton saída 18:40
+[01/07/2024 18:50:44] Ricardo Giraldelli Carvalho Lima: 01/07 ANÁLIA - Giraldelli saída 18:40
+[01/07/2024 18:50:47] Carlos Augusto Trevisan: 01/07 MORUMBI - Carlos saída 18:45
+[01/07/2024 18:51:27] Thais Chaves Pinheiro: 01/07 Itaim - Thaís saída 18:50
+[01/07/2024 18:54:10] Diego da Cunha Tomaz: 01/07 Santa - Diego entrada 7:00
+[01/07/2024 18:54:22] Diego da Cunha Tomaz: 01/07 Santa - Diego saída  18:50
+[01/07/2024 18:54:38] Natalia  Yume Hissayasu Menezes: 01/07 Anália - Nat Yume saída 18:50
+[01/07/2024 18:57:12] Fernanda Teles Ribeiro: 01/07 - Itaim - Fernanda entrada 07:00
+[01/07/2024 18:57:31] Fernanda Teles Ribeiro: 01/07 - Itaim - Fernanda saída 18:55
+[01/07/2024 18:59:36] Beatriz Antipou dos Santos: 01/07- Itaim -Antipou- entrada 07:00
+[01/07/2024 18:59:37] Beatriz Antipou dos Santos: 01/07- Itaim -Antipou- saida 18:55
+[01/07/2024 19:10:46] Luccas Varela Godoy: 01/07 alpha Luccas saida 19:10
+[01/07/2024 19:16:10] Fabiana Soares Gama: 01/07 Anália Fabiana Gama saída as 19:10
+[01/07/2024 19:18:13] Raphael Moura Britto: 01/07 Anália - Britto saída 18:55
+[01/07/2024 19:21:42] Augusto de Castro Santos Queiroz: 01/07 Analia - Castro saida 18:50
+[01/07/2024 19:27:35] José Marcos Vieira da Silva: 01/07 - Itaim José Marcos entrada 7:00
+[01/07/2024 19:28:13] José Marcos Vieira da Silva: 01/07 - Itaim José Marcos saída 19:10
+[01/07/2024 19:30:30] Eduardo Arbache Bezerra: 01/07 Itaim - Bezerra saida as 19:10
+[01/07/2024 19:31:06] Antonio Alvaro Dias Lima da Cunha Neto: 01/07 CENTRAL - Álvaro entrada 07:00
+[01/07/2024 19:31:30] Antonio Alvaro Dias Lima da Cunha Neto: 01/07 CENTRAL - Álvaro saída 19:25
+[01/07/2024 19:36:02] Darlan Junior Schneider: 01/07 Morumbi - Darlan entrada 9:00 ‎<Mensagem editada>
+[01/07/2024 19:36:19] Darlan Junior Schneider: 01/07 Morumbi - Darlan saida 19:30
+[01/07/2024 19:41:56] Erick Oliveira Lima Gomes: 01/07 Jabaquara Erick saída 19:35
+[01/07/2024 19:49:06] Gabriela Meireles Linhares de Araujo: 01/07 - Itaim G.Linhares entrada 13:00h (plantão)
+[01/07/2024 19:55:17] Thaís Miranda Ramos: 01/07 JABAQUARA - Miranda saída às 19:55
+[01/07/2024 20:13:45] Flávio Rosa Figueiredo Souza: 01/07 - Anália - Figueiredo saída 20:05
+[01/07/2024 20:20:56] Yoko Hayashi: 01/07 Jabaquara Yoko saida 20:10
+[01/07/2024 20:20:59] Alexsander Takashi Hamada: 01/07 Analia - Alex saída 17:40
+[01/07/2024 20:26:34] Thayse Fachin Cormanique Kayser: 01/07 ANÁLIA - Thayse saída 20:25
+[01/07/2024 20:29:01] Luciano Angelo Richetti: 01/07 Itaim Luciano saída 20:20
+[01/07/2024 20:33:44] Sidney Orlando de Souza: 01/07 Osasco-Sidney entrada: 07:00
+[01/07/2024 20:35:57] Sidney Orlando de Souza: 01/07 Osasco-Sidney saida: 17:30
+[01/07/2024 20:36:12] Andréia Loureiro Mori: 01/07 Jabaquara Andréia saída 20:35
+[01/07/2024 20:36:19] Daniellen Lins Lourenço: 01/07 JABAQUARA - Daniellen saída 20:35
+[01/07/2024 20:36:42] Thiago Francisco Martins: 01/07 Itaim - Thiago Martins entrada 11:00
+[01/07/2024 20:37:04] Thiago Francisco Martins: 01/07 Itaim - Thiago Martins saída 20:35
+[01/07/2024 20:37:20] Raul Felipe Maldonado Herbas: 01/07 Osasco Maldonado saida 20:20
+[01/07/2024 20:40:26] Guilherme Petry Martins Pereira: 01/07 Osasco - Petry saída 20:35
+[01/07/2024 20:42:19] Marcela Leite Rosignoli: 01/07 Anália Marcela Leite saída 20:40
+[01/07/2024 20:56:54] Natalia Maia Queiroz: 01/07 Morumbi Queiroz saída 20:20
+[01/07/2024 21:03:13] Márcio Ighor Azevedo Silva de Mendonça Melânia: 01/07 ANALIA - Ighor saída 20:45
+[01/07/2024 21:15:04] Gabriela de Faria Bizarria: 01/07 Osasco - Bizarria saída 21:10
+[01/07/2024 21:18:30] Rodrigo Andrade Carmello: 01/07 Morumbi - Carmello saída 21:10
+[01/07/2024 21:21:23] Helena Araujo Damasceno: 01/07 Osasco Helena Saída 21:20
+[01/07/2024 21:30:08] Matheus de Alencar Arraes: 01/07 JABAQUARA Arraes saida 21:10
+[01/07/2024 21:41:18] Guilherme Silveira Lopes: 01/07 Jabaquara -Silveira saída 21:40
+[01/07/2024 21:47:30] Pedro Henrique Diniz Botelho: 01/07 Analia - Diniz saída 21:40
+[01/07/2024 21:56:08] Thassio Cunha de Santana: 01/07 Anália - Thassio saída 21:55
+[01/07/2024 22:18:13] Raiza Luna Peixoto: 01/07 Villa Raiza saída 22:15
+[01/07/2024 23:10:34] Moabe Gonçalves De Oliveira: 01/07 Villa Moabe entrada 11h
+[01/07/2024 23:10:49] Moabe Gonçalves De Oliveira: 01/07 Villa Moabe saída 23:10
+[01/07/2024 23:51:04] Alexandre Amaral Lucas: 01/07 Morumbi Alexandre Amaral saída 23:50 (distância)
+[02/07/2024 04:20:33] Nathalia Fanucci Oliveira Di Jorge: 02/07 ANALIA Nathália entrada 04:15
+[02/07/2024 04:46:43] Norival Scandelai Junior: 02/07 Morumbi - Norival entrada 4:40
+[02/07/2024 04:54:13] Natalia Nunes Santos: 02/07 Jabaquara Nat Nunes entrada 04:50
+[02/07/2024 05:25:14] Pedro Henrique Lucas de Moraes: 02/07 osasco Moraes entrada 5:10
+[02/07/2024 05:29:47] Felipe Coelho de Souza: 02/07 Itaim - Coelho entrada 5:20
+[02/07/2024 05:32:37] Gabriela de Faria Bizarria: 02/07 Anália - Bizarria entrada 05:20
+[02/07/2024 05:33:17] Fabiana Barbosa Bastos: 02/07 Morumbi - Fabiana entrada 05:15
+[02/07/2024 05:35:22] Aline Franchini Goulart Lima: 02/07 Villa Aline entrada 05:35
+[02/07/2024 05:40:16] Flavio Maia Castilho: 2/07 Morumbi - Castilho entrada 5:30
+[02/07/2024 05:42:15] Guilherme Silveira Lopes: 02/07 Morumbi - Silveira entrada 05:15
+[02/07/2024 05:43:43] Rodrigo Antonio Rey Gonzalez: 02/07 OSASCO - Rey entrada 05:40
+[02/07/2024 05:47:05] Manuela Affonso Ferreira Sanged: 02/07 Osasco - Manuela entrada 05:35
+[02/07/2024 05:48:15] Natan Soares Silveira: 02/07 HCT - Natan - entrada 05:45
+[02/07/2024 05:55:29] Paloma Kiyomi Taguchi: 02/07 JABAQUARA - Paloma entrada 6:00
+[02/07/2024 05:57:14] Fernando Ribeiro Sá: 02/07 Itaim Ribeiro entrada 06:00 (deslocamento Anália)
+[02/07/2024 06:01:45] Kaiê Fernandes: 02/07 santa Kaie entrada 5:20 (deslocado Itaim)
+[02/07/2024 06:03:49] Sheila Itiroco Monte: 02/07 Itaim Sheila entrada 06:00
+[02/07/2024 06:04:12] Fábio Antônio de Souza Oliveira: 02/07 Itaim Fabio entrada 6hs
+[02/07/2024 06:05:44] Vitor Luiz Assunção Martins: 02/07 Osasco - Assunção entrada 06:00
+[02/07/2024 06:06:36] Silvia Aline dos Santos Andrade: 02/07 Morumbi - Silvia entrada 06:00
+[02/07/2024 06:06:58] Ana Clara Mourão Barreto: 02/07 Central - Clara entrada 6:00
+[02/07/2024 06:15:36] Leonardo Barbosa Santos: 02/07 VNS L.Santos entrada 4:10
+[02/07/2024 06:21:58] Rômulo Spolidorio: 02/07 Jabaquara Rômulo entrada 07:00
+[02/07/2024 06:22:59] Thiago Francisco Martins: 02/07 VNS Thiago Martins entrada 06:15
+[02/07/2024 06:29:15] Natalia Maia Queiroz: 02/07 Morumbi Queiroz entrada 05:50
+[02/07/2024 06:35:23] Vitor Oliveira André: 02/07 VNS Vitor entrada 06:30
+[02/07/2024 06:39:06] Thais Bosi Nonato: 02/07 Morumbi - Bosi entrada 07:00
+[02/07/2024 06:41:39] Diego da Cunha Tomaz: 02/07 Jabaquara - Diego entrada 7:00 (deslocado Santa)
+[02/07/2024 06:43:03] Thales Luvisotto Neder: 02/07 Jabaquara - Thales entrada 07:00
+[02/07/2024 06:44:07] Leticia Fernandes Borges: 02/07 Itaim - Letícia entrada 5:15
+[02/07/2024 06:44:59] Luccas Varela Godoy: 2/7 alpha Luccas entrada 7:00
+[02/07/2024 06:45:56] Nathalia Soares Rodrigues Gomes : 02/07 Anália - Nat Rodrigues entrada 07:00
+[02/07/2024 06:47:32] Natalia  Yume Hissayasu Menezes: 02/07 Morumbi - Nat Yume entrada 07:00
+[02/07/2024 06:49:05] Débora Alves Aude: 02/07 Itaim - Debora entrada 07:00
+[02/07/2024 06:49:39] Fernanda Teles Ribeiro: 02/07 Itaim - Fernanda entrada 06h
+[02/07/2024 06:50:30] Lais Ribeiro Teixeira: 02/07 Jabaquara Lais entrada 07:00 (deslocada Itaim)
+[02/07/2024 06:54:55] Neliane Guedes Pretti: 02/07 itaim Neliane entrada 07:00
+[02/07/2024 06:56:23] Gabriel de Aguiar Santana: 02/07 Anália - Gabriel entrada 06:00
+[02/07/2024 06:56:40] Pedro Henrique Diniz Botelho: 02/07 Analia - Diniz entrada 6:00
+[02/07/2024 06:57:47] Filipe Maeda Hashi Abdalla Martins: 02/07 Jabaquara - Maeda entrada 7:00
+[02/07/2024 06:58:13] Pedro Belintani de Maio: 02/07 Villa - Belintani entrada 07:00h (plantão)
+[02/07/2024 06:58:35] Vitor Maciel de Sousa Pinto: 02/07 Anália - Maciel entrada 07:00
+[02/07/2024 06:58:36] Ricardo Barbosa Viana Filho: 02/07 Villa - Barbosa Entrada 07:00
+[02/07/2024 06:59:18] Pedro Augusto Tavares Dall Aglio: 02/07 Central - Tavares - entrada 7:00
+[02/07/2024 07:00:35] Ricardo Ivo de Lima: 02/07 - Itaim - Ricardo Ivo Entrada : 07:00h
+[02/07/2024 07:00:45] Nara Yamane dos Santos: 02/07 Morumbi - Nara entrada 7:00
+[02/07/2024 07:00:55] Thiago de Oliveira Heringer: 02/07 Central - Heringer saída 07:00 (plantão 24 h)
+[02/07/2024 07:01:37] Arthur Rodrigues Torrélio: 02/07 Osasco - Torrelio entrada 07:00
+[02/07/2024 07:02:35] Rafhael Silva Leal: 01/07 santa - Leal entrada 07:00
+[02/07/2024 07:02:53] Rafhael Silva Leal: 02/07 santa - Leal saída 07:00
+[02/07/2024 07:04:24] André Augusto Bellini: 02/07 ANÁLIA - Bellini entrada 07:00 (deslocado Itaim)
+[02/07/2024 07:05:36] Moabe Gonçalves De Oliveira: 02/07 Itaim Moabe - entrada: 5:40
+[02/07/2024 07:06:02] Luiz Guilherme Thomaz Zacharias: 02/07 ITAIM - Guilherme entrada 7:00
+[02/07/2024 07:08:28] Filipe Lugon Moulin Lima: 02/07 ITAIM - Filipe Lugon entrada 07:00
+[02/07/2024 07:09:32] Marcos Vinícius Costa Carvalho: 02/07 Osasco - Vinicius entrada 07:00
+[02/07/2024 07:10:00] Darlan Junior Schneider: 02/07 Osasco - Darlan entrada 07:00
+[02/07/2024 07:10:19] Wangles Pignaton de Paula: 01/07 VILLA - Wangles saída 22:15
+[02/07/2024 07:10:35] Maxvilano Lima de Macedo: 02/07 Osasco Maxvilano entrada 07:00
+[02/07/2024 07:10:51] Thaís Miranda Ramos: 02/07 JABAQUARA - Miranda entrada às 07:00
+[02/07/2024 07:13:25] Francisco Antonio Alves Bonatto: 02/07 VILLA - Francisco entrada 07:00
+[02/07/2024 07:13:28] Isabela Mattarelli Souza Carli: 02/07 - Osasco - Mattarelli entrada 06:00
+[02/07/2024 07:13:31] Guilherme Petry Martins Pereira: 02/07 Osasco - Petry entrada  07:00
+[02/07/2024 07:14:29] Felipe de Oliveira Nunes: 02/07 Santa Isabel - Nunes entrada 7:00 (plantão)
+[02/07/2024 07:14:37] Flávio Rosa Figueiredo Souza: 02/07 - Osasco - Figueiredo entrada 07:00(plantão)
+[02/07/2024 07:15:29] Alexandre Amaral Lucas: 02/07 - Osasco - alexandre Amaral entrada 07:00
+[02/07/2024 07:15:43] Guilherme de Almeida Costa: 02/07 vns costa entrada 07:00 plantao ‎<Mensagem editada>
+[02/07/2024 07:16:42] Marcela Leite Rosignoli: 02/07 Osasco Marcela Leite entrada 07:00
+[02/07/2024 07:17:01] Ricardo Kawaura: 02/07 Osasco kawaura entrada 7:00
+[02/07/2024 07:29:29] Elaine Imaeda de Moura: 02/07 Analia Elaine entrada 07:00
+[02/07/2024 07:31:31] Carlos Augusto Trevisan: 02/07 VILLA - Carlos entrada 07:00
+[02/07/2024 07:40:53] Bruna Daibert Danesin: 02/07 Anália Bruna entrada 07:00
+[02/07/2024 07:41:40] Leandro Oliveira Martins Cortês: 02/07 SANTA - Côrtes entrada 07:00
+[02/07/2024 07:51:53] Renata Togeiro Bastos Godoy de Faria: 01/07 MORUMBI - Renata Togeiro entrada 5:00
+[02/07/2024 07:51:59] Renata Togeiro Bastos Godoy de Faria: 02/07 MORUMBI - Renata Togeiro entrada 5:00
+[02/07/2024 07:56:03] Isaque Camilo da Silva: 02/07 Anália Isaque entrada 07:00
+[02/07/2024 07:57:11] Marina Pontes Moura Nascimento e Silva: 01/07 Osasco Moura entrada 11:00
+[02/07/2024 07:57:32] Marina Pontes Moura Nascimento e Silva: 01/07 Osasco Moura saída 22:35
+[02/07/2024 07:58:32] Anna Beatriz Aranha Trevisan: 02/07 VILLA - Anna Beatriz entrada 06:00
+[02/07/2024 08:02:03] Raul Felipe Maldonado Herbas: 02/07 VILLA - Maldonado entrada 7:00
+[02/07/2024 08:04:33] Rogério Sidney Thon: 02/07 Itaim Rogério entrada 6:00h
+[02/07/2024 08:09:45] Gabriela Santos Menezes: 02/07 Morumbi - G.Menezes entrada 07:00
+[02/07/2024 08:23:55] Cláudio Mueller Kakuda: 02/07 Maternidade - Kakuda entrada 7:00
+[02/07/2024 08:25:37] Marcelo Seiji Takaoka: 01/07 Anália - Takaoka entrada 07:00
+[02/07/2024 08:28:29] Gretel Oliveira Nicolau: 02/07 Villa- Gretel entrada 07:00
+[02/07/2024 08:29:08] André da Costa Aguiar Ventura: 02/07 MORUMBI Ventura entrada 5:20
+[02/07/2024 08:41:28] Luciano Angelo Richetti: 02/07 Santa Luciano entrada 06:00
+[02/07/2024 08:45:38] Bruno Stornioli Taguchi Lemos: 02/07 Morumbi Bruno Lemos entrada 06:00
+[02/07/2024 08:50:28] Eduardo Dala Rosa Soares: 02/07 VNS - Soares entrada 08:30 ( Distância )
+[02/07/2024 08:52:05] Marcos Rogério Pereira Machado Filho: 02/07 Santa Marcos entrada 7:00
+[02/07/2024 09:00:37] Leandro Machado Deorce: 02/07 Anália - Deorce entrada 7:00
+[02/07/2024 09:08:55] Matheus de Alencar Arraes: 02/07 JABAQUARA Arraes entrada 06:10
+[02/07/2024 09:15:29] Amanda Kiyoko Souza Kossaka: 02/07 MORUMBI - Amanda entrada 09:00
+[02/07/2024 09:33:28] Norival Scandelai Junior: 02/07 Morumbi - Norival saída 9:15
+[02/07/2024 09:46:31] Izabela Cristina Almeida Duarte: 02/07 Osasco Iza Duarte entrada 9:00
+[02/07/2024 09:48:41] Bianca Priscila Buniotti: 02/07 Morumbi - Bianca entrada 05:20
+[02/07/2024 09:56:41] Eduardo Arbache Bezerra: 02/07 Santa - Bezerra entrada as 07:00
+[02/07/2024 10:29:56] Karen Cavichini Rosseto: 02/07 Analia - Cavichini entrada 05:25
+[02/07/2024 10:32:56] Fabiana Soares Gama: 02/07 Villa Fabiana Gama entrada as 07:00
+[02/07/2024 10:41:48] Natalia Nunes Santos: 02/07 Jabaquara Nat Nunes saída 10:35
+[02/07/2024 10:50:22] Rômulo Spolidorio: 02/07 Jabaquara Rômulo saída 10:50
+[02/07/2024 10:56:49] Renata Togeiro Bastos Godoy de Faria: 02/07 MORUMBI - Renata Togeiro saída 10:50
+[02/07/2024 11:16:56] José Marcos Vieira da Silva: 02/07 - Jabaquara José Marcos entrada 6:00
+[02/07/2024 11:17:26] José Marcos Vieira da Silva: 02/07 - Jabaquara José Marcos saída 11:15
+[02/07/2024 11:21:13] Gabriela Meireles Linhares de Araujo: 02/07 Villa - G.Linhares dispensada
+[02/07/2024 11:29:12] Juliana Hussein: 02/07 VILLA - J. Hussein entrada 7:00
+[02/07/2024 11:31:47] Sabrina de Souza Ramos: 02/07 Itaim Sabrina entrada às 11:00
+[02/07/2024 11:38:37] Fernando Akira Koga: 02/07 Itaim - Koga saída 11:38
+[02/07/2024 11:39:44] Renata Pinheiro Modolo: 02/07 Itaim - R. Modolo entrada 9:00
+[02/07/2024 11:45:14] Rodrigo Andrade Carmello: 02/07 Jabaquara - Carmello entrada 11:00
+[02/07/2024 11:58:10] Yuri Anderson Pacheco de Lima: 02/07 Morumbi - Yuri entrada 11:00
+[02/07/2024 12:05:48] Caroline Firmino Lemes da Silva: 02/07 Villa Lemes entrada 11:00
+[02/07/2024 12:10:02] Caio Tulio Duarte: 02/07 SANTA - Caio entrada 07:00 (distância)
+[02/07/2024 12:11:50] Natan Soares Silveira: 02/07 HCT - Natan - saída 11:45
+[02/07/2024 12:20:56] Rodrigo Antonio Rey Gonzalez: 02/07 OSASCO - Rey saida 12:10
+[02/07/2024 12:22:02] Rodrigo Antonio Rey Gonzalez: 01/07 SANTA - Rey entrada 07:00
+[02/07/2024 12:22:08] Thiago Francisco Martins: 02/07 VNS Thiago Martins saida 12:20
+[02/07/2024 12:24:55] Ricardo Giraldelli Carvalho Lima: 02/07 ANÁLIA - Giraldelli entrada 06:00
+[02/07/2024 12:25:02] Ricardo Giraldelli Carvalho Lima: 02/07 ANÁLIA - Giraldelli saída 12:20
+[02/07/2024 13:02:05] Stefany Hellen Sousa Martins: 02/07 Morumbi-  stefany entrada 13:00
+[02/07/2024 13:03:26] Karen Peixoto Ricci: 02/07 Maternidade Karen entrada 7:00
+[02/07/2024 13:03:26] Carlos Eduardo Gondim Oliveira: 02/07 Maternidade - Oliveira entrada 13:00
+[02/07/2024 13:03:43] Karen Peixoto Ricci: 02/07 Maternidade Karen saída 13:00
+[02/07/2024 13:21:54] Pedro Henrique Lucas de Moraes: 02/07 Osasco Moraes saida 13:20
+[02/07/2024 13:43:38] Francisco Antonio Alves Bonatto: 02/07 VILLA - Francisco saída 13:40
+[02/07/2024 13:54:00] Thalita Lima Ezarchi: ‎Rodrigo Giovanelli Constantino adicionou Thalita Lima Ezarchi
+[02/07/2024 14:19:11] Leonardo Barbosa Santos: 02/07 VNS L.Santos saida 14:15 ‎<Mensagem editada>
+[02/07/2024 14:25:25] Ana Clara Mourão Barreto: 02/07 HCT Clara saída 14:25
+[02/07/2024 14:43:26] Daniellen Lins Lourenço: 02/07 JABAQUARA - Daniellen saída 14:43
+[02/07/2024 14:44:18] Leticia Fernandes Borges: 02/07 Itaim Letícia saída 14:40
+[02/07/2024 14:48:29] Lais Ribeiro Teixeira: 02/07 Jabaquara Lais 14:45 (deslocada Itaim)
+[02/07/2024 14:50:06] Aline Franchini Goulart Lima: 02/07 Villa Aline saída 14:50
+[02/07/2024 14:53:22] Erick Oliveira Lima Gomes: 02/07 Villa - Erick entrada 13:00
+[02/07/2024 14:55:41] Pedro Henrique Milhomens da Mota: 02/07 Maternidade Mota entrada 15:00 (assumo distância)
+[02/07/2024 15:01:31] Cláudio Mueller Kakuda: 02/07 Maternidade - Kakuda saida 15:00
+[02/07/2024 15:01:33] Manuela Affonso Ferreira Sanged: 02/07 Osasco - Manuela saída 14:50
+[02/07/2024 15:10:03] Fabiana Soares Gama: 02/07 Villa Fabiana Gama saída as 15:10
+[02/07/2024 15:14:42] Filipe Maeda Hashi Abdalla Martins: 02/07 Jabaquara - Maeda saída 15:10
+[02/07/2024 15:23:38] Renato dos Santos Borega: 02/07 Villa - Renato entrada 6:00
+[02/07/2024 15:23:49] Renato dos Santos Borega: 02/07 Villa - Renato saída 13:00
+[02/07/2024 15:35:34] Raul Felipe Maldonado Herbas: 02/07 Itam Raul saida 14:20 (desloca Villa Lobos)
+[02/07/2024 15:38:52] André Augusto Bellini: 02/07 ANÁLIA - Bellini saída 15:30 (deslocado Itaim)
+[02/07/2024 15:43:01] Mariana Dardengo Borges: 02/07 JABAQUARA - M. Dardengo entrada 13:00
+[02/07/2024 15:43:02] Pedro Augusto Tavares Dall Aglio: 02/07 Central - Tavares - saída 15:42
+[02/07/2024 15:43:15] Mariana Dardengo Borges: 02/07 JABAQUARA - M. Dardengo saída 15:40
+[02/07/2024 15:45:58] Nathalia Fanucci Oliveira Di Jorge: 02/07 ANALIA Nathália saída 15:40
+[02/07/2024 15:46:10] Ricardo Barbosa Viana Filho: 02/07 Villa - Barbosa Saída 15:45
+[02/07/2024 15:51:58] Luccas Varela Godoy: 02/07 alpha Luccas saída 15:10
+[02/07/2024 15:55:11] Gabriela de Faria Bizarria: 02/07 Anália - Bizarria saída 15:55
+[02/07/2024 16:00:04] Thaís Miranda Ramos: 02/07 JABAQUARA - Miranda saída às 15:50
+[02/07/2024 16:01:40] Augusto de Castro Santos Queiroz: 02/07 Jabaquara - Castro saida 15:40
+[02/07/2024 16:04:43] Diego da Cunha Tomaz: 02/07 Jabaquara - Diego saída  16:00 (deslocado Santa)
+[02/07/2024 16:05:24] Arthur Rodrigues Torrélio: 02/07 Osasco - Torrelio saída 16:05
+[02/07/2024 16:05:37] Bruno Ferraz de Campos Barone: 02/07 VNS Barone entrada 07:00
+[02/07/2024 16:05:50] Bruno Ferraz de Campos Barone: 02/07 VNS Barone saída 16:00
+[02/07/2024 16:06:01] Bruno Stornioli Taguchi Lemos: 02/07 Morumbi Bruno Lemos saída 16:00
+[02/07/2024 16:11:30] Rodrigo Martins Pereira: 02/07 OSASCO - pereira entrada 07:00
+[02/07/2024 16:11:42] Rodrigo Martins Pereira: 02/07 OSASCO - pereira saída 16:10
+[02/07/2024 16:11:50] Rogério Sidney Thon: 02/07 Itaim Rogério saída 16:00h
+[02/07/2024 16:13:04] Erick Oliveira Lima Gomes: 02/07 Villa Erick saída 16:10
+[02/07/2024 16:15:27] Sheila Itiroco Monte: 02/07 Itaim Sheila saída 16:15
+[02/07/2024 16:20:01] Thais Chaves Pinheiro: 02/07 Itaim - Thaís entrada 11:00
+[02/07/2024 16:25:18] Maiely Marcolin: 02/07 VNS - Maiely saída 16:20
+[02/07/2024 16:25:53] Maiely Marcolin: 02/07 VNS - Maiely entrada 07:00
+[02/07/2024 16:29:59] Vitor Luiz Assunção Martins: 02/07 Osasco - Assunção saída 16:20
+[02/07/2024 16:30:17] Guilherme Petry Martins Pereira: 02/07 Osasco - Petry saída 16:30
+[02/07/2024 16:34:10] Turibio Rodrigues Freire Neto: 02/07 Morumbi - Turibio Entrada: 06:15
+[02/07/2024 16:34:28] Turibio Rodrigues Freire Neto: 02/07 Morumbi - Turibio Saida: 16:10
+[02/07/2024 16:34:41] André da Costa Aguiar Ventura: 02/07 MORUMBI Ventura saida 16:15
+[02/07/2024 16:40:35] Fernando Ribeiro Sá: 02/07 Itaim Ribeiro saída 16:40 (deslocamento Anália)
+[02/07/2024 16:44:10] Isabela Mattarelli Souza Carli: 02/07 Osasco - Mattarelli saída 16:40 ‎<Mensagem editada>
+[02/07/2024 16:54:55] Turibio Rodrigues Freire Neto: ‎Turibio Rodrigues Freire Neto saiu
+[02/07/2024 16:58:22] Turibio Rodrigues Freire Neto: ‎Turibio Rodrigues Freire Neto deseja entrar no grupo
+[02/07/2024 16:53:10] Guilherme Silveira Lopes: 02/07 Morumbi - Silveira saída 16:50
+[02/07/2024 16:55:40] Rodrigo Achui Haga: 02/07 ALPHA - haga entrada 07:00
+[02/07/2024 16:56:05] Rodrigo Achui Haga: 02/07 ALPHA - haga saida 16:15
+[02/07/2024 17:00:17] Turibio Rodrigues Freire Neto: ‎Turibio Rodrigues Freire Neto entrou usando o link de convite deste grupo
+[02/07/2024 17:01:09] Arthur Oliveira Facchini: 02/07 Jabaquara Facchini entrada 17:00
+[02/07/2024 17:08:08] Silvia Aline dos Santos Andrade: 02/07 Morumbi - Silvia saída 17:00
+[02/07/2024 17:18:51] Pedro Victor Massaroto e Silva : 02/07 Itaim Massaroto entrada 6:00
+[02/07/2024 17:19:06] Pedro Victor Massaroto e Silva : 02/07 Itaim Massaroto saída 17:00
+[02/07/2024 17:22:55] Fábio Antônio de Souza Oliveira: 02/07 Itaim Fabio saída 17:22
+[02/07/2024 17:31:21] Débora Alves Aude: 02/07 itaim Débora saída 17:30
+[02/07/2024 17:41:43] Filipe Lugon Moulin Lima: 02/07 ITAIM - Filipe Lugon saida 17:30
+[02/07/2024 17:44:01] Luiz Guilherme Thomaz Zacharias: 02/07 ITAIM - Guilherme saída 17:30
+[02/07/2024 17:44:51] Vitor Oliveira André: 02/07 VNS Vitor saída 17 :42
+[02/07/2024 17:47:59] Matheus de Alencar Arraes: 02/07 JABAQUARA Arraes saida 17:40
+[02/07/2024 17:51:59] Marcos Vinícius Costa Carvalho: 02/07 Osasco - Vinicius saída 17:50
+[02/07/2024 17:56:44] Fabiana Barbosa Bastos: 02/07 Morumbi - Fabiana saída 17:50
+[02/07/2024 17:56:56] Thais Bosi Nonato: 02/07 Morumbi - Bosi saída 17:50
+[02/07/2024 17:58:39] Paloma Kiyomi Taguchi: 02/07 JABAQUARA - Paloma saída 17:45
+[02/07/2024 18:03:45] Anna Beatriz Aranha Trevisan: 02/07 VILLA - Anna Beatriz saída 18:00
+[02/07/2024 18:06:54] Darlan Junior Schneider: 02/07 Osasco - Darlan saida 18:05
+[02/07/2024 18:10:07] Flavio Maia Castilho: 02/07 Morumbi - Castilho saída 18:10
+[02/07/2024 18:15:30] Ricardo Ivo de Lima: 02/07 - Itaim - Ricardo Ivo Saída - 18:15h
+[02/07/2024 18:17:20] Karen Cavichini Rosseto: 02/07 Analia - Cavichini saída 18:00hs.
+[02/07/2024 18:18:12] Thales Luvisotto Neder: 02/07 Jabaquara - Thales saída 18:15
+[02/07/2024 18:21:12] Gretel Oliveira Nicolau: 02/07 Villa- Gretel saida 18:20
+[02/07/2024 18:21:43] Alexandre Amaral Lucas: 02/07 Osasco- alexandre Amaral saída 17:20
+[02/07/2024 18:26:38] Nara Yamane dos Santos: 02/07- morumbi- nara saida 18:26
+[02/07/2024 18:26:51] Juliana Hussein: 02/07 VILLA - J. Hussein saída 18:15
+[02/07/2024 18:35:45] Emerson Domingos da Costa: 02/07 Jabaquara Emerson saída 18:30
+[02/07/2024 18:37:21] Débora Philippi Bressane: 02/07 Jabaquara Débora Bressane entrada 09:00
+[02/07/2024 18:37:47] Débora Philippi Bressane: 02/07 Jabaquara Débora Bressane saída 18:35
+[02/07/2024 18:42:58] Amanda Kiyoko Souza Kossaka: 02/07 MORUMBI - Amanda saída 18:40
+[02/07/2024 18:47:10] Vitor Maciel de Sousa Pinto: 02/07 Anália - Maciel saída 18:40
+[02/07/2024 18:48:49] Bruna Daibert Danesin: 02/07 Anália Bruna saída 18:40
+[02/07/2024 18:52:48] Gabriel de Aguiar Santana: 02/07 Anália - Gabriel saída 18:40
+[02/07/2024 18:53:06] Marcelo Seiji Takaoka: 02/07 Anália - Takaoka saída 18:50
+[02/07/2024 19:02:24] Alexsander Takashi Hamada: 02/07 Analia - Alex entrada 07:00
+[02/07/2024 19:16:00] Nathalia Soares Rodrigues Gomes : 02/07 Anália - Nat Rodrigues saída 19:10
+[02/07/2024 19:18:53] Yuri Anderson Pacheco de Lima: 02/07 Morumbi - Yuri saída 19:15
+[02/07/2024 19:26:23] Luciano Angelo Richetti: 02/07 Santa Luciano saída 18:50
+[02/07/2024 19:38:19] Renata Pinheiro Modolo: 02/07 Itaim - R. Modolo saída 19:38
+[02/07/2024 19:39:51] Neliane Guedes Pretti: 02/07 Itaim Neliane saida 19:00
+[02/07/2024 19:41:23] Rafael Tadeu Marques: 02/07 alpha Rafael Tadeu saída 19:40
+[02/07/2024 19:41:41] Kaiê Fernandes: 02/07 santa Kaie saída 17:10 (deslocado Itaim)
+[02/07/2024 19:46:27] Arthur Oliveira Facchini: 02/07 Jabaquara Facchini saída 19:45
+[02/07/2024 19:52:48] Thalita Lima Ezarchi: 02/07 Anália - Thalita entrada 7:00
+[02/07/2024 19:53:10] Thalita Lima Ezarchi: 02/07 Anália - Thalita , saída 19:50
+[02/07/2024 19:55:58] Antonio Alvaro Dias Lima da Cunha Neto: 02/07 CENTRAL - Álvaro entrada 07:00
+[02/07/2024 19:56:20] Antonio Alvaro Dias Lima da Cunha Neto: 02/07 CENTRAL - Álvaro saída  19:50
+[02/07/2024 20:05:20] Leandro Machado Deorce: 02/07 Anália - Deorce saída 20:00
+[02/07/2024 20:18:23] Sidney Orlando de Souza: 02/07 Osasco-Sidney entrada: 07:00
+[02/07/2024 20:19:21] Sidney Orlando de Souza: 02/07 Osasco-Sidney saida: 20:00
+[02/07/2024 20:37:58] Ricardo Kawaura: 02/07 Osasco kawaura saída 20:37
+[02/07/2024 20:41:28] Isaque Camilo da Silva: 02/07 Anália - Isaque saída 20:40
+[02/07/2024 21:09:56] Stefany Hellen Sousa Martins: 02/07 Morumbi stefany saida 18:20
+[02/07/2024 21:12:05] Thais Chaves Pinheiro: 02/07 Itaim - Thaís saída 21:10
+[02/07/2024 21:26:26] Elaine Imaeda de Moura: 02/07 Analia Elaine saída 21:20
+[02/07/2024 21:27:09] Eduardo Arbache Bezerra: 02/07 Santa - Bezerra saida as 20:40
+[02/07/2024 21:39:34] Hedicleber Pestana Severino: 02/07 Villa Hedicleber entrada 11:00
+[02/07/2024 21:40:01] Hedicleber Pestana Severino: 02/07 Villa Hedicleber saída 21:35 ‎<Mensagem editada>
+[02/07/2024 21:49:59] Caroline Firmino Lemes da Silva: 02/07 Villa Lemes saída 21:45
+[02/07/2024 21:55:11] Sabrina de Souza Ramos: 02/07 Itaim Sabrina saída 21:50
+[02/07/2024 22:12:50] Fernanda Teles Ribeiro: 02/07 Itaim - Fernanda saída 22:10
+[02/07/2024 22:26:04] Leandro Oliveira Martins Cortês: 02/07 SANTA - Côrtes saída 21:40
+[02/07/2024 23:14:51] Marcos Rogério Pereira Machado Filho: 02/07 Santa Marcos saída 22:35
+[02/07/2024 23:21:36] Pedro Henrique Diniz Botelho: 02/07 Analia - Diniz saída 21:20
+[03/07/2024 00:53:43] Rodrigo Andrade Carmello: 02/07 Jabaquara - Carmello saída 00:45
+[03/07/2024 01:00:12] Vivianna Bovério Galzerani: 02/07 Jabaquara Vivianna saída 01:00 (distância)
+[03/07/2024 01:40:31] Alexandre Bernardino: 02/07 - Anália - Alexandre - entrada 11:00
+[03/07/2024 01:40:52] Alexandre Bernardino: 03/07 - Anália - Alexandre - saída 01:40
+[03/07/2024 01:53:44] Paola Rodrigues Oshiro: 03/07 Anália -Paola saída 01:50 ( distância )
+[03/07/2024 04:20:49] Fernando Akira Koga: 03/07 Morumbi - Koga entrada 04:15
+[03/07/2024 04:37:26] Rafael Queiroz Araujo: 03/07 Morumbi - Rafael entrada 04:35
+[03/07/2024 04:47:15] Nathalia Fanucci Oliveira Di Jorge: 03/07 MORUMBI Nathália entrada 04:40
+[03/07/2024 05:04:41] Raphael Moura Britto: 03/07 Villa - Britto entrada 05:00
+[03/07/2024 05:05:12] Gabriel de Aguiar Santana: 03/07 Itaim - Gabriel entrada 05:05
+[03/07/2024 05:10:04] Matheus Viana Lemo: 03/07 Morumbi viana entrada 05:00 (deslocado Jabaquara)
+[03/07/2024 05:16:17] Daniel  Masuzaki Wong: 03/07 Osasco - Wong entrada 05:15
+[03/07/2024 05:17:33] Vitor Oliveira André: 03/07 Itaim Vitor entrada 05:17
+[03/07/2024 05:19:47] Ana Clara Mourão Barreto: 03/07 Morumbi Clara entrada 05:15
+[03/07/2024 05:20:46] Rômulo Spolidorio: 03/07 Jabaquara Rômulo entrada 05:20
+[03/07/2024 05:24:53] Thiago de Oliveira Heringer: 03/07 Villa - Heringer entrada 05:20 ‎<Mensagem editada>
+[03/07/2024 05:25:51] Guilherme Petry Martins Pereira: 03/07 Analia - Petry entrada 05:25
+[03/07/2024 05:28:16] Thales Luvisotto Neder: 03/07 Jabaquara - Thales entrada 05:30
+[03/07/2024 05:30:45] Kaiê Fernandes: 03/07 santa Kaie entrada 4:20
+[03/07/2024 05:34:25] Rafhael Silva Leal: 03/07 santa - Leal entrada 05:30
+[03/07/2024 05:35:36] Helena Araujo Damasceno: 03/07 Jabaquara Helena entrada 05:30
+[03/07/2024 05:43:07] Renata Togeiro Bastos Godoy de Faria: 03/07 MORUMBI - Renata Togeiro entrada 5:00
+[03/07/2024 05:47:27] Leonardo de Paula Souza: 03/07 OsascoLeonardo entrada 05:45
+[03/07/2024 05:50:46] Sergio Zamith: 03/07Itaim-Zamith entrada 05:20
+[03/07/2024 05:52:15] Ricardo Kawaura: 03/07 Osasco kawaura entrada 06:00
+[03/07/2024 05:53:45] Rafael Tadeu Marques: 03/07 VNS Rafael Tadeu entrada 4:50
+[03/07/2024 05:53:58] Silvia Aline dos Santos Andrade: 03/07 Santa - Silvia entrada 05:30
+[03/07/2024 05:56:56] Arthur Rodrigues Torrélio: 03/07 OSASCO - Torrelio entrada 06:00
+[03/07/2024 05:58:12] Luiz Guilherme Thomaz Zacharias: 03/07 ITAIM - Guilherme entrada 5:20
+[03/07/2024 05:58:30] Marcela Leite Rosignoli: 02/07 Osasco Marcela Leite saída 20:40
+[03/07/2024 05:59:31] Mariana Gasparelli de Souza: 03/07 Morumbi Mariana Gasparelli entrada 05:10
+[03/07/2024 05:59:50] Marcella Pellicciotti de Souza: 03/07 morumbi pellicciotti entrada 6:00
+[03/07/2024 05:59:51] Juliana Akemi Funabashi: 03/07 ANÁLIA - Akemi entrada 06:00
+[03/07/2024 06:03:02] Erick Oliveira Lima Gomes: 03/07 Santa - Erick entrada 06:00 ‎<Mensagem editada>
+[03/07/2024 06:07:19] Guilherme Silveira Lopes: 03/07 Jabaquara - Silveira entrada 06:00 ‎<Mensagem editada>
+[03/07/2024 06:10:03] Raul Felipe Maldonado Herbas: 03/07 ITAM -Maldonado entrada 5:30
+[03/07/2024 06:11:31] Caio Tulio Duarte: 03/07 VILLA - Caio entrada 05:20 (plantão)
+[03/07/2024 06:16:34] Fernando Ribeiro Sá: 03/07 Jabaquara Ribeiro entrada 06:00
+[03/07/2024 06:17:43] André da Costa Aguiar Ventura: 03/07 MORUMBI Ventura entrada 06:00
+[03/07/2024 06:29:06] Karoline Becker Paraboni: 03/07 CENTRAL Karoline entrada 07:00 ‎<Mensagem editada>
+[03/07/2024 06:33:30] Manoel de Souza Neto: 03/07 VNS Manoel entrada 06:30
+[03/07/2024 06:39:30] Leandro Machado Deorce: 03/07 Anália - Deorce entrada 06:00
+[03/07/2024 06:39:42] Vitor Maciel de Sousa Pinto: 03/07 Anália - Maciel entrada 07:00
+[03/07/2024 06:40:55] Alexsander Takashi Hamada: 02/07 Analia - Alex saída 21:40
+[03/07/2024 06:43:17] Alessandre Luiz Braga Junior: 03/07 Analia - Alessandre entrada 06:00
+[03/07/2024 06:43:26] Leonardo Barbosa Santos: 03/07 osasco L.Santos entrada 7:00
+[03/07/2024 06:43:45] Sheila Itiroco Monte: 03/07 Morumbi Sheila entrada 07:00
+[03/07/2024 06:49:11] Anna Beatriz Aranha Trevisan: 03/07 VILLA - Anna Beatriz entrada 06:00
+[03/07/2024 06:49:44] Diego da Cunha Tomaz: 03/07 Santa - Diego entrada 7:00
+[03/07/2024 06:50:15] Marcelo Seiji Takaoka: 03/07 Itaim - Takaoka entrada 05:30 ‎<Mensagem editada>
+[03/07/2024 06:50:23] Lais Ribeiro Teixeira: 03/07 Jabaquara Lais entrada 06:00
+[03/07/2024 06:50:45] Neliane Guedes Pretti: 03/07 Itaim Neliane entrada 07:00
+[03/07/2024 06:53:32] Mônica Robles Gonçalves: 03/07 itaim Monica entrada 06:00
+[03/07/2024 06:54:00] Nathalia Soares Rodrigues Gomes : 03/07 Itaim - Nat Rodrigues entrada 07:00
+[03/07/2024 06:54:34] Fabiana Barbosa Bastos: 03/07 VNS - Fabiana entrada 07:00
+[03/07/2024 06:56:36] Patrick Alexander Sauer Schues: 03/07 Anália - Patrick entrada 07:00
+[03/07/2024 06:56:39] Cláudio Mueller Kakuda: 03/07 Maternidade - Kakuda entrada 07:00
+[03/07/2024 06:57:21] Luccas Varela Godoy: 03/07 alpha Luccas entrada 7:00
+[03/07/2024 06:58:42] Augusto de Castro Santos Queiroz: 03/07 Osasco - Castro entrada 07:00
+[03/07/2024 06:58:57] Pedro Belintani de Maio: 03/07 Central -Belintani entrada 07:00h (plantão)
+[03/07/2024 06:59:20] Francisco Antonio Alves Bonatto: 03/07 VILLA - Francisco entrada 07:00
+[03/07/2024 06:59:30] Pedro Henrique Milhomens da Mota: 03/07 VNS Mota entrada 7:00 (plantão)
+[03/07/2024 06:59:37] Flavio Maia Castilho: 03/07 Analia - Castilho entrada 7h
+[03/07/2024 07:00:45] Larissa Mayumi Ono: 03/07 Osasco Larissa - entrada 07:00
+[03/07/2024 07:01:31] Victor Augusto de Souza Moraes: 03/07 Osasco - V.Augusto entrada 07:00
+[03/07/2024 07:01:39] Beatriz Antipou dos Santos: 02/07- Maternidade- Antipou- entrada 07:00
+[03/07/2024 07:01:48] Beatriz Antipou dos Santos: 03/07- Maternidade- Antipou- saída  07:00
+[03/07/2024 07:02:10] Marcos Vinícius Costa Carvalho: 03/07 Osasco - Vinicius entrada 07:00
+[03/07/2024 07:05:24] Stefany Hellen Sousa Martins: 03/07 Jabaquara - Stefany entrada 07:00
+[03/07/2024 07:05:42] Eduardo Dala Rosa Soares: 03/07 Alpha - Soares entrada 07:00 ( Plantão )
+[03/07/2024 07:06:12] Marcos Rogério Pereira Machado Filho: 03/07 Alpha Marcos entrada 7:00
+[03/07/2024 07:06:24] Felipe de Oliveira Nunes: 03/07 Santa Isabel - Nunes saída 7:00 (plantão)
+[03/07/2024 07:09:08] Pedro Augusto Tavares Dall Aglio: 03/07 Villa - Tavares - entrada 7:00
+[03/07/2024 07:09:58] Isaque Camilo da Silva: 03/07 Anália - Isaque entrada 07:00
+[03/07/2024 07:10:31] Maria Teresa Souza Gomes: 03/07 Analia - M Teresa entrada 7:00 (Deslocada Villa)
+[03/07/2024 07:12:48] André Augusto Bellini: 03/07 OSASCO - Bellini entrada 07:00
+[03/07/2024 07:28:41] Matheus de Alencar Arraes: 03/07 ITAIM Arraes dispensado
+[03/07/2024 07:29:47] Leandro Eduardo França: 03/07 JABAQUARA- França entrada 07:00
+[03/07/2024 07:30:36] Maxvilano Lima de Macedo: 02/07 Osasco Maxvilano saída 22:30 (d1)
+[03/07/2024 07:35:58] Natalia Maia Queiroz: 03/07 Itaim Queiroz entrada 07:00
+[03/07/2024 07:47:30] Mariana Gasparelli de Souza: 03/07 Morumbi - Mariana Gasparelli saída 07:40
+[03/07/2024 08:01:21] Amanda Kiyoko Souza Kossaka: 03/07 MORUMBI - Amanda entrada 05:50
+[03/07/2024 08:04:36] Carlos Augusto Trevisan: 03/07 ITAIM - Carlos entrada 7:00
+[03/07/2024 08:05:58] Vanessa Paciullo Marossi: 03/07 Villa - Vanessa entrada 06:00
+[03/07/2024 08:15:45] Rafael Queiroz Araujo: 03/07 Morumbi - Rafael saída 08:15
+[03/07/2024 08:20:33] Pedro Paulo Silva Farah: 03/07 Morumbi - Pedro entrada 06:00h
+[03/07/2024 08:40:57] Bruno Stornioli Taguchi Lemos: 03/07 Morumbi Bruno Lemos entrada 07:00
+[03/07/2024 08:55:34] Isabela Mattarelli Souza Carli: 03/07 - Osasco - Mattarelli entrada 07:00 (distância)
+[03/07/2024 08:56:04] Andréia Loureiro Mori: 03/07 Jabaquara Andréia entrada 07:00
+[03/07/2024 08:56:23] Elaine Imaeda de Moura: 03/07 Jabaquara Elaine entrada 09:00
+[03/07/2024 08:58:02] Yuri Anderson Pacheco de Lima: 03/07 Itaim - Yuri entrada 07:00
+[03/07/2024 09:19:45] Fernando Akira Koga: 03/07 Morumbi - Koga saída 09:15
+[03/07/2024 09:20:38] Rômulo Spolidorio: 03/07 Jabaquara Rômulo saída 09:15
+[03/07/2024 09:36:15] Fabiana Soares Gama: 03/07 Anália Fabiana Gama entrada as 07:00
+[03/07/2024 09:39:00] Paola Rodrigues Oshiro: 03/07 Anália - Paola entrada 07:00
+[03/07/2024 09:45:01] Ricardo Kawaura: 03/07 Osasco kawaura saída 9:40
+[03/07/2024 09:48:18] Sidney Orlando de Souza: 03/07 Osasco Sidney-entrada07:00
+[03/07/2024 09:49:27] Sidney Orlando de Souza: 03/07 Osasco Sidney-saida: 09:15
+[03/07/2024 09:56:22] Karen Manoela Rosa: 03/07 Itaim KRosa entrada 07:00
+[03/07/2024 10:12:59] Leonardo de Paula Souza: 03/07 Osasco Leonardo saída 10:10
+[03/07/2024 10:17:16] Gustavo Marques da Silva: 03/07 Morumbi - Marques entrada 07:00 (distância)
+[03/07/2024 10:18:41] Eduardo Arbache Bezerra: 03/07 Santa - Bezerra entrada as 07:00 (plantão)
+[03/07/2024 10:55:52] Alexandre Amaral Lucas: 03/07 Osasco - alexandre Amaral entrada 07:00
+[03/07/2024 10:56:22] Juliano Moisés Tobal: 03/07 Jabaquara Juliano Tobal entrada 05:30
+[03/07/2024 10:56:36] Juliano Moisés Tobal: 03/07 Jabaquara Juliano Tobal saída 10:50
+[03/07/2024 11:03:38] Helena Araujo Damasceno: 03/07 Jabaquara Helena Saída 11:00
+[03/07/2024 11:06:48] Matheus Viana Lemo: 03/07 Morumbi viana saida 11:05 (deslocado Jabaquara)
+[03/07/2024 11:12:17] Kaiê Fernandes: 03/07 santa Kaie saída 11:10
+[03/07/2024 11:26:38] Mariana Dardengo Borges: 03/07 MORUMBI - M. Dardengo  entrada 06:00
+[03/07/2024 11:26:54] Mariana Dardengo Borges: 03/07 MORUMBI - M. Dardengo  saída 11:25
+[03/07/2024 11:27:51] Camila Chiarantano Harrison: 03/07 Villa Camila Entrada 9:00
+[03/07/2024 11:29:58] Marcelo Seiji Takaoka: 03/07 Itaim - Takaoka saída 11:25
+[03/07/2024 11:30:58] Marina Pontes Moura Nascimento e Silva: 03/07 Osasco Moura Entrada 11:00
+[03/07/2024 11:43:52] Thiago Silva Pinto: 03/07 Villa T.Silva  Entrada 11:00
+[03/07/2024 11:48:43] Thais Chaves Pinheiro: 03/07 Itaim - Thaís entrada 09:00
+[03/07/2024 11:49:21] Thiago Barreto Marques da Silva: 03/07 jabaquara - Naldo entrada 07:00
+[03/07/2024 12:04:53] Caroline Firmino Lemes da Silva: 03/07 Morumbi Lemes entrada 12:00
+[03/07/2024 12:14:48] Rogério Sidney Thon: 03/07 Itaim Rogério entrada 6:00h
+[03/07/2024 12:15:25] Rogério Sidney Thon: 03/07 Itaim Rogério saída  11:00h
+[03/07/2024 12:30:11] Raphael Moura Britto: 03/07 Villa - Britto saida 12:30
+[03/07/2024 12:42:08] Thassio Cunha de Santana: 03/07 Jabaquara - Thassio entrada 11:00
+[03/07/2024 12:47:41] Larissa Mayumi Ono: 03/07 Osasco Larissa - saída 12:45
+[03/07/2024 12:57:22] Natan Soares Silveira: 03/07 Itaim - Natan - entrada 13:00
+[03/07/2024 12:57:37] Débora Alves Aude: 03/07 itaim - Débora entrada 07:00
+[03/07/2024 13:01:50] Rodrigo Andrade Carmello: 03/07 Morumbi - Carmello entrada 13:00
+[03/07/2024 13:04:49] Paloma Kiyomi Taguchi: 03/07 ITAIM - Paloma entrada 6:00
+[03/07/2024 13:20:56] Ana Clara Mourão Barreto: 03/07 Morumbi - Clara saída 13:20
+[03/07/2024 13:39:13] Nathalia Fanucci Oliveira Di Jorge: 03/07 MORUMBI Nathália saída 13:20
+[03/07/2024 13:40:05] Daniel  Masuzaki Wong: 03/07 Osasco - Wong saída 13:40
+[03/07/2024 13:48:19] Bianca Priscila Buniotti: 03/07 Jabaquara - Bianca entrada 07:00
+[03/07/2024 13:50:16] Thiago de Oliveira Heringer: 03/07 Villa - Heringer saída 13:50
+[03/07/2024 14:12:35] Marcella Pellicciotti de Souza: 03/07 morumbi pellicciotti saida 14:10
+[03/07/2024 14:13:02] Denio Lopes de Almeida: 03/07 Morumbi - Dênio entrada 13:00
+[03/07/2024 14:24:08] Paola Rodrigues Oshiro: 03/07 Anália -Paola saída 14:20
+[03/07/2024 14:45:17] Maiely Marcolin: 03/07 Itaim - Maiely entrada 05:30 (deslocada VNS)
+[03/07/2024 14:45:21] Maiely Marcolin: 03/07 Itaim - Maiely saída 14:40 (deslocada VNS)
+[03/07/2024 14:49:52] Débora Philippi Bressane: 03/07 Jabaquara Débora Bressane entrada 05:30
+[03/07/2024 14:50:19] Débora Philippi Bressane: 03/07 Jabaquara Débora Bressane saída 14:40
+[03/07/2024 14:57:33] Moabe Gonçalves De Oliveira: 02/07 Itaim - Moabe saída 15:25
+[03/07/2024 15:04:44] Pedro Paulo Silva Farah: 03/07 Morumbi - Pedro saída 14:40h
+[03/07/2024 15:06:57] Norival Scandelai Junior: 03/07 Alpha - Norival entrada 13:00
+[03/07/2024 15:26:14] Karen Manoela Rosa: 03/07 Itaim KRosa saída 14:00
+[03/07/2024 15:31:44] Silvia Aline dos Santos Andrade: 03/07 Santa - Silvia saída 15:25
+[03/07/2024 15:33:12] Daniellen Lins Lourenço: 03/07 MORUMBI - Daniellen dispensada
+[03/07/2024 15:37:27] Gabriel de Aguiar Santana: 03/07 Itaim - Gabriel saída 15:37
+[03/07/2024 15:37:28] Thales Luvisotto Neder: 03/07 Jabaquara - Thales saída 15:37
+[03/07/2024 15:48:24] Cláudio Mueller Kakuda: 03/07 Maternidade - Kakuda saida 14:50
+[03/07/2024 15:59:08] Ronald Figueiredo Gomes: 03/07 CENTRAL - Ronald entrada 06:30 ‎<Mensagem editada>
+[03/07/2024 15:59:37] Ronald Figueiredo Gomes: 03/07 CENTRAL - Ronald saida 15:55
+[03/07/2024 16:01:37] Luccas Varela Godoy: 03/07 alpha Luccas saída 13:00
+[03/07/2024 16:07:16] Bruno Stornioli Taguchi Lemos: 03/07 Morumbi Bruno Lemos saida 15:10
+[03/07/2024 16:11:47] Luiz Guilherme Thomaz Zacharias: 03/07 ITAIM - Guilherme saída 16:10
+[03/07/2024 16:19:17] Vanessa Paciullo Marossi: 03/07 Villa - Vanessa saída 15:20
+[03/07/2024 16:23:57] Juliana Hussein: 03/07 VILLA - J. Hussein entrada 7:00
+[03/07/2024 16:24:31] Juliana Hussein: 03/07 VILLA - J. Hussein saida 16:15
+[03/07/2024 16:31:02] Carlos Eduardo Gondim Oliveira: 03/07 Itaim - Oliveira entrada 11:00
+[03/07/2024 16:40:54] Lais Ribeiro Teixeira: 03/07 Jabaquara Lais saída 16:40
+[03/07/2024 16:43:27] Marcos Bastos dos Santos: 03/07 Morumbi - Bastos - entrada 05:15
+[03/07/2024 16:43:47] Marcos Bastos dos Santos: 03/07 Morumbi - Bastos - saida 16:40
+[03/07/2024 16:46:49] Sergio Zamith: 03/07 Itaim -Zamith saida 16:40
+[03/07/2024 16:55:05] André da Costa Aguiar Ventura: 03/07 MORUMBI Ventura saida 16:40
+[03/07/2024 16:55:17] Manoel Célio Moura Junior: 03/07 Jabaquara - Célio entrada 11:00h
+[03/07/2024 16:55:51] Ana Jung Docko: 03/07 Analia Ana entrada 09:00
+[03/07/2024 16:56:02] Ana Jung Docko: 03/07 Analia Ana saída 16:55
+[03/07/2024 17:00:44] Arthur Oliveira Facchini: 03/07 Jabaquara Facchini entrada 17:00
+[03/07/2024 17:03:40] Guilherme Petry Martins Pereira: 03/07 Analia - Petry saída 17:00
+[03/07/2024 17:08:47] Erick Oliveira Lima Gomes: 03/07 Santa - Erick saída 17:00
+[03/07/2024 17:10:05] Rafhael Silva Leal: 03/07 santa - Leal saída 17:00
+[03/07/2024 17:11:20] Caroline Firmino Lemes da Silva: 03/07 Morumbi Lemes saída  17:10
+[03/07/2024 17:16:25] Fabiana Barbosa Bastos: 03/07 VNS - Fabiana saída 17:15
+[03/07/2024 17:16:59] Amanda Kiyoko Souza Kossaka: 03/07 MORUMBI - Amanda saída 17:10
+[03/07/2024 17:18:09] Pedro Augusto Tavares Dall Aglio: 03/07 Villa - Tavares - saída 17:10
+[03/07/2024 17:19:34] Manoel de Souza Neto: 03/07 VNS Manoel saída 17:15
+[03/07/2024 17:19:51] Guilherme Silveira Lopes: 03/07 Jabaquara - Silveira saída 17:15
+[03/07/2024 17:25:08] Francisco Antonio Alves Bonatto: 03/07 VILLA - Francisco saída 17:15
+[03/07/2024 17:25:51] Marcela Aparecida Correa Martins: 03/07 Anália - Martins entrada 07:00
+[03/07/2024 17:26:34] Marcela Aparecida Correa Martins: 03/07 Anália - Martins saída 17:20
+[03/07/2024 17:30:49] Rodrigo Achui Haga: 03/07 VILLA - haga entrada 07:00
+[03/07/2024 17:30:57] Rodrigo Achui Haga: 03/07 VILLA - haga saida 17:30
+[03/07/2024 17:37:22] Bruno Ferraz de Campos Barone: 03/07 VNS Barone entrada 07:00 (distância)
+[03/07/2024 17:41:02] Karoline Becker Paraboni: 03/07 Central Karoline saída 17:40
+[03/07/2024 17:41:49] Sabrina de Souza Ramos: 03/07 Jabaquara Sabrina entrada 07:00
+[03/07/2024 17:42:16] Sabrina de Souza Ramos: 03/07 Jabaquara Sabrina saída 17:35
+[03/07/2024 17:43:18] Andréia Loureiro Mori: 03/07 Jabaquara Andréia saída 17:40
+[03/07/2024 17:43:20] Fernando Ribeiro Sá: 03/07 Jabaquara Ribeiro saída 17:40
+[03/07/2024 17:52:40] Pedro Victor Massaroto e Silva : 03/07 Anália Massaroto entrada 7:00
+[03/07/2024 17:52:46] Pedro Victor Massaroto e Silva : 03/07 Anália Massaroto saída 17:50
+[03/07/2024 17:56:08] Ricardo Barbosa Viana Filho: 03/07 Villa - Barbosa entrada 07:00
+[03/07/2024 17:56:09] Ricardo Barbosa Viana Filho: 03/07  Villa - Barbosa Saída 17:40
+[03/07/2024 17:57:07] Diego da Cunha Tomaz: 03/07 Santa - Diego saída  17:55
+[03/07/2024 18:02:37] Rafael Tadeu Marques: 03/07 VNS Rafael Tadeu saída 18:00
+[03/07/2024 18:03:40] Arthur Rodrigues Torrélio: 03/07 OSASCO - Torrelio saída 18:00
+[03/07/2024 18:06:35] Juliana Akemi Funabashi: 03/07 ANÁLIA - Akemi saída 17:50
+[03/07/2024 18:15:04] Flavio Maia Castilho: 03/07 Anália - Castilho saida 18:15
+[03/07/2024 18:21:26] Leandro Eduardo França: 03/07 JABAQUARA - França saída 18:20
+[03/07/2024 18:22:01] Marcos Rogério Pereira Machado Filho: 03/07 Alpha Marcos saída 18:10
+[03/07/2024 18:28:06] Vitor Maciel de Sousa Pinto: 03/07 Anália Maciel saída 17:40
+[03/07/2024 18:30:37] Paloma Kiyomi Taguchi: 03/07 ITAM - Paloma saída 18:00
+[03/07/2024 18:31:04] Carlos Augusto Trevisan: 03/07 ITAIM - Carlos saída 18:15
